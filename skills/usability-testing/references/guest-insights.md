@@ -1,6 +1,6 @@
-# Usability Testing - All Guest Insights
+# Usability Testing - 所有嘉宾洞察
 
-*11 guests, 14 mentions*
+*11 位嘉宾，14 次提及*
 
 ---
 
@@ -9,12 +9,12 @@
 
 > "We've seen product managers build, like I said, like a v1 of an app and actually go out and test it with users. I can't name the company, but there's a public company that have used Replit to test a v1 of an app. And obviously after that sort of works, they take it to the engineers and they're like, 'Okay, we built this thing. We think it's a great thing. We test it with some users.'"
 
-**Insight:** AI tools allow PMs to bypass engineering bottlenecks to create functional prototypes for real-world user testing.
+**洞察：** AI tools 让 PMs 能绕过 engineering bottlenecks，创建用于 real-world user testing 的 functional prototypes。
 
-**Tactical advice:**
-- Build a functional v1 independently to validate ideas with users before putting them on the official engineering roadmap.
+**战术建议：**
+- 在放入 official engineering roadmap 前，独立 build functional v1，用 users validate ideas。
 
-*Timestamp: 00:26:35*
+*时间戳：00:26:35*
 
 
 ## Bob Baxley
@@ -22,12 +22,12 @@
 
 > "Go observe people going through self-checkout at Target... then go watch it at some other grocery store where it's not as great and really notice what happens with people... Just go watch somebody over 70 fumble with a chip card insert or watch somebody try to figure out Apple Pay."
 
-**Insight:** Developing product intuition requires observing humans interacting with technology in the wild, outside of controlled lab environments.
+**洞察：** 发展 product intuition 需要在 controlled lab environments 之外，观察 humans 在真实场景中与 technology 互动。
 
-**Tactical advice:**
-- Conduct 'reality checks' by watching users interact with competitor products to see their unbiased behavior and needs.
+**战术建议：**
+- 通过观察 users 与 competitor products 互动来进行 'reality checks'，看到 unbiased behavior 和 needs。
 
-*Timestamp: 00:50:11*
+*时间戳：00:50:11*
 
 
 ## Grant Lee
@@ -35,14 +35,14 @@
 
 > "We would have an idea in the morning, come up with some sort of functional prototype, recruit a bunch of people that are legitimately good prospective users, but have zero skin in the game, ship fast so people can start playing with it. In the afternoon, we're already running pretty full scale experiment. You start actually hearing other people describe their usage of the product. We can also watch them struggle. By the evening or by the next day. We can actually go through all of it together and say, okay, we're going back and we have to fix this."
 
-**Insight:** Use rapid prototyping and unbiased user testing to identify friction points within a single day.
+**洞察：** 使用 rapid prototyping 和 unbiased user testing，在一天内识别 friction points。
 
-**Tactical advice:**
-- Recruit prospective users with 'zero skin in the game' to ensure honest feedback.
-- Watch users struggle and listen to them describe their thought process in real-time.
-- Use platforms like Voicepanel or UserTesting to automate and scale the recruitment process.
+**战术建议：**
+- Recruit 有 'zero skin in the game' 的 prospective users，确保 honest feedback。
+- 观察 users struggle，并实时听他们描述 thought process。
+- 使用 Voicepanel 或 UserTesting 等 platforms 自动化并 scale recruitment process。
 
-*Timestamp: 00:01:08*
+*时间戳：00:01:08*
 
 
 ## Guillermo Rauch
@@ -50,13 +50,13 @@
 
 > "Another aspect of exposure hours is that you tend to overrate how well your products work. It's very important to give your product to another person and watch them interact with it, expose yourself to the pain of reality. And the more you submerge yourself in the real deal, nitty-gritty of what happens when people use your interfaces and whatnot, I think you you'll come out stronger."
 
-**Insight:** Directly observing users helps overcome the 'creator bias' where builders overrate the quality and ease of their own products.
+**洞察：** 直接观察 users 有助于克服 'creator bias'，也就是 builders 高估自己 products 的 quality 和 ease。
 
-**Tactical advice:**
-- Invite customers to demo how they use the product live to the executive team or the whole company.
-- Watch for 'pain points' or non-intuitive behaviors that aren't captured in automated metrics.
+**战术建议：**
+- 邀请 customers 向 executive team 或 whole company live demo 他们如何使用 product。
+- 观察 automated metrics 无法捕捉的 'pain points' 或 non-intuitive behaviors。
 
-*Timestamp: 01:11:05*
+*时间戳：01:11:05*
 
 
 ## Itamar Gilad
@@ -64,25 +64,25 @@
 
 > "Initially you fake it, you do a fake door test, you do a smoke test, Wizard of Oz tests. We used a lot of those in the tabbed inbox by the way, one of the first early versions was actually we showed the tabbed inbox working to people. But it wasn't really Gmail, it was just a facade of HTML and behind the scenes... some of us moved just the subject and the sender into the right place."
 
-**Insight:** Use 'faked' versions of a product (Wizard of Oz or smoke tests) to validate the core value proposition before writing production code.
+**洞察：** 在写 production code 前，使用 product 的 'faked' versions（Wizard of Oz 或 smoke tests）验证 core value proposition。
 
-**Tactical advice:**
-- Run 'Wizard of Oz' tests where humans manually perform the automated task behind a facade
-- Use 'Fake Door' tests to measure user intent and click-through rates on non-existent features
+**战术建议：**
+- 运行 'Wizard of Oz' tests，让 humans 在 facade 背后手动执行 automated task
+- 使用 'Fake Door' tests 衡量 non-existent features 上的 user intent 和 click-through rates
 
-*Timestamp: 00:52:18*
+*时间戳：00:52:18*
 
 ---
 
 > "Initially you fake it, mid-level tests are about building a rough version of it... those are early adopter programs, alphas, longitudinal user studies and fish food. Fish food is testing on your own team."
 
-**Insight:** Utilize a progression of testing—from 'fish fooding' (team testing) to 'dogfooding' (company testing) to alphas—to increase confidence iteratively.
+**洞察：** 使用从 'fish fooding'（team testing）到 'dogfooding'（company testing）再到 alphas 的 testing progression，iteratively 增加 confidence。
 
-**Tactical advice:**
-- Implement 'Fish Fooding' to catch immediate bugs and UX flaws within the core team
-- Run longitudinal studies to see how user behavior changes over time before a full launch
+**战术建议：**
+- 实施 'Fish Fooding'，在 core team 内捕捉 immediate bugs 和 UX flaws
+- 在 full launch 前运行 longitudinal studies，观察 user behavior 如何随时间变化
 
-*Timestamp: 00:53:21*
+*时间戳：00:53:21*
 
 
 ## Judd Antin
@@ -90,25 +90,25 @@
 
 > "The micro level, there's so much business value to be derived there... We changed the text on the button with help from our amazing content design... We basically changed seven characters and made Airbnb millions of dollars, because what we found out was really simple. It was just like, 'Hey, this button feels scary.'"
 
-**Insight:** Micro-level evaluative research and usability testing can drive massive business value through small, tactical optimizations.
+**洞察：** Micro-level evaluative research 和 usability testing 可以通过 small、tactical optimizations 驱动 massive business value。
 
-**Tactical advice:**
-- Don't dismiss usability testing as 'junior' work; it is high-leverage for business metrics.
-- Look for 'scary' or confusing CTAs that might be blocking the conversion funnel.
+**战术建议：**
+- 不要把 usability testing 视为 'junior' work；它对 business metrics 具有 high-leverage。
+- 寻找可能阻碍 conversion funnel 的 'scary' 或 confusing CTAs。
 
-*Timestamp: 00:35:58*
+*时间戳：00:35:58*
 
 ---
 
 > "Doing product walkthroughs to identify lists of potential issues is a great thing to do. Prioritizing that list, figuring out which ones are more or less a problem, and for whom is an area where you should be extremely wary of relying on your own opinion... Some things with a product... you need a pulse to recognize."
 
-**Insight:** While dogfooding is useful for identifying potential issues, external user testing is required to prioritize them accurately because employees are not like the users.
+**洞察：** Dogfooding 对识别 potential issues 有用，但要准确 prioritize 它们，还需要 external user testing，因为 employees 不等同于 users。
 
-**Tactical advice:**
-- Use dogfooding to create a list of potential issues, but use research to prioritize them.
-- Acknowledge that your internal intuition is biased by your knowledge of the product.
+**战术建议：**
+- 用 dogfooding 创建 potential issues list，但用 research 来 prioritize。
+- 承认你的 internal intuition 会被对 product 的知识所 bias。
 
-*Timestamp: 01:07:57*
+*时间戳：01:07:57*
 
 
 ## Kristen Berman
@@ -116,12 +116,12 @@
 
 > "We never do a UX study where we're just showing people one thing because they could really like it or hate it, but they could really like or hate all the designs. We have no idea. So, when we're doing this, we always present multiple options, and then relatively look for which one is going to drive the behavior we're intending to change."
 
-**Insight:** Testing a single design is ineffective for predicting behavior; you must present multiple options to measure relative performance.
+**洞察：** Testing single design 无法有效预测 behavior；必须展示 multiple options 来衡量 relative performance。
 
-**Tactical advice:**
-- Always present multiple design variations in user tests to compare which one best drives the target behavior.
+**战术建议：**
+- 在 user tests 中总是展示 multiple design variations，比较哪一个最能驱动 target behavior。
 
-*Timestamp: 34:44*
+*时间戳：34:44*
 
 
 ## Melanie Perkins
@@ -129,13 +129,13 @@
 
 > "It's amazing to me how you can find 10 random people on the internet and they can give such astute feedback that then is so representative for such a large number of people."
 
-**Insight:** Small-scale, frequent usability testing with random participants is highly representative of broader user friction.
+**洞察：** 对 random participants 进行 small-scale、frequent usability testing，能高度代表 broader user friction。
 
-**Tactical advice:**
-- Run tests with as few as 10 random people to identify core product issues
-- Use online platforms like UserTesting.com to get frank, unbiased feedback from users in their own environment
+**战术建议：**
+- 只用 10 个 random people 运行 tests，也能识别 core product issues
+- 使用 UserTesting.com 等 online platforms，在 users 自己的 environment 中获得 frank、unbiased feedback
 
-*Timestamp: 00:39:40*
+*时间戳：00:39:40*
 
 
 ## Noah Weiss
@@ -143,13 +143,13 @@
 
 > "What we wound up doing, especially in the pandemic when we first went remote, is now you can dial into usability sessions and to make it really attractive for the team, what we would do is have people live in a thread, write their real time thoughts... Then you wind up having the PMs, the engineers, designers and the user researcher all in one Slack thread live, responding, reacting to usability session."
 
-**Insight:** Increase team engagement with user research by having cross-functional teams live-react to usability sessions in a shared chat thread.
+**洞察：** 让 cross-functional teams 在 shared chat thread 中 live-react usability sessions，可提升 team 对 user research 的 engagement。
 
-**Tactical advice:**
-- Create a dedicated Slack thread for each live usability session.
-- Encourage engineers and designers to share real-time observations and pain points during the session.
+**战术建议：**
+- 为每个 live usability session 创建 dedicated Slack thread。
+- 鼓励 engineers 和 designers 在 session 中分享 real-time observations 和 pain points。
 
-*Timestamp: 00:43:21*
+*时间戳：00:43:21*
 
 
 ## Upasna Gautam
@@ -157,25 +157,25 @@
 
 > "I had a big working session planned with my users to do research with them, or do user testing, and breaking news breaks, and it takes so much time and effort to gather a team of editors across the globe to do a user testing session. And when breaking news happens, they have to prioritize that over everything."
 
-**Insight:** User testing in a high-pressure environment like news requires extreme flexibility as users will always prioritize breaking events over research sessions.
+**洞察：** 在 news 这类 high-pressure environment 中做 user testing 需要 extreme flexibility，因为 users 永远会把 breaking events 放在 research sessions 前面。
 
-**Tactical advice:**
-- Build in buffers and backups for research sessions involving busy stakeholders
-- Be prepared to pivot or reschedule at a moment's notice
+**战术建议：**
+- 为涉及 busy stakeholders 的 research sessions 预留 buffers 和 backups
+- 准备好随时 pivot 或 reschedule
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "We create a script and do a simulation of a breaking news scenario to stress test our platform, because all breaking news scenarios are definitely not the same either. This gives us a lot of great feedback in that short amount of time at the speed of breaking news."
 
-**Insight:** Simulated 'dress rehearsals' are an effective way to test product performance and user workflows under high-stress, time-sensitive conditions.
+**洞察：** 模拟的 'dress rehearsals' 是在 high-stress、time-sensitive conditions 下测试 product performance 和 user workflows 的有效方法。
 
-**Tactical advice:**
-- Script realistic scenarios for users to play out in the product
-- Have engineers and support teams observe the simulation in real-time to identify friction points
+**战术建议：**
+- Script realistic scenarios，让 users 在 product 中演练
+- 让 engineers 和 support teams 实时 observe simulation，识别 friction points
 
-*Timestamp: 13:44*
+*时间戳：13:44*
 
 
 ## Uri Levine
@@ -183,12 +183,11 @@
 
 > "Watch new users. Simply watch users and see what they're doing. And number two, if they're not doing what you expect them to do, then ask them why, because this why is the one that is going to make your product successful."
 
-**Insight:** Direct observation of users reveals behaviors and needs that founders often miss because they aren't 'early majority' users.
+**洞察：** Direct observation of users 能揭示 founders 常常错过的 behaviors 和 needs，因为 founders 并不是 'early majority' users。
 
-**Tactical advice:**
-- Observe users without intervening to see how they actually use the product.
-- Ask 'why' when a user deviates from the expected path.
+**战术建议：**
+- 不干预地 observe users，看到他们实际如何使用 product。
+- 当 user 偏离 expected path 时，问 'why'。
 
-*Timestamp: 01:07:42*
-
+*时间戳：01:07:42*
 

@@ -1,6 +1,6 @@
-# Managing Timelines - All Guest Insights
+# Managing Timelines - 所有嘉宾洞察
 
-*13 guests, 14 mentions*
+*13 位嘉宾，14 次提及*
 
 ---
 
@@ -9,13 +9,13 @@
 
 > "Figure out, maybe the night before, the one thing that you want to get done in your day, and then at the earliest opportunity, just try to give yourself five minutes on it."
 
-**Insight:** Overcome 'productive procrastination' by committing to just five minutes of your most important task early in the day.
+**洞察：** 通过在一天早些时候只投入五分钟到最重要 task，克服 'productive procrastination'。
 
-**Tactical advice:**
-- Identify your 'one thing' the night before.
-- Use the 'five-minute rule' to lower the mental hurdle of starting a difficult task.
+**战术建议：**
+- 前一晚识别你的 'one thing'。
+- 使用 'five-minute rule' 降低开始 difficult task 的 mental hurdle。
 
-*Timestamp: 01:15:43*
+*时间戳：01:15:43*
 
 
 ## Annie Pearl
@@ -23,13 +23,13 @@
 
 > "Something we've done over the last year is really kind of moved to a model of talking about dates and promising and committing to dates that are within our control. And so, if you think about the product development life cycle, we can commit to a discovery effort... we've gotten a lot better at making the commitments around the work that's right in front of us versus making a commitment around a project six months out when we haven't even done enough discovery."
 
-**Insight:** Commit to dates only for the immediate phase of work (discovery or solutioning) rather than long-term delivery dates for un-scoped projects.
+**洞察：** 只对 immediate phase of work（discovery 或 solutioning）承诺 dates，而不是对 un-scoped projects 承诺 long-term delivery dates。
 
-**Tactical advice:**
-- Break the lifecycle into Discovery, Solutioning, Build, and Launch.
-- Only provide engineering delivery dates once the solutioning phase is complete and estimation is accurate.
+**战术建议：**
+- 将 lifecycle 拆成 Discovery、Solutioning、Build 和 Launch。
+- 只有在 solutioning phase 完成且 estimation 准确后，才提供 engineering delivery dates。
 
-*Timestamp: 00:36:30*
+*时间戳：00:36:30*
 
 
 ## Aparna Chennapragada
@@ -37,14 +37,14 @@
 
 > "What I'm seeing is that the time to first demo is much shorter, but the time to a full deployment is going to take longer. So I think that there's going to be an uneven cadence. So typically, I think there was much more of a you've been this thing, you take a few weeks and then you can iterate and so on. But that inner loop of prototyping and iterating and getting even user research through AI conversations, all of that gets shortened. But I think the bar for scale, therefore becomes much high."
 
-**Insight:** AI development creates an uneven cadence where initial prototypes happen rapidly, but reaching production-grade scale and reliability takes significantly longer than traditional software.
+**洞察：** AI development 会创造 uneven cadence：initial prototypes 很快完成，但达到 production-grade scale 和 reliability 比 traditional software 花费更久。
 
-**Tactical advice:**
-- Plan for a shortened 'inner loop' for prototyping and discovery
-- Allocate significant time for the 'outer loop' of scaling and deployment
-- Manage stakeholder expectations regarding the gap between a successful demo and a shippable product
+**战术建议：**
+- 为 prototyping 和 discovery 规划缩短的 'inner loop'
+- 为 scaling 和 deployment 的 'outer loop' 分配大量时间
+- 管理 stakeholders 对 successful demo 和 shippable product 之间 gap 的 expectations
 
-*Timestamp: 00:24:04*
+*时间戳：00:24:04*
 
 
 ## Brian Chesky
@@ -52,14 +52,14 @@
 
 > "I had a head program manager that would score all the projects. Either they're green, yellow, or red. Meaning they're on track or not on track to ship... I use the reviews of the work every single week. And the reason there's not a lot of bureaucracy... is I'd review the work and if something wasn't happening, then I would stop the meeting and say, 'Why isn't this happening?'"
 
-**Insight:** Use high-status program management and frequent executive reviews to maintain shipping velocity and identify bottlenecks.
+**洞察：** 使用 high-status program management 和 frequent executive reviews，维持 shipping velocity 并识别 bottlenecks。
 
-**Tactical advice:**
-- Elevate program management to a high-status role
-- Use a simple RAG (Red, Amber, Green) status for project tracking
-- Review work weekly to identify and unblock individual engineers
+**战术建议：**
+- 将 program management 提升为 high-status role
+- 使用简单 RAG（Red、Amber、Green）status 做 project tracking
+- 每周 review work，以识别并 unblock individual engineers
 
-*Timestamp: 00:27:11*
+*时间戳：00:27:11*
 
 
 ## Dylan Field
@@ -67,13 +67,13 @@
 
 > "If timelines are maybe not well reasoned through from first principles and perhaps there's padding that has been well intentionally added by different folks, you have to understand fully, okay, what are the assumptions of how long things will actually take and what is a padding? Then, really work through that with the team."
 
-**Insight:** Challenge timeline estimates by digging into the underlying assumptions and identifying unnecessary padding.
+**洞察：** 通过挖掘 underlying assumptions 并识别 unnecessary padding，挑战 timeline estimates。
 
-**Tactical advice:**
-- Ask 'why' to uncover hidden constraints or unnecessary padding in estimates
-- Work through timeline assumptions from first principles with the team
+**战术建议：**
+- 通过问 'why' 揭示 estimates 中的 hidden constraints 或 unnecessary padding
+- 与 team 一起从 first principles 推演 timeline assumptions
 
-*Timestamp: 00:10:27*
+*时间戳：00:10:27*
 
 
 ## Eli Schwartz
@@ -81,13 +81,13 @@
 
 > "When you're building out an SEO effort, and I'm going to keep going back to this, it's a product. So you're building out a product and you're creating milestones... Now, if you start missing all those milestones... you can point very specifically to all those milestones that were missed."
 
-**Insight:** SEO projects should be managed with product milestones to ensure accountability and track progress before final results are visible.
+**洞察：** SEO projects 应使用 product milestones 管理，以确保 accountability，并在 final results 可见前 track progress。
 
-**Tactical advice:**
-- Set monthly milestones for ideation, PRD creation, engineering sprints, and shipping
-- Use 'pages indexed' as an early milestone to validate that the technical build is working
+**战术建议：**
+- 为 ideation、PRD creation、engineering sprints 和 shipping 设置 monthly milestones
+- 使用 'pages indexed' 作为 early milestone，验证 technical build 是否有效
 
-*Timestamp: 00:52:28*
+*时间戳：00:52:28*
 
 
 ## Jackson Shuttleworth
@@ -95,13 +95,13 @@
 
 > "There's heavy Jira automation... making sure that you have really good process around how are you going to run so many experiments... We're planning months out, as we think about these feature iterations, even small ones, feature iterations, because when you lose cycles, not pushing on a feature, it's just sort of lost opportunity."
 
-**Insight:** High-velocity experimentation requires rigorous process and automated project management to avoid 'lost cycles.'
+**洞察：** High-velocity experimentation 需要 rigorous process 和 automated project management，以避免 'lost cycles'。
 
-**Tactical advice:**
-- Use Jira automation to manage experiment pipelines.
-- Plan design and engineering bandwidth months in advance to ensure continuous iteration.
+**战术建议：**
+- 使用 Jira automation 管理 experiment pipelines。
+- 提前数月规划 design 和 engineering bandwidth，确保 continuous iteration。
 
-*Timestamp: 01:08:41*
+*时间戳：01:08:41*
 
 
 ## Jason Fried
@@ -109,14 +109,14 @@
 
 > "We have these things in Basecamp called hill charts. And things that are on, that's actually work... A project's more like a hill. It's not like a linear line. If you're on the left side of the hill, it means you're still pushing this thing up the hill. You're still trying to figure out how to do this. But once work gets to the top, it's downhill from there. It's just pure execution and we know how to nail it."
 
-**Insight:** Track project progress using 'hill charts' to distinguish between the uncertainty of discovery and the certainty of execution.
+**洞察：** 使用 'hill charts' track project progress，区分 discovery 的 uncertainty 和 execution 的 certainty。
 
-**Tactical advice:**
-- Visualize work as a hill: the left side is 'figuring it out' and the right side is 'execution'
-- Identify projects stuck on the 'uphill' side as high-risk for missing deadlines
-- Focus management attention on moving items from the left side of the hill to the top
+**战术建议：**
+- 将 work 可视化为一座 hill：左侧是 'figuring it out'，右侧是 'execution'
+- 将卡在 'uphill' side 的 projects 识别为 missing deadlines 的 high-risk 项
+- 将 management attention 聚焦于把 items 从 hill 左侧推到顶部
 
-*Timestamp: 00:37:17*
+*时间戳：00:37:17*
 
 
 ## Laura Modi
@@ -124,13 +124,13 @@
 
 > "Your job is not just to keep people going on momentum. Your job is to make momentum. And sometimes that momentum has to be manufactured. And that has been one of my biggest lessons on just how, as leaders and people starting companies, how do you force yourself? And sometimes when it's early on, you're actually just doing it to yourself, creating manufactured deadlines and launch dates."
 
-**Insight:** Leaders must often create arbitrary deadlines to maintain organizational velocity.
+**洞察：** Leaders 往往必须创造 arbitrary deadlines，以维持 organizational velocity。
 
-**Tactical advice:**
-- Set 'manufactured' deadlines and launch dates to force progress.
-- Use arbitrary milestones to prevent the team from over-perfecting and missing opportunities.
+**战术建议：**
+- 设置 'manufactured' deadlines 和 launch dates 来 force progress。
+- 使用 arbitrary milestones，防止 team over-perfecting 并错过 opportunities。
 
-*Timestamp: 00:52:56*
+*时间戳：00:52:56*
 
 
 ## Nan Yu
@@ -138,25 +138,25 @@
 
 > "The only way to make deadlines real is to take them so seriously that they are basically like a P0 problem, and everything else has to not matter in comparison to the deadline because that's the only way you're going to be able to signal to the team and also to all the stakeholders that you're actually taking it seriously."
 
-**Insight:** Deadlines only work if they are treated as the highest priority (P0) where nothing else matters in comparison.
+**洞察：** Deadlines 只有被视为 highest priority（P0）时才有效，此时其他事情相比之下都不重要。
 
-**Tactical advice:**
-- Don't have too many deadlines; only use them for critical external events.
-- Protect the team from all other distractions once a deadline is set.
+**战术建议：**
+- 不要设置太多 deadlines；只为 critical external events 使用。
+- 一旦设定 deadline，就保护 team 免受其他 distractions。
 
-*Timestamp: 01:09:38*
+*时间戳：01:09:38*
 
 ---
 
 > "We do almost no estimating in order to hit deadlines. What we do is we ship as early as we can. The thing we talked about earlier where if by the time that 10% of the time has elapsed, you have a working thing, you can now spend the rest of the time deciding whether or not you want to do another iteration or you want to polish that thing."
 
-**Insight:** Hit deadlines by shipping a functional version early and using the remaining time for iterations rather than relying on upfront estimation.
+**洞察：** 通过尽早 shipping functional version，并用剩余时间 iterations 来 hit deadlines，而不是依赖 upfront estimation。
 
-**Tactical advice:**
-- Focus on getting to a 'yes or no' shippable state as quickly as possible.
-- Commit to the process of fast iteration from the start of the project.
+**战术建议：**
+- 尽快达到 'yes or no' shippable state。
+- 从 project 一开始就 commit to fast iteration process。
 
-*Timestamp: 01:13:18*
+*时间戳：01:13:18*
 
 
 ## Nir Eyal
@@ -164,14 +164,14 @@
 
 > "tasks take people three times longer to finish than they estimate. Why does that happen? Because when you say, 'Okay, here's that thing on the to-do list. I'm going to work on that and see how long it takes me to get it done.' So, you work on it for five minutes and then you get an email and then you get a notification... you never actually track how long that thing took you to finish"
 
-**Insight:** The planning fallacy occurs because we don't account for distractions; accurate timelines require measuring focused work time.
+**洞察：** Planning fallacy 发生是因为我们没有 account for distractions；accurate timelines 需要衡量 focused work time。
 
-**Tactical advice:**
-- Measure productivity by whether you did what you said you would do for as long as you said you would without distraction.
-- Use time-boxing to create a feedback loop on how long tasks actually take.
-- Switch from a to-do list (output-focused) to a calendar (input-focused) to understand constraints.
+**战术建议：**
+- 用你是否在没有 distraction 的情况下、按承诺时长完成承诺事项来衡量 productivity。
+- 使用 time-boxing 创建关于 tasks 实际耗时的 feedback loop。
+- 从 to-do list（output-focused）切换到 calendar（input-focused），以理解 constraints。
 
-*Timestamp: 00:32:53*
+*时间戳：00:32:53*
 
 
 ## Seth Godin
@@ -179,13 +179,13 @@
 
 > "The thing about projects is when you run out of time and you run out of money, the project is over. Don't run out of time, don't run out of money. Good intentions are no reason for an extension. The professional doesn't ask for an extension because the professional understands that things you didn't expect are going to happen."
 
-**Insight:** Professionalism in product management means accounting for the unexpected and shipping within the original constraints of time and budget.
+**洞察：** Product management 中的 professionalism 意味着 account for unexpected，并在原始 time 和 budget constraints 内 shipping。
 
-**Tactical advice:**
-- Treat deadlines and budgets as hard constraints that define the end of the project.
-- Build buffers into plans to handle inevitable unexpected events without asking for extensions.
+**战术建议：**
+- 将 deadlines 和 budgets 视为定义 project 终点的 hard constraints。
+- 在 plans 中内置 buffers，以处理 inevitable unexpected events，而不需要 extensions。
 
-*Timestamp: 14:49*
+*时间戳：14:49*
 
 
 ## Timothy Davis
@@ -193,13 +193,12 @@
 
 > "We have this calculator that we look at that says, 'How much time are you spending in meetings?'... All right, next quarter, it's red again. All right, now maybe we need to start having the conversation of, what this new hire will take over."
 
-**Insight:** Use a quantitative capacity calculator to justify new hires only when team members are consistently 'in the red' after optimizing their schedules.
+**洞察：** 使用 quantitative capacity calculator；只有当 team members 在优化 schedule 后仍持续 'in the red' 时，才 justify new hires。
 
-**Tactical advice:**
-- Track meeting time, PTO, and optimization tasks against the total number of days in a quarter
-- Cut non-essential meetings or project involvements before approving new headcount
-- Wait for two consecutive quarters of 'red' capacity before initiating a hire
+**战术建议：**
+- 将 meeting time、PTO 和 optimization tasks 与一个 quarter 的总天数对照 tracking
+- 在批准 new headcount 前，先 cut non-essential meetings 或 project involvements
+- 等待连续两个 quarters 出现 'red' capacity 后，再启动 hire
 
-*Timestamp: 01:16:59*
-
+*时间戳：01:16:59*
 

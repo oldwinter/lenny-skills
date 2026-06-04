@@ -1,69 +1,69 @@
 ---
 name: running-decision-processes
-description: Help users run effective decision-making processes. Use when someone is facing a high-stakes decision, dealing with analysis paralysis, needs to align stakeholders on a choice, or wants to establish decision frameworks like DACI or RAPID.
+description: 帮助用户运行有效的决策流程。Use when someone is facing a high-stakes decision, dealing with analysis paralysis, needs to align stakeholders on a choice, or wants to establish decision frameworks like DACI or RAPID.
 ---
 
 # Running Decision Processes
 
-Help the user run effective decision-making processes using frameworks from 65 product leaders.
+使用来自 65 位产品领导者的框架，帮助用户运行有效 decision-making processes。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with decision processes:
+当用户请求 decision processes 相关帮助时：
 
-1. **Understand the decision type** - Ask if this is reversible or irreversible, high-stakes or routine
-2. **Identify the blockers** - Determine what's preventing the decision from being made
-3. **Structure the process** - Recommend an appropriate framework for the decision at hand
-4. **Enable commitment** - Help them move from deliberation to action
+1. **理解 decision type** - 询问这是 reversible 还是 irreversible、high-stakes 还是 routine
+2. **识别 blockers** - 判断是什么阻止 decision 被做出
+3. **结构化 process** - 针对当前 decision 推荐合适 framework
+4. **促成 commitment** - 帮助他们从 deliberation 走向 action
 
-## Core Principles
+## 核心原则
 
-### Hesitation is destructive
-Ben Horowitz: "The worst thing that you do as a leader is you hesitate on the next decision. The thing that causes you to hesitate is both decisions are horrible." Failing to make an explicit decision causes organizational anxiety. Recognize when you're avoiding a decision because all options are bad.
+### Hesitation 具有破坏性
+Ben Horowitz: "The worst thing that you do as a leader is you hesitate on the next decision. The thing that causes you to hesitate is both decisions are horrible." 不能明确做 decision 会制造 organizational anxiety。要识别自己是否因为所有 options 都糟糕而回避 decision。
 
 ### Make implicit explicit
-Annie Duke: "It's so incredibly necessary in improving decision quality to take what's implicit and make it explicit. It's not that intuition is crap... If you don't make it explicit, then you don't get to find out when it's wrong." Document the assumptions behind gut feelings so you can review them later and learn when intuition is right or wrong.
+Annie Duke: "It's so incredibly necessary in improving decision quality to take what's implicit and make it explicit. It's not that intuition is crap... If you don't make it explicit, then you don't get to find out when it's wrong." 记录 gut feelings 背后的 assumptions，之后才能 review 并学习 intuition 何时对、何时错。
 
-### Use curiosity loops for advice
-Ada Chen Rekhi: "A curiosity loop is essentially going to a whole bunch of people... asking them, 'Hey, here are nine topics... What are two or three of the topics that resonate with you and why?'" Gather contextual advice by asking specific questions that solicit rationale, not biased yes/no answers.
+### 用 curiosity loops 获取 advice
+Ada Chen Rekhi: "A curiosity loop is essentially going to a whole bunch of people... asking them, 'Hey, here are nine topics... What are two or three of the topics that resonate with you and why?'" 通过提出能引出 rationale 的具体问题来收集 contextual advice，而不是问带 bias 的 yes/no questions。
 
-### Act as a historian
-Anneka Gupta: "I try to construct this past knowledge of what had happened and what were the decisions that were made and why were those decisions made, whether they were good or bad." Research past failed projects to understand the context of previous decisions and navigate current resistance.
+### 像 historian 一样行动
+Anneka Gupta: "I try to construct this past knowledge of what had happened and what were the decisions that were made and why were those decisions made, whether they were good or bad." 研究过去失败 projects，理解 previous decisions 的 context，并处理当前 resistance。
 
-### High-conviction decisions require leaps of faith
-Brandon Chu: "Know how to make really, really hard high conviction decisions that actually can't be solved. You got to take a leap of faith and how to do that and bring teams through that type of ambiguity." Some decisions cannot be solved with data - take the leap and maintain high accountability for the choice.
+### High-conviction decisions 需要 leaps of faith
+Brandon Chu: "Know how to make really, really hard high conviction decisions that actually can't be solved. You got to take a leap of faith and how to do that and bring teams through that type of ambiguity." 有些 decisions 无法靠 data 解决；需要 leap，并对选择保持 high accountability。
 
-### Distinguish decision types
-Jeff Bezos: "Type 1 decisions are consequential and irreversible... Type 2 decisions are changeable, reversible." Spend more time on one-way doors. Move fast on reversible decisions.
+### 区分 decision types
+Jeff Bezos: "Type 1 decisions are consequential and irreversible... Type 2 decisions are changeable, reversible." 对 one-way doors 花更多时间。对 reversible decisions 快速行动。
 
 ### Disagree and commit
-Once a decision is made, the team must commit fully even if individuals disagreed during deliberation. Without commitment, decisions get relitigated endlessly.
+Decision 做出后，team 必须 fully commit，即使个人在 deliberation 中不同意。没有 commitment，decisions 会被 endless relitigated。
 
-### Assign a clear decision-maker
-Every decision needs a single accountable owner. Frameworks like DACI (Driver, Approver, Contributor, Informed) clarify who makes the call.
+### 指定清晰 decision-maker
+每个 decision 都需要一个 single accountable owner。DACI（Driver、Approver、Contributor、Informed）等 frameworks 能澄清谁做 call。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "Is this a one-way door or a two-way door? How hard would it be to reverse this decision?"
-- "What's the cost of waiting another week to decide? What's the cost of being wrong?"
-- "Who is the single decision-maker here? Does everyone know who that is?"
-- "What information would change your mind? Can you get that information quickly?"
-- "What happened last time the team faced a similar decision?"
-- "If you had to decide right now with the information you have, what would you choose?"
+- "这是 one-way door 还是 two-way door？reverse 这个 decision 有多难？"
+- "再等一周决定的成本是什么？做错的成本是什么？"
+- "这里 single decision-maker 是谁？所有人都知道吗？"
+- "什么信息会改变你的想法？能否快速获得？"
+- "上次 team 面对类似 decision 时发生了什么？"
+- "如果现在必须用已有信息决定，你会选什么？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Analysis paralysis** - Gathering more data when enough information already exists to decide
-- **Decision by committee** - No clear owner leading to diffused accountability
-- **Treating all decisions equally** - Applying the same rigor to reversible and irreversible decisions
-- **Relitigating decisions** - Reopening settled decisions without new information
-- **Implicit assumptions** - Making gut decisions without documenting the reasoning for later learning
+- **Analysis paralysis** - 明明已有足够信息可以 decision，却继续收集更多 data
+- **Decision by committee** - 没有清晰 owner，导致 accountability 被稀释
+- **把所有 decisions 当成一样** - 对 reversible 和 irreversible decisions 使用相同 rigor
+- **Relitigating decisions** - 没有新信息却重新打开已 settle 的 decisions
+- **Implicit assumptions** - 凭 gut decisions 行动，却不记录 reasoning，无法后续学习
 
 ## Deep Dive
 
-For all 82 insights from 65 guests, see `references/guest-insights.md`
+所有来自 65 位嘉宾的 82 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - running-effective-meetings
 - planning-under-uncertainty

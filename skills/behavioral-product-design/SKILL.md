@@ -1,58 +1,58 @@
 ---
 name: behavioral-product-design
-description: Help users apply behavioral science to product design. Use when someone is designing for habit formation, reducing friction, applying psychology to UX, increasing retention through behavioral principles, or using nudges to influence user behavior.
+description: 帮助用户把行为科学应用到产品设计中。Use when someone is designing for habit formation, reducing friction, applying psychology to UX, increasing retention through behavioral principles, or using nudges to influence user behavior.
 ---
 
 # Behavioral Product Design
 
-Help the user apply behavioral science principles to product design using insights from behavioral economists and product leaders.
+使用 behavioral economists 和产品领导者的洞察，帮助用户把行为科学原则应用到产品设计中。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with behavioral design:
+当用户请求 behavioral design 相关帮助时：
 
-1. **Understand the target behavior** - Ask what action they want users to take
-2. **Identify behavioral barriers** - Help diagnose what's preventing the desired behavior
-3. **Suggest relevant principles** - Apply behavioral economics concepts like loss aversion, present bias, or status quo effect
-4. **Design interventions** - Help create features that leverage these psychological principles
+1. **理解目标行为** - 询问他们希望用户采取什么具体行动
+2. **识别行为障碍** - 帮助诊断是什么阻止了用户完成期望行为
+3. **建议相关原则** - 应用 loss aversion、present bias、status quo effect 等 behavioral economics 概念
+4. **设计干预方式** - 帮助创建能利用这些心理原则的 features
 
-## Core Principles
+## 核心原则
 
-### Loss aversion drives retention
-Jackson Shuttleworth: "Once you hit seven days, loss aversion kicks in, and you retain." Design experiences that create something users feel they'd lose by leaving.
+### Loss aversion 驱动留存
+Jackson Shuttleworth: "Once you hit seven days, loss aversion kicks in, and you retain." 设计能让用户觉得离开就会失去某些东西的体验。
 
-### Apply psychology to real problems
-Kristen Berman: "Behavioral science uses insights on psychology to apply within real world problems—biases like present bias, status quo effect, and uncertainty aversion can be designed into product features to drive specific actions."
+### 把心理学应用到真实问题
+Kristen Berman: "Behavioral science uses insights on psychology to apply within real world problems—biases like present bias, status quo effect, and uncertainty aversion can be designed into product features to drive specific actions." 将 present bias、status quo effect、uncertainty aversion 等偏差嵌入产品功能，以推动具体行动。
 
-### Create pause moments
-Use haptics, animations, and micro-interactions to create celebration moments that reinforce positive behavior. The "bend not break" philosophy means meeting users where they are rather than demanding perfection.
+### 创造 pause moments
+使用 haptics、animations 和 micro-interactions 创造 celebration moments，强化正向行为。"bend not break" 哲学意味着在用户当下所在位置接住他们，而不是要求完美。
 
-### Reduce friction for desired behaviors
-Every tap, every field, every decision point is friction. Behavioral design means ruthlessly removing friction from the paths you want users to take while adding appropriate friction to prevent mistakes.
+### 为期望行为降低 friction
+每一次点击、每一个字段、每一个决策点都是 friction。Behavioral design 意味着对你希望用户采取的路径，坚决移除 friction；同时在需要防错的地方增加适当 friction。
 
-### Leverage defaults
-Users tend to stick with default options. Set smart defaults that guide users toward successful outcomes.
+### 利用 defaults
+用户倾向于留在默认选项。设置 smart defaults，引导用户走向成功结果。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What specific behavior are you trying to encourage?"
-- "What's preventing users from taking this action today?"
-- "Where in the flow do users drop off?"
-- "What would users feel they're losing if they stopped using this?"
-- "Have you identified the key habit loop (cue, routine, reward)?"
+- "你想鼓励哪一个具体行为？"
+- "今天是什么阻止用户采取这个行动？"
+- "用户在 flow 的哪个位置流失？"
+- "如果用户停止使用这个产品，他们会觉得失去什么？"
+- "你是否已经识别关键 habit loop（cue、routine、reward）？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Dark patterns** - Behavioral design should help users achieve their goals, not manipulate them against their interests
-- **Over-engineering friction** - Sometimes simple solutions beat clever psychological tricks
-- **Ignoring context** - Behavioral principles work differently across cultures and user segments
-- **Assuming stated preferences** - What users say they'll do and what they actually do are different
+- **Dark patterns** - Behavioral design 应帮助用户实现他们自己的目标，而不是违背用户利益操纵他们
+- **过度设计 friction** - 有时候简单方案胜过聪明的心理学技巧
+- **忽略 context** - Behavioral principles 在不同文化和用户 segments 中效果不同
+- **相信 stated preferences** - 用户说自己会做什么，和他们实际会做什么，并不一样
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - User Onboarding
 - Retention & Engagement

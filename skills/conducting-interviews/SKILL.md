@@ -1,68 +1,68 @@
 ---
 name: conducting-interviews
-description: Help users conduct effective hiring interviews. Use when someone is designing an interview loop, crafting interview questions, evaluating candidates in real-time, or building a structured interview process.
+description: 帮助用户开展有效的招聘面试。Use when someone is designing an interview loop, crafting interview questions, evaluating candidates in real-time, or building a structured interview process.
 ---
 
 # Conducting Interviews
 
-Help the user conduct effective hiring interviews using frameworks from 75 product leaders who have interviewed thousands of candidates at top companies.
+使用来自 75 位产品领导者的框架，帮助用户开展有效招聘面试；这些领导者曾在顶级公司面试过数千名 candidates。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with conducting interviews:
+当用户请求 conducting interviews 相关帮助时：
 
-1. **Understand the role** - Ask what position they're hiring for and what competencies matter most
-2. **Design the structure** - Help create a consistent, behavioral-based interview process
-3. **Craft the questions** - Suggest questions that reveal actual capability, not rehearsed answers
-4. **Evaluate effectively** - Guide them on separating signal from noise and avoiding common biases
+1. **理解 role** - 询问他们在招聘什么职位，以及哪些 competencies 最重要
+2. **设计结构** - 帮助创建一致的、基于 behavioral-based 的 interview process
+3. **打磨问题** - 建议能揭示真实能力，而不是 rehearsed answers 的问题
+4. **有效评估** - 指导他们区分 signal 和 noise，并避免常见 biases
 
-## Core Principles
+## 核心原则
 
-### Use behavioral-based interviewing
-Bill Carr: "We created a set of objective criteria that would be used and an interview methodology that would be used in every interview, which was the objective criteria would be our leadership principles, and the methodology would be behavioral based interviewing." Ask for specific past examples, not hypotheticals.
+### 使用 behavioral-based interviewing
+Bill Carr: "We created a set of objective criteria that would be used and an interview methodology that would be used in every interview, which was the objective criteria would be our leadership principles, and the methodology would be behavioral based interviewing." 询问具体过去案例，而不是假设题。
 
-### Look past polished delivery
-Jackie Bavaro: "Some people sounded really good because they'd say, 'Well, I'll tell you three things. Number one, number two, number three.' And then when I paid attention to my notes, I'd be like, 'Wait, their three ideas weren't actually good ideas.'" Evaluate substance over structure.
+### 看穿 polished delivery
+Jackie Bavaro: "Some people sounded really good because they'd say, 'Well, I'll tell you three things. Number one, number two, number three.' And then when I paid attention to my notes, I'd be like, 'Wait, their three ideas weren't actually good ideas.'" 评估 substance，而不是 structure。
 
-### Drill six levels deep
-Joe Hudson (on Elon's approach): "You ask them six levels down. You improved sales. How did you do that, exactly? Well, we improved the pipeline. How'd you do that, exactly?" True expertise is revealed by drilling into the technical and process-oriented 'how'.
+### 深挖六层
+Joe Hudson (on Elon's approach): "You ask them six levels down. You improved sales. How did you do that, exactly? Well, we improved the pipeline. How'd you do that, exactly?" 真正 expertise 会在技术和流程层面的 "how" 里显露。
 
-### Ask how they prepared
-Austin Hay: "I like to ask people how they prepared for the interview. You're really asking how does the person think? How did they plan? How did they take things seriously or not?" Preparation style reveals planning depth and systems thinking.
+### 问他们如何准备
+Austin Hay: "I like to ask people how they prepared for the interview. You're really asking how does the person think? How did they plan? How did they take things seriously or not?" 准备方式会暴露 planning depth 和 systems thinking。
 
-### End with 'anything else?'
-Christopher Lochhead: "At the very end you say, 'Hey, Susan, before we wrap, is there anything else?' And often, the most important thing for that person to communicate comes out then." The formal structure ending unlocks authenticity.
+### 用 'anything else?' 收尾
+Christopher Lochhead: "At the very end you say, 'Hey, Susan, before we wrap, is there anything else?' And often, the most important thing for that person to communicate comes out then." 正式结构结束后，常会释放更真实的内容。
 
-### Test failure and learning
-Annie Pearl: "Talk me through your biggest product flop. What happened and what did you do about it?... The rawer the answer in terms of how bad it was and why, the better." Look for brutal honesty and genuine learning.
+### 测试 failure 和 learning
+Annie Pearl: "Talk me through your biggest product flop. What happened and what did you do about it?... The rawer the answer in terms of how bad it was and why, the better." 寻找 brutal honesty 和真正的学习。
 
-### Simulate working together
-Noam Lovinsky: "I generally like interview questions that allow us to kind of do some work together... getting into the details and really watching each other exercise our craft is really important." Collaborative exercises reveal true capability.
+### 模拟一起工作
+Noam Lovinsky: "I generally like interview questions that allow us to kind of do some work together... getting into the details and really watching each other exercise our craft is really important." 协作练习能揭示真实能力。
 
-### Use the PEARL framework
-Jackie Bavaro: "Problem, Epiphany, Action, Result and Learning. What's the problem that you thought was worth solving? What's your epiphany? What's the insight that you had?" This structure ensures candidates demonstrate unique insight, not just activity.
+### 使用 PEARL framework
+Jackie Bavaro: "Problem, Epiphany, Action, Result and Learning. What's the problem that you thought was worth solving? What's your epiphany? What's the insight that you had?" 这个结构能确保 candidates 展示 unique insight，而不只是 activity。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What competencies are most critical for this specific role?"
-- "Are you testing for skills that can be rehearsed or genuine capability?"
-- "How will you distinguish between confident delivery and quality thinking?"
-- "What signals true ownership versus 'we' statements that hide contribution?"
-- "How are you calibrating across multiple interviewers?"
+- "这个具体 role 最关键的 competencies 是什么？"
+- "你是在测试可排练的 skills，还是 genuine capability？"
+- "你如何区分 confident delivery 和 quality thinking？"
+- "什么信号能说明 true ownership，而不是用 'we' statements 隐藏贡献？"
+- "你如何在多个 interviewers 之间校准？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Performative interviews** - Rewarding rehearsed STAR responses over actual capability
-- **Not probing deeply enough** - Accepting surface answers without drilling into specifics
-- **High-volume fatigue** - Scheduling back-to-back interviews that degrade judgment
-- **Hypothetical questions** - Testing what candidates say they would do instead of what they have done
-- **Skipping the 'failure' question** - Missing the chance to test self-awareness and growth mindset
+- **Performative interviews** - 奖励排练过的 STAR responses，而不是真实能力
+- **没有挖得足够深** - 接受表层回答，却没有追问具体细节
+- **High-volume fatigue** - 连续安排 back-to-back interviews 会降低判断质量
+- **Hypothetical questions** - 测试 candidates 声称会做什么，而不是他们实际做过什么
+- **跳过 failure question** - 错过测试 self-awareness 和 growth mindset 的机会
 
 ## Deep Dive
 
-For all 91 insights from 75 guests, see `references/guest-insights.md`
+所有来自 75 位嘉宾的 91 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Writing Job Descriptions
 - Evaluating Candidates

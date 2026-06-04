@@ -1,75 +1,75 @@
 ---
 name: measuring-product-market-fit
-description: Help users assess and achieve product-market fit. Use when someone is trying to determine if they have PMF, measuring user engagement and retention, running the Sean Ellis survey, or figuring out if they should scale or keep iterating.
+description: 帮助用户评估并实现 product-market fit。Use when someone is trying to determine if they have PMF, measuring user engagement and retention, running the Sean Ellis survey, or figuring out if they should scale or keep iterating.
 ---
 
 # Measuring Product-Market Fit
 
-Help the user assess and achieve product-market fit using frameworks from 46 product leaders.
+使用来自 46 位产品领导者的框架，帮助用户评估并实现 product-market fit。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks about product-market fit:
+当用户询问 product-market fit 时：
 
-1. **Understand their stage** - Ask how many customers they have, what their retention looks like, and what signals they're seeing (or not seeing)
-2. **Diagnose the situation** - Determine if they're confusing vanity metrics with PMF, if they have PMF in a specific segment, or if they're clearly pre-PMF
-3. **Apply the right framework** - Help them use the Sean Ellis survey, retention curves, or reference customer counts depending on their situation
-4. **Guide next steps** - Help them decide whether to scale or continue iterating based on the evidence
+1. **理解阶段** - 询问他们有多少 customers、retention 如何，以及他们看到或没看到哪些 signals
+2. **诊断 situation** - 判断他们是否把 vanity metrics 和 PMF 混淆，是否只在特定 segment 有 PMF，或者是否明显 pre-PMF
+3. **应用合适 framework** - 根据情况帮助他们使用 Sean Ellis survey、retention curves 或 reference customer counts
+4. **指导 next steps** - 基于 evidence 帮助他们决定 scale 还是继续 iterate
 
-## Core Principles
+## 核心原则
 
-### Use the Sean Ellis "disappointment" survey
-Sean Ellis: "How would you feel if you could no longer use this product? Very disappointed, somewhat disappointed, or not disappointed. If 40% say 'very disappointed,' you're on the right track." This is a leading indicator of PMF before long-term retention data is available. Focus on the "very disappointed" segment as your core value indicator.
+### 使用 Sean Ellis "disappointment" survey
+Sean Ellis: "How would you feel if you could no longer use this product? Very disappointed, somewhat disappointed, or not disappointed. If 40% say 'very disappointed,' you're on the right track." 这是长期 retention data 可用前的 PMF leading indicator。把 "very disappointed" segment 作为 core value indicator。
 
-### Retention is the ultimate metric
-Uri Levine: "Product market fit has one metric. Retention. If you create value, they will come back. If they're not coming back, you're not creating value." Look for retention curves that flatten over time rather than decaying to zero. The "smile curve" - where engagement increases over time - is the strongest signal.
+### Retention 是 ultimate metric
+Uri Levine: "Product market fit has one metric. Retention. If you create value, they will come back. If they're not coming back, you're not creating value." 寻找随时间 flatten 而不是 decay to zero 的 retention curves。"Smile curve"（engagement 随时间增长）是最强 signal。
 
-### PMF is obvious when you have it
-Matt MacInnis: "Product market fit is something where you absolutely know it when you see it. Therefore if you don't absolutely know it, you don't have it." If there's doubt, you likely don't have it. Look for the market pulling the product out of your hands.
+### 有 PMF 时会很明显
+Matt MacInnis: "Product market fit is something where you absolutely know it when you see it. Therefore if you don't absolutely know it, you don't have it." 如果你还怀疑，通常说明还没有。寻找 market 把 product 从你手里拉走的迹象。
 
-### PMF is not static - it can be lost
-Casey Winters: "Protecting what you've built is increasingly important once you build scale. You might fall out of product market fit in a year or five years if you're not continually making your product better." Markets shift, competitors improve, and user expectations rise.
+### PMF 不是静态的，会失去
+Casey Winters: "Protecting what you've built is increasingly important once you build scale. You might fall out of product market fit in a year or five years if you're not continually making your product better." Markets 会变化，competitors 会进步，user expectations 会提高。
 
-### Reference customers validate PMF
-Christian Idiodi: "The holy grail is really a reference customer - somebody who loves it enough to tell people about it. I want 6-8 references for B2B, 15-25 for B2C as an indication of PMF." Don't launch publicly until you have secured the target number of references from early users.
+### Reference customers 验证 PMF
+Christian Idiodi: "The holy grail is really a reference customer - somebody who loves it enough to tell people about it. I want 6-8 references for B2B, 15-25 for B2C as an indication of PMF." 在获得目标数量 early users references 前，不要公开 launch。
 
-### PMF exists in segments, not universally
-Karri Saarinen: "The way we think about it is, 'Do we have the fit in specific segments?' and how strong that fit is." Find PMF in one segment first (e.g., early-stage startups) before expanding. Double down where you see natural pull.
+### PMF 存在于 segments 中，而不是普遍存在
+Karri Saarinen: "The way we think about it is, 'Do we have the fit in specific segments?' and how strong that fit is." 先在一个 segment 中找到 PMF，例如 early-stage startups，然后再扩展。在自然 pull 最强的地方加倍下注。
 
-### PMF requires distribution, not just retention
-Casey Winters: "If you have a product that retains well and you can't find more users for it, I don't think that's product market fit." True PMF requires both a retaining product AND a scalable, built-in distribution mechanism.
+### PMF 需要 distribution，而不只是 retention
+Casey Winters: "If you have a product that retains well and you can't find more users for it, I don't think that's product market fit." 真正 PMF 同时需要 retaining product 和 scalable、built-in distribution mechanism。
 
-### PMF is multi-stage, not binary
-Todd Jackson: "There's essentially four levels: nascent, developing, strong, extreme." Level 1 (3-5 customers), Level 2 (5-25 customers), Level 3 (25-100 customers), Level 4 (100+ customers). Sequence focus: satisfaction at Level 1, demand at Level 2, efficiency at Level 3.
+### PMF 是 multi-stage，不是 binary
+Todd Jackson: "There's essentially four levels: nascent, developing, strong, extreme." Level 1（3-5 customers）、Level 2（5-25 customers）、Level 3（25-100 customers）、Level 4（100+ customers）。Focus 顺序：Level 1 看 satisfaction，Level 2 看 demand，Level 3 看 efficiency。
 
-### Look for customer "pull"
-Raaz Herzberg: "We felt the questions change - 'How are you pricing this? When can we start a POV?' That's real intent." True pull is characterized by customers driving next steps, not just saying "this is interesting."
+### 寻找 customer "pull"
+Raaz Herzberg: "We felt the questions change - 'How are you pricing this? When can we start a POV?' That's real intent." 真正 pull 的特征是 customers 推动 next steps，而不只是说 "this is interesting"。
 
-### A lack of outrage during outages = no PMF
-Jeff Weinstein: "During those 20 minutes our customers weren't furious. That was the signal we did not have product market fit." If your product goes down and nobody notices or complains, you haven't solved a mission-critical problem.
+### Outages 没有 outrage = 没有 PMF
+Jeff Weinstein: "During those 20 minutes our customers weren't furious. That was the signal we did not have product market fit." 如果 product down 了但没人注意或抱怨，你还没有解决 mission-critical problem。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "If users couldn't use your product anymore, what percentage would be 'very disappointed'?"
-- "What does your retention curve look like at day 7, 30, and 90?"
-- "Do you have customers willing to be references and tell others about you?"
-- "Is the market pulling the product from you, or are you pushing it on them?"
-- "Are customers driving next steps (asking about pricing, timelines) or just being politely interested?"
-- "What specific segment do you have the strongest fit in?"
+- "如果 users 不能再使用你的 product，有多少比例会 'very disappointed'？"
+- "你的 retention curve 在 day 7、30、90 分别是什么样？"
+- "你是否有愿意做 references 并向别人推荐你的 customers？"
+- "是 market 在从你手中拉走 product，还是你在把它推给 market？"
+- "Customers 是在推动 next steps（询问 pricing、timelines），还是只是礼貌性 interested？"
+- "你在哪个具体 segment 拥有最强 fit？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Confusing launch spikes with PMF** - Product Hunt success or press coverage doesn't mean you have PMF. Look for sustained organic growth
-- **Ignoring retention data** - If users aren't coming back, you don't have PMF regardless of how many you acquire
-- **Scaling too early** - Paid growth before PMF just burns cash and can damage your brand
-- **Conflating TAM with PMF** - A large market opportunity doesn't mean you've achieved fit within it
-- **Listening to "somewhat disappointed" users** - Focus on what makes "very disappointed" users love you, not what would make lukewarm users slightly happier
+- **把 launch spikes 和 PMF 混淆** - Product Hunt success 或 press coverage 不代表 PMF。看 sustained organic growth
+- **忽视 retention data** - 如果 users 不回来，无论 acquire 了多少都没有 PMF
+- **过早 scale** - PMF 前做 paid growth 只会烧钱并可能伤害 brand
+- **把 TAM 和 PMF 混为一谈** - 大市场机会不代表你已在其中 achieve fit
+- **听 "somewhat disappointed" users** - 聚焦让 "very disappointed" users 爱你的东西，而不是让 lukewarm users 稍微更开心
 
 ## Deep Dive
 
-For all 64 insights from 46 guests, see `references/guest-insights.md`
+所有来自 46 位嘉宾的 64 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Designing Growth Loops
 - Retention & Engagement

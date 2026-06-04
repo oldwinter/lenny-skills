@@ -1,69 +1,69 @@
 ---
 name: community-building
-description: Help users build and grow product communities. Use when someone is starting a community, scaling an ambassador program, driving community-led growth, or choosing between user, developer, or partner communities.
+description: 帮助用户建设并发展产品社区。Use when someone is starting a community, scaling an ambassador program, driving community-led growth, or choosing between user, developer, or partner communities.
 ---
 
 # Community Building
 
-Help the user build and scale communities using frameworks from 18 product leaders who have built communities at Notion, Figma, WordPress, and more.
+使用来自 18 位在 Notion、Figma、WordPress 等公司建设过社区的产品领导者的框架，帮助用户构建并扩展 communities。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with community building:
+当用户请求 community building 相关帮助时：
 
-1. **Identify the community type** - Clarify if they need a user community, agency community, or partner community
-2. **Find the atomic unit of sharing** - Determine what community members would naturally want to show off
-3. **Start with listening** - Understand why early members are there before imposing structure
-4. **Design for healthy growth** - Help them avoid scaling too fast and diluting quality
+1. **识别 community 类型** - 澄清他们需要 user community、agency community，还是 partner community
+2. **找到 sharing 的 atomic unit** - 判断 community members 自然会想展示什么
+3. **从 listening 开始** - 在强加结构前，先理解早期成员为什么在这里
+4. **为健康增长设计** - 帮助他们避免扩张过快、稀释质量
 
-## Core Principles
+## 核心原则
 
-### Build a movement, not just a product
-Matt Mullenweg: "Don't just build a product, build a movement... we give people something to believe in, a philosophy, a worldview." The most successful communities unite around a shared mission, not just utility.
+### 构建 movement，而不只是 product
+Matt Mullenweg: "Don't just build a product, build a movement... we give people something to believe in, a philosophy, a worldview." 最成功的 communities 围绕 shared mission 连接，而不只是 utility。
 
-### Community drives enterprise de-risking
-Camille Ricketts: "Your community helps you achieve such ubiquity and such name recognition that it actually allows you to start moving upmarket into the enterprise." Widespread community adoption signals safety to enterprise buyers.
+### Community 推动 enterprise de-risking
+Camille Ricketts: "Your community helps you achieve such ubiquity and such name recognition that it actually allows you to start moving upmarket into the enterprise." 广泛的 community adoption 会向 enterprise buyers 传递安全信号。
 
-### Go where the community already is
-Claire Butler: "Dylan identified immediately that Twitter was the place where that existed... he built this tool or this scraper where he identified a couple influencers in the design community." Map the social graph of influencers to find key entry points.
+### 去 community 已经在的地方
+Claire Butler: "Dylan identified immediately that Twitter was the place where that existed... he built this tool or this scraper where he identified a couple influencers in the design community." 映射 influencers 的 social graph，找到关键进入点。
 
-### Find your atomic unit of sharing
-Camille Ricketts: "Community lends itself particularly well if you have something that your product creates that people want to share because it exhibits something about themselves." Templates, workspaces, and creations drive organic community content.
+### 找到你的 atomic unit of sharing
+Camille Ricketts: "Community lends itself particularly well if you have something that your product creates that people want to share because it exhibits something about themselves." Templates、workspaces 和 creations 能驱动自然的 community content。
 
-### Community amplifies word of mouth
-Elena Verna: "Community is really important here because you need to bring people together as they're exploring... Community also amplifies that word of mouth." Launch Discord early to allow users to share and help each other.
+### Community 放大 word of mouth
+Elena Verna: "Community is really important here because you need to bring people together as they're exploring... Community also amplifies that word of mouth." 早期启动 Discord，让用户彼此分享和互助。
 
-### Start small with the most vocal
-Camille Ricketts: "The initial base of the ambassadors program was just 20 people and they were the 20 people who we happened to see be the most vocal already." Identify organic supporters before creating formal programs.
+### 从最 vocal 的少数人开始
+Camille Ricketts: "The initial base of the ambassadors program was just 20 people and they were the 20 people who we happened to see be the most vocal already." 在创建正式项目之前，先识别自然出现的 supporters。
 
-### Listen before structuring
-Camille Ricketts: "I would recommend highly not necessarily coming in with preconceived notions about what a community needs to look like... a lot of listening of the people who are actually participating." Conduct 1:1 calls with early members to understand their needs.
+### 先 listening，再 structuring
+Camille Ricketts: "I would recommend highly not necessarily coming in with preconceived notions about what a community needs to look like... a lot of listening of the people who are actually participating." 与早期成员做 1:1 calls，理解他们的真实需求。
 
-### Protect quality over growth
-Camille Ricketts: "Don't dilute the impact of what it is that you're trying to do in order to show growth. Make sure that you are learning what individuals really want." Implement application processes and cohort-based onboarding to maintain intimacy.
+### 用质量保护增长
+Camille Ricketts: "Don't dilute the impact of what it is that you're trying to do in order to show growth. Make sure that you are learning what individuals really want." 使用 application processes 和 cohort-based onboarding 来保持亲密感。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What would members naturally want to share or show off?"
-- "Where does your target audience already gather online?"
-- "Who are your 20 most vocal organic supporters right now?"
-- "What problem does the community solve that the product alone doesn't?"
-- "Is your goal user community, agency community, or partner community?"
-- "What would make this community feel like home to members?"
+- "成员自然会想分享或展示什么？"
+- "你的目标 audience 已经在哪里聚集？"
+- "你现在最 vocal 的 20 个 organic supporters 是谁？"
+- "community 解决了什么 product alone 解决不了的问题？"
+- "你的目标是 user community、agency community，还是 partner community？"
+- "什么会让成员觉得这个 community 像 home？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Scaling too fast** - Growing before establishing norms creates the "auditorium effect" where no one speaks
-- **Forcing a platform** - Building on Slack when your users live on Discord (or vice versa)
-- **Over-monetizing early** - Prioritize ubiquity and word-of-mouth over extracting revenue
-- **Treating community as marketing** - Community requires genuine value creation, not promotional content
-- **Hiring non-practitioners** - Advocates must be respected members of the community, not just marketers
+- **扩张太快** - 在 norms 建立前增长，会造成没人开口的 "auditorium effect"
+- **强行选择平台** - 用户在 Discord，却非要建 Slack，反之亦然
+- **早期过度 monetization** - 先优先 ubiquity 和 word-of-mouth，而不是提取 revenue
+- **把 community 当 marketing** - Community 需要真实 value creation，而不是 promotional content
+- **招聘 non-practitioners** - Advocates 必须是受社区尊重的成员，而不只是 marketers
 
 ## Deep Dive
 
-For all 30 insights from 18 guests, see `references/guest-insights.md`
+所有来自 18 位嘉宾的 30 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Positioning & Messaging
 - Brand Storytelling

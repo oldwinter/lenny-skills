@@ -1,60 +1,60 @@
 ---
 name: vibe-coding
-description: Help users build software using AI coding tools. Use when someone is using AI to generate code, building prototypes without deep technical skills, or exploring how non-engineers can create functional software through natural language.
+description: 帮助用户使用 AI coding tools 构建 software。Use when someone is using AI to generate code, building prototypes without deep technical skills, or exploring how non-engineers can create functional software through natural language.
 ---
 
 # Vibe Coding
 
-Help the user build software using AI tools and natural language, using frameworks and insights from 3 product leaders.
+使用来自 3 位产品领导者的框架和洞察，帮助用户用 AI tools 和 natural language 构建 software。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with vibe coding:
+当用户请求 vibe coding 相关帮助时：
 
-1. **Understand the goal** - Ask what they're trying to build and who it's for (prototype, internal tool, production app)
-2. **Guide the approach** - Help them break down the problem into smaller pieces for iterative AI prompts
-3. **Set expectations** - Discuss what vibe coding is good for (prototypes, MVPs) versus when professional engineering is needed
-4. **Coach on iteration** - Help them understand how to refine output through follow-up prompts
+1. **理解 goal** - 询问他们想 build 什么、为谁 build（prototype、internal tool、production app）
+2. **指导 approach** - 帮助他们把 problem 拆成更小 pieces，用于 iterative AI prompts
+3. **设定 expectations** - 讨论 vibe coding 适合什么（prototypes、MVPs），以及何时需要 professional engineering
+4. **辅导 iteration** - 帮助他们理解如何通过 follow-up prompts refine output
 
-## Core Principles
+## 核心原则
 
-### Vibe coding is a new skill
-Elena Verna: "I vibe code myself so I would put that as even as a skill on my resume now." This is a distinct, transformative skill for non-technical roles - PMs, marketers, designers - to build functional software using natural language.
+### Vibe coding 是一项新 skill
+Elena Verna: "I vibe code myself so I would put that as even as a skill on my resume now." 对 PMs、marketers、designers 这类 non-technical roles 来说，这是一项 distinct、transformative skill：用 natural language 构建 functional software。
 
-### Replace Figma with prototypes
-Kevin Weil: "Instead of showing stuff in Figma, we should be showing prototypes that people are vibe coding over the course of 30 minutes to illustrate proofs of concept." Functional code prototypes can be built in the time it takes to create static mockups.
+### 用 prototypes 替代 Figma
+Kevin Weil: "Instead of showing stuff in Figma, we should be showing prototypes that people are vibe coding over the course of 30 minutes to illustrate proofs of concept." 构建 functional code prototypes 的时间，可以接近创建 static mockups 的时间。
 
 ### Build tools to build tools
-Alexander Embiricos: "They'll vibe code an animation editor and then they use the animation editor to build the animation." Non-engineers can now build functional software and custom tools without deep technical mastery.
+Alexander Embiricos: "They'll vibe code an animation editor and then they use the animation editor to build the animation." Non-engineers 现在无需 deep technical mastery，也能 build functional software 和 custom tools。
 
-### Go beyond prompt engineering
-Vibe coding is not just writing prompts - it's iteratively building functional software through conversation with AI. It requires understanding how to break problems down, test outputs, and refine through follow-up.
+### 超越 prompt engineering
+Vibe coding 不只是 writing prompts，而是通过与 AI conversation iteratively build functional software。它要求理解如何 break problems down、test outputs，并通过 follow-up refine。
 
-### Know the limits
-Vibe-coded software is great for prototypes, internal tools, and MVPs. Production-grade systems with complex requirements still need professional engineering review.
+### 知道 limits
+Vibe-coded software 很适合 prototypes、internal tools 和 MVPs。带 complex requirements 的 production-grade systems 仍然需要 professional engineering review。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What are you trying to build, and who will use it?"
-- "Is this a throwaway prototype or something that needs to scale?"
-- "Can you break this down into smaller pieces to build incrementally?"
-- "What's the simplest version that would let you test your hypothesis?"
-- "Have you tried describing what's not working and asking the AI to fix it?"
-- "Do you need this to be production-grade, or is it okay if it's rough?"
+- "你想 build 什么？谁会使用它？"
+- "这是 throwaway prototype，还是需要 scale 的东西？"
+- "你能否把它拆成 smaller pieces，incrementally build？"
+- "能让你 test hypothesis 的 simplest version 是什么？"
+- "你是否尝试描述哪里不 work，并让 AI fix it？"
+- "你需要它 production-grade，还是 rough 也可以？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Trying to build everything at once** - Break complex projects into smaller, iterative builds
-- **Not testing the output** - Always run and test what the AI generates; don't assume it works
-- **Expecting production quality** - Vibe-coded apps are great for validation but may need engineering for production
-- **Unclear specifications** - The clearer your description of what you want, the better the output
-- **Giving up after one try** - Vibe coding is iterative; refine through follow-up prompts
+- **Trying to build everything at once** - 把 complex projects 拆成 smaller、iterative builds
+- **Not testing the output** - 始终 run and test AI 生成的东西；不要假设它能 work
+- **Expecting production quality** - Vibe-coded apps 很适合 validation，但 production 可能需要 engineering
+- **Unclear specifications** - 你对想要什么描述得越清楚，output 越好
+- **Giving up after one try** - Vibe coding 是 iterative 的；通过 follow-up prompts refine
 
 ## Deep Dive
 
-For all 3 insights from 3 guests, see `references/guest-insights.md`
+所有来自 3 位嘉宾的 3 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Writing PRDs
 - Usability Testing

@@ -1,55 +1,55 @@
 ---
 name: startup-ideation
-description: Help users generate and evaluate startup ideas. Use when someone is brainstorming business ideas, trying to find a startup concept, evaluating whether an idea is worth pursuing, or looking for unique market opportunities.
+description: 帮助用户生成并评估 startup ideas。Use when someone is brainstorming business ideas, trying to find a startup concept, evaluating whether an idea is worth pursuing, or looking for unique market opportunities.
 ---
 
 # Startup Ideation
 
-Help the user generate and evaluate startup ideas using frameworks and insights from 2 product leaders.
+使用来自 2 位产品领导者的框架和洞察，帮助用户生成并评估 startup ideas。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with startup ideation:
+当用户请求 startup ideation 相关帮助时：
 
-1. **Understand their background** - Ask about their personal experience, skills, and what problems they've encountered firsthand
-2. **Explore information sources** - Discuss what they read, who they talk to, and whether their information diet is differentiated
-3. **Apply the Why Now test** - Help them identify what has changed that makes this idea newly possible
-4. **Identify tarpit risks** - Flag common idea patterns that attract many founders but rarely succeed
+1. **理解他们的 background** - 询问 personal experience、skills，以及他们亲身遇到过哪些 problems
+2. **探索 information sources** - 讨论他们读什么、和谁交流，以及 information diet 是否 differentiated
+3. **应用 Why Now test** - 帮助他们识别发生了什么变化，让这个 idea 现在才 newly possible
+4. **识别 tarpit risks** - 标记那些吸引很多 founders、但很少成功的常见 idea patterns
 
-## Core Principles
+## 核心原则
 
 ### Go off the beaten path
-Dalton Caldwell: "Try to go more off the beaten path either from your personal experience." The best startup ideas come from unique personal experiences and perspectives that others don't have access to. Avoid starting from popular trends that everyone is chasing.
+Dalton Caldwell: "Try to go more off the beaten path either from your personal experience." 最好的 startup ideas 来自别人无法获得的 unique personal experiences 和 perspectives。避免从所有人都在追的 popular trends 出发。
 
-### Ask what's newly possible
-Ryan Hoover: "What new thing can you build today that couldn't be built yesterday?" Look for technology shifts (like AI or Web3), behavior shifts, or infrastructure changes that create new opportunities that weren't viable before.
+### 问什么是 newly possible
+Ryan Hoover: "What new thing can you build today that couldn't be built yesterday?" 寻找 technology shifts（如 AI 或 Web3）、behavior shifts 或 infrastructure changes，这些变化会创造过去不可行的新 opportunities。
 
 ### Diversify your information diet
-Build a unique perspective by consuming information from sources that most founders don't. If everyone reads the same articles and follows the same people, everyone will have the same ideas.
+通过消费大多数 founders 不看的 sources，建立 unique perspective。如果所有人都读同样 articles、follow 同样 people，所有人都会有同样 ideas。
 
-### Avoid idea tarpits
-Certain startup ideas are attractive to many founders but rarely succeed. Be skeptical of ideas in crowded spaces where hundreds of companies have already tried and failed.
+### 避免 idea tarpits
+某些 startup ideas 对很多 founders 很有吸引力，但很少成功。对于已经有数百家公司尝试并失败的 crowded spaces，要保持 skepticism。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What problem have you personally experienced that frustrated you deeply?"
-- "What do you know or have access to that most people don't?"
-- "Why is this idea possible now when it wasn't possible two years ago?"
-- "How many other startups are working on something similar, and why did they fail?"
-- "What would have to be true for this to be a billion-dollar business?"
+- "你亲身经历过什么让你深感 frustration 的 problem？"
+- "你知道或能接触到哪些大多数人没有的东西？"
+- "为什么这个 idea 现在可行，而两年前不可行？"
+- "还有多少 startups 在做类似事情，它们为什么失败？"
+- "要让它成为 billion-dollar business，哪些事情必须成立？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Starting from trends instead of problems** - Chasing hot topics like AI without a specific problem leads to undifferentiated products
-- **Identical information diet** - Reading the same sources as every other founder produces the same ideas
-- **Ignoring the Why Now** - Ideas without a clear reason they're newly possible often indicate missed timing
-- **Tarpit ideas** - Certain idea categories attract founders repeatedly despite low success rates
+- **Starting from trends instead of problems** - 没有 specific problem 就追 AI 这类 hot topics，会导致 undifferentiated products
+- **Identical information diet** - 和其他 founders 阅读同样 sources，会产生同样 ideas
+- **Ignoring the Why Now** - 没有清晰 newly possible reason 的 ideas，往往意味着 timing 有问题
+- **Tarpit ideas** - 某些 idea categories 尽管 success rates 很低，却反复吸引 founders
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Measuring Product-Market Fit
 - Defining Product Vision

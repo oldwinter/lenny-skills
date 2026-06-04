@@ -1,68 +1,68 @@
 ---
 name: building-team-culture
-description: Help users build and maintain strong team culture. Use when someone is defining team values, creating psychological safety, onboarding to a new team, navigating cultural change, or building distributed team norms.
+description: 帮助用户建立并维护强团队文化。Use when someone is defining team values, creating psychological safety, onboarding to a new team, navigating cultural change, or building distributed team norms.
 ---
 
 # Building Team Culture
 
-Help the user build and sustain high-performing team culture using frameworks from 138 product leaders who have shaped cultures at companies from startups to Google and Airbnb.
+使用来自 138 位产品领导者的框架，帮助用户建立并维持高绩效团队文化；这些领导者曾在 startups、Google、Airbnb 等不同公司塑造文化。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with team culture:
+当用户请求 team culture 相关帮助时：
 
-1. **Understand the context** - Ask about team size, stage, remote vs in-person, and what triggered the culture question
-2. **Diagnose the current state** - Identify whether the issue is definition, communication, or enforcement of culture
-3. **Focus on articulation over creation** - Help them describe what's already working rather than inventing new values
-4. **Design for decentralized decisions** - Ensure culture can guide behavior when leadership isn't present
+1. **理解上下文** - 询问 team size、stage、remote vs in-person，以及是什么触发了文化问题
+2. **诊断当前状态** - 判断问题出在 culture 的 definition、communication，还是 enforcement
+3. **聚焦 articulation，而不是 creation** - 帮助他们描述已经有效的东西，而不是发明一套新 values
+4. **为 decentralized decisions 设计** - 确保领导者不在场时，culture 也能指导行为
 
-## Core Principles
+## 核心原则
 
-### Articulate, don't create
-Dharmesh Shah: "Culture actually already exists... what I'm really trying to do is kind of describe the culture that's there. It's not creating culture, it's articulating the culture." Document the attributes of people who make others happy and successful.
+### Articulate，不要 create
+Dharmesh Shah: "Culture actually already exists... what I'm really trying to do is kind of describe the culture that's there. It's not creating culture, it's articulating the culture." 记录那些让他人更快乐、更成功的人身上体现出的属性。
 
-### Culture is for when the boss isn't around
-Chip Conley: "Culture is what happens around here when the boss is not around. The more distributed a company, the more culture is important." Use culture as a decentralized decision-making guide, especially for remote teams.
+### Culture 是老板不在时发生的事
+Chip Conley: "Culture is what happens around here when the boss is not around. The more distributed a company, the more culture is important." 把 culture 用作 decentralized decision-making guide，尤其适用于 remote teams。
 
-### Replace management with coaching
-Cam Adams: "We don't really have managers, but everyone at Canva has a coach. They're constantly working with you to look at your skills, but also when it might be time to move on to the next level." Coaches focus on skill development and career trajectory, not task oversight.
+### 用 coaching 替代 management
+Cam Adams: "We don't really have managers, but everyone at Canva has a coach. They're constantly working with you to look at your skills, but also when it might be time to move on to the next level." Coaches 关注 skill development 和 career trajectory，而不是 task oversight。
 
-### Earn trust before inflicting change
-Katie Dill: "It can be hard to bring feedback forward like that. So it was an extremely valuable learning experience. I took from that to then immediately shift how I was operating." Prioritize listening over "coming in swinging" when joining a new team.
+### 在推动改变前先赢得 trust
+Katie Dill: "It can be hard to bring feedback forward like that. So it was an extremely valuable learning experience. I took from that to then immediately shift how I was operating." 加入新团队时，优先 listening，而不是 "coming in swinging"。
 
-### Challenge sacred cows to cure stagnation
-Kayvon Beykpour: "We wanted to change the lack of ambition, the lack of creativity, the lack of customers feeling that the product had changed at all." Identify and challenge cultural artifacts that prevent product evolution.
+### 挑战 sacred cows，治疗停滞
+Kayvon Beykpour: "We wanted to change the lack of ambition, the lack of creativity, the lack of customers feeling that the product had changed at all." 识别并挑战阻碍产品演进的 cultural artifacts。
 
-### Use culture as a talent magnet
-Chip Conley: Culture attracts the right people and repels the wrong ones. Prioritize in-person gatherings for remote teams to reinforce cultural cues that can't be transmitted digitally.
+### 把 culture 用作 talent magnet
+Chip Conley: Culture 会吸引合适的人，也会排斥不合适的人。对 remote teams，要优先安排 in-person gatherings 来强化无法通过数字渠道传递的 cultural cues。
 
-### Make culture a living document
-Dharmesh Shah: Create a "Culture Code" that acts as an operating system for the company. Update it as you learn what actually works versus what sounds good.
+### 让 culture 成为 living document
+Dharmesh Shah: 创建 "Culture Code"，让它像公司的 operating system 一样运行。随着你学到真正有效与只是听起来好听的差别，持续更新它。
 
-### Psychological safety enables feedback
-Katie Dill: Building trust through active listening and empathy is the foundation for organizational change. Teams won't give honest feedback if they don't feel safe.
+### Psychological safety 让 feedback 成为可能
+Katie Dill: 通过 active listening 和 empathy 建立 trust，是组织变化的基础。如果团队不觉得安全，就不会给出诚实反馈。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What behaviors do you see in your highest performers that you wish everyone exhibited?"
-- "When has someone made a decision you disagreed with but couldn't fault their reasoning?"
-- "What happens when someone fails publicly on your team?"
-- "How do new hires learn 'how things work around here'?"
-- "What decision would be made differently if you weren't in the room?"
+- "你的 highest performers 身上有哪些行为，是你希望所有人都有的？"
+- "什么时候有人做了你不同意的决策，但你不能说他们的 reasoning 有错？"
+- "当有人在团队里公开失败时，会发生什么？"
+- "新员工如何学会 'how things work around here'？"
+- "如果你不在房间里，哪个决策会被做得不一样？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Inventing aspirational values** - Culture documents should describe what already works, not what you wish were true
-- **Values without behaviors** - "We value innovation" is meaningless without specific examples of what that looks like in practice
-- **Over-engineering for small teams** - Startups need shared understanding, not formal culture playbooks
-- **Ignoring the distributed challenge** - Remote teams need explicit cultural transmission that co-located teams get implicitly
-- **Leadership-culture mismatch** - Functional orgs require active leadership tiebreaking; if the CEO is hands-off, culture can't fill the gap
+- **发明 aspirational values** - Culture documents 应描述已经有效的东西，而不是你希望成真的东西
+- **Values 没有 behaviors** - "We value innovation" 如果没有具体实践样例，就没有意义
+- **小团队过度设计** - Startups 需要 shared understanding，不一定需要正式 culture playbooks
+- **忽视 distributed challenge** - Remote teams 需要显式传递文化，而 co-located teams 常常隐式获得
+- **Leadership-culture mismatch** - Functional orgs 需要主动 leadership tiebreaking；如果 CEO 完全 hands-off，culture 不能填补这个缺口
 
 ## Deep Dive
 
-For all 212 insights from 138 guests, see `references/guest-insights.md`
+所有来自 138 位嘉宾的 212 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Writing Job Descriptions
 - Conducting Interviews

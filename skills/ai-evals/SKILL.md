@@ -1,52 +1,52 @@
 ---
 name: ai-evals
-description: Help users create and run AI evaluations. Use when someone is building evals for LLM products, measuring model quality, creating test cases, designing rubrics, or trying to systematically measure AI output quality.
+description: 帮助用户创建并运行 AI evals。Use when someone is building evals for LLM products, measuring model quality, creating test cases, designing rubrics, or trying to systematically measure AI output quality.
 ---
 
 # AI Evals
 
-Help the user create systematic evaluations for AI products using insights from AI practitioners.
+使用 AI practitioners 的洞察，帮助用户为 AI 产品创建系统化评估。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with AI evals:
+当用户请求 AI evals 相关帮助时：
 
-1. **Understand what they're evaluating** - Ask what AI feature or model they're testing and what "good" looks like
-2. **Help design the eval approach** - Suggest rubrics, test cases, and measurement methods
-3. **Guide implementation** - Help them think through edge cases, scoring criteria, and iteration cycles
-4. **Connect to product requirements** - Ensure evals align with actual user needs, not just technical metrics
+1. **理解他们要评估什么** - 询问他们正在测试哪个 AI feature 或 model，以及什么样的输出算 "good"
+2. **帮助设计 eval 方法** - 建议 rubrics、test cases 和 measurement methods
+3. **指导 implementation** - 帮助他们思考 edge cases、scoring criteria 和 iteration cycles
+4. **连接到产品需求** - 确保 evals 对齐真实用户需求，而不只是技术指标
 
-## Core Principles
+## 核心原则
 
-### Evals are the new PRD
-Brendan Foody: "If the model is the product, then the eval is the product requirement document." Evals define what success looks like in AI products—they're not optional quality checks, they're core specifications.
+### Evals 是新的 PRD
+Brendan Foody: "If the model is the product, then the eval is the product requirement document." Evals 定义了 AI 产品里的成功标准；它们不是可选的质量检查，而是核心 specification。
 
-### Evals are a core product skill
-Hamel Husain & Shreya Shankar: "Both the chief product officers of Anthropic and OpenAI shared that evals are becoming the most important new skill for product builders." This isn't just for ML engineers—product people need to master this.
+### Evals 是核心产品能力
+Hamel Husain & Shreya Shankar: "Both the chief product officers of Anthropic and OpenAI shared that evals are becoming the most important new skill for product builders." 这不只是 ML engineers 的工作，产品人员也需要掌握。
 
-### The workflow matters
-Building good evals involves error analysis, open coding (writing down what's wrong), clustering failure patterns, and creating rubrics. It's a systematic process, not a one-time test.
+### 工作流很重要
+构建好的 evals 需要 error analysis、open coding（写下哪里出了问题）、聚类失败模式，并创建 rubrics。这是一个系统化流程，而不是一次性测试。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What does 'good' look like for this AI output?"
-- "What are the most common failure modes you've seen?"
-- "How will you know if the model got better or worse?"
-- "Are you measuring what users actually care about?"
-- "Have you manually reviewed enough outputs to understand failure patterns?"
+- "对这个 AI output 来说，'good' 具体是什么样？"
+- "你见过最常见的 failure modes 是什么？"
+- "你如何判断 model 变好了还是变差了？"
+- "你测量的是用户真正关心的东西吗？"
+- "你是否已经手动 review 足够多的 outputs，以理解 failure patterns？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Skipping manual review** - You can't write good evals without first understanding failure patterns through manual trace analysis
-- **Using vague criteria** - "The output should be good" isn't an eval; you need specific, measurable criteria
-- **LLM-as-judge without validation** - If using an LLM to judge, you must validate that judge against human experts
-- **Likert scales over binary** - Force Pass/Fail decisions; 1-5 scales produce meaningless averages
+- **跳过人工 review** - 如果没有先通过 manual trace analysis 理解 failure patterns，就写不出好的 evals
+- **使用模糊标准** - "The output should be good" 不是 eval；你需要具体、可测量的标准
+- **LLM-as-judge 但不验证** - 如果用 LLM 做 judge，必须用人类专家结果验证这个 judge
+- **用 Likert scales 代替 binary** - 尽量强制 Pass/Fail 决策；1-5 分量表容易产生无意义的平均值
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Building with LLMs
 - AI Product Strategy

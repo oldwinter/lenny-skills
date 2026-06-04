@@ -1,6 +1,6 @@
-# User Onboarding - All Guest Insights
+# User Onboarding - 所有嘉宾洞察
 
-*4 guests, 4 mentions*
+*4 位嘉宾，4 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "We worked a lot on the onboarding process in the last couple of months of launch and that was really pivotal because the product features were there... but there was this thing holding people back."
 
-**Insight:** The transcript contains a detailed breakdown of how to design a first-use experience that leads to an 'aha' moment, which is distinct from 'Onboarding New Hires'.
+**洞察：** 这段 transcript 详细拆解了如何设计通向 'aha' moment 的 first-use experience，这不同于 'Onboarding New Hires'。
 
 
 ## Dan Hockenmaier
@@ -17,7 +17,7 @@
 
 > "Very often I think the biggest wins in retention come from inflecting the early user experience."
 
-**Insight:** The guest emphasizes that the biggest lever for retention is 'inflecting the early user experience,' which is a specific product discipline distinct from general retention or HR onboarding.
+**洞察：** 这位嘉宾强调，retention 最大的 lever 是 'inflecting the early user experience'；这是一项具体 product discipline，不同于 general retention 或 HR onboarding。
 
 
 ## Grant Lee
@@ -25,7 +25,7 @@
 
 > "We are going to do everything we possibly can to make the first 30 seconds of the product feel magical."
 
-**Insight:** The guest emphasizes the 'first 30 seconds' and 'first mile' of the user experience as the primary driver for word-of-mouth growth, which is distinct from employee onboarding.
+**洞察：** 这位嘉宾强调 user experience 的 'first 30 seconds' 和 'first mile' 是 word-of-mouth growth 的主要 driver，这不同于 employee onboarding。
 
 
 ## Merci Grace
@@ -33,6 +33,5 @@
 
 > "My thoughts and feelings about onboarding really go back to my experience designing games where I would design the game from the onboarding experience."
 
-**Insight:** The guest provides extensive, specific advice on designing product onboarding, drawing from game design principles, and critiques common mistakes like using carousels or non-native frameworks.
-
+**洞察：** 这位嘉宾借鉴 game design principles，对 product onboarding design 提供了大量具体建议，并 critique 了使用 carousels 或 non-native frameworks 等常见错误。
 
