@@ -1,6 +1,6 @@
-# Startup Pivoting - All Guest Insights
+# Startup Pivoting - 所有嘉宾洞察
 
-*2 guests, 2 mentions*
+*2 位嘉宾，2 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "The decision is about have you exhausted the possibilities?"
 
-**Insight:** The guest provides a specific framework for when and how to pivot a company, emphasizing rational distance over emotional attachment.
+**洞察：** 这位嘉宾提供了一个关于何时以及如何 pivot company 的具体框架，强调 rational distance 胜过 emotional attachment。
 
 
 ## Todd Jackson
@@ -17,6 +17,5 @@
 
 > "Most founders do a 10% pivot, and what they need to be doing is a 200% pivot."
 
-**Insight:** The guest provides a specific framework (The Four Ps) and tactical advice on how to execute a pivot when stuck in the early stages of product-market fit.
-
+**洞察：** 这位嘉宾提供了一个 specific framework（The Four Ps），并给出在 product-market fit 早期卡住时如何 execute pivot 的 tactical advice。
 

@@ -1,6 +1,6 @@
-# Onboarding New Hires - All Guest Insights
+# Onboarding New Hires - 所有嘉宾洞察
 
-*14 guests, 14 mentions*
+*14 位嘉宾，14 次提及*
 
 ---
 
@@ -9,12 +9,12 @@
 
 > "one amazing, and just the context, I'm really old at Shopify now... people that would join my team already knew how I thought. It was pretty onboarded a lot of the PMs that would join my team because obviously, they're going to look for who their leads is and Google that a bit"
 
-**Insight:** Publicly documenting your philosophy and mental models acts as a passive onboarding system for future hires.
+**洞察：** 公开 document 你的 philosophy 和 mental models，会为 future hires 形成 passive onboarding system。
 
-**Tactical advice:**
-- Write about your management and product philosophy to help new hires ramp up before their first day
+**战术建议：**
+- 写下你的 management 和 product philosophy，帮助 new hires 在 first day 前 ramp up
 
-*Timestamp: 31:49*
+*时间戳：31:49*
 
 
 ## Deb Liu
@@ -22,14 +22,14 @@
 
 > "I created, it's actually when I joined Ancestry... I decided I was going to adapt all of those things into a summary and then I was going to try it real time in my blog... it's focused on listening and learning first and then doing. So that's the crux of it, which is in those 90-days it's like you got to get used to the environment. You want to have some impact at the start. You want to have a couple quick wins, but you want to understand the lay of the land and you want to listen."
 
-**Insight:** A successful onboarding follows a 'diagnose before you treat' philosophy, prioritizing listening and cultural alignment before major execution.
+**洞察：** 成功 onboarding 遵循 'diagnose before you treat' philosophy，在 major execution 前优先 listening 和 cultural alignment。
 
-**Tactical advice:**
-- Conduct a 'listening tour' in the first 30 days, meeting as many stakeholders as possible
-- Summarize findings into a 'state of the union' to show the team they have been heard
-- Align on vision in the second 30 days and move to full execution by day 90
+**战术建议：**
+- 在前 30 天进行 'listening tour'，尽可能多地 meeting stakeholders
+- 将 findings 总结成 'state of the union'，向 team 展示他们已被听见
+- 在第二个 30 天 align on vision，并在第 90 天前进入 full execution
 
-*Timestamp: 00:51:18*
+*时间戳：00:51:18*
 
 
 ## Heidi Helfand
@@ -37,14 +37,14 @@
 
 > "So the tip with one by one is when someone joins, help them feel a sense of belonging, and you can do that through not having their first day be them sitting over there alone. You could have someone have a first pair."
 
-**Insight:** Successful onboarding prioritizes immediate social integration and belonging through collaborative work like pairing.
+**洞察：** 成功 onboarding 通过 pairing 等 collaborative work，优先实现 immediate social integration 和 belonging。
 
-**Tactical advice:**
-- Ensure new hires are not left to work alone on their first day
-- Assign a 'first pair' partner to work with the new hire immediately
-- Encourage new hires to share their personal stories to increase retention and connection
+**战术建议：**
+- 确保 new hires 第一天不会被留下独自工作
+- 分配 'first pair' partner，立刻和 new hire 一起工作
+- 鼓励 new hires 分享 personal stories，提升 retention 和 connection
 
-*Timestamp: 00:35:12*
+*时间戳：00:35:12*
 
 
 ## Kenneth Berger
@@ -52,13 +52,13 @@
 
 > "I recommend to a lot of founders for maybe their first 10 or 15, or 20 employees of just have a relationship design conversation with each of them when they're first hired."
 
-**Insight:** Early alignment on working styles and expectations prevents future friction and 'out of integrity' behavior.
+**洞察：** 尽早对 working styles 和 expectations 做 alignment，可以防止 future friction 和 'out of integrity' behavior。
 
-**Tactical advice:**
-- Conduct a 'relationship design' conversation during the first few weeks
-- Collaboratively figure out the best way to work together given the specific roles and personalities involved
+**战术建议：**
+- 在前几周进行 'relationship design' conversation
+- 基于具体 roles 和 personalities，一起找出最佳协作方式
 
-*Timestamp: 01:00:13*
+*时间戳：01:00:13*
 
 
 ## Lauren Ipsen
@@ -66,12 +66,12 @@
 
 > "The 90 day plan is something that's overused but so necessary, and that's just the tip of the iceberg. So that component and then, okay, a year from now, what should this person be doing? Two years from now?"
 
-**Insight:** A concrete 90-day plan is essential for defining immediate success and long-term trajectory for senior hires.
+**洞察：** Concrete 90-day plan 对定义 senior hires 的 immediate success 和 long-term trajectory 至关重要。
 
-**Tactical advice:**
-- Define what 'crushing it' looks like at the 90-day, 1-year, and 2-year marks before starting the search.
+**战术建议：**
+- 在开始 search 前，定义 90 天、1 年和 2 年节点上 'crushing it' 是什么样。
 
-*Timestamp: 00:15:24*
+*时间戳：00:15:24*
 
 
 ## Melissa Tan
@@ -79,14 +79,14 @@
 
 > "How do I ramp them up as quickly as possible... make sure it's clear what success looks like in their first 90 days? And then how do I help them secure early wins essentially? So I often will suggest, 'Hey, you should do this presentation. It's a great way to get visibility early in your journey here.'"
 
-**Insight:** Effective onboarding focuses on defining clear 90-day success metrics and engineering early 'wins' to build the new hire's internal credibility.
+**洞察：** Effective onboarding 聚焦定义清晰的 90-day success metrics，并设计 early 'wins' 来建立 new hire 的 internal credibility。
 
-**Tactical advice:**
-- Define specific success criteria for the first 90 days
-- Identify 'low-hanging fruit' projects for the new hire to tackle immediately
-- Create opportunities for new hires to present their work to leadership early on
+**战术建议：**
+- 定义前 90 天的 specific success criteria
+- 识别 new hire 可以立即处理的 'low-hanging fruit' projects
+- 为 new hires 创造 early on 向 leadership 展示工作的机会
 
-*Timestamp: 00:40:32*
+*时间戳：00:40:32*
 
 
 ## Mike Krieger
@@ -94,13 +94,13 @@
 
 > "I actually hadn't joined a company since my first internship in college basically. And I was like, 'Oh, how do I onboard myself? How do I get myself up to speed? How do I balance making sweeping changes versus understanding what's not broken about it overall?'"
 
-**Insight:** Executive onboarding requires a delicate balance between observing existing culture and implementing necessary strategic changes.
+**洞察：** Executive onboarding 需要在观察 existing culture 和实施必要 strategic changes 之间取得 delicate balance。
 
-**Tactical advice:**
-- Focus on identifying 'founder-type' engineers who can drive high-impact projects independently.
-- Avoid over-indexing on headcount early; instead, find key senior leaders who can shape product strategy.
+**战术建议：**
+- 聚焦识别能够独立驱动 high-impact projects 的 'founder-type' engineers。
+- 早期避免 over-indexing on headcount；转而寻找能 shape product strategy 的 key senior leaders。
 
-*Timestamp: 00:34:22*
+*时间戳：00:34:22*
 
 
 ## Molly Graham
@@ -108,13 +108,13 @@
 
 > "Do not promise things that you can't control... being honest and upfront about who you are as a company, about what you're able to promise, all of that is actually... it's very hard work but it's so important."
 
-**Insight:** Over-promising stability or specific career paths during hiring/onboarding creates 'letter bombs' that demoralize high performers when they inevitably explode.
+**洞察：** 在 hiring/onboarding 中 over-promising stability 或 specific career paths，会制造 'letter bombs'，当它们不可避免地爆炸时会打击 high performers。
 
-**Tactical advice:**
-- Avoid promising things like stability, specific titles, or never hiring over someone.
-- Be honest about the ambiguity and chaos of a scaling environment during the recruitment process.
+**战术建议：**
+- 避免承诺 stability、specific titles，或永远不会 hire over someone。
+- 在 recruitment process 中诚实说明 scaling environment 的 ambiguity 和 chaos。
 
-*Timestamp: 01:00:31*
+*时间戳：01:00:31*
 
 
 ## Nikita Miller
@@ -122,13 +122,13 @@
 
 > "I think that in-person onboarding for new folks is really important for everyone. For any new person to an organization, I think how we work culturally, having a contact that you can reach out to, all of that I think is really crucial."
 
-**Insight:** Even in remote-first companies, the first week of onboarding should ideally happen in person to build cultural context.
+**洞察：** 即使在 remote-first companies 中，onboarding 第一周也最好线下进行，以建立 cultural context。
 
-**Tactical advice:**
-- Aim for one week of in-person onboarding for new hires
-- Ensure new hires have a specific cultural contact or 'buddy' to reach out to
+**战术建议：**
+- 为 new hires 争取一周 in-person onboarding
+- 确保 new hires 有一个 specific cultural contact 或 'buddy' 可以联系
 
-*Timestamp: 48:04*
+*时间戳：48:04*
 
 
 ## Roger Martin
@@ -136,13 +136,13 @@
 
 > "You have to have a different way of recruiting, a different way of onboarding, a different way of career development. And if you do all of those things, you end up with a 10% turnover rate, so that your people are there 10 years on average, and you can then get them trained up to deliver that kind of service."
 
-**Insight:** Strategic differentiation often requires specialized onboarding and retention systems that differ significantly from industry norms.
+**洞察：** Strategic differentiation 往往需要 specialized onboarding 和 retention systems，这些系统与 industry norms 显著不同。
 
-**Tactical advice:**
-- Align onboarding and training specifically to the 'how to win' choice (e.g., specialized service).
-- Focus on reducing turnover to build the long-term expertise required for a differentiated brand.
+**战术建议：**
+- 将 onboarding 和 training 具体对齐到 'how to win' choice（例如 specialized service）。
+- 聚焦 reducing turnover，构建 differentiated brand 所需的 long-term expertise。
 
-*Timestamp: 00:56:26*
+*时间戳：00:56:26*
 
 
 ## Shishir Mehrotra
@@ -150,13 +150,13 @@
 
 > "Great companies has a very small list of golden rituals. And there are three rules of golden rituals. Number one, they're named. Number two, every employee knows them by their first Friday and, number three, they're templated."
 
-**Insight:** Successful onboarding ensures new hires can identify and participate in core company rituals within their first week.
+**洞察：** 成功 onboarding 确保 new hires 在第一周内就能识别并参与 core company rituals。
 
-**Tactical advice:**
-- Ensure every new hire knows the company's 'golden rituals' by their first Friday.
-- Include core rituals in the new hire onboarding curriculum.
+**战术建议：**
+- 确保每位 new hire 在 first Friday 前知道 company 的 'golden rituals'。
+- 将 core rituals 纳入 new hire onboarding curriculum。
 
-*Timestamp: 00:26:35*
+*时间戳：00:26:35*
 
 
 ## Tomer Cohen
@@ -164,13 +164,13 @@
 
 > "Starting January, we're going to start having our APB program and they're going to come into LinkedIn. We're going to teach them how to code, design and PM at LinkedIn. They're going to go through a pretty rigorous training process, and then they're going to join those pods."
 
-**Insight:** The next generation of product talent should be onboarded as 'Full Stack Builders' who are cross-trained in engineering, design, and product management from day one.
+**洞察：** 下一代 product talent 应作为 'Full Stack Builders' onboarding，从第一天起就 cross-trained in engineering、design 和 product management。
 
-**Tactical advice:**
-- Replace traditional APM programs with 'Associate Product Builder' tracks
-- Provide rigorous cross-functional training in coding, design, and PM skills for new hires
+**战术建议：**
+- 用 'Associate Product Builder' tracks 替代 traditional APM programs
+- 为 new hires 提供 coding、design 和 PM skills 的 rigorous cross-functional training
 
-*Timestamp: 00:36:14*
+*时间戳：00:36:14*
 
 
 ## Scott Wu
@@ -178,13 +178,13 @@
 
 > "One of the fun use cases that we've seen actually with folks is they'll often actually get Devin's help to onboard new engineers on the team. When you're new and you're joining, there's obviously a lot of questions that you have about the code base... It's nice to just be able to ask Devin and to go through Devin's wiki and to understand these internal representations."
 
-**Insight:** AI agents can serve as a low-friction knowledge base for new hires, allowing them to ask 'dumb' questions without social pressure.
+**洞察：** AI agents 可以作为 new hires 的 low-friction knowledge base，让他们在没有 social pressure 的情况下问 'dumb' questions。
 
-**Tactical advice:**
-- Use AI to index the codebase and create an interactive wiki for new engineers
-- Encourage new hires to use AI tools to explore internal representations and system architecture during their first weeks
+**战术建议：**
+- 使用 AI index codebase，并为 new engineers 创建 interactive wiki
+- 鼓励 new hires 在前几周使用 AI tools 探索 internal representations 和 system architecture
 
-*Timestamp: 00:44:15*
+*时间戳：00:44:15*
 
 
 ## Timothy Davis
@@ -192,13 +192,12 @@
 
 > "I want to try and make that 45 days, if not 30... giving them responsibility early on for something... 'Here's everything we did last additions. This is the results. These are your responsibilities, these are the expectations. Go.'"
 
-**Insight:** Accelerate the onboarding process by providing clear operational cadences and assigning high-stakes ownership immediately.
+**洞察：** 通过提供清晰 operational cadences，并立即分配 high-stakes ownership，加速 onboarding process。
 
-**Tactical advice:**
-- Use an 'ops cadence' spreadsheet to define exactly how often tasks (weekly, bi-weekly, monthly) should be performed
-- Assign a specific campaign or project ownership within the first few weeks to drive immediate impact
-- Conduct 'over-the-shoulder' screen-sharing sessions to demonstrate efficient workflows
+**战术建议：**
+- 使用 'ops cadence' spreadsheet 精确定义 tasks 应该以什么频率执行（weekly、bi-weekly、monthly）
+- 在前几周内分配 specific campaign 或 project ownership，以驱动 immediate impact
+- 进行 'over-the-shoulder' screen-sharing sessions，展示 efficient workflows
 
-*Timestamp: 01:21:14*
-
+*时间戳：01:21:14*
 

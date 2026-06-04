@@ -1,6 +1,6 @@
-# Scoping & Cutting - All Guest Insights
+# Scoping & Cutting - 所有嘉宾洞察
 
-*15 guests, 19 mentions*
+*15 位嘉宾，19 次提及*
 
 ---
 
@@ -9,13 +9,13 @@
 
 > "A lot of jargon that I like to use to emphasize what we should be striving for is building a minimum lovable product and then building a lovable product and then building an absolutely lovable product. So I took that jargon with me in the company name."
 
-**Insight:** Shift the focus from 'Minimum Viable Product' to 'Minimum Lovable Product' to ensure the initial release resonates emotionally with users.
+**洞察：** 将 focus 从 'Minimum Viable Product' 转向 'Minimum Lovable Product'，确保 initial release 能与 users 产生情感共鸣。
 
-**Tactical advice:**
-- Aim for 'lovability' rather than just 'viability' in early versions
-- Iterate from Minimum Lovable to Absolutely Lovable
+**战术建议：**
+- 在 early versions 中追求 'lovability'，而不只是 'viability'
+- 从 Minimum Lovable 迭代到 Absolutely Lovable
 
-*Timestamp: 00:00:31*
+*时间戳：00:00:31*
 
 
 ## Crystal W
@@ -23,14 +23,14 @@
 
 > "It's really this Wizard of Oz experience. We don't have to build anything. I coordinated with a bunch of interns and we were able to validate some of the value prop and conversion rates that we would expect in a subscription service."
 
-**Insight:** Use manual 'Wizard of Oz' testing to validate product value propositions before investing in engineering resources.
+**洞察：** 在投入 engineering resources 前，使用 manual 'Wizard of Oz' testing 验证 product value propositions。
 
-**Tactical advice:**
-- Use WhatsApp groups to manually simulate automated features
-- Test onboarding flows using simple in-app message overlays on existing screens
-- Use Typeform for quick feature validation like personality quizzes
+**战术建议：**
+- 使用 WhatsApp groups 手动模拟 automated features
+- 在 existing screens 上使用 simple in-app message overlays 测试 onboarding flows
+- 使用 Typeform 快速验证 personality quizzes 等 features
 
-*Timestamp: 00:14:46*
+*时间戳：00:14:46*
 
 
 ## Daniel Lereya
@@ -38,13 +38,13 @@
 
 > "I really love using the deadline trap and it makes you focused... It removes all the theoretical discussions that people have and things like that."
 
-**Insight:** Setting hard time-boxes (traps) forces teams to prioritize the core value and prevents 'death by a thousand cuts' from over-engineering.
+**洞察：** 设置 hard time-boxes（traps）会迫使 teams 优先考虑 core value，并防止 over-engineering 带来的 'death by a thousand cuts'。
 
-**Tactical advice:**
-- Set a fixed deadline (e.g., 3 weeks) and cut scope to fit the time rather than extending the date
-- Use external events like earnings calls as 'traps' to force product delivery
+**战术建议：**
+- 设置 fixed deadline（例如 3 周），通过 cut scope 适配时间，而不是延长日期
+- 使用 earnings calls 等 external events 作为 'traps'，迫使 product delivery
 
-*Timestamp: 00:53:48*
+*时间戳：00:53:48*
 
 
 ## Dharmesh Shah
@@ -52,12 +52,12 @@
 
 > "we had a rule in the HubSpot product... that every time you added what we thought of as a knob or dial, called a feature, you had to take one out somewhere else. That's a net amount of... it just at least forces you to think about it"
 
-**Insight:** To fight product entropy, enforce a 'one-in, one-out' rule for features to keep complexity constant.
+**洞察：** 为对抗 product entropy，对 features 执行 'one-in, one-out' rule，保持 complexity constant。
 
-**Tactical advice:**
-- Evaluate the 'third-order' cost of a feature: the dimensional complexity it adds to every future decision and chart.
+**战术建议：**
+- 评估 feature 的 'third-order' cost：它给未来每个 decision 和 chart 增加的 dimensional complexity。
 
-*Timestamp: 00:41:00*
+*时间戳：00:41:00*
 
 
 ## Eeke de Milliano
@@ -65,13 +65,13 @@
 
 > "Build the scooter, not the axle. So if you're trying to build the minimum viable product for a car, don't build just the wheels and the axle, build the scooter first. And then from there, you build the bicycle, and the motorcycle, and then the car."
 
-**Insight:** An MVP should be a functional, end-to-end version of a smaller value proposition, not an incomplete piece of a larger one.
+**洞察：** MVP 应该是较小 value proposition 的 functional、end-to-end version，而不是更大产品的不完整 piece。
 
-**Tactical advice:**
-- Identify the smallest 'slice' that allows a customer to complete a valuable task
-- Ensure the MVP is a standalone functional product (the 'scooter') rather than a component (the 'axle')
+**战术建议：**
+- 识别能让 customer 完成 valuable task 的最小 'slice'
+- 确保 MVP 是 standalone functional product（'scooter'），而不是 component（'axle'）
 
-*Timestamp: 00:47:34*
+*时间戳：00:47:34*
 
 
 ## Eric Ries
@@ -79,27 +79,27 @@
 
 > "MVP is simply for whatever the hypothesis is that we're trying to test, what is the most efficient way to get the validation we need about whether a hypothesis is true or not?"
 
-**Insight:** An MVP is a validation tool for a specific hypothesis, not just a low-quality version of a product.
+**洞察：** MVP 是 specific hypothesis 的 validation tool，而不只是 product 的 low-quality version。
 
-**Tactical advice:**
-- Identify the core hypothesis first
-- Determine the most efficient way to get validation
-- Contain the liability of making a mistake
+**战术建议：**
+- 先识别 core hypothesis
+- 确定获得 validation 的最高效方式
+- 控制犯错带来的 liability
 
-*Timestamp: 00:28:22*
+*时间戳：00:28:22*
 
 ---
 
 > "The first tip is, write out the list of features that are necessary in your MVP. Cut it in half and cut it in half again and build that. Honestly, if you just do that, that's really not that bad."
 
-**Insight:** Founders consistently overestimate what is 'minimum' for an MVP; aggressive cutting is required to reach a true baseline.
+**洞察：** Founders 总是高估 MVP 中什么才是 'minimum'；要达到 true baseline，必须 aggressive cutting。
 
-**Tactical advice:**
-- List all features deemed 'necessary'
-- Cut the list in half
-- Cut the remaining list in half again
+**战术建议：**
+- 列出所有被认为 'necessary' 的 features
+- 把 list 砍半
+- 再把剩余 list 砍半
 
-*Timestamp: 00:43:02*
+*时间戳：00:43:02*
 
 
 ## Jackson Shuttleworth
@@ -107,13 +107,13 @@
 
 > "We really resist the urge to do the big V1. And I think this is, I shared the streak goal example, where, a lot of times when we're exploring something we will say, okay, well, that's cool, how do we strip away a bunch of stuff and figure out what our core hypothesis is? And then, just ship that thing first as a V1."
 
-**Insight:** Shipping the simplest possible version of a hypothesis allows for faster learning and avoids 'whistle' bias.
+**洞察：** Shipping hypothesis 的 simplest possible version 可以更快 learning，并避免 'whistle' bias。
 
-**Tactical advice:**
-- Strip away all non-essential features to isolate the core hypothesis.
-- Avoid adding 'bells and whistles' to a V1 just to ensure it wins; test the core mechanic first.
+**战术建议：**
+- 去掉所有 non-essential features，隔离 core hypothesis。
+- 避免为了确保 V1 获胜而添加 'bells and whistles'；先测试 core mechanic。
 
-*Timestamp: 01:10:44*
+*时间戳：01:10:44*
 
 
 ## Jason Fried
@@ -121,27 +121,27 @@
 
 > "We instead have appetites. And our appetite for any individual feature is no more than six weeks. Essentially that's our budget we're willing to spend. I'm only willing to spend six weeks in any feature. So we have to figure out the simplest, most effective version of that to get that done within six weeks and get it done by two people."
 
-**Insight:** Use a fixed time budget (an 'appetite') rather than an estimate to force the team to find the simplest, most effective version of a feature.
+**洞察：** 使用 fixed time budget（'appetite'）而不是 estimate，迫使 team 找到 feature 最简单、最有效的版本。
 
-**Tactical advice:**
-- Set a hard maximum of six weeks for any feature development
-- Treat time as a budget to be spent rather than a deadline to be estimated
-- Limit team size to two people (one designer, one programmer) to maintain focus
+**战术建议：**
+- 为任何 feature development 设置六周 hard maximum
+- 把 time 当作要花费的 budget，而不是要 estimate 的 deadline
+- 将 team size 限制为两人（one designer、one programmer）以保持 focus
 
-*Timestamp: 00:34:21*
+*时间戳：00:34:21*
 
 ---
 
 > "If we say we're going to give it six weeks and we give it seven or eight or nine or 10, then we're not really giving it six weeks, we're giving it 10, then we don't really have a system... If there's any work that's left over that's still on the left side of the hill, meaning we're still pushing it up, we don't know how we're going to do it and we're at our time limit, it almost certainly dies."
 
-**Insight:** Maintain the integrity of time constraints by killing projects that aren't completed within their allotted 'appetite' window.
+**洞察：** 对未在 allotted 'appetite' window 内完成的 projects 直接 kill，以维持 time constraints 的 integrity。
 
-**Tactical advice:**
-- Let projects 'die' if they aren't finished in the cycle to prevent never-ending work
-- Only grant extensions of a few days if the work is in the final execution phase ('downhill')
-- Avoid the demoralization of long-running projects by enforcing strict cycle ends
+**战术建议：**
+- 如果 projects 没在 cycle 内完成，就让它们 'die'，防止 never-ending work
+- 只有当 work 已处于 final execution phase（'downhill'）时，才允许几天 extensions
+- 通过执行 strict cycle ends，避免 long-running projects 带来的 demoralization
 
-*Timestamp: 00:36:27*
+*时间戳：00:36:27*
 
 
 ## Matt LeMay
@@ -149,13 +149,13 @@
 
 > "And they did get it done, and they got it done through subtracting. They streamlined the experience. They took out steps that people were getting stuck on. They made things easier. They did the kinds of things that are rarely celebrated in the way that traditional feature launches were celebrated, but because they had this clear, impactful, specific sense of what success looks like, they were able to take on that work themselves"
 
-**Insight:** Impact is often achieved through subtraction and streamlining rather than adding new features.
+**洞察：** Impact 往往通过 subtraction 和 streamlining 实现，而不是 adding new features。
 
-**Tactical advice:**
-- Look for steps in the user journey to remove rather than features to add.
-- Focus on the 'commercial heart' of the business (e.g., the first successful action) when deciding what to cut.
+**战术建议：**
+- 寻找 user journey 中可以 remove 的 steps，而不是要 add 的 features。
+- 决定 cut 什么时，聚焦 business 的 'commercial heart'（例如 first successful action）。
 
-*Timestamp: 00:32:15*
+*时间戳：00:32:15*
 
 
 ## Ronny Kohavi
@@ -163,13 +163,13 @@
 
 > "Try to decompose your redesign if you can't decompose it to one factor at a time, to a small set of factors at a time. And learn from these smaller changes what works and what doesn't. ... Do them in smaller increments, learn from, it's called OFAT one-factor-at-a-time. Do one factor, learn from it, and adjust."
 
-**Insight:** Decompose large redesigns into 'One Factor At a Time' (OFAT) increments to avoid the risk of a single massive failure.
+**洞察：** 将 large redesigns 分解成 'One Factor At a Time'（OFAT）increments，避免单次 massive failure 风险。
 
-**Tactical advice:**
-- Break down complex projects into smaller, testable increments
-- Use incremental testing to identify which specific changes in a redesign are actually providing value
+**战术建议：**
+- 将 complex projects 拆成 smaller、testable increments
+- 使用 incremental testing 识别 redesign 中哪些 specific changes 真正提供 value
 
-*Timestamp: 00:38:42*
+*时间戳：00:38:42*
 
 
 ## Ryan Singer
@@ -177,37 +177,37 @@
 
 > "We’re going to go the other way around and we’re going to say, what is the maximum amount of time we’re willing to go before we actually finish something? How do we come up with a idea that’s going to work in the amount of time that the business is interested in spending?"
 
-**Insight:** Instead of estimating how long a feature will take, set a fixed time budget (appetite) and design a version of the solution that fits within it.
+**洞察：** 不要 estimate feature 要花多久；设定 fixed time budget（appetite），并设计一个能 fit 的 solution version。
 
-**Tactical advice:**
-- Set a maximum time limit (e.g., six weeks) for any project to maintain visibility and control.
-- Vary the scope of the solution rather than the deadline to ensure shipping.
+**战术建议：**
+- 为任何 project 设置 maximum time limit（例如六周），保持 visibility 和 control。
+- 改变 solution scope，而不是 deadline，以确保 shipping。
 
-*Timestamp: 00:00:37*
+*时间戳：00:00:37*
 
 ---
 
 > "The second piece is this work that we call shaping and the shaping work is, how do we actually take this fixed amount of time that we’ve given for ourselves and vary the scope? How do we come up with a idea, some version of this that’s going to work in the amount of time that the business is interested in spending?"
 
-**Insight:** Shaping is the creative process of adjusting a solution's complexity to match the available time budget.
+**洞察：** Shaping 是调整 solution complexity 以匹配 available time budget 的 creative process。
 
-**Tactical advice:**
-- Wrestle with the problem and solution simultaneously until the idea fits the time box.
-- Identify the 'must-have' moving parts that make the feature valuable and cut the rest.
+**战术建议：**
+- 同时 wrestle with problem 和 solution，直到 idea fit time box。
+- 识别让 feature 有价值的 'must-have' moving parts，并 cut the rest。
 
-*Timestamp: 00:21:07*
+*时间戳：00:21:07*
 
 ---
 
 > "If a project is not on track to actually finish after the six weeks, we’re just going to cancel it and rethink... we’re not going to keep reinvesting in something that we don’t understand. So, let’s take this out of build mode and bring this back into shaping mode."
 
-**Insight:** Use a 'circuit breaker' to stop projects that exceed their time box rather than allowing them to drag on indefinitely.
+**洞察：** 使用 'circuit breaker' 停止超出 time box 的 projects，而不是让它们无限期拖延。
 
-**Tactical advice:**
-- If a project fails to ship, return it to the shaping phase to identify hidden complexities.
-- Avoid 'overtime' debt by treating the end of a cycle as a hard stop for reinvestment decisions.
+**战术建议：**
+- 如果 project 未能 ship，就把它退回 shaping phase，识别 hidden complexities。
+- 将 cycle 结束视为 reinvestment decisions 的 hard stop，避免 'overtime' debt。
 
-*Timestamp: 00:31:34*
+*时间戳：00:31:34*
 
 
 ## Sander Schulhoff
@@ -215,13 +215,13 @@
 
 > "Depending on what the user wants, we might be able to restrict the possible actions of the agent ahead of time, so it can't possibly do anything malicious... CAMEL would look at my prompt... and say, 'Hey, it looks like this prompt doesn't need any permissions other than write and send email.'"
 
-**Insight:** The CAMEL framework allows for dynamic scoping of agent permissions based on the specific user intent, reducing the attack surface.
+**洞察：** CAMEL framework 允许基于 specific user intent 动态 scope agent permissions，从而减少 attack surface。
 
-**Tactical advice:**
-- Implement dynamic permissioning to restrict agent actions to the minimum necessary for a specific task
-- Separate 'read' and 'write' permissions to prevent automated data exfiltration
+**战术建议：**
+- 实施 dynamic permissioning，将 agent actions 限制在 specific task 所需的最小范围
+- 分离 'read' 和 'write' permissions，防止 automated data exfiltration
 
-*Timestamp: 01:05:34*
+*时间戳：01:05:34*
 
 
 ## Vijay
@@ -229,13 +229,13 @@
 
 > "Instead of making the estimate an output of planning, you make the time box or an appetite the input, and you say, 'We want to solve X problem and we're willing to invest six weeks solving that problem.'"
 
-**Insight:** Use 'appetite' (fixed time) as an input to force scope-hammering, rather than using variable estimates as an output.
+**洞察：** 使用 'appetite'（fixed time）作为 input，迫使 scope-hammering，而不是把 variable estimates 作为 output。
 
-**Tactical advice:**
-- Set a fixed time box (e.g., 6 weeks) for a problem and adjust scope to fit
-- Perform a thought exercise: 'What would we do differently if we only had 4 weeks vs 8 weeks?' to find the efficient frontier of cost and impact
+**战术建议：**
+- 为 problem 设置 fixed time box（例如 6 周），并调整 scope 以 fit
+- 做一个 thought exercise：'What would we do differently if we only had 4 weeks vs 8 weeks?'，找出 cost 和 impact 的 efficient frontier
 
-*Timestamp: 27:23*
+*时间戳：27:23*
 
 
 ## Zoelle Egner
@@ -243,14 +243,14 @@
 
 > "The power of having a laughably small MVP for something... In the beginning it was truly, basically, a spreadsheet, and phones, and that was it. Even that... not only had tremendous impact... but also gave us so much information about we actually needed to build that was going to be helpful."
 
-**Insight:** Starting with the smallest possible infrastructure allows for rapid learning and prevents building based on incorrect assumptions.
+**洞察：** 从 smallest possible infrastructure 开始，可以 rapid learning，并防止基于 incorrect assumptions 去 build。
 
-**Tactical advice:**
-- Use existing simple tools (spreadsheets, phones) to validate a concept before building custom software
-- Focus on the core utility that provides immediate impact
-- Prune features aggressively to maintain agility as requirements change
+**战术建议：**
+- 在 building custom software 前，使用 existing simple tools（spreadsheets、phones）验证 concept
+- 聚焦能提供 immediate impact 的 core utility
+- 随 requirements 变化 aggressive prune features，以保持 agility
 
-*Timestamp: 00:15:51*
+*时间戳：00:15:51*
 
 
 ## Paige Costello
@@ -258,12 +258,11 @@
 
 > "We added into our product process a notion that we might pivot or cut from stuff that we put on our roadmap because it felt like once it was on the roadmap, it had to be done, and that's just not smart."
 
-**Insight:** Explicitly build the option to pivot or cut features into the product process to avoid the 'sunk cost' fallacy of roadmaps.
+**洞察：** 将 pivot 或 cut features 的 option 显式内置到 product process 中，避免 roadmap 的 'sunk cost' fallacy。
 
-**Tactical advice:**
-- Formalize a process step where teams can decide to cut or pivot from items already on the roadmap.
-- Encourage iterative shipping and prototyping to validate scope early.
+**战术建议：**
+- Formalize 一个 process step，让 teams 可以决定 cut 或 pivot 已经在 roadmap 上的 items。
+- 鼓励 iterative shipping 和 prototyping，尽早 validate scope。
 
-*Timestamp: 00:10:38*
-
+*时间戳：00:10:38*
 

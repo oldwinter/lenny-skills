@@ -1,28 +1,28 @@
-# Contributing to Lenny's Product Skills
+# 为 Lenny's Product Skills 做贡献
 
-Thanks for your interest in improving these skills! This guide will help you contribute effectively.
+感谢你有兴趣改进这些 skills！这份指南会帮助你更有效地贡献。
 
-## Ways to Contribute
+## 贡献方式
 
-### 1. Fix Errors or Outdated Information
-- Incorrect attributions
-- Outdated frameworks
-- Typos or formatting issues
+### 1. 修复错误或过时信息
+- 不准确的出处归因
+- 过时的框架
+- 拼写错误或格式问题
 
-### 2. Improve Existing Skills
-- Add missing frameworks from podcast episodes
-- Make advice more actionable and specific
-- Add better diagnostic questions
-- Improve the "Common Mistakes to Flag" section
+### 2. 改进已有 Skills
+- 补充 podcast 节目中的缺失框架
+- 让建议更可执行、更具体
+- 增加更好的诊断问题
+- 改进 "Common Mistakes to Flag" 部分
 
-### 3. Add New Skills
-- Skills should be based on insights from Lenny's Podcast guests
-- Must have at least 3-5 substantive principles with attribution
-- Should be actionable, not just informational
+### 3. 新增 Skills
+- Skills 应基于 Lenny's Podcast 嘉宾的洞察
+- 至少包含 3-5 条有实质内容且带归因的原则
+- 应该可执行，而不只是提供信息
 
-## Skill File Format
+## Skill 文件格式
 
-Each skill lives in `skills/{skill-name}/SKILL.md`:
+每个 skill 位于 `skills/{skill-name}/SKILL.md`：
 
 ```markdown
 ---
@@ -71,47 +71,47 @@ For all [N] insights from [M] guests, see `references/guest-insights.md`
 - [Related skill 2]
 ```
 
-## Quality Standards
+## 质量标准
 
 ### Descriptions
-- Start with "Help users [verb]"
-- Include specific trigger phrases: "Use when someone is..."
-- Keep under 200 characters
+- 以 "Help users [verb]" 开头
+- 包含具体触发语，例如 "Use when someone is..."
+- 控制在 200 个字符以内
 
 ### Principles
-- Always attribute to a specific guest
-- Include direct quotes where possible
-- Add actionable guidance after the quote
-- Aim for 5-15 principles per skill
+- 始终归因到具体嘉宾
+- 尽可能包含直接引用
+- 在 quote 后添加可执行指导
+- 每个 skill 目标为 5-15 条原则
 
 ### Questions
-- Should be diagnostic, not leading
-- Help Claude understand the user's specific situation
-- Should be questions Claude would actually ask
+- 应该是诊断型问题，而不是诱导型问题
+- 帮助 Claude 理解用户的具体处境
+- 应该是 Claude 实际会问的问题
 
 ### Common Mistakes
-- Should be specific, observable patterns
-- Include why it's problematic
-- Suggest what to do instead
+- 应该是具体、可观察的模式
+- 说明为什么有问题
+- 建议替代做法
 
-## Pull Request Process
+## Pull Request 流程
 
-1. Fork the repository
-2. Create a branch: `git checkout -b improve-skill-name`
-3. Make your changes
-4. Test by copying to `.claude/skills/` and trying it
-5. Submit a PR with:
-   - What you changed
-   - Why (reference podcast episode if adding new content)
-   - How you tested it
+1. Fork 本仓库
+2. 创建分支：`git checkout -b improve-skill-name`
+3. 完成修改
+4. 复制到 `.claude/skills/` 并实际试用
+5. 提交 PR，并说明：
+   - 你改了什么
+   - 为什么改（如果新增内容，请引用 podcast episode）
+   - 你如何测试
 
 ## Code of Conduct
 
-- Be respectful and constructive
-- Attribute sources accurately
-- Focus on actionable, practical advice
-- Keep the user's success as the priority
+- 保持尊重和建设性
+- 准确标注来源
+- 聚焦可执行、实用的建议
+- 把用户成功作为优先级
 
-## Questions?
+## 有问题？
 
-Open an issue if you're unsure about anything!
+如果有不确定的地方，请打开 issue！

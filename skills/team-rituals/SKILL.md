@@ -1,60 +1,60 @@
 ---
 name: team-rituals
-description: Help users design effective team rituals. Use when someone is building team culture, creating recurring team practices, trying to improve team communication, or establishing operational rhythms for their organization.
+description: 帮助用户设计有效 team rituals。Use when someone is building team culture, creating recurring team practices, trying to improve team communication, or establishing operational rhythms for their organization.
 ---
 
 # Designing Team Rituals
 
-Help the user design effective team rituals using frameworks and insights from 2 product leaders.
+使用来自 2 位产品领导者的框架和洞察，帮助用户设计有效 team rituals。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with team rituals:
+当用户请求 team rituals 相关帮助时：
 
-1. **Understand the goal** - Ask what behavior or outcome they want the ritual to drive
-2. **Apply the golden rituals framework** - Ensure rituals are named, templated, and known by every employee's first Friday
-3. **Design for specificity** - Help create rituals that go beyond generic meetings to drive specific outcomes
-4. **Plan for adoption** - Discuss how the ritual will be introduced and maintained over time
+1. **理解 goal** - 询问他们希望 ritual 驱动什么 behavior 或 outcome
+2. **应用 golden rituals framework** - 确保 rituals 有名称、有 template，并且每位员工在 first Friday 前都知道
+3. **为 specificity 设计** - 帮助创建超越 generic meetings、能驱动 specific outcomes 的 rituals
+4. **规划 adoption** - 讨论如何引入并长期维护这个 ritual
 
-## Core Principles
+## 核心原则
 
-### Great companies have a small list of golden rituals
-Shishir Mehrotra: "Great companies have a very small list of golden rituals. And there are three rules: they're named, every employee knows them by their first Friday, and they're templated." Rituals are the primary vehicle for culture and operational efficiency.
+### Great companies 有一小组 golden rituals
+Shishir Mehrotra: "Great companies have a very small list of golden rituals. And there are three rules: they're named, every employee knows them by their first Friday, and they're templated." Rituals 是 culture 和 operational efficiency 的主要载体。
 
-### Rituals are the engine of a great team
-Lane Shackleton: "The rituals that I've been writing down are very personal. They're my take on how to do this." Go beyond simple meeting management to create rituals like Catalyst sessions, Dory Q&A, Tag-ups, and Flash Tags that serve specific purposes.
+### Rituals 是 great team 的 engine
+Lane Shackleton: "The rituals that I've been writing down are very personal. They're my take on how to do this." 超越 simple meeting management，创建服务 specific purposes 的 rituals，例如 Catalyst sessions、Dory Q&A、Tag-ups 和 Flash Tags。
 
 ### Name your rituals
-A named ritual becomes a shared concept that can be referenced and improved. "Let's do a Catalyst" is more powerful than "let's brainstorm" because it carries specific expectations.
+有名称的 ritual 会变成可被引用和改进的 shared concept。"Let's do a Catalyst" 比 "let's brainstorm" 更有力量，因为它携带了 specific expectations。
 
 ### Template your rituals
-Provide structure so anyone can run the ritual consistently. Templates reduce friction and ensure quality even when the ritual creator isn't present.
+提供 structure，让任何人都能 consistent 地运行 ritual。Templates 会减少 friction，并确保即使 ritual creator 不在场，quality 也能保持。
 
-### Teach rituals early
-If a new employee doesn't learn your golden rituals in their first week, they'll develop their own habits that may not align with team culture.
+### 早期教授 rituals
+如果 new employee 第一周没有学会你的 golden rituals，他们会发展自己的 habits，而这些 habits 可能与 team culture 不一致。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What outcome are you trying to drive with this ritual?"
-- "What will you call this ritual - what's its name?"
-- "Can someone run this ritual with just a template, without you being present?"
-- "How will new team members learn this ritual in their first week?"
-- "Is this ritual solving a real problem, or is it just another meeting?"
-- "What existing rituals could this replace or enhance?"
+- "你想用这个 ritual 驱动什么 outcome？"
+- "你会把这个 ritual 叫作什么？它的 name 是什么？"
+- "没有你在场时，别人能否只靠 template 运行这个 ritual？"
+- "新 team members 如何在第一周学会这个 ritual？"
+- "这个 ritual 是在解决 real problem，还是只是 another meeting？"
+- "它可以 replace 或 enhance 哪些 existing rituals？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Too many rituals** - Great companies have a small list of golden rituals, not dozens of meetings
-- **Unnamed rituals** - Without a name, a ritual can't become part of the culture's vocabulary
-- **No template** - Rituals without structure degrade in quality over time
-- **Late introduction** - Rituals learned after someone's first week are much harder to adopt
-- **Generic meetings disguised as rituals** - A ritual should have a specific purpose beyond "staying aligned"
+- **Too many rituals** - Great companies 有一小组 golden rituals，而不是几十个 meetings
+- **Unnamed rituals** - 没有 name，ritual 就无法成为 culture vocabulary 的一部分
+- **No template** - 没有 structure 的 rituals 会随时间 quality degradation
+- **Late introduction** - 第一周之后才学到的 rituals，更难 adopt
+- **Generic meetings disguised as rituals** - Ritual 应该有超越 "staying aligned" 的 specific purpose
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Running Effective Meetings
 - Building Team Culture

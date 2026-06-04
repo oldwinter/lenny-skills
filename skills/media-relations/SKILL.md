@@ -1,55 +1,55 @@
 ---
 name: media-relations
-description: Help users build relationships with journalists and get press coverage. Use when someone is pitching reporters, preparing for media outreach, trying to get press coverage, or managing ongoing journalist relationships.
+description: 帮助用户与 journalists 建立关系并获得 press coverage。Use when someone is pitching reporters, preparing for media outreach, trying to get press coverage, or managing ongoing journalist relationships.
 ---
 
 # Media Relations
 
-Help the user build effective relationships with journalists and secure press coverage using insights from 2 product leaders.
+使用来自 2 位产品领导者的洞察，帮助用户与 journalists 建立有效关系，并获得 press coverage。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with media relations:
+当用户请求 media relations 相关帮助时：
 
-1. **Understand their goal** - Ask what kind of coverage they're seeking (launch announcement, thought leadership, feature story) and what stage they're at
-2. **Prepare the story** - Help them craft a compelling angle that's newsworthy, not just promotional
-3. **Identify the right targets** - Guide them on finding the right reporters and publications for their story
-4. **Execute the pitch** - Help them write effective pitches and manage the outreach process
+1. **理解目标** - 询问他们想获得哪类 coverage（launch announcement、thought leadership、feature story）以及当前所处阶段
+2. **准备 story** - 帮助他们打磨有吸引力、newsworthy，而不是单纯 promotional 的 angle
+3. **识别正确 targets** - 指导他们为自己的 story 找到合适 reporters 和 publications
+4. **执行 pitch** - 帮助他们撰写有效 pitches，并管理 outreach process
 
-## Core Principles
+## 核心原则
 
-### Offer exclusives, pitched one at a time
-Emilie Gerber: "I stagger it because we're offering exclusives, and I highly recommend offering exclusives." Don't blast your story to every reporter simultaneously. Offer an exclusive to your top target, wait for their response, then move to the next.
+### 提供 exclusives，并一次 pitch 一个
+Emilie Gerber: "I stagger it because we're offering exclusives, and I highly recommend offering exclusives." 不要把 story 同时群发给所有 reporters。先向 top target 提供 exclusive，等待回复后再移到下一个。
 
-### Follow the prep-target-pitch framework
-Jason Feifer: "Step one is prep... Step two is figuring out who to pitch... Step three is the actual pitch." Preparation means having your story, angles, and assets ready. Targeting means finding reporters who actually cover your space. Pitching means concise, relevant outreach.
+### 遵循 prep-target-pitch framework
+Jason Feifer: "Step one is prep... Step two is figuring out who to pitch... Step three is the actual pitch." Preparation 意味着 story、angles 和 assets 都准备好。Targeting 意味着找到真正覆盖你领域的 reporters。Pitching 意味着 concise、relevant outreach。
 
-### Build relationships before you need them
-The best media relationships are built over time, not when you need coverage. Engage with journalists' work, provide helpful information even when you don't have news, and become a trusted source.
+### 在需要 coverage 前先建立关系
+最好的 media relationships 是长期建立的，而不是需要 coverage 时才开始。参与 journalists 的作品讨论，即使没有 news 也提供有帮助的信息，成为 trusted source。
 
-### Think about what's interesting to readers, not you
-Reporters care about their readers, not your company. Frame your story around trends, problems, or insights that their audience cares about. Your product is the supporting detail, not the headline.
+### 思考 readers 觉得什么有趣，而不是你觉得什么有趣
+Reporters 关心他们的 readers，而不是你的公司。围绕他们 audience 关心的 trends、problems 或 insights 来 frame story。你的 product 是 supporting detail，不是 headline。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What's the angle that makes this newsworthy beyond just being your announcement?"
-- "Who are the specific reporters who cover companies like yours? Have you read their recent work?"
-- "Do you have assets ready - images, quotes, data - that make the reporter's job easier?"
-- "Are you offering this as an exclusive? Who's your top target outlet?"
-- "What's your timeline? Do you have flexibility to work with the reporter's schedule?"
+- "除了这是你的 announcement，还有什么 angle 让它 newsworthy？"
+- "哪些具体 reporters 会覆盖像你这样的公司？你读过他们最近的作品吗？"
+- "你是否准备好了 images、quotes、data 等能让 reporter 工作更容易的 assets？"
+- "你是把它作为 exclusive 提供吗？你的 top target outlet 是谁？"
+- "你的 timeline 是什么？是否有弹性配合 reporter schedule？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Mass pitching** - Sending the same pitch to dozens of reporters signals you don't understand how press works. Pitch one at a time with exclusives
-- **Leading with the company, not the story** - Reporters don't care about your funding or launch. They care about what's interesting to their readers
-- **Rigid timelines** - Prioritize getting the right coverage over hitting an arbitrary date. Be flexible with reporter schedules
-- **No preparation** - Having to scramble for images, quotes, or details after a reporter expresses interest signals you're not ready
+- **Mass pitching** - 给几十个 reporters 发同一份 pitch，会显示你不理解 press 如何运作。用 exclusives 一次 pitch 一个
+- **以 company 开头，而不是 story** - Reporters 不关心你的 funding 或 launch，他们关心 readers 会觉得什么有趣
+- **Rigid timelines** - 优先获得正确 coverage，而不是满足任意日期。对 reporter schedules 保持弹性
+- **No preparation** - Reporter 表示兴趣后才临时找 images、quotes 或 details，会显示你还没准备好
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Launch Marketing
 - Positioning & Messaging

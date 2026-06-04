@@ -1,6 +1,6 @@
-# AI Evaluation (Evals) - All Guest Insights
+# AI Evaluation (Evals) - 所有嘉宾洞察
 
-*2 guests, 2 mentions*
+*2 位嘉宾，2 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "Both the chief product officers of Anthropic and OpenAI shared that evals are becoming the most important new skill for product builders."
 
-**Insight:** The guests explicitly define this as a 'new skill' that is distinct from traditional software testing or general AI strategy. It involves a specific multi-step workflow (Error Analysis, Open Coding, A
+**洞察：** 这些嘉宾明确把它定义为一项不同于 traditional software testing 或 general AI strategy 的 'new skill'。它包含特定 multi-step workflow（Error Analysis、Open Coding、A
 
 
 ## Brendan Foody
@@ -17,6 +17,5 @@
 
 > "If the model is the product, then the eval is the product requirement document."
 
-**Insight:** The guest explicitly states we are entering the 'era of evals' and describes it as a core bottleneck for AI labs. It involves creating rubrics, benchmarks, and systematic tests to measure model capabi
-
+**洞察：** 这位嘉宾明确指出我们正在进入 'era of evals'，并把它描述为 AI labs 的 core bottleneck。它涉及创建 rubrics、benchmarks 和 systematic tests，用来衡量 model capabi
 

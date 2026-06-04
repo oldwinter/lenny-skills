@@ -1,6 +1,6 @@
-# Running Offsites - All Guest Insights
+# Running Offsites - 所有嘉宾洞察
 
-*5 guests, 5 mentions*
+*5 位嘉宾，5 次提及*
 
 ---
 
@@ -9,13 +9,13 @@
 
 > "we've actually instituted with something we call bursts. So bursts at Shopify are the ability for your team generally maybe once a quarter or whatnot, to just come together to do really high velocity creative work together, to hang out together."
 
-**Insight:** Remote-first companies should use short, high-intensity in-person 'bursts' to handle creative work that is difficult to do asynchronously.
+**洞察：** Remote-first companies 应该使用短而 high-intensity 的线下 'bursts'，处理那些很难异步完成的 creative work。
 
-**Tactical advice:**
-- Schedule quarterly in-person sessions for high-velocity creative work
-- Build or use infrastructure to make booking and logistics for these 'bursts' frictionless
+**战术建议：**
+- 为 high-velocity creative work 安排 quarterly in-person sessions
+- 构建或使用 infrastructure，让这些 'bursts' 的 booking 和 logistics frictionless
 
-*Timestamp: 20:31*
+*时间戳：20:31*
 
 
 ## Claire Hughes Johnson
@@ -23,13 +23,13 @@
 
 > "When you yank people out of their day-to-day routine, you create space, and also you imprint memory... you're basically activating new parts of their brain, and then you're also having a group experience that cements a belief system usually, or a set of plans."
 
-**Insight:** Offsites are essential for creating mental space and imprinting collective memory that cements team alignment.
+**洞察：** Offsites 对创造 mental space、留下 collective memory 并巩固 team alignment 至关重要。
 
-**Tactical advice:**
-- Remove the team from day-to-day routines like email to focus on brainstorming
-- Use offsites to collaboratively form plans rather than presenting pre-made ones
+**战术建议：**
+- 让 team 暂时离开 email 等 day-to-day routines，专注 brainstorming
+- 用 offsites collaborative form plans，而不是展示 pre-made plans
 
-*Timestamp: 01:12:53*
+*时间戳：01:12:53*
 
 
 ## Donna Lichaw
@@ -37,12 +37,12 @@
 
 > "They pulled me aside halfway through the offsite, and they were just like, 'Honestly, storytelling is not going to fix our problems. This is silly.' And what they were able to tell me is that their leaders wanted them to be more effective by having greater influence... what was happening on the ground with these executives was that they were all fighting."
 
-**Insight:** Offsites focused on soft skills like storytelling may fail if there are underlying interpersonal conflicts or a lack of genuine influence among leadership.
+**洞察：** 如果 leadership 之间存在 underlying interpersonal conflicts 或缺乏 genuine influence，聚焦 storytelling 等 soft skills 的 offsites 可能会失败。
 
-**Tactical advice:**
-- Address team conflict and connection before attempting to implement storytelling or influence workshops.
+**战术建议：**
+- 在尝试实施 storytelling 或 influence workshops 前，先处理 team conflict 和 connection。
 
-*Timestamp: 00:06:56*
+*时间戳：00:06:56*
 
 
 ## John Mark Nickels
@@ -50,13 +50,13 @@
 
 > "We recently had an all-day Monday thing where eight of us came into the office to talk about future of marketplace, and it was super productive. It was like, laptops down, we're going to spend all day together on a whiteboard. It's like a lost art. People don't use the whiteboards anymore."
 
-**Insight:** Deep strategic work requires 'defragging' the day and removing digital distractions in favor of physical collaboration tools.
+**洞察：** Deep strategic work 需要 'defragging' the day，并移除 digital distractions，转向 physical collaboration tools。
 
-**Tactical advice:**
-- Enforce a 'laptops down' rule for strategic sessions
-- Use physical whiteboards to facilitate co-creation and riffing
+**战术建议：**
+- 在 strategic sessions 中执行 'laptops down' rule
+- 使用 physical whiteboards 促进 co-creation 和 riffing
 
-*Timestamp: 00:32:10*
+*时间戳：00:32:10*
 
 
 ## Megan Cook
@@ -64,13 +64,12 @@
 
 > "One of the other things we do is we get everyone together just like every six months. So all of the product managers get together in the same place and the idea is to have a bit of an onsite. Now we start off with just doing something fun... And then after that we talk about strategy. We do workshops on different elements of craft boosting that craft together."
 
-**Insight:** Use semi-annual offsites to balance social connection with intensive strategy alignment and skill-building workshops.
+**洞察：** 使用 semi-annual offsites 平衡 social connection、intensive strategy alignment 和 skill-building workshops。
 
-**Tactical advice:**
-- Gather remote teams in person at least every six months
-- Start offsites with social activities to build human connection before diving into work
-- Utilize internal experts to teach specific craft skills (e.g., growth hypotheses) to the broader team
+**战术建议：**
+- 至少每六个月让 remote teams 线下聚一次
+- 在进入工作前，用 social activities 开场，建立 human connection
+- 利用 internal experts 向 broader team 教授 specific craft skills（例如 growth hypotheses）
 
-*Timestamp: 00:10:29*
-
+*时间戳：00:10:29*
 

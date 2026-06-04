@@ -1,6 +1,6 @@
-# Designing Team Rituals - All Guest Insights
+# Designing Team Rituals - 所有嘉宾洞察
 
-*2 guests, 2 mentions*
+*2 位嘉宾，2 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "I think the rituals that I've been writing down are very personal. They're my take on how to do this."
 
-**Insight:** The guest argues that rituals are the 'engine' of a great team and discusses several specific ones (Catalyst, Dory, Tag-ups, Flash Tags) that go beyond simple meeting management or culture building.
+**洞察：** 这位嘉宾认为 rituals 是 great team 的 'engine'，并讨论了几个超越 simple meeting management 或 culture building 的具体 rituals（Catalyst、Dory、Tag-ups、Flash Tags）。
 
 
 ## Shishir Mehrotra
@@ -17,6 +17,5 @@
 
 > "Great companies has a very small list of golden rituals. And there are three rules of golden rituals. Number one, they're named. Number two, every employee knows them by their first Friday and, number three, they're templated."
 
-**Insight:** The guest provides a specific framework for 'Golden Rituals' (Named, Templated, Known by First Friday) and discusses how they are the primary vehicle for culture and operational efficiency.
-
+**洞察：** 这位嘉宾提供了 'Golden Rituals' 的具体框架（Named、Templated、Known by First Friday），并讨论它们如何成为 culture 和 operational efficiency 的主要载体。
 

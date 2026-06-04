@@ -1,56 +1,56 @@
 ---
 name: personal-productivity
-description: Help users manage their time and tasks more effectively. Use when someone is overwhelmed with work, struggling with focus, trying to balance multiple responsibilities, or asking how to get more done.
+description: 帮助用户更有效地管理时间和任务。Use when someone is overwhelmed with work, struggling with focus, trying to balance multiple responsibilities, or asking how to get more done.
 ---
 
 # Personal Productivity
 
-Help the user manage their time and tasks more effectively using techniques from 2 product leaders.
+使用来自 2 位产品领导者的技巧，帮助用户更有效地管理时间和任务。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with personal productivity:
+当用户请求 personal productivity 相关帮助时：
 
-1. **Understand their situation** - Ask what's overwhelming them, how they currently manage their time, and what outcomes they're trying to achieve
-2. **Identify the bottleneck** - Determine if the issue is prioritization, focus, energy management, or too many commitments
-3. **Apply practical techniques** - Help them implement time-boxing, task capture systems, or scheduling strategies
-4. **Build sustainable habits** - Focus on systems that can be maintained, not heroic sprints
+1. **理解处境** - 询问是什么让他们 overwhelmed、当前如何管理时间，以及想达成什么 outcomes
+2. **识别 bottleneck** - 判断问题出在 prioritization、focus、energy management，还是 commitments 太多
+3. **应用 practical techniques** - 帮助他们实施 time-boxing、task capture systems 或 scheduling strategies
+4. **建立 sustainable habits** - 聚焦可维持的 systems，而不是 heroic sprints
 
-## Core Principles
+## 核心原则
 
-### Time-box ruthlessly to handle multiple roles
-Gokul Rajaram: "It's really time boxing and knowing. I also do two hours each on both Saturday and Sunday so that I can do four meetings each." When managing a full-time job alongside board seats, investing, or other commitments, assign specific time blocks to specific activities. Protect those blocks.
+### 用 ruthless time-boxing 处理多重 roles
+Gokul Rajaram: "It's really time boxing and knowing. I also do two hours each on both Saturday and Sunday so that I can do four meetings each." 当同时管理 full-time job、board seats、investing 或其他 commitments 时，把 specific time blocks 分配给 specific activities，并保护这些 blocks。
 
-### Write everything down to free your mind
-Maya Prohovnik: "I write everything down because I remember things best when they're written down and then I obsessively put things on my to-do list." Capture tasks and thoughts externally to reduce cognitive load. Your brain is for processing, not storage. An externalized system creates mental clarity.
+### 写下所有东西，释放大脑
+Maya Prohovnik: "I write everything down because I remember things best when they're written down and then I obsessively put things on my to-do list." 将 tasks 和 thoughts 外部化，减少 cognitive load。大脑是用来 processing 的，不是 storage。Externalized system 会创造 mental clarity。
 
-### Your calendar is your strategy made visible
-What you spend time on reflects your real priorities, not your stated ones. Audit your calendar to see if your time allocation matches what you say matters. Block time for the most important work first.
+### Calendar 是可见化的 strategy
+你把时间花在哪里，反映的是你的真实 priorities，而不是你口头说的 priorities。审计 calendar，看看 time allocation 是否匹配你说重要的事。先为最重要工作 block time。
 
-### Energy management matters as much as time management
-Not all hours are equal. Schedule your most cognitively demanding work during your peak energy hours. Use low-energy times for administrative tasks, meetings, or email.
+### Energy management 和 time management 一样重要
+不是所有 hours 都一样。把 cognitively demanding work 安排在 peak energy hours。用 low-energy times 处理 administrative tasks、meetings 或 email。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "Walk me through a typical day - where does your time actually go?"
-- "What's the most important thing you should be doing that's not getting enough time?"
-- "Do you have a system for capturing tasks and ideas, or do you try to remember everything?"
-- "When are your peak energy hours? What do you schedule during that time?"
-- "What commitments are you holding onto that you should let go of?"
+- "带我走一遍 typical day，你的时间实际去了哪里？"
+- "你最应该做、但没有得到足够时间的最重要事情是什么？"
+- "你有捕捉 tasks 和 ideas 的 system，还是试图全靠记忆？"
+- "你的 peak energy hours 是什么时候？你在那段时间安排了什么？"
+- "你抓着哪些 commitments，其实应该放手？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **No external capture system** - Trying to remember everything creates anxiety and drops things. Write it down
-- **Not protecting focused time** - If your calendar is wall-to-wall meetings, you have no time for actual work. Block it
-- **Treating all hours equally** - Your 9am brain and your 4pm brain have different capabilities. Schedule accordingly
-- **Saying yes to everything** - Every yes is a no to something else. Be intentional about commitments
-- **Optimizing tactics without fixing strategy** - Being more efficient at the wrong things doesn't help. Prioritize first
+- **没有 external capture system** - 试图记住所有事会制造 anxiety 并漏事。写下来
+- **不保护 focused time** - 如果 calendar 全是 meetings，就没有实际工作时间。Block it
+- **把所有 hours 当成一样** - 早上 9 点的大脑和下午 4 点的大脑能力不同。相应安排
+- **对一切说 yes** - 每个 yes 都是在对其他事说 no。有意识地选择 commitments
+- **没修 strategy，只优化 tactics** - 更高效地做错事没有帮助。先 prioritize
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Managing Timelines
 - Energy Management

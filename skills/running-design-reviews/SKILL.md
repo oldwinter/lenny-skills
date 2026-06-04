@@ -1,63 +1,63 @@
 ---
 name: running-design-reviews
-description: Help users run effective design reviews and critiques. Use when someone is giving design feedback, establishing design review processes, struggling to evaluate designs, or wants to improve how their team discusses design work.
+description: 帮助用户开展有效 design reviews 和 critiques。Use when someone is giving design feedback, establishing design review processes, struggling to evaluate designs, or wants to improve how their team discusses design work.
 ---
 
 # Running Design Reviews
 
-Help the user run effective design reviews and critiques using frameworks from 8 product leaders.
+使用来自 8 位产品领导者的框架，帮助用户开展有效 design reviews 和 critiques。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with design reviews:
+当用户请求 design reviews 相关帮助时：
 
-1. **Understand the review context** - Ask what stage the design is at and what kind of feedback is needed
-2. **Establish the hierarchy** - Help them prioritize feedback by value, then usability, then delight
-3. **Structure the critique** - Guide them on how to frame feedback constructively
-4. **Set the quality bar** - Help them define what "good enough to ship" means
+1. **理解 review context** - 询问 design 处于什么 stage，以及需要哪类 feedback
+2. **建立 hierarchy** - 帮助他们按 value、usability、delight 的顺序排序 feedback
+3. **结构化 critique** - 指导如何建设性地 frame feedback
+4. **设定 quality bar** - 帮助定义 "good enough to ship" 意味着什么
 
-## Core Principles
+## 核心原则
 
-### Follow the feedback hierarchy: Value, then Ease of Use, then Delight
-Julie Zhuo: "The first thing that's most important to address is, well, is this thing actually valuable, is this solving the problem? Then once we do that, then let's focus on the next layer which I think about as ease of use... And then finally... delight." Disregard feedback about aesthetics until the core value proposition is validated.
+### 遵循 feedback hierarchy：Value，然后 Ease of Use，最后 Delight
+Julie Zhuo: "The first thing that's most important to address is, well, is this thing actually valuable, is this solving the problem? Then once we do that, then let's focus on the next layer which I think about as ease of use... And then finally... delight." 在 core value proposition 被验证前，忽略关于 aesthetics 的 feedback。
 
-### Assign sponsors for major projects
-Karri Saarinen: "We are basically the sponsors for the projects. So then we are responsible reviewing the work. And so we might just have a meeting where we go through, okay..." Assign a founder or senior leader as a sponsor for every major project to oversee quality through live demos rather than static slide decks.
+### 为 major projects 分配 sponsors
+Karri Saarinen: "We are basically the sponsors for the projects. So then we are responsible reviewing the work. And so we might just have a meeting where we go through, okay..." 为每个 major project 分配 founder 或 senior leader 作为 sponsor，通过 live demos 而不是 static slide decks 监督 quality。
 
-### Review 100% of shipped screens
-Dmitry Zlokazov: "Founders of the company, they still review a hundred percent of screens that are being shipped and everything that you will see in the app pass this review." Maintain a high quality bar by having senior leaders review every user-facing screen before shipping.
+### Review 100% shipped screens
+Dmitry Zlokazov: "Founders of the company, they still review a hundred percent of screens that are being shipped and everything that you will see in the app pass this review." 通过让 senior leaders 在 shipping 前 review 每个 user-facing screen 来维持高 quality bar。
 
-### Structure reviews around specific feedback requests
-Geoff Charles: "Any large rock that we have on the roadmap needs to be brought into the product review process... but it needs to be structured in a way where you are asking specifically for what type of feedback you want." Only bring high-risk decisions to formal reviews and require presenters to specify exactly what feedback they need.
+### 围绕具体 feedback requests 组织 reviews
+Geoff Charles: "Any large rock that we have on the roadmap needs to be brought into the product review process... but it needs to be structured in a way where you are asking specifically for what type of feedback you want." 只把 high-risk decisions 带入 formal reviews，并要求 presenters 具体说明需要什么 feedback。
 
-### Start big picture before minutiae
-Jessica Hische: "Always think big picture before you think minutiae, because sometimes people think that... They'll throw a bunch of minutiae stuff at me, but it's because they don't know what's really bugging them." Ask "What is the overall thing that's bothering me?" before commenting on specific elements.
+### 先 big picture，再 minutiae
+Jessica Hische: "Always think big picture before you think minutiae, because sometimes people think that... They'll throw a bunch of minutiae stuff at me, but it's because they don't know what's really bugging them." 在评论具体 elements 前，先问 "整体上让我不舒服的是什么？"
 
-### Use blurred vision to see cohesiveness
-Jessica Hische: "Use 'blurred eyes' to look at a brand's overall cohesiveness rather than focusing on individual pixels." Step back from details to assess whether the overall design holds together.
+### 用 blurred vision 看 cohesiveness
+Jessica Hische: "Use 'blurred eyes' to look at a brand's overall cohesiveness rather than focusing on individual pixels." 从细节后退一步，评估整体 design 是否成立。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What specific type of feedback are you looking for in this review?"
-- "Is the core value proposition clear? Does this solve the right problem?"
-- "Before we discuss details - what's the overall feeling when you first look at this?"
-- "What are the highest-risk elements of this design that need the most scrutiny?"
-- "What would make this not shippable? Are we close to that line?"
-- "If a user sees this for three seconds, what will they understand?"
+- "这次 review 你具体想要哪类 feedback？"
+- "Core value proposition 清楚吗？这解决了正确 problem 吗？"
+- "在讨论细节前，第一次看到这个设计的整体感受是什么？"
+- "这个 design 中最高风险、最需要 scrutiny 的 elements 是什么？"
+- "什么会让它 not shippable？我们接近那条线了吗？"
+- "如果 user 只看 3 秒，会理解什么？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Feedback without hierarchy** - Mixing aesthetic opinions with core value concerns
-- **Static reviews** - Reviewing slide decks instead of interactive demos
-- **Unstructured feedback requests** - Not specifying what kind of feedback is needed
-- **Skipping to details** - Critiquing pixels before validating the concept
-- **No quality bar** - Shipping without senior review or clear standards
+- **Feedback without hierarchy** - 把 aesthetic opinions 和 core value concerns 混在一起
+- **Static reviews** - Review slide decks，而不是 interactive demos
+- **Unstructured feedback requests** - 没说明需要哪类 feedback
+- **Skipping to details** - 在验证 concept 前就 critique pixels
+- **No quality bar** - 没有 senior review 或清晰 standards 就 shipping
 
 ## Deep Dive
 
-For all 10 insights from 8 guests, see `references/guest-insights.md`
+所有来自 8 位嘉宾的 10 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - product-taste-intuition
 - running-effective-meetings

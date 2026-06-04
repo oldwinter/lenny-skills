@@ -1,69 +1,69 @@
 ---
 name: competitive-analysis
-description: Help users understand and respond to competition. Use when someone is positioning against competitors, evaluating market threats, running competitive war games, or deciding how much to focus on competitors versus customers.
+description: 帮助用户理解竞争并制定回应。Use when someone is positioning against competitors, evaluating market threats, running competitive war games, or deciding how much to focus on competitors versus customers.
 ---
 
 # Competitive Analysis
 
-Help the user understand competitive dynamics using frameworks from 49 product leaders who have navigated competition at companies from startups to Netflix and Google.
+使用来自 49 位产品领导者的框架，帮助用户理解 competitive dynamics；这些领导者曾在 startups、Netflix、Google 等公司应对竞争。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with competitive analysis:
+当用户请求 competitive analysis 相关帮助时：
 
-1. **Expand the competitive set** - Identify not just direct competitors but the status quo and workarounds
-2. **Understand the true threat** - Determine if the competition is features, distribution, or fundamental business model
-3. **Find asymmetries** - Help them identify unique advantages competitors cannot easily copy
-4. **Design the right response** - Balance competitive awareness with customer obsession
+1. **扩展 competitive set** - 不只识别直接 competitors，也识别 status quo 和 workarounds
+2. **理解真正威胁** - 判断竞争来自 features、distribution，还是 fundamental business model
+3. **寻找 asymmetries** - 帮助他们识别 competitors 不容易复制的独特优势
+4. **设计正确回应** - 平衡 competitive awareness 和 customer obsession
 
-## Core Principles
+## 核心原则
 
-### Compete against the status quo
-April Dunford: "Most folks will discount the status quo, but they shouldn't because in B2B we lose about 40% of our deals to 'no decision,' which actually means we lost to the spreadsheet, we lost to pen and paper." Position specifically against current workarounds, not just competitors.
+### 与 status quo 竞争
+April Dunford: "Most folks will discount the status quo, but they shouldn't because in B2B we lose about 40% of our deals to 'no decision,' which actually means we lost to the spreadsheet, we lost to pen and paper." 不只针对 competitors 定位，也要明确针对当前 workarounds 定位。
 
-### Define competitive alternatives first
-April Dunford: "The first step in a good positioning exercise is to really understand, what do we have to position against? What do I have to beat in order to win a deal?" Look beyond direct competitors to anything customers would do if your product didn't exist.
+### 先定义 competitive alternatives
+April Dunford: "The first step in a good positioning exercise is to really understand, what do we have to position against? What do I have to beat in order to win a deal?" 看直接 competitors 之外，客户在没有你的产品时会做的任何事。
 
-### Understand industry economics deeply
-Hamilton Helmer: "Understanding whether or not there is a type of power in place is hard... the hard part is industry economics, what really are the economic relationships." Surface-level competitive analysis misses the structural forces that determine winners.
+### 深入理解 industry economics
+Hamilton Helmer: "Understanding whether or not there is a type of power in place is hard... the hard part is industry economics, what really are the economic relationships." 表层 competitive analysis 会错过决定赢家的结构性力量。
 
-### Ground everything in external reality
-Shaun Clowes: "In everything always talk from the customer's perspective, from the market's perspective, from the competitor's perspective. The very small number of PMs do that." Great PMs differentiate by grounding work in market realities, not internal politics.
+### 一切都立足 external reality
+Shaun Clowes: "In everything always talk from the customer's perspective, from the market's perspective, from the competitor's perspective. The very small number of PMs do that." 优秀 PM 会以市场现实而不是内部政治为基础开展工作。
 
-### Include the analog alternative
-Bret Taylor: "Why use this instead of Yahoo Yellow Pages? But more than anything else, why use this instead of the Yellow Pages?" Compete against the traditional, non-digital way users solve the problem.
+### 包含 analog alternative
+Bret Taylor: "Why use this instead of Yahoo Yellow Pages? But more than anything else, why use this instead of the Yellow Pages?" 要和用户解决问题的传统、非数字方式竞争。
 
-### Competition includes workarounds
-Jake Knapp: "What's the competition for solving that problem? How do they solve it today? And what are the alternatives? What are the workarounds?" Look beyond direct startup competitors to manual processes and existing habits.
+### Competition 包括 workarounds
+Jake Knapp: "What's the competition for solving that problem? How do they solve it today? And what are the alternatives? What are the workarounds?" 不只看直接 startup competitors，也看手工流程和既有习惯。
 
-### Don't blindly copy competitors
-Elena Verna: "Knowing what your competition is doing is extremely important... But blatantly copying all of these best tactics or flows because they're doing better than us - that's where things really go wrong." Use competitors for inspiration, not replication.
+### 不要盲目复制 competitors
+Elena Verna: "Knowing what your competition is doing is extremely important... But blatantly copying all of these best tactics or flows because they're doing better than us - that's where things really go wrong." Competitors 可用于启发，不应用于照抄。
 
-### Beware competitive myopia
-Tanguy Crusson: "Your competitor, if you think of what they do as an iceberg, the top side is what they've shipped in terms of features, but it's based on all this stuff they've built in terms of research." You only see their past output, not their underlying strategy.
+### 警惕 competitive myopia
+Tanguy Crusson: "Your competitor, if you think of what they do as an iceberg, the top side is what they've shipped in terms of features, but it's based on all this stuff they've built in terms of research." 你看到的是他们过去的 output，而不是底层 strategy。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What would your customer do if your product didn't exist?"
-- "What percentage of deals do you lose to 'no decision'?"
-- "What's the weakness in your competitor's greatest strength?"
-- "Is your advantage in features, distribution, or business model?"
-- "How would a competitor describe your positioning?"
-- "What market 'current' are you riding or fighting against?"
+- "如果你的产品不存在，customer 会怎么做？"
+- "你们有多少比例的 deals 输给了 'no decision'？"
+- "competitor 最大优势里的弱点是什么？"
+- "你的优势来自 features、distribution，还是 business model？"
+- "competitor 会如何描述你的 positioning？"
+- "你正在顺应还是逆着哪股 market 'current'？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Ignoring the status quo** - 40% of B2B deals are lost to doing nothing, not to competitors
-- **Feature-by-feature comparison** - Distribution moats often matter more than feature sets
-- **Fast-following without context** - Competitor features reflect year-old thinking, not current strategy
-- **Assuming data creates moats** - Data advantages often diminish once competitors reach scale
-- **Over-indexing on competitors** - Great for market awareness, dangerous for product roadmap
+- **忽视 status quo** - 40% 的 B2B deals 输给了什么都不做，而不是 competitors
+- **逐 feature 对比** - Distribution moats 往往比 feature sets 更重要
+- **脱离 context 地 fast-follow** - Competitor features 反映的是一年前的 thinking，不是当前 strategy
+- **假设 data 会自然形成 moat** - 当 competitors 达到规模后，data advantages 常常会下降
+- **过度关注 competitors** - 对 market awareness 有帮助，但对 product roadmap 很危险
 
 ## Deep Dive
 
-For all 63 insights from 49 guests, see `references/guest-insights.md`
+所有来自 49 位嘉宾的 63 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Writing North Star Metrics
 - Defining Product Vision

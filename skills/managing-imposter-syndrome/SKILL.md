@@ -1,56 +1,56 @@
 ---
 name: managing-imposter-syndrome
-description: Help users work through feelings of inadequacy and self-doubt. Use when someone feels like a fraud, doubts their qualifications, is anxious about being "found out," or struggling with confidence in a new or challenging role.
+description: 帮助用户处理能力不足感和自我怀疑。Use when someone feels like a fraud, doubts their qualifications, is anxious about being "found out," or struggling with confidence in a new or challenging role.
 ---
 
 # Managing Imposter Syndrome
 
-Help the user work through imposter syndrome using frameworks from product leaders.
+使用产品领导者的框架，帮助用户处理 imposter syndrome。
 
-## How to Help
+## 如何提供帮助
 
-When the user shares feelings of imposter syndrome:
+当用户表达 imposter syndrome 相关感受时：
 
-1. **Normalize the experience** - Help them understand that imposter syndrome is nearly universal among high performers, especially during growth periods
-2. **Reframe the discomfort** - Connect their uncomfortable feelings to evidence that they're growing and being challenged appropriately
-3. **Identify the specific fear** - Help them articulate exactly what they're afraid of (being exposed, making mistakes, not belonging)
-4. **Build practical strategies** - Develop tactics for managing the feelings when they arise
+1. **正常化这种体验** - 帮助他们理解 imposter syndrome 在 high performers 中非常普遍，尤其是在成长阶段
+2. **重构 discomfort** - 把不舒服的感受连接到他们正在成长、正在被适当挑战的证据
+3. **识别具体 fear** - 帮助他们说清楚自己到底害怕什么：being exposed、making mistakes，还是 not belonging
+4. **建立 practical strategies** - 制定在这些感受出现时管理它们的 tactics
 
-## Core Principles
+## 核心原则
 
-### Discomfort signals growth, not fraud
-Julie Zhuo: "Being in an uncomfortable situation... coincides with the fastest and most intense periods of growth in one's career." When you feel like an imposter, reframe it as evidence you're being appropriately challenged. The discomfort means you're in a growth zone, not that you don't belong.
+### Discomfort 表示成长，不表示 fraud
+Julie Zhuo: "Being in an uncomfortable situation... coincides with the fastest and most intense periods of growth in one's career." 当你觉得自己像 imposter，把它重构为自己正在被适当挑战的证据。Discomfort 说明你在 growth zone，而不是不属于这里。
 
-### The feeling doesn't match reality
-Imposter syndrome is characterized by a disconnect between external evidence (accomplishments, feedback, being hired/promoted) and internal feelings (inadequacy, fear of being "found out"). Help the user see this gap by listing concrete evidence of their competence.
+### 感受不等于现实
+Imposter syndrome 的特征是 external evidence（accomplishments、feedback、being hired/promoted）和 internal feelings（inadequacy、fear of being "found out"）之间断裂。通过列出能力的具体证据，帮助用户看到这个 gap。
 
-### Vulnerability is strength, not weakness
-Admitting what you don't know is not a sign of fraud - it's how leaders like Brian Chesky learned from experts. The most effective people ask questions and acknowledge gaps rather than pretending to have all the answers.
+### Vulnerability 是 strength，不是 weakness
+承认自己不知道什么并不是 fraud 的信号；Brian Chesky 这样的 leaders 正是这样向 experts 学习的。最有效的人会提问并承认 gaps，而不是假装拥有所有 answers。
 
-### You were hired for a reason
-Someone with decision-making authority evaluated your qualifications and chose you. That external validation exists regardless of your internal feelings. Trust the judgment of the people who put you in this role.
+### 你被选择是有原因的
+拥有 decision-making authority 的人评估了你的 qualifications，并选择了你。无论你的内部感受如何，这个 external validation 都存在。相信把你放到这个 role 的人的判断。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What specific situation is triggering these feelings right now?"
-- "What would 'being found out' actually look like? What's the feared scenario?"
-- "What evidence do you have that you're competent in this role? What have you accomplished?"
-- "Have you ever felt this way before in past roles? What happened?"
-- "Who hired or promoted you into this role? Do you trust their judgment in general?"
-- "What would you tell a friend who described feeling this way?"
+- "现在具体是什么 situation 触发了这些感受？"
+- "'being found out' 具体会是什么样？你害怕的场景是什么？"
+- "你有哪些证据说明自己能胜任这个 role？你完成过什么？"
+- "你过去在其他 roles 里有过这种感受吗？后来发生了什么？"
+- "是谁 hiring 或 promoting 你进入这个 role？你通常信任他们的判断吗？"
+- "如果朋友说自己有同样感受，你会对他说什么？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Waiting until you "feel ready"** - The feeling of readiness often doesn't come until after you've done the thing. Act despite the discomfort
-- **Comparing your inside to others' outside** - You see your own doubts and others' polished presentations. Everyone has internal struggles you don't see
-- **Interpreting discomfort as signal to retreat** - Discomfort during growth is normal. Retreating to comfort means stagnating
-- **Keeping it secret** - Imposter syndrome thrives in isolation. Talking about it with trusted peers often reveals that everyone feels this way
+- **等到自己 'feel ready'** - 准备好的感觉常常要在你做完之后才来。带着 discomfort 行动
+- **拿自己的 inside 和别人的 outside 比** - 你看到自己的 doubts，却只看到别人的 polished presentations。每个人都有你看不见的 internal struggles
+- **把 discomfort 解读成撤退信号** - 成长中的 discomfort 很正常。退回 comfort 意味着停滞
+- **保密不说** - Imposter syndrome 在 isolation 中滋长。和 trusted peers 聊，常会发现大家都有这种感受
 
 ## Deep Dive
 
-For all 1 insights from 1 guests, see `references/guest-insights.md`
+所有来自 1 位嘉宾的 1 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Building a Promotion Case
 - Finding Mentors & Sponsors

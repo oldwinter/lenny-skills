@@ -1,6 +1,6 @@
-# Technical Roadmaps - All Guest Insights
+# Technical Roadmaps - 所有嘉宾洞察
 
-*1 guests, 2 mentions*
+*1 位嘉宾，2 次提及*
 
 ---
 
@@ -9,24 +9,23 @@
 
 > "The first rule of strategy is that if you write it down, then you can improve it. If it's not written down, it's hard to say if this PM is just not a good PM or if they're trying to apply the strategy that they've misunderstood... If you have a written document, even if it's not a super compelling strategy, at least you can start debugging."
 
-**Insight:** A written strategy is essential for organizational alignment and provides a baseline that can be critiqued and improved.
+**洞察：** Written strategy 对 organizational alignment 至关重要，并提供了一个可 critique、可 improve 的 baseline。
 
-**Tactical advice:**
-- Document the strategy even if it is imperfect to allow for 'debugging' and alignment
-- Use the Richard Rumelt framework: Diagnosis, Guiding Policies, and Actions
+**战术建议：**
+- 即使 strategy 不完美，也要 document it，以便 'debugging' 和 alignment
+- 使用 Richard Rumelt framework：Diagnosis、Guiding Policies 和 Actions
 
-*Timestamp: 00:18:21*
+*时间戳：00:18:21*
 
 ---
 
 > "A common strategy that's really good but very boring is we only use the tools we have today. So a lot of times you'll get engineers that want to introduce new programming languages, new databases, new cloud providers. And a really good strategy for almost all companies is like we just use the standard kit we already have today."
 
-**Insight:** Boring strategies that enforce technical constraints allow teams to focus their limited energy on solving core product problems rather than tooling.
+**洞察：** 强制 technical constraints 的 boring strategies 能让 teams 把有限精力聚焦在 core product problems，而不是 tooling 上。
 
-**Tactical advice:**
-- Create a 'standard kit' of approved tools to limit technical sprawl
-- Focus engineering energy on business-valued problems rather than technical novelty
+**战术建议：**
+- 创建 approved tools 的 'standard kit'，限制 technical sprawl
+- 把 engineering energy 聚焦在 business-valued problems，而不是 technical novelty
 
-*Timestamp: 00:19:39*
-
+*时间戳：00:19:39*
 

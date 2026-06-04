@@ -1,6 +1,6 @@
-# Vibe Coding - All Guest Insights
+# Vibe Coding - 所有嘉宾洞察
 
-*3 guests, 3 mentions*
+*3 位嘉宾，3 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "They'll vibe code a animation editor and then they use the animation editor to build the animation"
 
-**Insight:** The guest repeatedly uses this term to describe a new mode of development where non-engineers (designers/PMs) use AI to build functional software and prototypes without deep technical mastery of the u
+**洞察：** 这位嘉宾反复使用这个术语来描述一种新的 development mode：non-engineers（designers/PMs）使用 AI 构建 functional software 和 prototypes，而不需要深入掌握 u
 
 
 ## Elena Verna
@@ -17,7 +17,7 @@
 
 > "I vibe code myself so I would put that as even as a skill on my resume now."
 
-**Insight:** The guest describes this as a specific, transformative skill for non-technical roles (PMs, Marketers) to build functional software using natural language, which goes beyond simple prompt engineering.
+**洞察：** 这位嘉宾把它描述为 non-technical roles（PMs、Marketers）的一项 specific、transformative skill：用 natural language 构建 functional software；它超越了简单 prompt engineering。
 
 
 ## Kevin Weil
@@ -25,6 +25,5 @@
 
 > "Instead of showing stuff in Figma, we should be showing prototypes that people are vibe coding over the course of 30 minutes to illustrate proofs of concept."
 
-**Insight:** A new method of rapid prototyping where builders use AI to generate functional code through natural language and iterative feedback rather than manual coding.
-
+**洞察：** 这是一种新的 rapid prototyping 方法：builders 通过 natural language 和 iterative feedback 使用 AI 生成 functional code，而不是手写代码。
 

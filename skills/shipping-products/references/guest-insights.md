@@ -1,6 +1,6 @@
-# Shipping Products - All Guest Insights
+# 发布产品 - 全部嘉宾洞察
 
-*47 guests, 55 mentions*
+*47 位嘉宾，55 次提及*
 
 ---
 
@@ -9,14 +9,14 @@
 
 > "It was a pretty big effort to rewrite Wordle in our tech stack, give people the ability to store their stats and streaks, bring games to all of our major surfaces. We just tried to do it in a thoughtful way, where we didn't break anything."
 
-**Insight:** When shipping an acquired product, prioritize technical integration and feature parity (like stats/streaks) to maintain user trust.
+**洞察：** 发布被收购产品时，优先做好技术集成和 feature parity（例如 stats/streaks），以维持用户信任。
 
-**Tactical advice:**
-- Rewrite acquired products into the core tech stack for long-term stability
-- Ensure core 'magic' features (like streaks) are preserved during migration
-- Integrate the product across all major company surfaces
+**战术建议：**
+- 将被收购产品重写进核心 tech stack，以获得长期稳定性
+- 确保核心“magic”功能（例如 streaks）在 migration 中被保留
+- 将产品集成到公司所有主要 surfaces 中
 
-*Timestamp: 00:36:14*
+*时间戳：00:36:14*
 
 
 ## Albert Cheng
@@ -24,12 +24,12 @@
 
 > "PR has its time in place, but I think doing it before you have validation that customers definitely want, the thing is quite risky and it can lead to a lot of sun cost once you get it out because you need to see it through."
 
-**Insight:** Avoid premature public launches (PR) before validating core product demand to prevent 'sunk cost' traps.
+**洞察：** 在验证核心产品需求前，避免过早 public launches（PR），以防陷入“sunk cost”陷阱。
 
-**Tactical advice:**
-- Validate customer demand through experiments before engaging in major PR or marketing campaigns for a new feature.
+**战术建议：**
+- 在为新功能投入重大 PR 或 marketing campaigns 前，先通过 experiments 验证客户需求。
 
-*Timestamp: 01:15:50*
+*时间戳：01:15:50*
 
 
 ## Alexander Embiricos
@@ -37,13 +37,13 @@
 
 > "The Sora Android app, like a fully new app, we built it in 18 days and then 10 days later, so 28 days total, we went to the public... number one app in the app store with a handful of engineers. I think it was two or three possibly in a handful of weeks."
 
-**Insight:** AI coding agents enable tiny teams to ship high-quality, production-ready applications in weeks by automating the porting and implementation of existing logic.
+**洞察：** AI coding agents 通过自动化移植和实现既有逻辑，让小团队能在数周内发布高质量、production-ready 的应用。
 
-**Tactical advice:**
-- Use agents to port code between platforms (e.g., iOS to Android) by having the agent analyze the source and generate implementation plans
-- Leverage agents to handle the 'thick middle section' of the development lifecycle to compress timelines
+**战术建议：**
+- 让 agent 分析源代码并生成 implementation plans，用 agents 在平台之间移植代码（例如 iOS 到 Android）
+- 利用 agents 处理开发生命周期中的“thick middle section”，压缩 timelines
 
-*Timestamp: 00:47:11*
+*时间戳：00:47:11*
 
 
 ## Ami Vora
@@ -51,13 +51,13 @@
 
 > "Execution eats strategy for breakfast... if you have great strategy, perfect strategy but poor execution, you don't win because your strategy never makes it to the market. And what's even worse is that you have learned nothing. You don't know whether it was your strategy that was wrong or whether it was your execution that was wrong."
 
-**Insight:** High-quality execution is the only way to validate whether a strategy is actually correct.
+**洞察：** 高质量执行是验证战略是否真正正确的唯一方式。
 
-**Tactical advice:**
-- Spend roughly 20% of time on strategy and 80% on execution and validation.
-- Focus on the 'nuts and bolts'—fixing bugs, looking at dashboards, and rewriting specs—to ensure the strategy reaches the customer.
+**战术建议：**
+- 大约 20% 时间用于 strategy，80% 用于 execution 和 validation。
+- 聚焦“nuts and bolts”：修 bug、看 dashboards、重写 specs，确保战略真正触达客户。
 
-*Timestamp: 00:37:58*
+*时间戳：00:37:58*
 
 
 ## Amjad Masad
@@ -65,12 +65,12 @@
 
 > "Let's actually just deploy it really quickly to show people how you can deploy... We use Google Cloud. So we abstract all of that away from you, but we use Google Cloud behind the scenes."
 
-**Insight:** Modern platforms are abstracting the complexity of cloud infrastructure, allowing non-technical builders to deploy production-ready applications instantly.
+**洞察：** 现代平台正在抽象 cloud infrastructure 的复杂性，让非技术 builders 能即时部署 production-ready 应用。
 
-**Tactical advice:**
-- Use integrated deployment environments to move from code to live URL in seconds.
+**战术建议：**
+- 使用 integrated deployment environments，在数秒内从 code 到 live URL。
 
-*Timestamp: 00:28:35*
+*时间戳：00:28:35*
 
 
 ## Dmitry Zlokazov
@@ -78,13 +78,13 @@
 
 > "They understand that there needs to be relentless focus on execution, and if something is 99% done, it's closer to 0% rather than 100%."
 
-**Insight:** A product is effectively useless until it is fully finished and launched; 99% completion provides zero customer value.
+**洞察：** 产品在完全完成并发布前，实际上没有用；99% 完成度提供的客户价值是零。
 
-**Tactical advice:**
-- Maintain a 'relentless focus on execution' until the product is fully in users' hands
-- Treat nearly-finished projects as '0% done' to avoid premature celebration or loss of focus
+**战术建议：**
+- 在产品完全交到用户手中前，保持“relentless focus on execution”
+- 将接近完成的项目视为“0% done”，避免过早庆祝或失焦
 
-*Timestamp: 00:55:49*
+*时间戳：00:55:49*
 
 
 ## Dylan Field
@@ -92,25 +92,25 @@
 
 > "Get it out as fast as you possibly can. Everything they tell you about making sure that you get a product out really quickly is totally true. The faster you get it out, the more feedback you get. That is a positive thing. And now I index on that when we try to build."
 
-**Insight:** Prioritize shipping speed to accelerate the feedback loop, which is the most valuable asset in early product development.
+**洞察：** 优先 shipping speed 以加速 feedback loop，这是早期产品开发中最有价值的资产。
 
-**Tactical advice:**
-- Index on speed to market to gather real-world feedback earlier
-- Use internal champions to catalyze the team to close the 'gap' and ship
+**战术建议：**
+- 以 speed to market 为导向，更早收集真实世界反馈
+- 使用 internal champions 催化团队弥合“gap”并发布
 
-*Timestamp: 27:49*
+*时间戳：27:49*
 
 ---
 
 > "We started the company August 2012... summer of 2017 we made our first money. Don't do that. Get to market faster. I wish we had... get something that you can have that people can see the vision of, of where you're going, but don't do what we did. Get to market faster."
 
-**Insight:** Avoid over-polishing before launch; get to market quickly enough for users to see the vision, even if it's not perfect.
+**洞察：** launch 前避免过度 polish；足够快地进入市场，让用户能看到 vision，即便它还不完美。
 
-**Tactical advice:**
-- Prioritize speed to market over extreme detail-sweating for initial versions
-- Ensure the product has at least one 'awesome' element that communicates the vision
+**战术建议：**
+- 初始版本优先 speed to market，而不是极端抠细节
+- 确保产品至少有一个能传达 vision 的“awesome”元素
 
-*Timestamp: 00:43:36*
+*时间戳：00:43:36*
 
 
 ## Elena Verna
@@ -118,13 +118,13 @@
 
 > "Velocity of shipping is our number one core value in development team. So we do anything and everything to just keep it going up, up, up and into the right... we lean on our engineers to do a lot of product work. We call them product engineers, and they have to go and they have to announce the thing that they've shipped."
 
-**Insight:** High shipping velocity is a growth lever that maintains market interest and forces a culture of high agency.
+**洞察：** 高 shipping velocity 是一种 growth lever，能维持市场兴趣，并迫使组织形成 high agency 文化。
 
-**Tactical advice:**
-- Require engineers to act as 'product engineers' who own the feature from development to public announcement.
-- Maintain a constant stream of small updates to keep the product feeling 'alive' between major launches.
+**战术建议：**
+- 要求 engineers 像“product engineers”一样，从开发到公开宣布都 own 这个 feature。
+- 在 major launches 之间保持持续的小更新流，让产品感觉“alive”。
 
-*Timestamp: 00:27:27*
+*时间戳：00:27:27*
 
 
 ## Eric Ries
@@ -132,14 +132,14 @@
 
 > "The most important thing you have to do in a product is make trade-off decisions... The idea is like, 'This is the person who makes those.' ... It has to be that you can keep it in somebody's head. So yeah, called the chief engineer."
 
-**Insight:** Coherent product design requires a single 'Chief Engineer' who has the moral authority to make final trade-off decisions.
+**洞察：** 连贯的 product design 需要一位拥有 moral authority、能做最终 trade-off decisions 的“Chief Engineer”。
 
-**Tactical advice:**
-- Appoint a single person with moral authority over the product line
-- Ensure the Chief Engineer understands the trade-offs between departments
-- Keep the product vision in one person's head
+**战术建议：**
+- 任命一位对产品线拥有 moral authority 的单一负责人
+- 确保 Chief Engineer 理解部门之间的 trade-offs
+- 让 product vision 保持在一个人脑中
 
-*Timestamp: 02:03:27*
+*时间戳：02:03:27*
 
 
 ## Gaurav Misra
@@ -147,13 +147,13 @@
 
 > "Our engineering goal is every engineer should ship a marketable product every week."
 
-**Insight:** Setting a high-velocity goal for shipping marketable features ensures the product stays relevant and provides constant user feedback.
+**洞察：** 为发布 marketable features 设定高速度目标，可以确保产品保持相关性，并持续获得用户反馈。
 
-**Tactical advice:**
-- Define a 'marketable product' as something unique enough that a user might subscribe specifically for that feature.
-- Avoid shipping 'table stakes' features as the primary weekly goal; focus on unique value.
+**战术建议：**
+- 将“marketable product”定义为足够独特，以至用户可能专门为该功能订阅的东西。
+- 避免把发布“table stakes”功能作为每周主要目标；聚焦独特价值。
 
-*Timestamp: 00:13:30*
+*时间戳：00:13:30*
 
 
 ## Geoff Charles
@@ -161,14 +161,14 @@
 
 > "I think the recipe for all this is constantly small teams have a single-threaded focus, give them the resources they need to execute big lofty goals, very tight timelines, and then shield them from the chaos that is the rest of the organization."
 
-**Insight:** High-velocity shipping is achieved by isolating small, focused teams from organizational distractions and giving them aggressive timelines.
+**洞察：** 高速 shipping 来自将小型、聚焦团队与组织干扰隔离，并给他们 aggressive timelines。
 
-**Tactical advice:**
-- Assign teams a single-threaded focus with only one goal.
-- Physically or organizationally isolate the team (e.g., a dedicated room) to prevent distractions.
-- Shield the team from company-wide chaos until they find product-market fit.
+**战术建议：**
+- 让团队 single-threaded focus，只保留一个目标。
+- 从物理或组织上隔离团队（例如专用房间），防止干扰。
+- 在团队找到 product-market fit 前，保护他们远离公司范围的混乱。
 
-*Timestamp: 00:09:49*
+*时间戳：00:09:49*
 
 
 ## Hamilton Helmer
@@ -176,12 +176,12 @@
 
 > "Action is the first principle of business. You do stuff and my book is very oriented towards that. The idea was not to tell you what to do, but to give you guideposts while you're on that journey. People that are enthused about it, I encourage you to do stuff."
 
-**Insight:** Strategic frameworks should serve as guideposts for action rather than substitutes for the actual work of building and shipping.
+**洞察：** 战略框架应该是行动路标，而不是替代实际 building 和 shipping 工作的东西。
 
-**Tactical advice:**
-- Prioritize execution and 'doing' to discover the surprises and opportunities that theory cannot predict.
+**战术建议：**
+- 优先 execution 和“doing”，发现理论无法预测的惊喜和机会。
 
-*Timestamp: 00:58:22*
+*时间戳：00:58:22*
 
 
 ## Guillermo Rauch
@@ -189,13 +189,13 @@
 
 > "The secret of product quality is blood, sweat, and tears... a great product is made up of a thousand little details and so you're never really done. There's a humility that comes from the process also of why the best product builders will say nine nos for every yes. Because when you say yes, it's like adopting a puppy. A feature is like adopting a puppy. It grows into a beast that you have to take care of."
 
-**Insight:** High-quality shipping requires obsessive attention to detail and the discipline to reject most features to avoid long-term maintenance 'beasts.'
+**洞察：** 高质量 shipping 需要对细节近乎偏执的关注，以及拒绝大多数 features 的纪律，以避免长期维护“beasts”。
 
-**Tactical advice:**
-- Apply creative restraint by saying 'no' to 90% of feature ideas.
-- Obsess over the 'thousand little details' through constant dogfooding.
+**战术建议：**
+- 通过对 90% 的 feature ideas 说“no”来实践 creative restraint。
+- 通过持续 dogfooding，执着于“thousand little details”。
 
-*Timestamp: 01:20:42*
+*时间戳：01:20:42*
 
 
 ## Gustaf Alstromer
@@ -203,12 +203,12 @@
 
 > "One good indicator is if each new Office Hour there is really exciting new stuff, right? We're not talking about the same thing we talked about two weeks ago or four weeks ago. They've already done that stuff... progress on this weekly or biweekly timescale is a really good indicator of someone who'll succeed."
 
-**Insight:** Weekly shipping velocity and tangible progress are the best predictors of long-term startup success.
+**洞察：** 每周 shipping velocity 和可见进展，是长期 startup 成功的最佳预测指标。
 
-**Tactical advice:**
-- Set and hit concrete goals on a 2-week sprint cycle to maintain momentum
+**战术建议：**
+- 在 2-week sprint cycle 中设定并达成具体目标，以保持 momentum
 
-*Timestamp: 00:47:51*
+*时间戳：00:47:51*
 
 
 ## Ian McAllister
@@ -216,14 +216,14 @@
 
 > "Product managers are the mode of power behind execution and impact. And if you stall out or you don't do your job, the project's probably going to stall out as well. And so you're the ones, especially with a TPM, if you're lucky enough to have one in the back of the ship, kind of beating the drum and driving everyone forward."
 
-**Insight:** The PM acts as the primary driver of momentum, ensuring the team stays on track and the product is delivered in a high-impact package.
+**洞察：** PM 是 momentum 的主要 driver，确保团队保持正轨，并以高影响力 package 交付产品。
 
-**Tactical advice:**
-- Mold the product into a simple, compact package with the highest impact possible
-- Act as the 'drumbeat' to drive the team forward
-- Ensure the engineering and design teams are well-resourced and improving every sprint
+**战术建议：**
+- 将产品塑造成简单、紧凑且尽可能高影响力的 package
+- 充当推动团队前进的“drumbeat”
+- 确保 engineering 和 design teams 资源充足，并在每个 sprint 中改进
 
-*Timestamp: 00:19:47*
+*时间戳：00:19:47*
 
 
 ## Jeff Weinstein
@@ -231,12 +231,12 @@
 
 > "I find proof of existence to be an incredibly powerful proof, rather than proof by theory or proof by debate. It's like, 'Look, we did it one time. Hey, I'm holding the piece of paper.'"
 
-**Insight:** A single working prototype or 'proof of existence' is more persuasive than any theoretical argument or slide deck.
+**洞察：** 一个可运行 prototype 或“proof of existence”，比任何理论论证或 slide deck 都更有说服力。
 
-**Tactical advice:**
-- Focus on getting 'one thing working one time' to build momentum for a new project.
+**战术建议：**
+- 聚焦让“one thing working one time”，为新项目建立 momentum。
 
-*Timestamp: 02:06:31*
+*时间戳：02:06:31*
 
 
 ## John Cutler
@@ -244,12 +244,12 @@
 
 > "In many of those companies, they should focus on creating these sort of areas or pods where a company can, a team can get in the reps that they're trying to be able to do... Shipping and learning, going through the full loop."
 
-**Insight:** The primary driver of team improvement is 'reps'—the frequency of completing the full cycle of shipping, measuring, and learning.
+**洞察：** 团队改进的主要 driver 是“reps”：完成 shipping、measuring 和 learning 完整循环的频率。
 
-**Tactical advice:**
-- Create isolated 'pods' or pilot teams to practice full shipping/learning loops in slow-moving organizations.
+**战术建议：**
+- 在行动缓慢的组织中，创建隔离的“pods”或 pilot teams，练习完整 shipping/learning loops。
 
-*Timestamp: 00:57:59*
+*时间戳：00:57:59*
 
 
 ## Jules Walter
@@ -257,13 +257,13 @@
 
 > "For execution, it would be things like me attending another PMs meeting. 'Oh, I heard this person is amazing at executing. Let me just see how they're on a meeting.' And then you're like, 'Whoa, things we didn't notice.'"
 
-**Insight:** Improve execution and shipping speed by shadowing high-performing PMs to observe how they run meetings and handle cross-functional hurdles.
+**洞察：** 通过 shadow 高绩效 PM，观察他们如何开会和处理 cross-functional hurdles，来提升执行和 shipping speed。
 
-**Tactical advice:**
-- Identify PMs known for excellent execution and ask to shadow their meetings.
-- Take notes on how effective executors handle questions and drive team alignment in real-time.
+**战术建议：**
+- 找出以卓越执行著称的 PM，请求 shadow 他们的会议。
+- 记录高效执行者如何实时处理问题并推动 team alignment。
 
-*Timestamp: 00:37:54*
+*时间戳：00:37:54*
 
 
 ## Julia Schottenstein
@@ -271,13 +271,13 @@
 
 > "Worse is better and tech debt is a champagne problem. And what do I mean by that? It's really to help me combat this perfectionism because perfect doesn't exist and you should instead go with good enough because when you ship, that's the moment when you get to learn a lot from your users."
 
-**Insight:** Shipping 'good enough' versions is the only way to truly learn from users and validate product direction.
+**洞察：** 发布“good enough”版本，是从用户那里真正学习并验证产品方向的唯一方式。
 
-**Tactical advice:**
-- Adopt a 'worse is better' mindset to combat perfectionism and speed up shipping.
-- Prioritize shipping to learn from users over ironing out every possible edge case in isolation.
+**战术建议：**
+- 采用“worse is better”心态，对抗完美主义并加快 shipping。
+- 优先 shipping 以向用户学习，而不是孤立地打磨每个可能 edge case。
 
-*Timestamp: 00:52:10*
+*时间戳：00:52:10*
 
 
 ## Kayvon Beykpour
@@ -285,12 +285,12 @@
 
 > "Literally the first two years I was at the company, the stated product strategy for Twitter was refine the core. It was like, we're not making any big bets here, team. Our goal is to keep turning the knobs that are working."
 
-**Insight:** Focusing exclusively on 'refining the core' can return a company to growth but may calcify the organization's ability to take risks.
+**洞察：** 只聚焦“refining the core”可能让公司重回增长，但也可能让组织承担风险的能力僵化。
 
-**Tactical advice:**
-- Balance 'knob-turning' optimizations with speculative bets to avoid long-term stagnation.
+**战术建议：**
+- 在“knob-turning”优化和 speculative bets 之间取得平衡，避免长期停滞。
 
-*Timestamp: 00:25:01*
+*时间戳：00:25:01*
 
 
 ## Keith Coleman & Jay Baxter
@@ -298,13 +298,13 @@
 
 > "The median time from a post going live to a note showing up was five hours, which is like crazy fast. Typical fact checking is like two to four, at least it's really common to see it take two to four days."
 
-**Insight:** In fast-moving information environments, speed of delivery is as critical as the quality of the content.
+**洞察：** 在快速变化的信息环境中，delivery speed 与内容质量同样关键。
 
-**Tactical advice:**
-- Measure and optimize the 'median time to live' for critical product outputs
-- Launch speed-up features (like matching notes to images) ahead of high-traffic events
+**战术建议：**
+- 衡量并优化关键 product outputs 的“median time to live”
+- 在 high-traffic events 前推出 speed-up features（例如将 notes 匹配到 images）
 
-*Timestamp: 01:21:00*
+*时间戳：01:21:00*
 
 
 ## Karri Saarinen
@@ -312,13 +312,13 @@
 
 > "We actually believe that when you start building the thing you actually start realizing more how it should work and how it should be better. A lot of times with the teams we tell them, 'Just put it there in, I don't know, the first week almost. After you have some designs in place or some design ideas, just put it into the app and ship it to production.' It's only visible to us so we internally can test it out."
 
-**Insight:** Shipping early to an internal environment allows for real-world testing and iterative refinement that static designs cannot provide.
+**洞察：** 尽早发布到 internal environment，可以获得静态 designs 无法提供的真实测试和迭代 refinement。
 
-**Tactical advice:**
-- Deploy features to production within the first week of development, hidden behind internal flags.
-- Use the live product internally to discover UX friction points that aren't visible in design mocks.
+**战术建议：**
+- 开发第一周内将 features 部署到 production，并隐藏在 internal flags 后。
+- 内部使用 live product，发现 design mocks 中看不见的 UX friction points。
 
-*Timestamp: 00:09:13*
+*时间戳：00:09:13*
 
 
 ## Kevin Weil
@@ -326,13 +326,13 @@
 
 > "We have this philosophy, we call iterative deployment, and the idea is we're all learning about these models together. So there's a real sense in which it's way better to ship something even when you don't know the full set of capabilities and iterate together in public."
 
-**Insight:** In AI, shipping early is essential because model capabilities and societal reactions can only be fully understood through public usage.
+**洞察：** 在 AI 中，早发布至关重要，因为 model capabilities 和社会反应只能通过 public usage 被完整理解。
 
-**Tactical advice:**
-- Launch research previews to gather real-world data
-- Co-evolve the product with users as they discover new model behaviors
+**战术建议：**
+- 发布 research previews 以收集真实世界数据
+- 随着用户发现新的 model behaviors，与用户共同演化产品
 
-*Timestamp: 00:30:42*
+*时间戳：00:30:42*
 
 
 ## Kevin Yien
@@ -340,13 +340,13 @@
 
 > "We were given a pretty strict deadline that we needed to launch by and I pushed it out three times. That's not because of this one animation, but it's because of a series of decisions where we said, 'This is what we believe we need to ship, and this matters much more than hitting some artificial external GA date.'"
 
-**Insight:** Quality and customer value should take precedence over arbitrary launch deadlines.
+**洞察：** 质量和客户价值应优先于任意设定的 launch deadlines。
 
-**Tactical advice:**
-- Be willing to push back on deadlines if the product hasn't reached the necessary quality bar.
-- Obsess over the final deliverable and whether value is actually reaching the customer.
+**战术建议：**
+- 如果产品尚未达到必要 quality bar，要愿意 push back deadlines。
+- 执着于最终 deliverable，以及价值是否真正抵达客户。
 
-*Timestamp: 00:25:07*
+*时间戳：00:25:07*
 
 
 ## Manik Gupta
@@ -354,13 +354,13 @@
 
 > "How do you get to a very high ship velocity, and the ability to experiment and learn fast. At a broader level, especially during the initial phases, if you're not learning, you are really not doing anything well. You've got to be learning. You've got to be learning good things, bad things, doesn't matter. You've got to be learning. Having the experimentation velocity, having a building culture where engineers are able to check in code, see the results, and then quickly come into another release and stuff like that, I think that's really important for a consumer product."
 
-**Insight:** High shipping velocity is primarily a tool for accelerated learning; the faster the release cycle, the faster the team can iterate toward success.
+**洞察：** 高 shipping velocity 主要是加速学习的工具；release cycle 越快，团队越能快速迭代走向成功。
 
-**Tactical advice:**
-- Build an engineering culture that allows for rapid code check-ins and immediate result visibility.
-- Prioritize 'experimentation velocity' as a key performance indicator for the team.
+**战术建议：**
+- 建立允许快速 code check-ins 和立即看到结果的 engineering culture。
+- 将“experimentation velocity”作为团队关键 performance indicator。
 
-*Timestamp: 00:33:59*
+*时间戳：00:33:59*
 
 
 ## Marty Cagan
@@ -368,13 +368,13 @@
 
 > "In terms of delivery principles, things like small frequent uncoupled releases. For most companies that's CI/CD, instrumentation of everything, monitoring of everything."
 
-**Insight:** High-performing product organizations prioritize small, frequent, and uncoupled releases supported by full instrumentation.
+**洞察：** 高绩效产品组织优先采用小型、频繁且 uncoupled 的 releases，并由完整 instrumentation 支撑。
 
-**Tactical advice:**
-- Implement CI/CD to enable frequent releases.
-- Ensure every release is instrumented to monitor outcomes and performance.
+**战术建议：**
+- 实施 CI/CD，以支持频繁 releases。
+- 确保每次 release 都有 instrumentation，用于监控 outcomes 和 performance。
 
-*Timestamp: 01:06:58*
+*时间戳：01:06:58*
 
 
 ## Matt MacInnis
@@ -382,25 +382,25 @@
 
 > "We have a product quality list, which we lovingly at Rippling call the PQL... it articulates in the simplest ways the standards we want you to meet when you ship a product. It doesn't apply to every product, not every line applies to every product, but it's comprehensive and it provides me with a framework for iterating over time as we learn."
 
-**Insight:** A standardized 'Product Quality List' (PQL) acts as a factory inspection to ensure consistent shipping standards.
+**洞察：** 标准化“Product Quality List”（PQL）像工厂质检一样，确保一致的 shipping standards。
 
-**Tactical advice:**
-- Create a 'PQL' checklist of quality standards that must be met before any release.
-- Iterate on the checklist every time a bug or failure slips through to production.
+**战术建议：**
+- 创建一份“PQL”质量标准 checklist，任何 release 前都必须满足。
+- 每当 bug 或 failure 漏到 production，就迭代这份 checklist。
 
-*Timestamp: 00:29:00*
+*时间戳：00:29:00*
 
 ---
 
 > "Feature flags are the bane of my existence... I added a line to the fucking PQL that said, 'You are allowed to have one feature flag that governs your entire product at ship.' It's an extreme standard that might not be achievable, but it's the standard we aspire to."
 
-**Insight:** Excessive feature flags create technical debt and hidden failure points during product launches.
+**洞察：** 过多 feature flags 会在 product launches 期间制造 technical debt 和隐藏 failure points。
 
-**Tactical advice:**
-- Limit the number of active feature flags at the time of shipping.
-- Treat feature flags as temporary 'shims' that must be removed to prevent long-term instability.
+**战术建议：**
+- 限制 shipping 时 active feature flags 的数量。
+- 将 feature flags 视为临时“shims”，必须移除以防长期不稳定。
 
-*Timestamp: 00:32:18*
+*时间戳：00:32:18*
 
 
 ## Mihika Kapoor
@@ -408,14 +408,14 @@
 
 > "I just think about putting things early on staging and getting people involved in the cycle as opening up the doors to the product development process, and hopefully, that just elevates the quality of the product."
 
-**Insight:** Extensive internal dogfooding turns colleagues into stakeholders who help refine the product and build internal advocacy before launch.
+**洞察：** 广泛 internal dogfooding 会把同事变成 stakeholders，帮助 launch 前 refine 产品并建立内部 advocacy。
 
-**Tactical advice:**
-- Implement a multi-month staging process for internal dogfooding
-- Encourage company-wide feedback to make employees feel they 'shaped' the product
-- Be vulnerable about early product versions to invite constructive criticism
+**战术建议：**
+- 为 internal dogfooding 实施持续数月的 staging process
+- 鼓励公司范围 feedback，让员工感觉他们“shaped”了产品
+- 对早期产品版本保持 vulnerability，以邀请建设性批评
 
-*Timestamp: 01:27:41*
+*时间戳：01:27:41*
 
 
 ## Mike Krieger
@@ -423,13 +423,13 @@
 
 > "We really rapidly became bottlenecked on other things like our merge queue... We had to completely re-architect it because so much more code was being written and so many more pull requests were being submitted... I've just found all these new bottlenecks in our system, there's an upstream bottleneck, which is decision making and alignment."
 
-**Insight:** When AI removes the coding bottleneck, the new constraints become organizational alignment and the technical infrastructure for merging and deploying code.
+**洞察：** 当 AI 消除 coding bottleneck 后，新的约束会变成 organizational alignment，以及用于 merge 和 deploy code 的技术基础设施。
 
-**Tactical advice:**
-- Re-architect merge queues and CI/CD pipelines to handle a massive increase in PR volume.
-- Focus on 'minimum viable strategy' to prevent decision-making from becoming the primary bottleneck.
+**战术建议：**
+- 重新架构 merge queues 和 CI/CD pipelines，以处理 PR volume 的巨大增长。
+- 聚焦“minimum viable strategy”，防止 decision-making 成为主要 bottleneck。
 
-*Timestamp: 00:13:54*
+*时间戳：00:13:54*
 
 
 ## Nan Yu
@@ -437,37 +437,37 @@
 
 > "If you look at people who are at the pinnacle of their craft, you can basically tell how good the output is going to be of their work product by how fast they're going. If they're going really fast, and they're obviously not being sloppy and then leaving a mess all over the place, it's like, 'Yeah. Well, they got there because this is just second nature to them,' and they're able to go at a really rapid pace and try stuff."
 
-**Insight:** High speed is often a signal of high competence and craft rather than sloppiness.
+**洞察：** 高速度往往是高 competence 和 craft 的信号，而不是草率。
 
-**Tactical advice:**
-- Index on competence and expertise rather than rushing to achieve speed.
-- Use high speed to increase the number of iterations and variations you can test.
+**战术建议：**
+- 以 competence 和 expertise 为导向，而不是为了速度而仓促。
+- 用高速度增加可测试的 iterations 和 variations 数量。
 
-*Timestamp: 00:08:20*
+*时间戳：00:08:20*
 
 ---
 
 > "What it really looks like is you have some rough time budget for how long you think something's going to take. By the time 10% of it has passed, after week one, you have something that works that tests some kind of key hypothesis internally."
 
-**Insight:** Aim to have a functional, testable version of a product within the first 10% of the total project timeline.
+**洞察：** 目标是在项目总 timeline 的前 10% 内，就拥有一个 functional、testable 的产品版本。
 
-**Tactical advice:**
-- Don't wait until the halfway point to have a playable candidate.
-- Validate or invalidate major assumptions in the first week of development.
+**战术建议：**
+- 不要等到 halfway point 才有 playable candidate。
+- 在开发第一周内验证或证伪 major assumptions。
 
-*Timestamp: 00:00:30*
+*时间戳：00:00:30*
 
 ---
 
 > "It means you don't need a pixel perfect design. It means you don't need to make sure that all of the little UI bugs and stuff like that are solved because none of that really matters. What matters is you have working software that you can interact with, and you can see if it feels good."
 
-**Insight:** Speed is achieved by accepting that the first version will not be perfect and focusing only on core functionality.
+**洞察：** 速度来自接受第一版不会完美，并只聚焦 core functionality。
 
-**Tactical advice:**
-- Avoid perfectionism in early versions to lower the cost of iteration.
-- Focus on 'shippable elements' that allow for learning rather than production-ready polish.
+**战术建议：**
+- 早期版本避免 perfectionism，以降低迭代成本。
+- 聚焦能带来学习的“shippable elements”，而不是 production-ready polish。
 
-*Timestamp: 00:12:58*
+*时间戳：00:12:58*
 
 
 ## Nick Turley
@@ -475,25 +475,25 @@
 
 > "I just really want to jump to the punchline of like, 'Okay, why can't we do this now?' or, 'Why can't we do it tomorrow?' ... if this was the most important thing and you wanted to truly maximally accelerate it, what would you do? That doesn't mean that you go do that, but it's really a good forcing function for understanding what's critical path versus what can happen later."
 
-**Insight:** The 'maximally accelerated' principle acts as a forcing function to strip away non-essential blockers and identify the critical path.
+**洞察：** “maximally accelerated”原则是一种 forcing function，用来剥离非必要 blockers 并识别 critical path。
 
-**Tactical advice:**
-- Ask 'What would it take to ship this tomorrow?' to uncover hidden dependencies
-- Separate high-velocity product development from rigorous, slower safety processes
+**战术建议：**
+- 问“What would it take to ship this tomorrow?”来发现隐藏 dependencies
+- 将高速 product development 与严谨但较慢的 safety processes 分离
 
-*Timestamp: 00:23:22*
+*时间戳：00:23:22*
 
 ---
 
 > "You won't know what to polish until after you ship. And I think that is uniquely true in an environment where the properties of your product are emergent and not knowable in advance. ... shipping is just one point on the journey towards awesomeness, and you should pick that point intentionally where it doesn't have to be the end of your iteration at all."
 
-**Insight:** In AI, shipping early is necessary to discover which specific areas actually require polish based on real-world usage.
+**洞察：** 在 AI 中，早发布是必要的，因为你需要基于真实世界使用来发现哪些具体区域真正需要 polish。
 
-**Tactical advice:**
-- Ship 'raw' capabilities to gather failure cases that inform future model training
-- Avoid over-polishing features before you understand how users will actually employ them
+**战术建议：**
+- 发布“raw”capabilities，收集 failure cases，为未来 model training 提供信息
+- 在理解用户实际如何使用前，避免过度 polish features
 
-*Timestamp: 01:12:00*
+*时间戳：01:12:00*
 
 
 ## Nicole Forsgren
@@ -501,25 +501,25 @@
 
 > "Speed and stability move together. Most people only think about this from the speed standpoint, which means when you move faster, you are more stable, which means you're pushing smaller changes more often, right. Because if you're pushing all the time, it's going to be very, very small changes, which means you have a smaller blast radius."
 
-**Insight:** Contrary to common belief, increasing shipping speed actually improves system stability by reducing the size and complexity of each change.
+**洞察：** 与常见认知相反，提高 shipping speed 实际上会通过降低每次 change 的大小和复杂度来提升系统稳定性。
 
-**Tactical advice:**
-- Push smaller changes more frequently to reduce the 'blast radius' of potential failures.
-- Aim for on-demand deployment to ensure that when errors occur, they are easier to debug and mitigate.
+**战术建议：**
+- 更频繁地 push 更小 changes，以降低潜在失败的“blast radius”。
+- 以 on-demand deployment 为目标，确保错误发生时更容易 debug 和 mitigate。
 
-*Timestamp: 00:15:19*
+*时间戳：00:15:19*
 
 ---
 
 > "Most teams can move faster. But faster for what? We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship, what to experiment with, what features we want to do in what order and what rollout."
 
-**Insight:** Speed of shipping is only valuable when coupled with a strong product strategy that ensures the right things are being built.
+**洞察：** Shipping speed 只有与强 product strategy 结合、确保在构建正确的东西时，才有价值。
 
-**Tactical advice:**
-- Prioritize strategic decision-making to ensure that increased shipping velocity results in actual value rather than 'trash'.
-- Use rapid shipping capabilities to increase the frequency of learning through experiments.
+**战术建议：**
+- 优先 strategic decision-making，确保提高 shipping velocity 带来的是实际价值，而不是“trash”。
+- 使用 rapid shipping capabilities 增加通过 experiments 学习的频率。
 
-*Timestamp: 00:28:58*
+*时间戳：00:28:58*
 
 
 ## Nikita Miller
@@ -527,25 +527,25 @@
 
 > "if you're also not shipping a lot of things to market quickly enough, then it just doesn't matter that much."
 
-**Insight:** High-quality ideation and documentation are useless if the team lacks the velocity to actually release products.
+**洞察：** 如果团队缺少实际发布产品的 velocity，高质量 ideation 和 documentation 也没有用。
 
-**Tactical advice:**
-- Monitor how fast it takes to get things to market
-- Ensure output is treated as a key indicator of potential outcomes
+**战术建议：**
+- 监控把东西推向市场需要多快
+- 确保 output 被视为 potential outcomes 的关键指标
 
-*Timestamp: 00:00:41*
+*时间戳：00:00:41*
 
 ---
 
 > "the more tries you have at it, the likelier you are to get it right. So we're not actively monitoring how fast does it take us to ship things to market."
 
-**Insight:** Increased shipping frequency increases the statistical likelihood of hitting the desired outcome.
+**洞察：** 提高 shipping frequency 会增加命中期望 outcome 的统计概率。
 
-**Tactical advice:**
-- Track cycle time and delivery to production
-- Ask teams 'What did you deliver this sprint?' to maintain focus on output
+**战术建议：**
+- 追踪 cycle time 和 delivery to production
+- 问团队“What did you deliver this sprint?”以保持对 output 的关注
 
-*Timestamp: 27:21*
+*时间戳：27:21*
 
 
 ## Noah Weiss
@@ -553,13 +553,13 @@
 
 > "What we'll wind up doing often is have a team do a two-week customer love sprint, almost like a hackathon, but with that burndown list of what we think is the lowest effort, highest impact changes that we can make to generate more love from our customers... At the end, the goal is to ship all of them. This isn't hacks that you throw away."
 
-**Insight:** Use 'Customer Love Sprints' to tackle low-effort, high-delight polish items that often get crowded out by major feature work.
+**洞察：** 使用“Customer Love Sprints”处理低 effort、高 delight 的 polish items，这些内容常被重大 feature work 挤出去。
 
-**Tactical advice:**
-- Run two-week sprints focused on a burndown list of small, delightful customer requests.
-- Ensure all items in the sprint are intended for production, not just throwaway hacks.
+**战术建议：**
+- 运行两周 sprints，聚焦小而令人愉悦的客户请求 burndown list。
+- 确保 sprint 中所有 items 都面向 production，而不只是一次性 hacks。
 
-*Timestamp: 00:31:26*
+*时间戳：00:31:26*
 
 
 ## Patrick Campbell
@@ -567,14 +567,14 @@
 
 > "In my opinion, your tempo framework is more important than your org design. And so if you've ever had a team that seems really, really smart, but they're always planning or they don't really ship a lot... you probably don't have enough alignment on what good looks like in terms of tempo."
 
-**Insight:** A team's shipping 'tempo'—the frequency and consistency of releases—is a better predictor of success than their organizational structure.
+**洞察：** 团队的 shipping“tempo”，也就是 release 的频率和一致性，比组织结构更能预测成功。
 
-**Tactical advice:**
-- Define 'what good looks like' in terms of shipping frequency for every department
-- Establish a 'mission metric' and 'guiding principles' at the leadership level to align shipping goals
-- Identify and remove cross-functional friction points that prevent teams from hitting their target tempo
+**战术建议：**
+- 为每个部门定义 shipping frequency 上的“what good looks like”
+- 在 leadership level 建立“mission metric”和“guiding principles”，对齐 shipping goals
+- 识别并移除阻止团队达到目标 tempo 的 cross-functional friction points
 
-*Timestamp: 00:30:05*
+*时间戳：00:30:05*
 
 
 ## Paul Adams
@@ -582,13 +582,13 @@
 
 > "We have a principle called Ship to Learn. And, we've actually changed it since... Ship fast, ship early, ship often is what it says now... If you ship early, and fast, and learn fast, you can change fast, and you can improve fast."
 
-**Insight:** Prioritize shipping speed and frequency to accelerate the learning loop and allow for rapid course correction.
+**洞察：** 优先 shipping speed 和 frequency，以加速 learning loop，并允许快速 course correction。
 
-**Tactical advice:**
-- Adopt a 'Ship to Learn' mindset to mitigate the fear of failure.
-- Ship early to gather real-world data before over-investing in a direction.
+**战术建议：**
+- 采用“Ship to Learn”心态，缓解对失败的恐惧。
+- 在对某个方向过度投资前，先早发布以收集真实世界数据。
 
-*Timestamp: 00:14:09*
+*时间戳：00:14:09*
 
 
 ## Rahul Vohra
@@ -596,13 +596,13 @@
 
 > "How much to spend time ahead of launch really does depend on the markets and the structure, the nature of your business model... That's why when you have mission-critical products like email where you are interfacing with customers, with candidates, with investors, it turns out to really matter. Email is mission-critical. It's not something where you can simply launch with a half-baked product."
 
-**Insight:** The 'launch early' mantra should be ignored for mission-critical products where reliability and polish are essential for user trust.
+**洞察：** 对 reliability 和 polish 对用户信任至关重要的 mission-critical products，应忽略“launch early”口号。
 
-**Tactical advice:**
-- Assess the 'criticality' of your product before deciding on launch speed vs. polish.
-- Prioritize reliability over speed in markets where failure causes high user anxiety (e.g., email, finance).
+**战术建议：**
+- 在决定 launch speed vs. polish 前，评估产品的“criticality”。
+- 在失败会引发高度用户焦虑的市场（例如 email、finance）中，优先 reliability 而不是速度。
 
-*Timestamp: 00:38:57*
+*时间戳：00:38:57*
 
 
 ## Robby Stein
@@ -610,13 +610,13 @@
 
 > "We basically got, I mean, this was probably five to 10 people worth of people originally... We had that for a while, and then we got to a point where it was feeling good, the trusted testers were liking it, reporting good stuff, and then we it to this Labs moment."
 
-**Insight:** A staged rollout—from a small internal team to trusted testers to a 'Labs' environment—allows for iterative improvement based on real data.
+**洞察：** 分阶段 rollout，从小型 internal team 到 trusted testers 再到“Labs”环境，可以基于真实数据进行迭代改进。
 
-**Tactical advice:**
-- Start with a small 'working team' (5-10 people) to prove the concept before scaling.
-- Use a 'trusted tester' group of ~500 people to get honest, critical feedback before a public launch.
+**战术建议：**
+- 从小型“working team”（5-10 人）开始，在 scale 前证明概念。
+- 在 public launch 前，使用约 500 人的“trusted tester”小组获得诚实、关键的 feedback。
 
-*Timestamp: 00:45:15*
+*时间戳：00:45:15*
 
 
 ## Seth Godin
@@ -624,13 +624,13 @@
 
 > "I did not leave the office for the last 22 days, slept for four hours a night upstairs, and if anyone had a question, I could tell them who to talk to. That was so thrilling. It was so thrilling to make those decisions, to cajole this team, none of whom were in it for the money, to make something we were proud of."
 
-**Insight:** The final push of shipping requires a product leader to be the central point of knowledge and the primary motivator for the team.
+**洞察：** Shipping 的最后冲刺要求产品领导者成为知识中心和团队主要 motivator。
 
-**Tactical advice:**
-- Be physically or virtually present during critical launch windows to resolve blockers instantly.
-- Focus on the shared pride of the work to motivate the team through high-pressure periods.
+**战术建议：**
+- 在关键 launch windows 中保持实体或虚拟在场，以即时解决 blockers。
+- 聚焦团队对工作的共同自豪感，激励团队穿越高压时期。
 
-*Timestamp: 13:19*
+*时间戳：13:19*
 
 
 ## Vikrama Dhiman
@@ -638,25 +638,25 @@
 
 > "The very first thing that anyone, when you're starting off, produces is outputs, okay? The output can be launching a product, it can be analyzing and running an experiment, and it could even be just being a part of the team and contributing to a go-to market strategy. So focus on that output significantly."
 
-**Insight:** Early in a product career, execution and tangible outputs are more important for growth than high-level strategy.
+**洞察：** 产品职业早期，execution 和 tangible outputs 对成长的重要性高于高层战略。
 
-**Tactical advice:**
-- Focus on shipping products and completing tasks before obsessing over high-level impact
-- Volunteer for 'blocked' tasks like drafting briefs or slides to show immediate utility
+**战术建议：**
+- 在执着于高层 impact 前，先聚焦 shipping products 和完成任务
+- 主动承担“blocked”的任务，例如起草 briefs 或 slides，展示即时 utility
 
-*Timestamp: 00:07:11*
+*时间戳：00:07:11*
 
 ---
 
 > "Outputs is shipping products, but it also comes in smaller things. For instance, if you are sourcing content for your homepage, what are the different avenues that you can source content from? What is the easiest to source? What is the most difficult to source? Just ranking it all in that order goes a long way."
 
-**Insight:** High-quality output often involves organizing and simplifying complex information for the rest of the team.
+**洞察：** 高质量 output 往往包括为团队其他人组织并简化复杂信息。
 
-**Tactical advice:**
-- Identify small, tangible tasks that unblock leaders or other team members
-- Rank and organize options for a specific problem to simplify decision-making for others
+**战术建议：**
+- 识别能 unblock 领导或其他 team members 的小而具体任务
+- 为具体问题排序并组织 options，简化其他人的 decision-making
 
-*Timestamp: 00:09:51*
+*时间戳：00:09:51*
 
 
 ## Wes Kao
@@ -664,13 +664,13 @@
 
 > "the speed that we shipped at Seth HQ was just beyond. It just blew away what I think normal people think of as fast, but it was also still so good. And so I think that rigor and that refusal to accept anything but excellence was just so awesome. And it really spoke to me because I care a lot about craft."
 
-**Insight:** High-velocity shipping can coexist with high quality if there is an obsessive commitment to craft and excellence.
+**洞察：** 如果对 craft 和 excellence 有近乎偏执的承诺，高 velocity shipping 可以与高质量共存。
 
-**Tactical advice:**
-- Maintain a high bar for quality even when moving at extreme speeds.
-- Refuse to accept anything but excellence in the final output.
+**战术建议：**
+- 即便以极快速度前进，也保持高 quality bar。
+- 最终 output 中拒绝接受任何不卓越的东西。
 
-*Timestamp: 00:12:26*
+*时间戳：00:12:26*
 
 
 ## Farhan Thawar
@@ -678,13 +678,13 @@
 
 > "As part of the GSD updates, hopefully we encourage people to share high fidelity updates, which is not just imagery, but actually a demo. ... This short circuits a lot of misunderstandings, because you're like 'I'm going to try it.' And you're not waiting until the end."
 
-**Insight:** Foster a 'demo culture' where progress is validated through live products or videos rather than static status reports.
+**洞察：** 培养“demo culture”，用 live products 或 videos 验证进展，而不是静态 status reports。
 
-**Tactical advice:**
-- Require live demos or video screen shares for weekly project updates
-- Use cloud development environments to provide 'one-click' access for stakeholders to test new features
+**战术建议：**
+- 要求每周 project updates 使用 live demos 或 video screen shares
+- 使用 cloud development environments，为 stakeholders 提供测试新 features 的“一键”访问
 
-*Timestamp: 00:53:52*
+*时间戳：00:53:52*
 
 
 ## Josh Miller
@@ -692,13 +692,13 @@
 
 > "assume you don't know. And the follow up to that value is, 'So we got to get going.' It's like dropping in a new city. You just got to walk out the door of your Airbnb turn left and ... Maybe you'll turn right and then you'll hop on the subway, but you just got to get going and see what you find. And so, we have this attitude of... I've no idea what I'm doing. I have no idea what's going to happen. So we've just got to get going."
 
-**Insight:** A 'default to action' culture is built on the humility of assuming you don't have the answers, which forces rapid prototyping and shipping.
+**洞察：** “default to action”文化建立在一种谦逊上：假设自己没有答案，从而迫使快速 prototyping 和 shipping。
 
-**Tactical advice:**
-- Adopt a 'beginner's mind' even for subject matter experts
-- Bias toward 'getting going' over extensive upfront planning
+**战术建议：**
+- 即便是 subject matter experts，也采用“beginner's mind”
+- 偏向“getting going”，而不是大量 upfront planning
 
-*Timestamp: 00:20:11*
+*时间戳：00:20:11*
 
 
 ## Keith Yandell
@@ -706,13 +706,13 @@
 
 > "If you can continuously push up what you ship by a week, you're going to end up lapping competitors who are just one week behind because you're going to start the next thing a week sooner, and you're getting that 1.1, 1.01x return."
 
-**Insight:** Small, consistent gains in shipping velocity create massive competitive advantages over time through compound interest.
+**洞察：** Shipping velocity 上小而持续的收益，会通过 compound interest 随时间创造巨大的竞争优势。
 
-**Tactical advice:**
-- Push roadmaps up by small margins (even one week) to start the next project sooner
-- Maintain a sense of urgency even after major milestones like an IPO
+**战术建议：**
+- 小幅提前 roadmaps（哪怕一周），以便更早开始下一个项目
+- 即便在 IPO 这样的重大 milestones 后，也保持 urgency
 
-*Timestamp: 38:51*
+*时间戳：38:51*
 
 
 ## Naomi Gleit
@@ -720,13 +720,13 @@
 
 > "I want to make sure a project is perfectly executing, because only then can we really reevaluate whether or not this strategy is right or wrong. We're in the worst of all worlds where we are imperfectly executing and therefore, at the end of the day, the project might fail, but we don't know why."
 
-**Insight:** Perfect execution is necessary to validate whether a strategy is correct; poor execution leaves the cause of failure ambiguous.
+**洞察：** 完美 execution 是验证战略是否正确的必要条件；糟糕执行会让失败原因变得模糊。
 
-**Tactical advice:**
-- Prioritize operational excellence to ensure strategy can be accurately tested
-- If a project fails, distinguish between execution failure and strategy failure
+**战术建议：**
+- 优先 operational excellence，确保战略能被准确测试
+- 如果项目失败，区分 execution failure 和 strategy failure
 
-*Timestamp: 00:58:07*
+*时间戳：00:58:07*
 
 
 ## Scott Wu
@@ -734,13 +734,13 @@
 
 > "Everyone says we go fast, but it's like, yeah, we had a hackathon in November, we had another hackathon in December, we started the company officially in January, we got the prototypes out to initial users in February, we did a launch in March, we got our first customers in April... basically truly pushing the pace in every spot where we possibly could has really made a difference for us."
 
-**Insight:** Extreme shipping velocity is achieved by setting monthly milestones that move from prototype to launch to first customers in rapid succession.
+**洞察：** 极端 shipping velocity 来自设置月度 milestones，让团队从 prototype 到 launch 再到 first customers 快速连续推进。
 
-**Tactical advice:**
-- Set aggressive, monthly external milestones to force rapid iteration
-- Use hackathons as a mechanism to transition from ideation to company building
+**战术建议：**
+- 设置 aggressive 的月度 external milestones，迫使快速迭代
+- 使用 hackathons 作为从 ideation 过渡到 company building 的机制
 
-*Timestamp: 01:16:11*
+*时间戳：01:16:11*
 
 
 ## Varun Parmar
@@ -748,12 +748,11 @@
 
 > "We have a motto in the product org, it's very simple, single sentence, deliver customer value faster with high quality. That's it. Everything that we do... is based on this one single statement and it has three attributes."
 
-**Insight:** A simple, three-part motto (Value, Speed, Quality) can align an entire product organization's performance and reward systems.
+**洞察：** 一个简单的三部分 motto（Value、Speed、Quality）可以对齐整个产品组织的绩效和奖励系统。
 
-**Tactical advice:**
-- Measure 'customer value' by whether the target metric actually moved after shipping.
-- Track cycle times from idea to insight to ensure the team is moving 'faster' relative to their own benchmarks.
+**战术建议：**
+- 用 shipping 后目标指标是否真正移动，来衡量“customer value”。
+- 追踪从 idea 到 insight 的 cycle times，确保团队相对于自身 benchmarks 变得“faster”。
 
-*Timestamp: 00:37:51*
-
+*时间戳：00:37:51*
 

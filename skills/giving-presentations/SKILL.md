@@ -1,81 +1,81 @@
 ---
 name: giving-presentations
-description: Help users create and deliver compelling presentations. Use when someone is preparing a talk, building a slide deck, dealing with presentation anxiety, practicing for a keynote, or asking how to be more engaging when presenting.
+description: 帮助用户创建并交付有说服力的演示。Use when someone is preparing a talk, building a slide deck, dealing with presentation anxiety, practicing for a keynote, or asking how to be more engaging when presenting.
 ---
 
 # Giving Presentations
 
-Help the user create and deliver compelling presentations using techniques from 19 product leaders.
+使用来自 19 位产品领导者的技巧，帮助用户创建并交付有说服力的 presentations。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with presentations:
+当用户请求 presentations 相关帮助时：
 
-1. **Understand the context** - Ask about the audience, the stakes, the format (keynote, board meeting, all-hands), and how much time they have
-2. **Start with narrative, not slides** - Help them identify the one thing they want the audience to remember before touching slide software
-3. **Structure for engagement** - Guide them to use contrast, story, and state changes to maintain attention
-4. **Prepare for delivery** - Coach on rehearsal techniques, managing nerves, and physical presence
+1. **理解上下文** - 询问 audience、stakes、format（keynote、board meeting、all-hands）以及准备时间
+2. **从 narrative 开始，而不是从 slides 开始** - 在打开 slide software 前，帮助他们识别最希望 audience 记住的一件事
+3. **为 engagement 组织结构** - 指导他们使用 contrast、story 和 state changes 维持注意力
+4. **准备 delivery** - 辅导 rehearsal techniques、nerves management 和 physical presence
 
-## Core Principles
+## 核心原则
 
-### Start with the arrow, then build the bow
-Tristan de Montebello: "Stop focusing as much on what you want to say and focus more on what you want your audience to remember. We call it the bow and arrow technique because you can only remember one thing out of a talk... The one thing is your arrow." Define a single sentence that represents the only thing you want remembered. Select anecdotes and data (the bow) that provide the tension to launch that arrow.
+### 先定 arrow，再造 bow
+Tristan de Montebello: "Stop focusing as much on what you want to say and focus more on what you want your audience to remember. We call it the bow and arrow technique because you can only remember one thing out of a talk... The one thing is your arrow." 定义一句话，代表你唯一希望被记住的内容。再选择 anecdotes 和 data（the bow）来提供发射 arrow 的张力。
 
-### Use "what is vs. what could be" contrast
-Nancy Duarte: "This motion of traversing between what is, what could be, what is, what could be... makes people leave their current state and long for this future state." Structure your narrative to alternate between the current flawed reality and the ideal future. End with "new bliss" - the world with your idea adopted.
+### 使用 "what is vs. what could be" contrast
+Nancy Duarte: "This motion of traversing between what is, what could be, what is, what could be... makes people leave their current state and long for this future state." 让 narrative 在当前有缺陷的现实和理想未来之间切换。以 "new bliss" 收尾，即你的 idea 被采纳后的世界。
 
-### Make the title the takeaway
-Andy Raskin: "Replace 'The Team' with 'Our team is veterans of whatever industry.' Every single slide it's a takeaway, not a label." Slide titles should be descriptive conclusions, not generic category labels. The audience should understand the point without reading the body.
+### 让 title 成为 takeaway
+Andy Raskin: "Replace 'The Team' with 'Our team is veterans of whatever industry.' Every single slide it's a takeaway, not a label." Slide titles 应该是描述性结论，而不是通用类别标签。Audience 不读正文也应理解重点。
 
-### The audience is the hero, you are the mentor
-Nancy Duarte: "In myths and movies, the mentor comes alongside the hero. The presenter should come alongside the audience and help them get unstuck or bring a magical tool." Treat the audience as the protagonist on a journey. Your job is to give them tools, not show off your expertise.
+### Audience 是 hero，你是 mentor
+Nancy Duarte: "In myths and movies, the mentor comes alongside the hero. The presenter should come alongside the audience and help them get unstuck or bring a magical tool." 把 audience 当作旅程中的 protagonist。你的工作是给他们 tools，而不是展示自己的 expertise。
 
-### Schedule state changes every 3-5 slides
-Wes Kao: "Every three to five slides, put in a state change. We want to turn audience engagement from an art into a science." Insert interactive elements at regular intervals. Ask the audience to guess a data point before revealing it to increase engagement.
+### 每 3-5 slides 安排 state changes
+Wes Kao: "Every three to five slides, put in a state change. We want to turn audience engagement from an art into a science." 定期加入互动元素。揭示数据点前先让 audience 猜测，以提高 engagement。
 
-### De-risk with pre-meetings and role-play
-Casey Winters: "You want to de-risk that meeting not make it a big success or fail moment... have pre-meetings with key individuals so they're less surprised." Role-play the presentation by impersonating specific stakeholders and their likely objections. Surface concerns before the formal review.
+### 用 pre-meetings 和 role-play de-risk
+Casey Winters: "You want to de-risk that meeting not make it a big success or fail moment... have pre-meetings with key individuals so they're less surprised." 通过扮演具体 stakeholders 及其可能 objections 来 role-play presentation。在正式 review 前暴露 concerns。
 
-### Look up when thinking, not down
-Tristan de Montebello: "If you're looking down on Zoom, it looks like you're looking at your phone. If instead you think up, you actually look thoughtful by default." Direct your gaze upward when gathering thoughts. Place a "Think Up" post-it note on your monitor as a reminder.
+### 思考时向上看，不要向下看
+Tristan de Montebello: "If you're looking down on Zoom, it looks like you're looking at your phone. If instead you think up, you actually look thoughtful by default." 收集思路时把 gaze 向上。可以在 monitor 上贴 "Think Up" post-it note 提醒自己。
 
-### Reframe anxiety as excitement
-Matt Abrahams: "When you feel those symptoms of anxiety, say 'This is exciting. I get to share my point of view.' By seeing it as more positive, it causes us to relax." Anxiety and excitement share the same physiological response. Labeling the arousal as excitement improves performance.
+### 把 anxiety 重构为 excitement
+Matt Abrahams: "When you feel those symptoms of anxiety, say 'This is exciting. I get to share my point of view.' By seeing it as more positive, it causes us to relax." Anxiety 和 excitement 共享生理反应。把 arousal 标记为 excitement 能提升表现。
 
-### Use the 1:2 breathing ratio
-Matt Abrahams: "Your exhale should be twice as long as your inhale. Take a three count in, take a six count out." The physiological relaxation response is triggered during the exhale. Use a double-inhale to fully expand lungs before the long exhale.
+### 使用 1:2 breathing ratio
+Matt Abrahams: "Your exhale should be twice as long as your inhale. Take a three count in, take a six count out." 生理放松反应在 exhale 时被触发。用 double-inhale 完全扩张肺部，再长 exhale。
 
-### Stay in character from start to finish
-Tristan de Montebello: "Don't share your insecurities. Stay in character from beginning all the way through past the ending. Audiences rarely notice internal nervousness unless you leak it." Do not apologize for minor verbal slips or admit to being nervous. Use the internal cue "stay in it" to maintain composure.
+### 从开始到结束都 stay in character
+Tristan de Montebello: "Don't share your insecurities. Stay in character from beginning all the way through past the ending. Audiences rarely notice internal nervousness unless you leak it." 不要为轻微口误道歉，也不要承认紧张。用内部提示 "stay in it" 保持镇定。
 
-### Master the material so you don't need notes
-Jeffrey Pfeffer: "I never appeared before Congress with notes. I wanted them to believe, which was true, that I was in complete control and mastery of the material." Presenting without notes signals authority. Master your material so thoroughly that you can maintain eye contact throughout.
+### 掌握材料到不需要 notes
+Jeffrey Pfeffer: "I never appeared before Congress with notes. I wanted them to believe, which was true, that I was in complete control and mastery of the material." 不用 notes 会传递 authority。充分掌握材料，才能始终保持 eye contact。
 
-### Use the Accordion Method to internalize, not memorize
-Tristan de Montebello: "Practice your talk with strict time constraints, starting at 3 minutes and working down to 30 seconds. Once you reach the essence, expand it back up." This helps you internalize key pillars rather than memorizing a word-for-word script, which can lead to catastrophic failure if you lose your place.
+### 用 Accordion Method 内化，而不是死记
+Tristan de Montebello: "Practice your talk with strict time constraints, starting at 3 minutes and working down to 30 seconds. Once you reach the essence, expand it back up." 这会帮助你内化 key pillars，而不是逐字背 script；逐字背诵一旦忘词可能造成灾难性失败。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What's the one thing you want the audience to remember after your presentation?"
-- "Who is your audience and what do they care about?"
-- "What's the contrast between 'what is' and 'what could be' in your story?"
-- "Have you rehearsed this talk out loud? How many times?"
-- "What are the most likely objections or questions you'll get?"
-- "Where in your deck do you have state changes or interactive moments?"
+- "presentation 结束后，你最希望 audience 记住的一件事是什么？"
+- "你的 audience 是谁？他们关心什么？"
+- "你的 story 里，'what is' 和 'what could be' 的 contrast 是什么？"
+- "你大声 rehearsal 过了吗？练了多少次？"
+- "你最可能收到哪些 objections 或 questions？"
+- "你的 deck 里哪里有 state changes 或 interactive moments？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Starting with slides instead of narrative** - Open a notes app first, not PowerPoint. Define your story points before designing visuals
-- **Generic slide titles** - "The Problem" tells the audience nothing. "Our customers waste 4 hours per week on manual data entry" tells them everything
-- **No state changes** - A 30-slide monologue will lose the audience. Build in interaction every 3-5 slides
-- **Over-rehearsing word-for-word** - This can cause catastrophic failure if you lose your place. Internalize key pillars instead of memorizing scripts
-- **Leaking insecurity** - Saying "I'm nervous" or "I don't know if this makes sense" breaks character and signals uncertainty
+- **从 slides 开始，而不是 narrative** - 先打开 notes app，不是 PowerPoint。先定义 story points，再设计 visuals
+- **Generic slide titles** - "The Problem" 什么也没告诉 audience；"Our customers waste 4 hours per week on manual data entry" 才有信息
+- **没有 state changes** - 30-slide monologue 会失去 audience。每 3-5 slides 加入互动
+- **逐字过度 rehearsal** - 一旦忘记位置会灾难性失败。内化 key pillars，而不是背 scripts
+- **泄露 insecurity** - 说 "I'm nervous" 或 "I don't know if this makes sense" 会破坏 character，并传递不确定
 
 ## Deep Dive
 
-For all 40 insights from 19 guests, see `references/guest-insights.md`
+所有来自 19 位嘉宾的 40 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Written Communication
 - Stakeholder Alignment

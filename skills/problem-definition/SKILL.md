@@ -1,69 +1,69 @@
 ---
 name: problem-definition
-description: Help users define problems clearly before jumping to solutions. Use when someone is scoping a new feature, validating a product idea, struggling to articulate what they're building, or falling into the "shiny object trap" with new technology.
+description: 帮助用户先清晰定义问题，再进入方案。Use when someone is scoping a new feature, validating a product idea, struggling to articulate what they're building, or falling into the "shiny object trap" with new technology.
 ---
 
 # Problem Definition
 
-Help the user define problems clearly before jumping to solutions using frameworks from 91 product leaders.
+使用来自 91 位产品领导者的框架，帮助用户先清晰定义问题，再进入 solutions。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with problem definition:
+当用户请求 problem definition 相关帮助时：
 
-1. **Understand the current framing** - Ask how they're currently thinking about the problem
-2. **Dig into the struggling moment** - Help them articulate the specific context where users feel stuck
-3. **Separate problem from solution** - Ensure they haven't conflated a desired feature with the underlying need
-4. **Validate the problem matters** - Help them confirm the problem is urgent and widespread enough to solve
+1. **理解当前 framing** - 询问他们当前如何思考这个 problem
+2. **深入 struggling moment** - 帮助他们描述 users 感到 stuck 的具体 context
+3. **分离 problem 和 solution** - 确保他们没有把想要的 feature 和底层 need 混为一谈
+4. **验证 problem 的重要性** - 帮助确认这个 problem 足够 urgent 且 widespread，值得解决
 
-## Core Principles
+## 核心原则
 
-### Digitizing analog isn't enough
-Bret Taylor: "Why use this instead of the Yellow Pages? It was a digital version of something that had come before." Simply digitizing an analog predecessor often fails because it lacks a native reason to exist on the new platform. Ask "why should a customer give this the time of day?"
+### Digitizing analog 不够
+Bret Taylor: "Why use this instead of the Yellow Pages? It was a digital version of something that had come before." 简单数字化 analog predecessor 常常失败，因为它缺少在新 platform 上存在的 native reason。问："why should a customer give this the time of day?"
 
-### Prototype to define the problem
-Jake Knapp + John Zeratsky: "This idea of getting unstuck and turning maybe some abstract ideas or some concepts that you've been discussing, turning that into a concrete prototype, something that you can look at and you can click around." Moving from abstract concepts to concrete prototypes is the fastest way to define and solve a problem.
+### 用 prototype 定义 problem
+Jake Knapp + John Zeratsky: "This idea of getting unstuck and turning maybe some abstract ideas or some concepts that you've been discussing, turning that into a concrete prototype, something that you can look at and you can click around." 从 abstract concepts 转到 concrete prototypes，是定义并解决 problem 的最快方式。
 
-### Avoid the shiny object trap
-Marily Nika: "There is something called the shiny object trap, and I'm always telling people, 'Hey, don't do AI for the sake of doing AI.' Make sure there is a problem there." Ensure AI (or any new technology) is used to solve a specific, validated user pain point rather than for its own sake.
+### 避免 shiny object trap
+Marily Nika: "There is something called the shiny object trap, and I'm always telling people, 'Hey, don't do AI for the sake of doing AI.' Make sure there is a problem there." 确保 AI 或任何新 technology 是为了解决具体、已验证的 user pain point，而不是为了它自身。
 
-### Struggling moments cause demand
-Bob Moesta: "A struggling moment causes demand. And you start to realize that in some cases that struggling moment exists and can exist for a long time and nobody solved it." Demand is created by a specific "struggling moment" in a user's life, not by the product itself. Study the context that makes users' behavior rational.
+### Struggling moments 创造 demand
+Bob Moesta: "A struggling moment causes demand. And you start to realize that in some cases that struggling moment exists and can exist for a long time and nobody solved it." Demand 来自 user 生活中的具体 "struggling moment"，而不是 product 本身。研究让 user 行为变得合理的 context。
 
-### See the end from the beginning
-Ryan Singer: "We are not going to start something unless we can see the end from the beginning. We're not going to take a big concept and then say, 'What's the estimate for this thing?'" Ensure the team can visualize the completed feature before committing resources. Avoid starting with fuzzy concepts.
+### 从一开始就看见终点
+Ryan Singer: "We are not going to start something unless we can see the end from the beginning. We're not going to take a big concept and then say, 'What's the estimate for this thing?'" 在承诺 resources 前，确保 team 能 visualize completed feature。避免从 fuzzy concepts 开始。
 
-### The solution is what customers buy
-Marty Cagan: "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about." While understanding the problem is necessary, competitive advantage comes from the quality of the solution. Don't over-rotate on problem validation if the problem is well-understood.
+### Customers 买的是 solution
+Marty Cagan: "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about." 理解 problem 是必要的，但 competitive advantage 来自 solution quality。如果 problem 已被充分理解，不要过度停留在 problem validation。
 
-### Spend more time on the problem
-Christopher Lochhead: "Spend more time on the problem than the solution." Deeply understanding the customer's perspective of the problem is more valuable than internal product brainstorming. Listen to hear their perspective rather than just pitching your solution.
+### 在 problem 上花更多时间
+Christopher Lochhead: "Spend more time on the problem than the solution." 深入理解 customer perspective of the problem，比内部 product brainstorming 更有价值。倾听是为了听见他们的 perspective，而不是 pitch 你的 solution。
 
-### Qualify the problem type
-Christopher Miller: "I don't know that we even talk about problems without a qualifier. Are we talking about a business problem? Are we talking about a customer problem?" Effective problem definition requires distinguishing between business needs and customer pain points to avoid "customer-hostile" solutions.
+### 限定 problem type
+Christopher Miller: "I don't know that we even talk about problems without a qualifier. Are we talking about a business problem? Are we talking about a customer problem?" 有效 problem definition 需要区分 business needs 和 customer pain points，避免产生 "customer-hostile" solutions。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What is the user doing right before they encounter this problem? What are they trying to accomplish?"
-- "Why hasn't this problem been solved already? What makes it hard?"
-- "Is this a business problem or a customer problem? Are they the same?"
-- "If you solved this problem perfectly, how would the user's life be different?"
-- "Can you describe a specific person experiencing this problem in a specific moment?"
-- "What are people doing today to work around this problem?"
+- "User 在遇到这个 problem 前正在做什么？他们想完成什么？"
+- "为什么这个 problem 之前没有被解决？难点在哪里？"
+- "这是 business problem 还是 customer problem？两者一样吗？"
+- "如果完美解决这个 problem，user 的生活会有什么不同？"
+- "你能描述一个具体的人在一个具体时刻经历这个 problem 吗？"
+- "今天人们如何 workaround 这个 problem？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Solution-first thinking** - Starting with a feature idea and working backward to justify it
-- **Technology-first thinking** - Wanting to use AI/blockchain/etc. and looking for problems to apply it to
-- **Abstract problem statements** - Defining problems so broadly they don't point to any specific solution
-- **Conflating business and customer problems** - Solving for internal metrics without addressing user needs
-- **Skipping the struggling moment** - Not understanding the specific context where pain occurs
+- **Solution-first thinking** - 从 feature idea 开始，再倒推理由
+- **Technology-first thinking** - 想使用 AI/blockchain/etc.，再寻找可套用的问题
+- **Abstract problem statements** - 把 problems 定义得太宽，以至于不能指向任何具体 solution
+- **混淆 business 和 customer problems** - 解决 internal metrics，却没有处理 user needs
+- **跳过 struggling moment** - 没理解 pain 发生的具体 context
 
 ## Deep Dive
 
-For all 123 insights from 91 guests, see `references/guest-insights.md`
+所有来自 91 位嘉宾的 123 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - positioning-messaging
 - prioritizing-roadmap

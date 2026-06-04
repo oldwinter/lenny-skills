@@ -1,6 +1,6 @@
-# Conducting User Interviews - All Guest Insights
+# 进行用户访谈 - 全部嘉宾洞察
 
-*43 guests, 64 mentions*
+*43 位嘉宾，64 次提及*
 
 ---
 
@@ -9,13 +9,13 @@
 
 > "Don't use the data alone to figure out who the marginal user is. It'll give you a clue where they are and what might be wrong, will give you some hints. It's not going to give you the answer. You have to go watch them to find the answer."
 
-**Insight:** Observational research reveals 'orthogonal' problems that are invisible in data funnels.
+**洞察：** Observational research 会揭示 data funnels 中看不见的“orthogonal”问题。
 
-**Tactical advice:**
-- Watch users use the product in person to identify where their mental models (e.g., using nicknames vs. legal names) conflict with product design.
-- Use data to identify *where* to look, but use interviews and observation to find the *why*.
+**战术建议：**
+- 现场观察 users 使用产品，识别他们的 mental models（例如使用昵称 vs. 法定姓名）在哪里与 product design 冲突。
+- 用数据识别要看*哪里*，但用 interviews 和 observation 找到*为什么*。
 
-*Timestamp: 00:51:30*
+*时间戳：00:51:30*
 
 
 ## Bangaly Kaba
@@ -23,13 +23,13 @@
 
 > "We were literally on the ground in India every three months took a team of engineers with me. I'm talking like we're in Delhi in people's homes and Mumbai, and we went to go investigate what was going on, watch people make friends, watch them use people you may know."
 
-**Insight:** Directly observing users in their own environment reveals cultural nuances and mental models that data cannot capture.
+**洞察：** 在用户自己的环境中直接观察他们，会揭示数据无法捕捉的 cultural nuances 和 mental models。
 
-**Tactical advice:**
-- Watch users perform core tasks to see where their mental model (e.g., searching by photos) differs from the product's design (e.g., searching by name).
-- Identify non-Western paradigms in user behavior to localize product features effectively.
+**战术建议：**
+- 观察 users 执行 core tasks，看他们的 mental model（例如按照片搜索）在哪里不同于产品设计（例如按姓名搜索）。
+- 识别用户行为中的 non-Western paradigms，以有效 localize product features。
 
-*Timestamp: 01:27:14*
+*时间戳：01:27:14*
 
 
 ## Bob Moesta
@@ -37,37 +37,37 @@
 
 > "The first thing we do is we try to extract the story from the customer. And it doesn't have to be my product, it could be somebody else's product if I haven't built it yet. It's like, what are people going to fire when they hire me?"
 
-**Insight:** Interviews should focus on the 'story' of why a user switched from an old solution to a new one.
+**洞察：** Interviews 应聚焦用户为什么从旧 solution 切换到新 solution 的“story”。
 
-**Tactical advice:**
-- Interview people who have recently purchased or switched products to understand the 'causation' of their move.
-- Ask about what the user will 'fire' in order to 'hire' your new product.
+**战术建议：**
+- 访谈最近购买或切换 products 的人，理解他们行动背后的“causation”。
+- 询问用户会“fire”什么，才能“hire”你的新产品。
 
-*Timestamp: 00:18:39*
+*时间戳：00:18:39*
 
 ---
 
 > "I only talk to people who have already tried to make the progress... I need to talk to people who did something and tried and though they might've failed, what made them try?"
 
-**Insight:** Avoid interviewing people about what they 'might' do; only interview those who have taken action or attempted to solve a problem.
+**洞察：** 避免访谈人们“might”会做什么；只访谈已经采取行动或尝试解决问题的人。
 
-**Tactical advice:**
-- Filter for interviewees who have already spent time or money trying to solve the problem.
-- Ignore 'bitching' (complaining) and look for 'switching' (actual behavior change).
+**战术建议：**
+- 筛选已经花时间或金钱试图解决问题的 interviewees。
+- 忽略“bitching”（抱怨），寻找“switching”（真实行为变化）。
 
-*Timestamp: 00:28:09*
+*时间戳：00:28:09*
 
 ---
 
 > "The other tip I have is to not have a discussion guide. It drives people crazy because everybody wants to ask the same set of questions, but the problem happens is when you ask the same set of questions, you actually don't follow the ones that actually have the most meaningful information in it"
 
-**Insight:** Rigid discussion guides prevent interviewers from following the most valuable conversational threads.
+**洞察：** 僵硬的 discussion guides 会阻止 interviewers 追随最有价值的对话线索。
 
-**Tactical advice:**
-- Use the 'Four Forces' (push, pull, anxiety, habit) as a mental framework instead of a script.
-- Use 'bracketing' (offering two extremes) to help users articulate feelings they can't quite name.
+**战术建议：**
+- 使用“Four Forces”（push、pull、anxiety、habit）作为 mental framework，而不是 script。
+- 使用“bracketing”（提供两个极端）帮助 users 表达他们说不清的感受。
 
-*Timestamp: 00:30:18*
+*时间戳：00:30:18*
 
 
 ## Christine Itwaru
@@ -75,25 +75,25 @@
 
 > "Speaking as a former PM, I would not ever give up spending time with customers and watching their pain. That's how I fell in love with product was I saw my internal customer 12 years back now fighting with the keyboard, fighting with the mouse, and I was just like, 'Oh, my gosh. What's this guy doing?'"
 
-**Insight:** Directly observing customer struggle is the foundational experience for building product empathy and identifying real problems.
+**洞察：** 直接观察 customer struggle，是建立 product empathy 和识别真实问题的基础体验。
 
-**Tactical advice:**
-- Watch customers use the product in their natural environment to see where they fight with the interface
-- Prioritize direct observation over second-hand reports to understand the 'pain' acutely
+**战术建议：**
+- 观察 customers 在自然环境中使用产品，看看他们在哪里与 interface 搏斗
+- 优先 direct observation，而不是二手 reports，以敏锐理解“pain”
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "I cannot see product managers saying, 'I don't want to be a part of that conversation.' Then you know what? I'm going to say it then don't be in product."
 
-**Insight:** Direct customer interaction is a non-negotiable core responsibility of a product manager that should never be offloaded to operations.
+**洞察：** Direct customer interaction 是 product manager 不可协商的核心责任，绝不应外包给 operations。
 
-**Tactical advice:**
-- Ensure PMs maintain a direct line to customers even when support or ops teams exist
-- Use customer conversations as the primary tool for problem discovery
+**战术建议：**
+- 即便存在 support 或 ops teams，也要确保 PMs 与 customers 保持 direct line
+- 将 customer conversations 作为 problem discovery 的主要工具
 
-*Timestamp: 00:28:50*
+*时间戳：00:28:50*
 
 
 ## Chris Hutchins
@@ -101,13 +101,13 @@
 
 > "I would start pretending that the product existed in the interviews. Only to find out, at the end, people was like, 'Oh, it's not out yet.' And they're like, 'What I want to use...' You could really feel the like, 'No, no, no, no, this has to be out. I want to start using it.'"
 
-**Insight:** Pretending a product is already live during interviews can reveal the true depth of user desire and urgency.
+**洞察：** 在 interviews 中假装产品已经上线，可以揭示用户 desire 和 urgency 的真实深度。
 
-**Tactical advice:**
-- Use clickable, full prototypes to simulate a real experience
-- Observe emotional reactions when users realize they cannot yet access the product
+**战术建议：**
+- 使用 clickable、完整 prototypes 模拟真实 experience
+- 观察 users 意识到还无法访问产品时的情绪反应
 
-*Timestamp: 00:10:12*
+*时间戳：00:10:12*
 
 
 ## Chip Conley
@@ -115,23 +115,23 @@
 
 > "I just said, 'Listen, let's get some older people who are hosts in here to see how well they will be versed in managing their listing purely on mobile.'"
 
-**Insight:** User research must include diverse demographic segments to prevent biased product decisions (like going mobile-only).
+**洞察：** User research 必须包含多样 demographic segments，以防止有偏的 product decisions（例如只做 mobile-only）。
 
-**Tactical advice:**
-- Proactively recruit users from underrepresented age groups to test major strategic shifts
+**战术建议：**
+- 主动招募 underrepresented age groups 的 users，测试重大 strategic shifts
 
-*Timestamp: 00:09:47*
+*时间戳：00:09:47*
 
 ---
 
 > "I actually went into the homes of these hosts all around the world... I think I was lucky because Brian did less of that than he did with other people."
 
-**Insight:** Direct, in-person observation of customers in their own environment provides credibility that data alone cannot offer.
+**洞察：** 在 customers 自己环境中进行直接、in-person observation，可以提供单靠数据无法提供的 credibility。
 
-**Tactical advice:**
-- Conduct 'world tours' or home visits to gain deep qualitative empathy for the user
+**战术建议：**
+- 进行“world tours”或 home visits，获得对用户的深度 qualitative empathy
 
-*Timestamp: 00:15:05*
+*时间戳：00:15:05*
 
 
 ## Christopher Miller
@@ -139,25 +139,25 @@
 
 > "we spent a lot of time talking to users directly, and a lot of guerrilla user research techniques. Literally, sometimes going outside and just talking to runners in passing to understand what were the challenges in finding motivation"
 
-**Insight:** Direct, unmediated access to users is essential for understanding the 'why' behind the data.
+**洞察：** 直接、无中介访问 users，对理解数据背后的“why”至关重要。
 
-**Tactical advice:**
-- Use 'guerrilla' research methods to talk to users in their natural environment
-- Focus interviews on understanding the emotional and motivational drivers of behavior
+**战术建议：**
+- 使用“guerrilla”research methods，在 users 自然环境中与他们交谈
+- 将 interviews 聚焦于理解行为背后的情绪和动机 drivers
 
-*Timestamp: 00:24:17*
+*时间戳：00:24:17*
 
 ---
 
 > "I usually tend to really enjoy my conversations with people who decided not to use HubSpot and to really try to unpack what drove that decision. Was it as calculated, as I think sometimes we can all maybe assume... And then you often learn that they're sometimes kind of emotional, really instinctual and visceral"
 
-**Insight:** Interviewing lost prospects or churned users reveals emotional and brand-related barriers that usage data cannot capture.
+**洞察：** 访谈 lost prospects 或 churned users，会揭示 usage data 无法捕捉的情绪和品牌相关 barriers。
 
-**Tactical advice:**
-- Prioritize interviews with people who chose a competitor or 'non-consumption'
-- Ask questions that probe the emotional state of the user during their decision-making process
+**战术建议：**
+- 优先访谈选择 competitor 或“non-consumption”的人
+- 提问探索用户在 decision-making process 中的情绪状态
 
-*Timestamp: 00:27:40*
+*时间戳：00:27:40*
 
 
 ## David Placek
@@ -165,13 +165,13 @@
 
 > "We do consumer research or customer research at that stage... putting the names in a series of drills... seeing how these names fire their imagination. And that's the most important thing in research, not is the name popular, are they comfortable with it, does it fit to concept."
 
-**Insight:** User research for names should focus on imagination and expectation rather than popularity or 'fit'.
+**洞察：** 针对 names 的 user research 应聚焦 imagination 和 expectation，而不是 popularity 或“fit”。
 
-**Tactical advice:**
-- Ask users what they expect from a product with a certain name rather than if they 'like' the name
-- Test if a name creates a 'predisposition to consider' the product
+**战术建议：**
+- 询问 users 对某个名字的产品有什么期待，而不是问他们是否“like”这个名字
+- 测试一个 name 是否会创造对产品的“predisposition to consider”
 
-*Timestamp: 00:51:44*
+*时间戳：00:51:44*
 
 
 ## Dalton Caldwell
@@ -179,26 +179,26 @@
 
 > "You have to get out in the world and talk to people in person. And you can't just hide behind your keyboard and call that talking to customers. Right? I think a lot of folks, the inclinations are to build a landing page and buy some Instagram ads and try to get people to sign up for something. And again, maybe that's something, but I think a lot of the reason people do that is they're just shy and they don't want to put themselves out there because it's a little awkward to go talk to people."
 
-**Insight:** Effective user research requires physical, in-person interaction to overcome the 'keyboard' bias and social anxiety of early discovery.
+**洞察：** 有效 user research 需要 physical、in-person interaction，以克服 early discovery 中的“keyboard”bias 和社交焦虑。
 
-**Tactical advice:**
-- Prioritize in-person physical meetings over digital proxies like landing pages or ads
-- Power through the social awkwardness of talking to strangers about your idea
-- Avoid using 'customer validation' as a euphemism for just running ads
+**战术建议：**
+- 优先 in-person physical meetings，而不是 landing pages 或 ads 这类 digital proxies
+- 穿越和陌生人聊自己想法时的社交尴尬
+- 避免把“customer validation”当作只跑 ads 的委婉说法
 
-*Timestamp: 00:41:49*
+*时间戳：00:41:49*
 
 ---
 
 > "I think it's look at your calendar and there should be 20 or 30% of your time that the calendar says something like customer meeting, customer call, meeting with who, meeting with this person. And when the calendar is not that or it's all... Again, what you're actually doing is just buying ads to try to validate your idea, I don't think that's talking to customers."
 
-**Insight:** A founder's commitment to user research should be reflected in their calendar, ideally occupying 20-30% of their time.
+**洞察：** Founder 对 user research 的承诺应反映在 calendar 上，理想情况下占用 20-30% 的时间。
 
-**Tactical advice:**
-- Audit your calendar to ensure 20-30% of time is spent on direct customer calls or meetings
-- Differentiate between 'staring at analytics' and having actual conversations
+**战术建议：**
+- 审计你的 calendar，确保 20-30% 时间花在 direct customer calls 或 meetings 上
+- 区分“staring at analytics”和真正对话
 
-*Timestamp: 00:43:17*
+*时间戳：00:43:17*
 
 
 ## Dmitry Zlokazov
@@ -206,13 +206,13 @@
 
 > "When you delegate such an important thing as customer research and collecting their feedback to someone, you will get a refined filtered version. You won't get these nuances of how people describe things, which emotions they feel like and so on, and where they think stuck. It's very easy to lose all those important bytes of information in this process. So I'm a strong believer that it's very important to have direct communication channel to customers."
 
-**Insight:** Product owners should conduct their own research to avoid losing critical nuances that occur when feedback is filtered through intermediaries.
+**洞察：** Product owners 应亲自进行 research，避免 feedback 经由 intermediaries 过滤时丢失关键 nuances。
 
-**Tactical advice:**
-- Avoid delegating customer research to maintain a direct connection to user emotions and pain points
-- Build internal tools that allow product owners to launch surveys or interviews in a few clicks
+**战术建议：**
+- 避免委派 customer research，以保持与 user emotions 和 pain points 的直接连接
+- 构建 internal tools，让 product owners 能几次点击就 launch surveys 或 interviews
 
-*Timestamp: 00:23:52*
+*时间戳：00:23:52*
 
 
 ## Geoffrey Moore
@@ -220,13 +220,13 @@
 
 > "Just like going to a doctor, you don't want the doctor to come and say, 'Hey, can I show you a movie of the operation I just did?'... What I would like to do is talk to you about this pain I have in my side. And then when the doctor asks you good questions about it, you go, 'Ah, this is a good doctor. I'm going to trust this.'"
 
-**Insight:** User discovery should mirror a medical diagnosis, where the interviewer's credibility is built through the quality of their questions.
+**洞察：** User discovery 应像医疗诊断，interviewer 的 credibility 由问题质量建立。
 
-**Tactical advice:**
-- Focus the interview entirely on the user's 'pain' before mentioning your solution.
-- Build trust by asking deep, industry-specific questions that show you understand their context.
+**战术建议：**
+- 在提到你的 solution 前，把 interview 完全聚焦在用户的“pain”上。
+- 通过提出深入、industry-specific questions 来建立信任，展示你理解他们的 context。
 
-*Timestamp: 00:13:00*
+*时间戳：00:13:00*
 
 
 ## Gustaf Alstromer
@@ -234,36 +234,36 @@
 
 > "The problem is, which anyone who hasn't done sales before that joined YC, they realize this, is that if you take the average customer group in the world, 90% are not early adopters... Those 10 percents are the early adopters. They're The ones that you actually want to reach. But that means you have to reach 10 to find one."
 
-**Insight:** Finding the right users to interview requires high-volume outreach to filter for the 10% who are early adopters.
+**洞察：** 找到正确 users 来访谈，需要 high-volume outreach，从中筛出 10% early adopters。
 
-**Tactical advice:**
-- Expect a 90% rejection or indifference rate when seeking discovery interviews
-- Target the 10% of users who are willing to take risks on new solutions
+**战术建议：**
+- 寻找 discovery interviews 时，预期会有 90% rejection 或 indifference rate
+- 瞄准愿意为新 solutions 冒险的 10% users
 
-*Timestamp: 00:24:25*
+*时间戳：00:24:25*
 
 ---
 
 > "I think people just have this fear that, 'If I get a lot of rejection, that means everything is bad.' But the rejection should be put in context to the early adopter idea and that most people who don't care are not early adopters... you just need to overcome that fear and just learn that there's nothing that's really that bad that can happen when people don't use the service."
 
-**Insight:** Indifference is more common than hatred; rejection is a natural part of the discovery process, not a sign of total failure.
+**洞察：** Indifference 比 hatred 更常见；rejection 是 discovery process 的自然组成部分，不是彻底失败的信号。
 
-**Tactical advice:**
-- Internalize that users are busy and their lack of response is usually indifference, not a permanent rejection of the idea
+**战术建议：**
+- 内化这一点：users 很忙，他们不回应通常是 indifference，而不是对想法的永久拒绝
 
-*Timestamp: 00:30:37*
+*时间戳：00:30:37*
 
 ---
 
 > "The best way for you to figure out what is the intensity of the problem is not to ask them but to watch them or to watch them solve the thing that they do... have them screen share, have them walk you through their daily workflow about the area where you're doing some discovery. That is the best thing."
 
-**Insight:** Observational research is superior to verbal feedback because users often don't realize how much pain they are in.
+**洞察：** Observational research 优于 verbal feedback，因为 users 往往没有意识到自己承受了多少 pain。
 
-**Tactical advice:**
-- Use screen sharing to watch users perform their current manual workflows
-- Look for 'invisible' pain points like repetitive Excel tasks that users have normalized
+**战术建议：**
+- 使用 screen sharing 观察 users 执行当前 manual workflows
+- 寻找 users 已经习以为常的“invisible”pain points，例如重复 Excel tasks
 
-*Timestamp: 00:32:15*
+*时间戳：00:32:15*
 
 
 ## Jackson Shuttleworth
@@ -271,12 +271,12 @@
 
 > "We did some UXR in India many years ago... the idea of keeping a flame lit to show your commitment to something makes less sense... it was a metaphor for a mechanic, and when we redesigned it... we actually focused the design on the screen to show your number going up."
 
-**Insight:** Global user research can reveal cultural disconnects in core product metaphors.
+**洞察：** Global user research 可以揭示核心 product metaphors 中的 cultural disconnects。
 
-**Tactical advice:**
-- Test product metaphors (like the 'flame') in different cultural contexts to ensure they are universally understood.
+**战术建议：**
+- 在不同 cultural contexts 中测试 product metaphors（例如“flame”），确保它们能被普遍理解。
 
-*Timestamp: 00:41:15*
+*时间戳：00:41:15*
 
 
 ## Jake Knapp + John Zeratsky
@@ -284,13 +284,13 @@
 
 > "These conversations with customers are so much more fruitful and pointed when you've got the context of I know exactly what my hypothesis is and you have prototypes to show them."
 
-**Insight:** Customer discovery is significantly more effective when testing a concrete hypothesis with a prototype rather than having open-ended conversations.
+**洞察：** 当你用 prototype 测试具体 hypothesis，而不是进行开放式对话时，customer discovery 会有效得多。
 
-**Tactical advice:**
-- Always bring a prototype to a customer interview to ground the feedback in reality.
-- Use a scorecard to track if the customer fits the profile, has the problem, and reacts positively to the differentiation.
+**战术建议：**
+- Customer interview 中始终带 prototype，让 feedback 扎根于现实。
+- 使用 scorecard 追踪 customer 是否符合 profile、是否有该 problem，以及是否对 differentiation 有正向反应。
 
-*Timestamp: 01:24:11*
+*时间戳：01:24:11*
 
 
 ## Jeff Weinstein
@@ -298,48 +298,48 @@
 
 > "The moment the customer felt compelled enough to go out of their way to talk about some problem, that's a unbelievable gift. I will leave a meeting to just get one message back to them. If you're text message friendly with five or 10 of those, you are going to have so much direct signal that is infectious."
 
-**Insight:** Direct, high-speed communication with a small group of highly engaged customers provides more valuable signal than large-scale aggregate data.
+**洞察：** 与一小群高度 engaged customers 直接、高速沟通，比大规模 aggregate data 提供更有价值的 signal。
 
-**Tactical advice:**
-- Respond to customer feedback with extreme speed to build a 'secret portal' of trust.
-- Aim to be 'text message friendly' with 5-10 ambitious, technical customers.
+**战术建议：**
+- 以极快速度回应 customer feedback，建立信任的“secret portal”。
+- 目标是与 5-10 位有野心、技术型 customers 达到“text message friendly”。
 
-*Timestamp: 00:00:04*
+*时间戳：00:00:04*
 
 ---
 
 > "You have to carefully listen and not pitch your customer... people don't want to be pitched. I'm sometimes on a UXR call... and the first thing that they start talking about when we get on the call is, 'Hi, I'm the CEO of X, Y, and Z company. We do one, two, and three. I want to show you a demo.' It's like, 'Hold up, I'm a customer. I have...' What a wasted opportunity you've just done here."
 
-**Insight:** Pitching during a research call anchors the customer and prevents them from sharing their actual burning problems.
+**洞察：** 在 research call 中 pitch 会 anchor customer，阻止他们分享真正 burning problems。
 
-**Tactical advice:**
-- Avoid starting calls with a company intro or demo.
-- Use silence to allow the customer to open up about their top-of-mind issues.
+**战术建议：**
+- 避免用公司介绍或 demo 开始 calls。
+- 使用沉默，让 customer 打开并谈论他们 top-of-mind issues。
 
-*Timestamp: 00:21:34*
+*时间戳：00:21:34*
 
 ---
 
 > "I'll prompt our customers, I'll say, 'Hey, do you mind just opening up your email? What's in there?' Or, 'If you weren't talking to me right now, what would you be working on?' Or, 'Hey, last week, what grinds your gears? What are you not looking forward to?' Or magic wand, 'What do you wish you could just have off your plate immediately?'"
 
-**Insight:** Specific, open-ended prompts about a customer's daily life reveal the 'first problem' they are desperate to solve.
+**洞察：** 关于 customer 日常生活的具体、开放式 prompts，会揭示他们迫切想解决的“first problem”。
 
-**Tactical advice:**
-- Ask customers what they would be doing if they weren't on the call with you.
-- Ask customers to show you their inbox to see real-world friction points.
+**战术建议：**
+- 问 customers 如果不在和你通话，他们会在做什么。
+- 请 customers 展示 inbox，观察真实世界 friction points。
 
-*Timestamp: 00:23:17*
+*时间戳：00:23:17*
 
 ---
 
 > "I will have them practice charging me. I'll just say, 'Hey, I'm just a friend. I'm trying to help you out... send me an invoice or a payment link for $1 right now, right now. That way, when it comes time to actually charge your first customer, it won't be your first time.'"
 
-**Insight:** The gap between 'willingness to pay' and actually 'paying' is massive; forcing a $1 transaction validates the product's core utility.
+**洞察：** “willingness to pay”和实际“paying”之间有巨大差距；强制 1 美元 transaction 可以验证产品 core utility。
 
-**Tactical advice:**
-- Ask potential customers to send you a $1 invoice during the interview to test the payment flow and their commitment.
+**战术建议：**
+- 在 interview 中请 potential customers 给你发一张 1 美元 invoice，以测试 payment flow 和他们的 commitment。
 
-*Timestamp: 00:44:09*
+*时间戳：00:44:09*
 
 
 ## Jen Abel
@@ -347,13 +347,13 @@
 
 > "I would be very open and honest with where you are. Hey, I'm an early stage startup. We have a lot to learn. Can we kind of gain your insight into how this problem is manifesting on your side?"
 
-**Insight:** Vulnerability and honesty about being early-stage encourages prospects to provide raw, honest feedback rather than polite platitudes.
+**洞察：** 对自己还在 early-stage 保持 vulnerability 和 honesty，会鼓励 prospects 给出原始、诚实 feedback，而不是礼貌 platitudes。
 
-**Tactical advice:**
-- Ask prospects to 'walk through what's living in your head' to understand their visualization of the solution.
-- Avoid generic questions like 'what keeps you up at night' in favor of specific questions about problem manifestation.
+**战术建议：**
+- 请 prospects“walk through what's living in your head”，理解他们如何想象 solution。
+- 避免“what keeps you up at night”这类泛泛问题，改问 problem manifestation 的具体问题。
 
-*Timestamp: 00:31:15*
+*时间戳：00:31:15*
 
 
 ## Jess Lachs
@@ -361,13 +361,13 @@
 
 > "The team, data scientists included, just sat and made phone calls. ... that's where qualitative research is superior to quantitative research, it's asking for the context, to actually talking to people to figure out what was the motivation, what worked, what didn't for them."
 
-**Insight:** When quantitative data fails to explain 'why' a feature didn't work, data teams should pivot to direct customer conversations.
+**洞察：** 当 quantitative data 无法解释某个 feature 为什么没奏效时，data teams 应转向 direct customer conversations。
 
-**Tactical advice:**
-- Have data scientists conduct phone interviews with customers to understand the motivation behind the numbers.
-- Use qualitative insights from these calls to inform the next iteration of product testing.
+**战术建议：**
+- 让 data scientists 与 customers 做 phone interviews，理解数字背后的 motivation。
+- 使用这些 calls 中的 qualitative insights 指导下一轮 product testing。
 
-*Timestamp: 00:42:16*
+*时间戳：00:42:16*
 
 
 ## Judd Antin
@@ -375,25 +375,25 @@
 
 > "One of my big mantras was, 'We don't validate, we falsify. We are looking to be wrong.' Many PMs, many designers are not in that place. They do not want to be wrong. They're looking to validate, and that's user-centered performance."
 
-**Insight:** Research should be approached with a mindset of falsification—seeking to be proven wrong—rather than seeking validation for existing ideas.
+**洞察：** 做 research 应带着 falsification 心态，也就是寻求被证明错误，而不是为既有想法寻找 validation。
 
-**Tactical advice:**
-- Adopt a 'falsify, don't validate' mindset during discovery.
-- Avoid 'check-the-box' research at the end of a product cycle that is only intended to signal customer obsession.
+**战术建议：**
+- 在 discovery 中采用“falsify, don't validate”心态。
+- 避免在 product cycle 末尾做只为显示 customer obsession 的“check-the-box”research。
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "A researcher who's going to ask customers what they want is a bad researcher. You need a different researcher. I've never done that in my career. No one on my team has ever run a study that's like that."
 
-**Insight:** Effective user research focuses on understanding behaviors and problems rather than asking users to design the solution.
+**洞察：** 有效 user research 聚焦理解 behaviors 和 problems，而不是请 users 设计 solution。
 
-**Tactical advice:**
-- Do not ask users directly what features they want built.
-- Focus interviews on understanding the user's context and pain points.
+**战术建议：**
+- 不要直接问 users 想要构建什么 features。
+- 将 interviews 聚焦于理解 user context 和 pain points。
 
-*Timestamp: 00:42:41*
+*时间戳：00:42:41*
 
 
 ## Keith Coleman & Jay Baxter
@@ -401,13 +401,13 @@
 
 > "We showed those to people across the political spectrum. We saw, hey, people really like these. Whether they're on the right or left, they seem very open to reading these community notes even when they're critical to people of their own side."
 
-**Insight:** Testing prototypes with highly polarized user groups can reveal surprising areas of common ground and validate product viability.
+**洞察：** 用高度 polarized user groups 测试 prototypes，可以揭示出人意料的共同点，并验证 product viability。
 
-**Tactical advice:**
-- Recruit research participants from opposing ideological or user groups to test for neutrality
-- Use unmoderated studies (like usertesting.com) to gather early feedback on controversial concepts
+**战术建议：**
+- 从对立 ideological 或 user groups 中招募 research participants，以测试 neutrality
+- 使用 unmoderated studies（如 usertesting.com）为争议性 concepts 收集早期 feedback
 
-*Timestamp: 01:06:35*
+*时间戳：01:06:35*
 
 
 ## Kevin Aluwi
@@ -415,13 +415,13 @@
 
 > "I think I just wanted to understand what that role was like to build a lot more empathy towards the job and make sure that our product was catered towards what those needs were... this is eventually what led to, I think a lot of the support I gave to our driver teams when they were pushing for, Hey, we need more waiting fees, we need to add multiple stops in order to make sure that hey, a lot of this extra work was actually compensated."
 
-**Insight:** Immersive user research (dogfooding) is essential for building the empathy required to advocate for critical user-centric features.
+**洞察：** Immersive user research（dogfooding）对建立倡导关键 user-centric features 所需的 empathy 至关重要。
 
-**Tactical advice:**
-- Personally perform the service or use the product in real-world conditions to build empathy
-- Use first-hand experience to identify 'hidden' pain points that require product solutions, such as uncompensated labor
+**战术建议：**
+- 亲自执行服务或在真实条件下使用产品，以建立 empathy
+- 使用 firsthand experience 识别需要 product solutions 的“hidden”pain points，例如未补偿劳动
 
-*Timestamp: 00:42:12*
+*时间戳：00:42:12*
 
 
 ## Kevin Yien
@@ -429,14 +429,14 @@
 
 > "PMs need direct exposure to raw material. End of story. And so that's where I think you just need to constantly be talking to or interacting with whoever is your customer... you can set up workflows either via Zapier or something else to say, 'Who was the customer? Pull their email, put that into a sequence, drop in my Calendly' and you just have interviews showing up automatically on your calendar."
 
-**Insight:** Automating the sourcing of user interviews ensures PMs maintain a constant pulse on the customer without the manual overhead of recruiting.
+**洞察：** 自动化 user interviews 的 sourcing，可以确保 PMs 在没有手动 recruiting 开销的情况下，持续保持 customer pulse。
 
-**Tactical advice:**
-- Use tools like Gong to alert you when specific keywords are mentioned in sales calls.
-- Automate outreach to those customers via Zapier and customer.io to book research sessions.
-- Use userinterviews.com for targeted B2B participant sourcing.
+**战术建议：**
+- 使用 Gong 等工具，在 sales calls 中提到特定 keywords 时提醒你。
+- 通过 Zapier 和 customer.io 自动 outreach 这些 customers，预约 research sessions。
+- 使用 userinterviews.com 做 targeted B2B participant sourcing。
 
-*Timestamp: 00:54:17*
+*时间戳：00:54:17*
 
 
 ## Madhavan Ramanujam
@@ -444,14 +444,14 @@
 
 > "If you go and ask someone, 'How much should I charge for this product?' You're actually going to get garbage back... People are absolutely meaningless, relatively super smart."
 
-**Insight:** Direct questions about price yield poor data; relative and indirect questions are more effective.
+**洞察：** 关于 price 的直接问题会产生糟糕数据；相对和间接问题更有效。
 
-**Tactical advice:**
-- Use relative indexing: Ask how much value your product provides compared to a known anchor (e.g., Salesforce)
-- Ask for three price points: Acceptable, Expensive, and Prohibitively Expensive
-- Always ask 'Why' after a price response to understand the underlying value perception
+**战术建议：**
+- 使用 relative indexing：询问你的产品相比已知 anchor（例如 Salesforce）提供多少 value
+- 询问三个 price points：Acceptable、Expensive 和 Prohibitively Expensive
+- 在价格回答后始终问“Why”，理解底层 value perception
 
-*Timestamp: 00:24:15*
+*时间戳：00:24:15*
 
 
 ## Marty Cagan
@@ -459,37 +459,37 @@
 
 > "I tell this to user researchers at the companies that I coach, if the product manager and the designer are not available to be there during their products test, cancel the test. They need to be there. This is what makes them useful to their team."
 
-**Insight:** Direct observation of user testing is essential for PMs and designers; delegated research reports are insufficient.
+**洞察：** 对 PMs 和 designers 来说，直接观察 user testing 至关重要；委派来的 research reports 不够。
 
-**Tactical advice:**
-- Ensure the PM and Designer are present for every user test
-- Avoid relying on research reports delivered in isolation by researchers
+**战术建议：**
+- 确保 PM 和 Designer 出席每一次 user test
+- 避免依赖 researchers 单独交付的 research reports
 
-*Timestamp: 00:33:48*
+*时间戳：00:33:48*
 
 ---
 
 > "The first is they have to really get to know the users and customers. They have to be considered pretty much one of the experts on the users and customers. I remember when I was an engineer wanting to become a product manager, the person coaching me said explicitly that I was not allowed to make any decisions for the team until after I visited 30 customers."
 
-**Insight:** A PM's authority to make decisions is earned through deep, direct knowledge of the customer.
+**洞察：** PM 做决策的 authority 来自对 customer 深入、直接的了解。
 
-**Tactical advice:**
-- Aim to visit or interview a significant number of customers (e.g., 30) before making major product decisions
-- Develop expertise on the user that exceeds other members of the team
+**战术建议：**
+- 在做重大 product decisions 前，目标是拜访或访谈相当数量的 customers（例如 30 位）
+- 发展出超过团队其他成员的 user expertise
 
-*Timestamp: 00:39:49*
+*时间戳：00:39:49*
 
 ---
 
 > "I know that I was not allowed to take the product manager role until I had visited 30 customers in person, 15 in the US, 15 in Europe. That was just the person who was coaching me. That was their rule. And all I know is those 30 customers changed my life because I thought I knew our customers and I really didn't."
 
-**Insight:** Direct, extensive customer interaction is essential for a product manager to move beyond superficial assumptions about user needs.
+**洞察：** 广泛且直接的 customer interaction 对 product manager 超越关于 user needs 的表层 assumptions 至关重要。
 
-**Tactical advice:**
-- Aim for a high volume of customer visits (e.g., 30) before feeling confident in a PM role.
-- Ensure a mix of geographic locations to get a diverse perspective on customer needs.
+**战术建议：**
+- 在对 PM 角色感到有信心前，目标是大量 customer visits（例如 30 次）。
+- 确保覆盖不同 geographic locations，以获得关于 customer needs 的多元视角。
 
-*Timestamp: 00:24:09*
+*时间戳：00:24:09*
 
 
 ## Melissa Perri + Denise Tilles
@@ -497,13 +497,13 @@
 
 > "It's also about finding participants who want to opt into research. So making sure that you have customers aware that, 'Hey, we might contact you to do customer interviews. This is why. Do you want to participate in alphas and betas? If so, this is what it entails.'"
 
-**Insight:** Building a pre-vetted database of research participants streamlines the discovery process for product managers.
+**洞察：** 建立 pre-vetted research participants database，可以让 product managers 的 discovery process 更顺畅。
 
-**Tactical advice:**
-- Build a participant database of customers who have opted into research
-- Clearly define the expectations and cadence for customers participating in alphas or betas
+**战术建议：**
+- 建立一个已 opt into research 的 customers participant database
+- 为参与 alphas 或 betas 的 customers 清晰定义 expectations 和 cadence
 
-*Timestamp: 00:16:22*
+*时间戳：00:16:22*
 
 
 ## Merci Grace
@@ -511,13 +511,13 @@
 
 > "Once a month, ideally, you should just have some sort of a schedule for yourself where if you're at a larger company and you have a user researcher who can recruit people for you, that's great, but if not, just go find people who either fit the demographic for your user or even are your user and have them sign up for an account and walking through it."
 
-**Insight:** Regular, direct observation of users signing up for the product is essential to maintain empathy and identify friction.
+**洞察：** 定期、直接观察 users 注册产品，对保持 empathy 和识别 friction 至关重要。
 
-**Tactical advice:**
-- Schedule at least one session a month to watch a real person sign up and use the product.
-- Focus on the user's tone of voice and facial expressions during the process.
+**战术建议：**
+- 每月至少安排一场 session，观察真实用户注册并使用产品。
+- 关注用户在过程中的语气和面部表情。
 
-*Timestamp: 31:26*
+*时间戳：31:26*
 
 
 ## Mihika Kapoor
@@ -525,14 +525,14 @@
 
 > "Something that I find incredibly useful is to not just ask users of your product what they think about your product, but to ask non-users about your product, why they're not using your product. And actually I think that those are the most insightful conversations."
 
-**Insight:** Interviewing non-users provides critical insights into market perceptions and barriers to adoption that current users cannot provide.
+**洞察：** 访谈 non-users 可以提供 current users 无法提供的关键 insights，包括 market perceptions 和 adoption barriers。
 
-**Tactical advice:**
-- Join sales calls to hear customer pain points firsthand and cross-pollinate them into the roadmap
-- Ask non-users why they haven't adopted the product to identify marketing or perception gaps
-- Create Loom videos of internal product usage to inspire and evangelize new use cases to customers
+**战术建议：**
+- 加入 sales calls， firsthand 听取 customer pain points，并将其 cross-pollinate 到 roadmap
+- 询问 non-users 为什么还没有 adopted 产品，以识别 marketing 或 perception gaps
+- 制作内部 product usage 的 Loom videos，启发并向 customers evangelize 新 use cases
 
-*Timestamp: 00:43:03*
+*时间戳：00:43:03*
 
 
 ## Nabeel S. Qureshi
@@ -540,25 +540,25 @@
 
 > "You would spend maybe Monday to Thursday and you would actually go into the building where the customer worked and you would work alongside them. You would literally get a desk there... you learn to live and breathe the customer's problems and you learn to speak their language."
 
-**Insight:** True customer empathy comes from physical immersion in the user's environment rather than occasional interviews.
+**洞察：** 真正 customer empathy 来自物理沉浸到用户环境中，而不是偶尔 interviews。
 
-**Tactical advice:**
-- Sit physically next to users to observe their workflows in real-time.
-- Learn the specific industry jargon and 'memes' to build trust and understanding.
+**战术建议：**
+- 坐在 users 身边，实时观察他们的 workflows。
+- 学习具体 industry jargon 和“memes”，以建立信任和理解。
 
-*Timestamp: 00:19:35*
+*时间戳：00:19:35*
 
 ---
 
 > "Monday, you go in. You do your meetings. Monday night, you build something. Tuesday, you show it to somebody. Tuesday, you get the feedback. Tuesday night, you iterate on it. Wednesday, you show it to somebody. Wednesday night, you iterate on it. So, you get four of these, five of these cycles every single week."
 
-**Insight:** Accelerate product development by running daily feedback and iteration loops directly with the customer.
+**洞察：** 通过直接与 customer 运行每日 feedback 和 iteration loops，加速 product development。
 
-**Tactical advice:**
-- Show work-in-progress daily to get immediate course correction.
-- Iterate overnight on feedback received during the day to maintain momentum.
+**战术建议：**
+- 每天展示 work-in-progress，获得即时 course correction。
+- 基于白天收到的 feedback 连夜迭代，保持 momentum。
 
-*Timestamp: 00:24:43*
+*时间戳：00:24:43*
 
 
 ## Nan Yu
@@ -566,25 +566,25 @@
 
 > "My goal is to feel bad in the same way that customers feel bad. They come to us with a request, 'Hey, we want X,' and it's like there's something motivating it... What is the actual emotional valence that is motivating whatever you're telling me?"
 
-**Insight:** Effective user discovery involves digging past feature requests to find the underlying negative emotion or 'pain' the user is experiencing.
+**洞察：** 有效 user discovery 要穿透 feature requests，找到用户正在经历的底层 negative emotion 或“pain”。
 
-**Tactical advice:**
-- Ask questions from unexpected angles to uncover the root motivation.
-- Look for the 'emotional hooks'—the specific moments where a user feels frustrated or unsuccessful.
+**战术建议：**
+- 从意想不到的角度提问，挖出 root motivation。
+- 寻找“emotional hooks”，也就是用户感到 frustrated 或 unsuccessful 的具体时刻。
 
-*Timestamp: 00:31:10*
+*时间戳：00:31:10*
 
 ---
 
 > "You can ask people directly like, 'How do you feel?' And they're not necessarily going to tell you, but if you have a long enough and deep enough conversation with them, you start to level with them, and you're starting to see stuff from their perspective."
 
-**Insight:** Building deep empathy requires long conversations that move beyond analytical 'jobs to be done' into personal perspective.
+**洞察：** 建立深度 empathy 需要长对话，从分析性的“jobs to be done”进入个人视角。
 
-**Tactical advice:**
-- Spend enough time with a user to get them to open up about specific 'bad moments' (e.g., a missed deadline).
-- Use the user's specific story to inform the mental model of the problem.
+**战术建议：**
+- 与用户花足够时间，让他们愿意打开并谈论具体“bad moments”（例如 missed deadline）。
+- 使用用户的具体故事来塑造问题的 mental model。
 
-*Timestamp: 00:32:10*
+*时间戳：00:32:10*
 
 
 ## Noam Lovinsky
@@ -592,13 +592,13 @@
 
 > "Imagine building a startup, like a product from day one and not being able to sit right next to your customer and being like, 'Show me how you do this or show me how you do that.' It's incredibly hard. You're looking for such faint signal. The idea that you would try to get it through layers of indirection and games of telephone is crazy."
 
-**Insight:** Direct, unmediated access to customers is essential for 0-to-1 product development to avoid losing signal through organizational 'games of telephone.'
+**洞察：** 对 0-to-1 product development 来说，直接、无中介访问 customers 至关重要，避免信号在组织“games of telephone”中丢失。
 
-**Tactical advice:**
-- Remove legal or organizational barriers that prevent PMs from talking directly to users
-- Observe users in their natural environment rather than relying on third-party reports
+**战术建议：**
+- 移除阻止 PMs 直接与 users 交谈的 legal 或 organizational barriers
+- 在 users 自然环境中观察他们，而不是依赖 third-party reports
 
-*Timestamp: 00:42:48*
+*时间戳：00:42:48*
 
 
 ## Paul Adams
@@ -606,12 +606,12 @@
 
 > "What I used to do with people was map out their social network, all the people in it, their family, their friends, how they communicate. We'd map on all the channels, we'd talk about what worked well, what didn't. And, we did this with dozens and dozens of people over the course of maybe 18 months. And the same pattern emerged every single time."
 
-**Insight:** Mapping exercises during interviews can reveal deep-seated behavioral patterns that tactical usability studies might miss.
+**洞察：** Interviews 中的 mapping exercises 可以揭示 tactical usability studies 可能错过的深层 behavioral patterns。
 
-**Tactical advice:**
-- Use visual mapping (e.g., social networks or workflows) during interviews to identify recurring patterns.
+**战术建议：**
+- 在 interviews 中使用 visual mapping（例如 social networks 或 workflows）识别 recurring patterns。
 
-*Timestamp: 00:10:00*
+*时间戳：00:10:00*
 
 
 ## Ravi Mehta
@@ -619,13 +619,13 @@
 
 > "We identified something quantitatively that was really interesting... Our assumptions about why that use case was that use case were wrong. And when we ended up talking to users, we had some really surprising and fun conversations as a result, and we were also able to recalibrate and understand what those people were solving for."
 
-**Insight:** Quantitative data identifies 'what' is happening, but user interviews are required to understand the 'why' behind extreme user behavior.
+**洞察：** Quantitative data 识别正在发生的“what”，但理解 extreme user behavior 背后的“why”需要 user interviews。
 
-**Tactical advice:**
-- Identify 'power users' or 'whales' in your data and conduct targeted usability studies with them.
-- Ask users what they are 'framing' the cost of your product against to understand their mental model of value.
+**战术建议：**
+- 在数据中识别“power users”或“whales”，并与他们进行 targeted usability studies。
+- 询问 users 正在用什么来“framing”你产品的成本，以理解他们的 value mental model。
 
-*Timestamp: 00:37:48*
+*时间戳：00:37:48*
 
 
 ## Shaun Clowes
@@ -633,23 +633,23 @@
 
 > "Once you interview between 7 and 14 people, you stop learning new things. Less than 7, you don't learn enough, more than 14, you start learning anything new. And so if you interviewed two people, you probably don't have enough data. If you interviewed 22, you probably had too much, so they don't even right size their efforts."
 
-**Insight:** Effective user research requires 'right-sizing' the number of interviews to reach the point of diminishing returns without wasting resources.
+**洞察：** 有效 user research 需要“right-sizing”interviews 数量，在不浪费资源的情况下达到 diminishing returns 点。
 
-**Tactical advice:**
-- Aim for 7 to 14 interviews per research goal to reach thematic saturation.
+**战术建议：**
+- 每个 research goal 以 7 到 14 场 interviews 为目标，以达到 thematic saturation。
 
-*Timestamp: 00:14:23*
+*时间戳：00:14:23*
 
 ---
 
 > "Then they go into these conversations asking leading questions, which really are designed to get the customer to say what they already want to be true, which is so they haven't done enough research or they've done too much and then they've blown up all of the results before they've even heard anything."
 
-**Insight:** Leading questions invalidate user research by creating confirmation bias rather than genuine discovery.
+**洞察：** Leading questions 会制造 confirmation bias，而不是真正 discovery，从而使 user research 失效。
 
-**Tactical advice:**
-- Avoid leading questions that prompt the customer to agree with your existing hypotheses.
+**战术建议：**
+- 避免引导 customer 同意你既有 hypotheses 的 leading questions。
 
-*Timestamp: 00:14:48*
+*时间戳：00:14:48*
 
 
 ## Tanguy Crusson
@@ -657,14 +657,14 @@
 
 > "Lighthouse Users Program... we work with 10 and we prove that the problems that they had are the things that we solved... put these people in front of the whole team, not just the PMs, PM, designer, engineering. We meet on Zoom, we chat, we work with the same ones over months to build a product. They are with us on Slack."
 
-**Insight:** Deep, longitudinal relationships with a small group of 'Lighthouse' users are more valuable for 0-to-1 than broad, anonymous research.
+**洞察：** 对 0-to-1 来说，与一小群“Lighthouse”users 建立深入、longitudinal relationships，比广泛、匿名 research 更有价值。
 
-**Tactical advice:**
-- Recruit 10 specific users to co-create the product over several months
-- Involve engineers directly in user calls to build 'product engineers' who empathize with specific customers
-- Set up shared Slack channels with early users for a direct feedback loop
+**战术建议：**
+- 招募 10 位具体 users，在数月内共同 co-create 产品
+- 让 engineers 直接参与 user calls，培养能共情具体 customers 的“product engineers”
+- 与 early users 建立共享 Slack channels，形成 direct feedback loop
 
-*Timestamp: 01:23:56*
+*时间戳：01:23:56*
 
 
 ## Teresa Torres
@@ -672,40 +672,40 @@
 
 > "I think interviewing is a grossly underestimated skill. Grossly underestimated skill. So that's the first thing is that if you're not collecting rich stories in your interviews, it's going to be really hard to identify opportunities."
 
-**Insight:** The primary goal of a user interview is to collect specific stories rather than general facts or opinions.
+**洞察：** User interview 的主要目标是收集具体 stories，而不是一般 facts 或 opinions。
 
-**Tactical advice:**
-- Avoid asking direct questions out of context (e.g., 'What do you like to watch?')
-- Ask for specific instances (e.g., 'Tell me about the last time you watched a movie')
-- Ground the interview in behavior to get reliable data
+**战术建议：**
+- 避免脱离 context 提直接问题（例如“What do you like to watch?”）
+- 询问具体实例（例如“Tell me about the last time you watched a movie”）
+- 将 interview 扎根于 behavior，以获得可靠 data
 
-*Timestamp: 15:54*
+*时间戳：15:54*
 
 ---
 
 > "The most common strategy is to allow your customers to opt in while they're using your product or service... instead of saying, 'Would you recommend our product or service to a friend or colleague?' it says, 'Do you have 20 minutes to talk to us?' If they say yes, you send them some scheduling software, they pick a time on your calendar, and voila."
 
-**Insight:** Automating the recruitment process is essential for maintaining a continuous interviewing habit without administrative overhead.
+**洞察：** 自动化 recruitment process 对在没有 administrative overhead 的情况下维持 continuous interviewing habit 至关重要。
 
-**Tactical advice:**
-- Embed interview invites directly in the product flow
-- Use scheduling software (like Calendly) to let users pick times automatically
-- For B2B, define triggers for sales/support teams to schedule interviews on your behalf
+**战术建议：**
+- 将 interview invites 直接嵌入 product flow
+- 使用 Calendly 等 scheduling software，让 users 自动选择时间
+- 对 B2B，定义 triggers，让 sales/support teams 代表你安排 interviews
 
-*Timestamp: 27:18*
+*时间戳：27:18*
 
 ---
 
 > "I teach in our interviewing class, you really don't have to think about what to ask. You could run an entire interview by asking them one question... 'Tell me about the last time you watched something on a streaming entertainment service.'... All I have to do is just be curious about your experience. What I'm doing with my questions is just helping you tell the timeline."
 
-**Insight:** A great interview feels like a natural conversation where the interviewer acts as a curious guide helping the user recount a timeline.
+**洞察：** 一场出色 interview 感觉像自然对话，interviewer 像好奇 guide，帮助用户复述一条 timeline。
 
-**Tactical advice:**
-- Start with one broad story-based question
-- Use 'What happened next?' to move the story forward
-- Summarize what you heard to show you are listening and bring them back to specific moments
+**战术建议：**
+- 从一个宽泛的 story-based question 开始
+- 使用“What happened next?”推动故事前进
+- 总结你听到的内容，展示你在倾听，并把他们带回具体时刻
 
-*Timestamp: 37:00*
+*时间戳：37:00*
 
 
 ## Todd Jackson
@@ -713,25 +713,25 @@
 
 > "We refer to it as dollar-driven discovery. We get very specific about not just the normal way of doing customer conversations and customer discovery, but how do you find that a customer is willing to pay money for this thing and a lot of money?"
 
-**Insight:** Effective discovery must move beyond polite conversation to 'dollar-driven' validation to avoid being 'friend-zoned' by potential customers.
+**洞察：** 有效 discovery 必须超越礼貌对话，走向“dollar-driven”validation，避免被 potential customers“friend-zoned”。
 
-**Tactical advice:**
-- Ask 'What is a fair price?', 'What would be an expensive price?', and 'What would be a prohibitively expensive price?' to find the true willingness to pay.
-- Look for 'wow statements' or requests for follow-up meetings as high-signal indicators of interest.
-- Ask 'Where would a budget for this come from?' to identify if there is an existing line item or if you are displacing another tool.
+**战术建议：**
+- 问“What is a fair price?”、“What would be an expensive price?”和“What would be a prohibitively expensive price?”，找到真实 willingness to pay。
+- 寻找“wow statements”或 follow-up meetings 请求，作为兴趣的高信号 indicators。
+- 问“Where would a budget for this come from?”，识别是否已有 line item，或你是否在替代另一个 tool。
 
-*Timestamp: 00:14:11*
+*时间戳：00:14:11*
 
 ---
 
 > "I need your help. It is very important to me that this company succeeds and does not fail. So I don't want you to be nice to me. I want you to tell me is Persona a necessity for your company? If we went away, how painful would that be? If a competitor came along that charged half as much as us, would you switch to them?"
 
-**Insight:** Directly asking customers for brutal honesty about the product's criticality helps founders avoid the 'friend zone' trap.
+**洞察：** 直接请 customers 对产品 criticality 进行 brutal honesty 反馈，可以帮助 founders 避免“friend zone”陷阱。
 
-**Tactical advice:**
-- Explicitly ask customers if they would switch to a cheaper competitor to test if your product is a 'necessity' or a 'nice-to-have'.
+**战术建议：**
+- 明确询问 customers 是否会切换到更便宜的 competitor，以测试你的产品是“necessity”还是“nice-to-have”。
 
-*Timestamp: 00:37:00*
+*时间戳：00:37:00*
 
 
 ## Tim Holley
@@ -739,13 +739,13 @@
 
 > "Back in the day, we were doing studio visits with sellers. We were going to their workshops, we were going to their homes. We were seeing how they make items, we were seeing how they package and ship them out. We were bringing them into the office when we were running hack weeks to say, 'Hey, we've got this crazy idea. Is this interesting?'"
 
-**Insight:** Deep immersion in the user's physical environment builds a rich understanding of their workflow and constraints.
+**洞察：** 深入沉浸到 user physical environment 中，可以建立对其 workflow 和 constraints 的丰富理解。
 
-**Tactical advice:**
-- Conduct 'studio visits' or site visits to see users in their natural environment.
-- Involve users directly in the product development process, such as during hack weeks.
+**战术建议：**
+- 进行“studio visits”或 site visits，在 users 自然环境中观察他们。
+- 让 users 直接参与 product development process，例如在 hack weeks 期间。
 
-*Timestamp: 00:19:30*
+*时间戳：00:19:30*
 
 
 ## Uri Levine
@@ -753,13 +753,13 @@
 
 > "If you speak with a hundred people, but if you actually speak with 20 people that you don't know, you will get validated whether or not this problem is real or not."
 
-**Insight:** Validation requires getting out of your comfort zone and speaking to strangers to confirm the problem's reality.
+**洞察：** Validation 要求走出 comfort zone，与陌生人交谈，以确认问题真实存在。
 
-**Tactical advice:**
-- Speak with at least 20 people you don't know to validate a problem.
-- Listen for whether they describe the problem in their own words or just acknowledge yours.
+**战术建议：**
+- 至少与 20 位你不认识的人交谈，验证一个 problem。
+- 听他们是用自己的话描述问题，还是只是附和你的说法。
 
-*Timestamp: 00:09:30*
+*时间戳：00:09:30*
 
 
 ## Yuriy Timen
@@ -767,12 +767,12 @@
 
 > "Getting to know your customer always pays off. So it's user interviews and getting to know your market, your customers, and your prospects always pays off. Customer research, inside surveying, interviewing panels incredibly useful. And I found that to be very especially early stages. The amount of clarity at momentum that it can create inside of a seed Series A up to Series B company when you first do some proper research push."
 
-**Insight:** Customer research and user interviews are the highest ROI activities for creating team alignment and strategic clarity.
+**洞察：** Customer research 和 user interviews 是创造 team alignment 和 strategic clarity 的最高 ROI 活动。
 
-**Tactical advice:**
-- Conduct a 'proper research push' including interviews and panels to galvanize the team around a shared purpose.
+**战术建议：**
+- 进行一次包含 interviews 和 panels 的“proper research push”，围绕共同 purpose 激活团队。
 
-*Timestamp: 00:54:07*
+*时间戳：00:54:07*
 
 
 ## Zoelle Egner
@@ -780,27 +780,27 @@
 
 > "Literally had a Slack integration that we pulled in a whole bunch of information about anyone who signed up for Airtable... and literally would sit there and had a little button in each of the records that came in that would allow us to email them immediately... 'Hey, we'd really love to get your feedback.'"
 
-**Insight:** Proactive, immediate outreach to new signups helps build mental models of successful user personas.
+**洞察：** 对 new signups 进行主动、即时 outreach，有助于建立成功 user personas 的 mental models。
 
-**Tactical advice:**
-- Integrate signup data into a real-time feed (e.g., Slack) for immediate outreach
-- Target specific titles or companies for high-touch feedback sessions
-- Use early conversations to help users build their first 'durable' workflow
+**战术建议：**
+- 将 signup data 集成进 real-time feed（例如 Slack），用于即时 outreach
+- 针对特定 titles 或 companies 做 high-touch feedback sessions
+- 使用早期对话帮助 users 构建第一个“durable”workflow
 
-*Timestamp: 00:42:21*
+*时间戳：00:42:21*
 
 ---
 
 > "The simplest way to do this is to write a template email for yourself... 'I would really love to hear about your experience so far and get your feedback. Do you have 10 minutes to talk on the phone?' I know it is important that it's on the phone and not a survey because you get way more instinct from unstructured conversation."
 
-**Insight:** Unstructured phone conversations provide deeper insights than structured surveys.
+**洞察：** Unstructured phone conversations 比 structured surveys 提供更深 insights。
 
-**Tactical advice:**
-- Automate the process of finding and emailing users for feedback
-- Prioritize phone calls over surveys to capture nuance and instinct
-- Commit to a weekly or monthly quota of customer conversations
+**战术建议：**
+- 自动化寻找并 email users 请求 feedback 的流程
+- 优先 phone calls 而不是 surveys，以捕捉 nuance 和 instinct
+- 承诺每周或每月的 customer conversations quota
 
-*Timestamp: 01:06:37*
+*时间戳：01:06:37*
 
 
 ## Dylan Field
@@ -808,13 +808,13 @@
 
 > "I ran him through the user study, I knew we'd need a bottle of wine to finish and it took hours. The type of sentence in Figma was so slow... Payam wrote a very long doc for us about all the things that he wanted to see in Figma after we did a user research study with him."
 
-**Insight:** High-intensity, long-form user studies with early adopters can provide a comprehensive roadmap of necessary improvements.
+**洞察：** 与 early adopters 进行高强度、long-form user studies，可以提供必要改进的全面 roadmap。
 
-**Tactical advice:**
-- Conduct deep-dive user studies that allow for hours of observation and feedback
-- Encourage power users to document their friction points in detail after a session
+**战术建议：**
+- 进行 deep-dive user studies，允许数小时 observation 和 feedback
+- 鼓励 power users 在 session 后详细记录 friction points
 
-*Timestamp: 34:27*
+*时间戳：34:27*
 
 
 ## Paige Costello
@@ -822,13 +822,13 @@
 
 > "Become best friends with a researcher, and spend time watching customers use the product firsthand because what they maybe report on or are trying to do a study about might be very different from what you observe, but you really just need that front row seat with customers."
 
-**Insight:** Direct observation of customers is the fastest way to build credibility and understand real-world product usage versus internal assumptions.
+**洞察：** Direct observation of customers 是建立 credibility，并理解真实世界 product usage 与内部 assumptions 差异的最快方式。
 
-**Tactical advice:**
-- Partner closely with UX researchers to gain direct access to customers.
-- Watch customers use the product firsthand rather than just reading summary reports.
+**战术建议：**
+- 与 UX researchers 密切合作，获得对 customers 的 direct access。
+- 亲眼观察 customers 使用产品，而不只是阅读 summary reports。
 
-*Timestamp: 00:24:59*
+*时间戳：00:24:59*
 
 
 ## Peter Deng
@@ -836,13 +836,13 @@
 
 > "I still remember distinctly flying down to LA with Kevin Systrom to go do a user research study... there's no substitute for that... you can't empathize with the summary. You have to be in the room fully immersed, no phones, just actually hearing the words and the intonation."
 
-**Insight:** True empathy cannot be outsourced to AI summaries; leaders must be physically or mentally present in the room to hear the nuances of user feedback.
+**洞察：** 真正 empathy 不能外包给 AI summaries；leaders 必须身体或心智上在场，亲耳听到 user feedback 的 nuances。
 
-**Tactical advice:**
-- Participate in user research sessions personally rather than reading summaries
-- Observe users in their natural environment (e.g., driving for Uber) to feel their pain points
+**战术建议：**
+- 亲自参与 user research sessions，而不是阅读 summaries
+- 在 users 自然环境中观察他们（例如为 Uber 开车），感受他们的 pain points
 
-*Timestamp: 01:32:44*
+*时间戳：01:32:44*
 
 
 ## Scott Belsky
@@ -850,12 +850,11 @@
 
 > "The most humbling moments for me as a product leader have always been shoulder to shoulder to customers. Watching them actually go about their day, not just use my product but go about their day because what you end up getting is context for a lot of data that you're missing."
 
-**Insight:** Observing users in their natural environment provides critical context and reveals data points that analytics alone cannot capture.
+**洞察：** 在 users 自然环境中观察他们，可以提供关键 context，并揭示 analytics 单独无法捕捉的 data points。
 
-**Tactical advice:**
-- Watch users go about their entire daily routine, not just the moments they use your product
-- Identify the external distractions (meetings, pings, family) that compete for the user's attention
+**战术建议：**
+- 观察 users 的完整 daily routine，而不只是他们使用你产品的时刻
+- 识别争夺 user 注意力的外部 distractions（meetings、pings、family）
 
-*Timestamp: 00:13:41*
-
+*时间戳：00:13:41*
 

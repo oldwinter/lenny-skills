@@ -1,71 +1,71 @@
 ---
 name: cross-functional-collaboration
-description: Help users work effectively across functions. Use when someone is navigating PM-engineering relationships, resolving cross-team conflicts, building product trios, or improving handoffs between design, engineering, and product.
+description: 帮助用户高效进行跨职能协作。Use when someone is navigating PM-engineering relationships, resolving cross-team conflicts, building product trios, or improving handoffs between design, engineering, and product.
 ---
 
 # Cross-functional Collaboration
 
-Help the user work effectively across functions using frameworks from 57 product leaders who have built high-performing cross-functional teams at companies from Linear to Airbnb.
+使用来自 57 位产品领导者的框架，帮助用户高效进行跨职能协作；这些领导者曾在 Linear、Airbnb 等公司打造高绩效 cross-functional teams。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with cross-functional collaboration:
+当用户请求 cross-functional collaboration 相关帮助时：
 
-1. **Diagnose the friction** - Identify whether the issue is role clarity, communication patterns, or structural
-2. **Clarify expectations** - Help define what each function expects from the others
-3. **Design the right structure** - Recommend team composition and meeting rhythms
-4. **Build relationships** - Emphasize the human elements that make collaboration work
+1. **诊断 friction** - 判断问题是 role clarity、communication patterns，还是 structural
+2. **澄清 expectations** - 帮助定义每个 function 对其他 functions 的期待
+3. **设计合适结构** - 推荐 team composition 和 meeting rhythms
+4. **建立关系** - 强调让 collaboration 真正运转的人际元素
 
-## Core Principles
+## 核心原则
 
-### Share credit generously
-Camille Fournier: "Engineers sometimes think that they don't get the credit for their work because the PM takes all the glory. So making every effort to be credit sharing and inclusive of the engineering team." Let engineers present their own work to executives and customers.
+### 慷慨分享 credit
+Camille Fournier: "Engineers sometimes think that they don't get the credit for their work because the PM takes all the glory. So making every effort to be credit sharing and inclusive of the engineering team." 让 engineers 向 executives 和 customers 展示自己的工作。
 
-### Use 'Yes, and' thinking
-Adam Grenier: "If you approach it with that 'Yes, and,' it's often still true. Both of these things can be true at once. You could have a different goal than I have." Validate different team goals simultaneously rather than creating false dichotomies.
+### 使用 'Yes, and' thinking
+Adam Grenier: "If you approach it with that 'Yes, and,' it's often still true. Both of these things can be true at once. You could have a different goal than I have." 同时承认不同团队目标，而不是制造 false dichotomies。
 
-### Write expectations for each other
-Nikita Miller: "Have PM, Design, Engineering, and Data leaders write down expectations for their counterparts. Create a 'contract' between roles to clarify shared responsibilities." Revisit these definitions every 3-6 months.
+### 为彼此写下 expectations
+Nikita Miller: "Have PM, Design, Engineering, and Data leaders write down expectations for their counterparts. Create a 'contract' between roles to clarify shared responsibilities." 每 3-6 个月重新审视这些定义。
 
-### Include engineers in discovery
-Christine Itwaru: "Early on, we started bringing in engineers to customer meetings more and more. When we started doing it, the response from the engineering team was great." Direct customer exposure builds technical empathy.
+### 让 engineers 参与 discovery
+Christine Itwaru: "Early on, we started bringing in engineers to customer meetings more and more. When we started doing it, the response from the engineering team was great." 直接接触客户会建立 technical empathy。
 
-### Don't play telephone
-Camille Fournier: "If you put yourself in this in-between position and you're playing telephone between stakeholders and engineers, that is very annoying and it's a waste of time for everyone." Connect stakeholders directly to engineers when technical depth is needed.
+### 不要玩 telephone
+Camille Fournier: "If you put yourself in this in-between position and you're playing telephone between stakeholders and engineers, that is very annoying and it's a waste of time for everyone." 需要技术深度时，直接连接 stakeholders 和 engineers。
 
-### Work directly with engineers daily
-Marty Cagan: "If you're not working every day with a set of engineers on solving problems, you are not a product manager." Remove intermediaries like 'product owners' who act as mediators.
+### 每天直接与 engineers 合作
+Marty Cagan: "If you're not working every day with a set of engineers on solving problems, you are not a product manager." 移除扮演中介的 "product owners"。
 
-### Build real relationships
-Ebi Atawodi: "Do you know your engineering manager's birthday? Do you know their work anniversary? Do you know why they're doing the job they're doing?" Strong partnerships are built on personal human connection.
+### 建立真实关系
+Ebi Atawodi: "Do you know your engineering manager's birthday? Do you know their work anniversary? Do you know why they're doing the job they're doing?" 强 partnership 建立在真实的人际连接上。
 
-### Code is the common language
-Amjad Masad: "The common language that everyone shares is code. What if the language becomes actually working prototypes and working applications?" Use functional prototypes rather than static mocks to reduce handoff friction.
+### Code 是共同语言
+Amjad Masad: "The common language that everyone shares is code. What if the language becomes actually working prototypes and working applications?" 使用 functional prototypes，而不是 static mocks，来减少 handoff friction。
 
-### Embrace the 'product trio'
-Teresa Torres: "The trio is the product manager, the designer, and the software engineer. If you've never worked in a well-functioning trio, this breaks people's brains." Resolve disagreements by seeking more data or better options, not by pulling rank.
+### 拥抱 'product trio'
+Teresa Torres: "The trio is the product manager, the designer, and the software engineer. If you've never worked in a well-functioning trio, this breaks people's brains." 通过寻找更多 data 或更好 options 解决分歧，而不是用职级压人。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What does each function expect from the others - have you written it down?"
-- "Are engineers involved in customer discovery or just receiving specs?"
-- "When there's a conflict, who is the tiebreaker and how quickly do they act?"
-- "Do you know the personal career goals of your engineering and design partners?"
-- "Are you acting as a translator or connecting stakeholders directly to engineers?"
+- "每个 function 对其他 functions 的期待是什么？你们写下来了吗？"
+- "Engineers 参与 customer discovery 吗，还是只接收 specs？"
+- "出现 conflict 时，谁是 tiebreaker？他们行动有多快？"
+- "你知道 engineering 和 design partners 的个人 career goals 吗？"
+- "你是在充当 translator，还是直接连接 stakeholders 和 engineers？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Credit hoarding** - PMs taking glory for work engineers built
-- **Playing telephone** - Acting as an unnecessary intermediary between stakeholders and engineers
-- **Excluding engineers from ideation** - Treating them as resources rather than creative partners
-- **Unclear role boundaries** - Not defining who owns what leads to everything falling on the PM
-- **Ignoring the human element** - Strong collaboration requires knowing your partners as people
+- **Credit hoarding** - PM 把 engineers 构建的工作功劳据为己有
+- **Playing telephone** - 在 stakeholders 和 engineers 之间充当不必要的中介
+- **把 engineers 排除在 ideation 外** - 把他们当 resources，而不是 creative partners
+- **Role boundaries 不清晰** - 没定义谁 owns 什么，会导致所有事情都落到 PM 身上
+- **忽视 human element** - 强 collaboration 要求你把 partners 当作人来了解
 
 ## Deep Dive
 
-For all 72 insights from 57 guests, see `references/guest-insights.md`
+所有来自 57 位嘉宾的 72 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Running Effective 1:1s
 - Having Difficult Conversations

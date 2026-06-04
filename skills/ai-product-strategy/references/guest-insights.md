@@ -1,6 +1,6 @@
-# AI Product Strategy - All Guest Insights
+# AI Product Strategy - 全部嘉宾洞察
 
-*94 guests, 179 mentions*
+*94 位嘉宾，179 次提及*
 
 ---
 
@@ -9,14 +9,14 @@
 
 > "We're training algorithms on specific data sets, like editorial important scores that actually come from our journalists. What that allows us to do is actually scale editorial judgment to a large group of readers. Those algorithms... they're trained on editorial signal and then they can still work towards driving towards outcomes like reach, engagement, conversion, et cetera."
 
-**Insight:** AI strategy should focus on using algorithms to scale human expertise and judgment rather than just optimizing for engagement.
+**洞察：** AI 策略应侧重于使用算法来扩展人类的专业知识和判断力，而不仅仅是优化参与度。
 
-**Tactical advice:**
-- Train algorithms on proprietary 'expert' data sets (e.g., editorial scores)
-- Use AI to scale human judgment to a larger audience
-- Balance expert signals with traditional engagement outcomes
+**战术建议：**
+- 在proprietary 'expert' 数据集（例如编辑分数）上训练算法
+- 使用 AI 将人类判断扩展到更多受众
+- 平衡专家信号与传统参与结果
 
-*Timestamp: 01:04:25*
+*时间戳：01:04:25*
 
 
 ## Adriel Frederick
@@ -24,25 +24,25 @@
 
 > "When you are working on algorithmic heavy products, your job is figuring out what the algorithm should be responsible for, what people are responsible for, and the framework for making decisions."
 
-**Insight:** The core role of a PM in AI products is defining the boundary between automated algorithmic decisions and human judgment.
+**洞察：** PM 在 AI 产品中的核心作用是定义自动算法决策和人类判断之间的边界。
 
-**Tactical advice:**
-- Identify which decisions require long-term strategic intent that algorithms cannot yet grasp.
-- Create a framework that specifies the responsibilities of the machine versus the human operator.
+**战术建议：**
+- 确定哪些决策需要算法尚无法掌握的长期战略意图。
+- 创建一个框架，指定机器与人类操作员的职责。
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "It's more about giving people the information that they can use for decisions that they alone are good at and giving machines the power to amplify a person's intent... I think about it as designing an interface and make it an extension of yourself rather than a black box."
 
-**Insight:** AI should be designed as a tool that amplifies human intent rather than a standalone black box that operates without human constraints.
+**洞察：** AI 应该被设计为一个放大人类意图的工具，而不是一个autonomous black box的独立black box。
 
-**Tactical advice:**
-- Design interfaces that provide humans with the necessary context to make strategic choices.
-- Use ML to optimize for specific objectives while allowing humans to set the strategic constraints.
+**战术建议：**
+- 设计界面，为人们提供做出战略选择所需的背景。
+- 使用 ML 针对特定目标进行优化，同时允许人类设置战略约束。
 
-*Timestamp: 00:38:15*
+*时间戳：00:38:15*
 
 
 ## Albert Cheng
@@ -50,12 +50,12 @@
 
 > "Behind the scenes, we're running chess engines to basically spit out evaluations for every move that you make. And then we translate that and make that approachable to the user using their native language and plain approachable style... that part is LLMs."
 
-**Insight:** The best AI products use the right technology for the right task: specialized engines for logic/calculation and LLMs for human-friendly communication.
+**洞察：** 最好的 AI 产品使用正确的技术来完成正确的任务：用于逻辑/ 计算的专用引擎和用于人性化通信的 LLMs。
 
-**Tactical advice:**
-- Use LLMs to translate complex technical data (like engine evaluations) into natural, encouraging language for the user.
+**战术建议：**
+- 使用 LLMs 将复杂的技术数据（例如引擎 evaluations）翻译成自然的、鼓励用户的语言。
 
-*Timestamp: 00:49:07*
+*时间戳：00:49:07*
 
 
 ## Alexander Embiricos
@@ -63,37 +63,37 @@
 
 > "One of our major goals with Codex is to get to proactivity. If we're going to build a super system, has to be able to do things. One of the learnings over the past year is that for models to do stuff, they're much more effective when they can use a computer. It turns out the best way for models to use computers is simply to write code. And so we're kind of getting to this idea where if you want to build any agent, maybe you should be building a coding agent."
 
-**Insight:** The most effective way for AI agents to interact with and control computers is by writing and executing code rather than using accessibility APIs or visual clicking.
+**洞察：** AI agents 与计算机交互和控制计算机的最有效方法是编写和执行代码，而不是使用可访问性 APIs 或视觉点击。
 
-**Tactical advice:**
-- Prioritize coding capabilities as the core competency for any functional AI agent
-- Focus on 'proactivity' where the agent chimes in or takes action without a direct prompt
+**战术建议：**
+- 将编码能力优先作为任何功能 AI agent 的核心能力
+- 关注 'proactivity'，其中 agent 在没有直接 prompt 的情况下介入或采取行动
 
-*Timestamp: 00:00:47*
+*时间戳：00:00:47*
 
 ---
 
 > "I actually think Chat is a very good interface when you don't know what you're supposed to use it for... you start using it even outside of work to just help you. You become very comfortable with the idea of being accelerated with AI. So then you get to work and you just can naturally just, 'Yeah, I'm just going to ask it for this and I don't need to know about all the connectors or all the different features.'"
 
-**Insight:** Chat serves as a universal 'common denominator' interface that allows users to access complex AI capabilities without needing to learn specific tool configurations.
+**洞察：** Chat 作为通用的 'common denominator' 界面，允许用户访问复杂的 AI 功能，而无需学习特定的工具配置。
 
-**Tactical advice:**
-- Use Chat as the entry point for discovery and general assistance
-- Surface specialized GUIs only when the user needs to go deep into a functional domain like coding
+**战术建议：**
+- 使用 Chat 作为发现和一般帮助的入口点
+- 仅当users 需要深入到诸如编码之类的功能域时才显示specialized GUI
 
-*Timestamp: 00:26:10*
+*时间戳：00:26:10*
 
 ---
 
 > "I think that the current limiting factor, I mean, there's many, but I think a current underappreciated limiting factor is literally human typing speed or human multitasking speed on writing prompts... we need to unblock those productivity loops from humans having to prompt and humans having to manually validate all the work."
 
-**Insight:** The primary bottleneck for AI productivity is the 'human-in-the-loop' requirement for prompting and manual verification of output.
+**洞察：** AI 生产力的主要瓶颈是 'human-in-the-loop' 对 prompting 的要求以及手动验证输出。
 
-**Tactical advice:**
-- Build systems that allow agents to be 'default useful' without constant prompting
-- Develop automated validation loops so humans don't have to manually review every AI action
+**战术建议：**
+- 构建允许 agents 成为 'default useful' 且无需恒定 prompting 的系统
+- 开发automated validation loops，这样人们就不必手动审查每个 AI 操作
 
-*Timestamp: 01:11:29*
+*时间戳：01:11:29*
 
 
 ## Aishwarya Naresh Reganti + Kiriti Badam
@@ -101,49 +101,49 @@
 
 > "Most people tend to ignore the non-determinism. You don't know how the user might behave with your product, and you also don't know how the LLM might respond to that. The second difference is the agency control trade-off. Every time you hand over decision-making capabilities to agentic systems, you're kind of relinquishing some amount of control on your end."
 
-**Insight:** AI products differ from traditional software due to non-deterministic inputs/outputs and the necessary trade-off between system autonomy and human control.
+**洞察：** 由于不确定的输入/ 输出以及系统自主性和人类控制之间的必要权衡，AI 产品与传统软件不同。
 
-**Tactical advice:**
-- Account for non-deterministic user behavior in natural language interfaces.
-- Balance the level of agency granted to an agent against the amount of control the user retains.
+**战术建议：**
+- 考虑natural language界面中的non-deterministicuser behavior。
+- 平衡授予 agent 的代理级别与用户保留的控制量。
 
-*Timestamp: 00:08:01*
+*时间戳：00:08:01*
 
 ---
 
 > "So we recommend building step-by-step. When you start small, it forces you to think about what is the problem that I'm going to solve. In all this advancements of the AI, one easy, slippery slope is to keep thinking about complexities of the solution and forget the problem that you're trying to solve."
 
-**Insight:** Successful AI deployment requires a 'problem-first' approach, starting with low-impact, high-control versions to learn before scaling complexity.
+**洞察：** 成功的 AI 部署需要 'problem-first' 方法，从低影响、high-control version开始，在扩展复杂性之前进行学习。
 
-**Tactical advice:**
-- Start with minimal impact use cases to gain a grip on current capabilities.
-- Gradually increase agency as confidence in the system's reliability grows.
+**战术建议：**
+- 从影响最小的用例开始，以掌握当前的功能。
+- 随着对系统可靠性信心的增强，逐渐增加agency。
 
-*Timestamp: 00:11:39*
+*时间戳：00:11:39*
 
 ---
 
 > "It's not about being the first company to have an agent among your competitors. It's about have you built the right flywheels in place so that you can improve over time."
 
-**Insight:** Competitive advantage in AI comes from building iterative feedback loops (flywheels) rather than just being first to market with a static agent.
+**洞察：** AI 的竞争优势来自于构建迭代反馈循环（flywheel），而不仅仅是率先将静态 agent 推向市场。
 
-**Tactical advice:**
-- Focus on building a pipeline that learns and improves over time rather than a 'one-click' solution.
-- Log human actions in early versions to create a data flywheel for system improvement.
+**战术建议：**
+- 专注于构建一个随着时间的推移学习和改进的管道，而不是 'one-click' 解决方案。
+- 在早期版本中记录人类行为，以创建数据flywheel以改进系统。
 
-*Timestamp: 00:30:31*
+*时间戳：00:30:31*
 
 ---
 
 > "I used to work with the CEO of now Rackspace, Gagan. So he would have this block every day in the morning, which would say catching up with AI 4:00 to 6:00 AM... I think leaders have to get back to being hands-on. And that's not because they have to be implementing these things, but more of rebuilding their intuitions because you must be comfortable with the fact that your intuitions might not be right."
 
-**Insight:** AI leadership requires rebuilding professional intuition through hands-on learning and staying current with rapid technological shifts.
+**洞察：** AI 的领导力需要通过实践学习重建专业直觉并跟上快速的技术变革。
 
-**Tactical advice:**
-- Block dedicated time daily to stay updated on AI developments.
-- Be willing to challenge and relearn long-held product intuitions in the context of AI.
+**战术建议：**
+- 每天留出专门的时间来了解 AI 开发的最新动态。
+- 愿意在 AI 的背景下挑战和重新学习长期持有的产品直觉。
 
-*Timestamp: 00:25:43*
+*时间戳：00:25:43*
 
 
 ## Alex Komoroske
@@ -151,25 +151,25 @@
 
 > "I think LLMs are truly a disruptive technology. In fact, I would argue that what we're seeing in the industry is us trying to use mature playbooks from the end stage of the last tech era in one that doesn't really fit yet. To me, LLMs are magical duct tape. They're formed principally by the distilled intuition of all of society into a thing that operates between, a cost structure between human and plain old computing."
 
-**Insight:** AI shifts the fundamental cost structure of software, requiring a departure from traditional playbooks where software was expensive to write but cheap to run.
+**洞察：** AI 改变了软件的基本成本结构，需要脱离传统的剧本，在传统剧本中，软件编写成本昂贵，但运行成本低廉。
 
-**Tactical advice:**
-- Recognize that LLMs make writing 'good enough' software significantly cheaper but increase marginal inference costs.
-- Avoid consumer startup models based solely on advertising, as ad revenue may not clear inference costs.
+**战术建议：**
+- 认识到 LLMs 使编写 'good enough' 软件的成本显著降低，但增加了边际inference cost。
+- 避免消费者启动 models 仅基于广告，因为广告收入可能无法清除inference cost。
 
-*Timestamp: 00:10:56*
+*时间戳：00:10:56*
 
 ---
 
 > "I see all these places where people will build products and they'll say 80% of the time, 90% percent of the time, it's great. 5% of the time it punches the user in the face... even if you get it down to 99% of the time, it's fine. If it punches in the face, that's not a viable product. And so how do you design your products assuming that this thing will be squishy and not fully accurate and fully work?"
 
-**Insight:** Product design in the AI era must account for the 'squishy' and non-deterministic nature of LLMs rather than treating them as perfect oracles.
+**洞察：** AI 时代的产品设计必须考虑'squishy'和 LLMs 的non-deterministic，而不是将它们视为完美的预言机。
 
-**Tactical advice:**
-- Design product UX to handle cases where the AI might be inaccurate or fail.
-- Focus on building what is possible now that 'magical duct tape' (LLMs) exists, rather than just trying to make the AI 100% autonomous.
+**战术建议：**
+- 设计产品用户体验以处理 AI 可能不准确或失败的情况。
+- 既然 'magical duct tape' (LLMs) 存在，就专注于构建可能的事物，而不是仅仅尝试使 AI 100% 自主。
 
-*Timestamp: 00:13:24*
+*时间戳：00:13:24*
 
 
 ## Amjad Masad
@@ -177,23 +177,23 @@
 
 > "I actually wrote about it back in '22. I said it's going to be society of models, like products will be made of a lot of different models, and it's quite a heavy engineering project."
 
-**Insight:** Future AI products will not be built on a single model but on an orchestrated ecosystem of specialized models.
+**洞察：** 未来的 AI 产品将不会构建在单个 model 上，而是构建在专门的 models 的精心策划的生态系统上。
 
-**Tactical advice:**
-- Architect systems to leverage multiple foundation models based on their specific strengths (e.g., reasoning vs. speed).
+**战术建议：**
+- 架构系统根据多个基础 models 的特定优势（例如推理与速度）来利用它们。
 
-*Timestamp: 00:33:47*
+*时间戳：00:33:47*
 
 ---
 
 > "I could imagine whatever, five years from now, someone running a billion dollar company with zero employees where it's like the support is handled by AI, the development is handled by AI, and you're just building and creating this thing that people are finding valuable."
 
-**Insight:** AI enables a future of 'hyper-efficient' companies where core functions like support and development are fully automated, allowing founders to focus purely on value creation.
+**洞察：** AI 使 'hyper-efficient' 公司的未来成为可能，其中支持和开发等核心功能完全自动化，使创始人能够完全专注于价值创造。
 
-**Tactical advice:**
-- Evaluate business models that can scale to high revenue with minimal headcount by leveraging autonomous agents.
+**战术建议：**
+- 评估业务 models，该业务 models 可以利用自主 agents 以最少的人员规模扩展至高收入。
 
-*Timestamp: 00:53:08*
+*时间戳：00:53:08*
 
 
 ## Anton Osika
@@ -201,25 +201,25 @@
 
 > "The reason why we're doing Lovable is that I don't know about your mom, but my mom doesn't write code... we are building for this 99% of the population who don't write code."
 
-**Insight:** AI product strategy should focus on democratizing complex skills for the non-technical majority.
+**洞察：** AI product strategy 应侧重于为非技术大多数人实现复杂技能的民主化。
 
-**Tactical advice:**
-- Target the '99%' who lack specialized technical skills
-- Focus on natural language interfaces to lower the barrier to entry
+**战术建议：**
+- 针对缺乏专业技术技能的'99%'
+- 专注natural language界面，降低进入门槛
 
-*Timestamp: 00:06:52*
+*时间戳：00:06:52*
 
 ---
 
 > "The frontier of where this is a problem is very rapidly receding back. So what we did was we identified the most important areas, so specifically adding login, creating data persistence, adding payment with Stripe. Those are the things that we made sure it doesn't get stuck on."
 
-**Insight:** Identify and systematically solve the specific 'stuck points' where AI agents typically fail to ensure a reliable user experience.
+**洞察：** 识别并系统地解决 'stuck points' 中 AI agents 通常无法确保可靠的用户体验的问题。
 
-**Tactical advice:**
-- Identify common failure points in AI generation (e.g., auth, payments)
-- Tune the system quantitatively to address these specific bottlenecks
+**战术建议：**
+- 识别 AI 生成中的常见故障点（例如身份验证、支付）
+- 定量调整系统以解决这些特定瓶颈
 
-*Timestamp: 00:29:04*
+*时间戳：00:29:04*
 
 
 ## Aparna Chennapragada
@@ -227,14 +227,14 @@
 
 > "When I think about agents, I think about these three things. One is an increasing level of autonomy and kind of independence that you can delegate higher and higher order tasks. Second, I think of as complexity. It's not a one-shot, 'Hey, create this image or do this thing or summarize the document,' it's build me this prototype that expresses my idea of, say, an augmented reality app. And then the third one I think of is it's a much more natural interaction."
 
-**Insight:** Effective AI agents are defined by their autonomy, ability to handle complex multi-step tasks, and natural, often asynchronous interaction models.
+**洞察：** 有效的 AI agents 的定义是其自主性、处理复杂多步骤任务的能力以及自然且通常异步的交互 models。
 
-**Tactical advice:**
-- Design for delegation of high-level goals rather than just fine-motor assistance
-- Focus on complex, multi-step workflows over simple one-shot prompts
-- Incorporate asynchronous capabilities so the agent works while the user is away
+**战术建议：**
+- 为高层目标的委托而设计，而不仅仅是精细运动辅助
+- 专注于复杂的多步骤工作流程，而不是简单的一次性 prompts
+- 合并异步功能，以便 agent 在用户离开时工作
 
-*Timestamp: 00:17:10*
+*时间戳：00:17:10*
 
 
 ## Asha Sharma
@@ -242,37 +242,37 @@
 
 > "all of a sudden these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn."
 
-**Insight:** AI products are shifting from static artifacts to living organisms that evolve through continuous data loops and interaction.
+**洞察：** AI 产品正在从静态工件转变为通过连续数据循环和交互而进化的活体有机体。
 
-**Tactical advice:**
-- Focus on the 'metabolism' of the product team to ingest data and digest rewards models
-- Tune models toward specific outcomes like price, performance, or quality
+**战术建议：**
+- 关注产品团队的'metabolism'摄取数据、消化奖励 models
+- 根据价格、性能或质量等特定结果调整 models
 
-*Timestamp: 05:26*
+*时间戳：05:26*
 
 ---
 
 > "I think that where companies fail is that they're doing AI for AI's sake. They have a ton of projects that they're kicking off at the same time without a blueprint to understand how it actually worked and what their Stack looks like and they aren't treating it like a real investment, and so they don't have the measurement and the observability and the evals all set up."
 
-**Insight:** Successful AI implementation requires a strategic blueprint, rigorous measurement, and treating AI as a core investment rather than a series of experiments.
+**洞察：** AI 的成功实施需要战略蓝图、严格的衡量，并将 AI 视为核心投资而不是一系列实验。
 
-**Tactical advice:**
-- Establish clear measurement, observability, and evaluation frameworks (evals) before scaling
-- Map out existing processes and apply AI to specific pain points like customer support or fraud reduction
+**战术建议：**
+- 在扩展之前建立清晰的测量、可观察性和 evaluation 框架 (evals)
+- 规划现有流程并将 AI 应用于特定痛点，例如客户支持或减少欺诈
 
-*Timestamp: 10:56*
+*时间戳：10:56*
 
 ---
 
 > "I feel like you have to actually build for the slope instead of the snapshot of where you are."
 
-**Insight:** Product strategy in AI must account for the rapid rate of technological change rather than just the current state of the art.
+**洞察：** AI 的product strategy必须考虑技术变革的快速速度，而不仅仅是当前的技术水平。
 
-**Tactical advice:**
-- Build flexible architectures that allow for swapping models or tools as they improve
-- Anticipate exponential demand for productivity as the marginal cost of output approaches zero
+**战术建议：**
+- 构建灵活的架构，允许在改进时更换 models 或工具
+- 随着产出的边际成本接近于零，预计对生产力的指数需求
 
-*Timestamp: 11:54*
+*时间戳：11:54*
 
 
 ## Benjamin Mann
@@ -280,37 +280,37 @@
 
 > "I think progress has actually been accelerating where if you look at the cadence of model releases, it used to be once a year and now with the improvements in our post-training techniques, we're seeing releases every month or three months, and so I would say progress is actually accelerating in many ways, but there's this weird time compression effect."
 
-**Insight:** AI progress is accelerating through faster release cadences, which can create a false perception of plateaus due to 'time compression.'
+**洞察：** AI 的进度通过更快的发布节奏而加速，这可能会由于 'time compression.' 而造成平台期的错误认知
 
-**Tactical advice:**
-- Monitor the cadence of model releases rather than just the magnitude of single leaps to gauge industry progress
-- Account for 'time dilation' in AI development where rapid iterations can mask the underlying exponential growth
+**战术建议：**
+- 监控 model 发布的节奏，而不仅仅是单次跳跃的幅度来衡量行业进展
+- 在 AI 开发中考虑 'time dilation'，其中快速迭代可以掩盖潜在的指数增长
 
-*Timestamp: 00:08:06*
+*时间戳：00:08:06*
 
 ---
 
 > "I think my favorite role in that time has been when I started the labs team about a year ago, whose fundamental goal was to do transfer from research to end user products and experiences. Because fundamentally I think the way that Anthropic can differentiate itself and really win is to be on the cutting edge."
 
-**Insight:** A dedicated 'Labs' function is necessary to bridge the gap between frontier research and viable end-user product experiences.
+**洞察：** 专用的 'Labs' 功能对于弥合前沿研究和可行的最终用户产品体验之间的差距是必要的。
 
-**Tactical advice:**
-- Create a specialized team to handle the 'transfer' from research breakthroughs to product features
-- Focus on 'computer use' and credential management as a high-trust, high-differentiation product area
+**战术建议：**
+- 组建专业团队，负责'transfer'从研究突破到产品功能的打造
+- 专注于'computer use'和凭证管理作为高信任、高差异化的产品领域
 
-*Timestamp: 01:03:07*
+*时间戳：01:03:07*
 
 ---
 
 > "I guess concretely we think about skating to where the puck is going and what that looks like is really understand the exponential... don't build for today, build for six months from now, build for a year from now. And the things that aren't quite working that are working 20% of the time, will start working 100% of the time."
 
-**Insight:** AI product planning must be based on the expected capabilities of future models rather than the limitations of current ones.
+**洞察：** AI 产品规划必须基于未来 models 的预期功能，而不是基于当前 models 的局限性。
 
-**Tactical advice:**
-- Build for the model capabilities expected in 6-12 months to avoid shipping obsolete products
-- Invest in features that have low reliability today (e.g., 20% success) if they are on an exponential improvement curve
+**战术建议：**
+- 预计在 6-12 个月内构建 model 功能，以避免交付过时的产品
+- 如果目前可靠性较低（例如，20% 的成功率）的功能处于指数改进曲线上，请对其进行投资
 
-*Timestamp: 01:06:21*
+*时间戳：01:06:21*
 
 
 ## Ben Horowitz
@@ -318,24 +318,24 @@
 
 > "I think the application layer is going to be very, very interesting... Chat GPT, like it or not, it's got a real moat... the applications are both more complex and kind of stickier than people thought they were originally. The thing that people got very wrong is this whole thin wrapper around GPT, that's really wrong."
 
-**Insight:** AI moats are built through complex application logic and user stickiness, not just access to a foundation model.
+**洞察：** AI 的护城河是通过复杂的应用逻辑和用户粘性构建的，而不仅仅是访问基础 model。
 
-**Tactical advice:**
-- Avoid building 'thin wrappers'; focus on deep domain integration
-- Look for opportunities where software previously couldn't solve the problem
+**战术建议：**
+- 避免构建'thin wrappers'；专注领域深度融合
+- 寻找软件以前无法解决问题的机会
 
-*Timestamp: 01:04:08*
+*时间戳：01:04:08*
 
 ---
 
 > "Everything that we couldn't solve with software we can solve now, almost. So it's a really big world."
 
-**Insight:** The biggest AI opportunities lie in addressing problems that were previously unsolvable by traditional deterministic software.
+**洞察：** AI 最大的机会在于解决以前传统确定性软件无法解决的问题。
 
-**Tactical advice:**
-- Identify 'fat-tail' human behaviors or rare edge cases that traditional code couldn't handle
+**战术建议：**
+- 识别 'fat-tail' 人类行为或传统代码无法处理的罕见边缘情况
 
-*Timestamp: 01:11:48*
+*时间戳：01:11:48*
 
 
 ## Brian Balfour
@@ -343,25 +343,25 @@
 
 > "My prediction, the new distribution platform will be ChatGPT... I think the bigger thing will be whatever they do with launching a third-party platform on top of ChatGPT, there's a bunch of signals that they're about to launch that."
 
-**Insight:** AI platforms like ChatGPT are transitioning from technology shifts to distribution shifts, creating a new 'escape velocity' opportunity for startups.
+**洞察：** 像 ChatGPT 这样的 AI 平台正在从技术转变转向分销转变，为初创公司创造了新的 'escape velocity' 机会。
 
-**Tactical advice:**
-- Monitor for the emergence of third-party agent platforms as new distribution channels.
-- Evaluate AI platforms based on retention and depth of engagement rather than just monthly active users (MAU).
+**战术建议：**
+- 监控第三方 agent 平台作为新分销渠道的出现。
+- 根据留存率和参与深度评估 AI 平台，而不仅仅是每月活跃用户 (MAU)。
 
-*Timestamp: 00:12:02*
+*时间戳：00:12:02*
 
 ---
 
 > "My hypothesis... is that the moat is about context and memory. These models by themselves, if you compare them side by side, they generate the same result, and so the actual difference-maker is which one has more of your context, because it's the context plus the model that produces the best output."
 
-**Insight:** In the AI era, product defensibility shifts from the model itself to the accumulation of user context and memory.
+**洞察：** 在 AI 时代，产品防御力从 model 本身转向用户上下文和记忆的积累。
 
-**Tactical advice:**
-- Invest in 'context connectors' that allow your product to store and recall user-specific data.
-- Focus on creating a flywheel where more usage leads to better personalized context and superior outputs.
+**战术建议：**
+- 投资 'context connectors'，让你的产品能够存储和调用用户特定数据。
+- 专注于创建一个flywheel，更多的使用可以带来更好的个性化环境和卓越的输出。
 
-*Timestamp: 00:30:25*
+*时间戳：00:30:25*
 
 
 ## Cam Adams
@@ -369,14 +369,14 @@
 
 > "We approach AI inside the product through three pillars. First of these is that we need to build some of our own AI tech... Second pillar is just finding the world's best AI people to partner with... And for us, the third pillar is our app ecosystem."
 
-**Insight:** A robust AI strategy balances proprietary model building, strategic partnerships, and an open developer ecosystem.
+**洞察：** 强大的 AI strategy平衡了proprietary model 建设、战略合作伙伴关系和开放的开发者生态系统。
 
-**Tactical advice:**
-- Build proprietary AI only where you have a data advantage or it is critical to the core business
-- Partner with best-in-class providers for commodity AI needs like LLMs
-- Create an app ecosystem to allow third-party AI developers to reach your user base
+**战术建议：**
+- 仅在你拥有数据优势或对核心业务至关重要的情况下构建proprietary AI
+- 与一流的供应商合作，满足 LLMs 等商品 AI 需求
+- 创建应用生态系统，让第三方 AI 开发者接触你的用户群
 
-*Timestamp: 00:56:53*
+*时间戳：00:56:53*
 
 
 ## Bret Taylor
@@ -384,24 +384,24 @@
 
 > "I think there's three segments of the AI market... frontier model market... tooling... applied AI market. I think this will play out for companies who build agents. I think agent is the new app."
 
-**Insight:** The AI market is divided into CapEx-heavy frontier models, risky tooling, and high-value applied agents that solve specific business problems.
+**洞察：** AI 市场分为资本支出重的前沿 models、有风险的工具和解决特定业务问题的高价值应用 agents。
 
-**Tactical advice:**
-- Focus on 'Applied AI' where the agent is the primary product form factor
-- Build agents that accomplish jobs autonomously rather than just increasing individual productivity
+**战术建议：**
+- 重点关注 'Applied AI'，其中 agent 是主要产品外形规格
+- 构建 agents，使其能够自主完成工作，而不仅仅是提高个人生产力
 
-*Timestamp: 00:52:36*
+*时间戳：00:52:36*
 
 ---
 
 > "The whole market is going to go towards agents. I think the whole market is going to go towards outcomes-based pricing. It's just so obviously the correct way to build and sell software."
 
-**Insight:** The future of software is autonomous agents that are priced based on the value they deliver rather than the seats they occupy.
+**洞察：** 软件的未来是自主的 agents，其定价基于其提供的价值，而不是其占用的席位。
 
-**Tactical advice:**
-- Orient product strategy around autonomous task completion rather than just human-in-the-loop tools
+**战术建议：**
+- 将product strategy定位于自主任务完成，而不仅仅是人机交互工具
 
-*Timestamp: 00:59:31*
+*时间戳：00:59:31*
 
 
 ## Chip Huyen
@@ -409,38 +409,38 @@
 
 > "What actually improves AI apps, talking to users, building more reliable platforms, preparing better data, optimizing end-to-end workflows, writing better prompts."
 
-**Insight:** Successful AI products are built on fundamental product work and data quality rather than chasing the latest technical frameworks.
+**洞察：** 成功的 AI 产品建立在基本的产品工作和数据质量之上，而不是追逐最新的技术框架。
 
-**Tactical advice:**
-- Prioritize talking to users over staying up to date with every AI news cycle
-- Focus on writing better prompts and optimizing end-to-end workflows
-- Avoid over-committing to new, untested technologies that are hard to switch out later
+**战术建议：**
+- 优先考虑与用户交谈，而不是及时了解每个 AI 新闻周期
+- 专注于编写更好的 prompts 并优化端到端工作流程
+- 避免过度使用未经测试的新技术，这些技术以后很难切换
 
-*Timestamp: 00:05:30*
+*时间戳：00:05:30*
 
 ---
 
 > "I do ask people to ask their managers, 'Would you rather give everyone on the team very expensive coding agent subscriptions or you get an extra head count?' Almost every one, the managers will say head count."
 
-**Insight:** There is a disconnect between executive AI goals and manager-level productivity needs because AI productivity gains are difficult to measure.
+**洞察：** 高管 AI 目标与经理级生产力需求之间存在脱节，因为 AI 生产力提升难以衡量。
 
-**Tactical advice:**
-- Use the 'headcount vs. AI subscription' question to gauge the perceived value of AI tools within a team
-- Focus on identifying use cases with clear, measurable outcomes (like conversion rates in sales bots) to drive adoption
+**战术建议：**
+- 使用 'headcount vs. AI subscription' 问题来衡量 AI 工具在团队中的感知价值
+- 专注于识别具有清晰、可衡量结果的用例（例如销售机器人的转化率），以推动采用
 
-*Timestamp: 00:44:28*
+*时间戳：00:44:28*
 
 ---
 
 > "When it comes to, think about voice, it's an entirely different beast... we need to think about latency because I think multiple steps... And there's a question, what does it make you sound natural?"
 
-**Insight:** Multimodal AI, particularly voice, shifts the challenge from model capability to traditional engineering problems like latency and interruption detection.
+**洞察：** 多模态 AI，特别是语音，将挑战从 model 功能转移到延迟和中断检测等传统工程问题。
 
-**Tactical advice:**
-- Solve for 'forced interruption' to make voice bots feel natural
-- Optimize the multi-hop latency (STT to LLM to TTS) for real-time interaction
+**战术建议：**
+- 解决 'forced interruption' 问题，让语音机器人感觉自然
+- 优化多跳延迟（STT 到 LLM 到 TTS）以实现实时交互
 
-*Timestamp: 01:01:45*
+*时间戳：01:01:45*
 
 
 ## Chandra Janakiraman
@@ -448,13 +448,13 @@
 
 > "There are two ways to get AI to assist you in the strategy formulation process. The first is to support the preparation phase in terms of research... The second one is in this idea called generating mock strategies."
 
-**Insight:** AI can accelerate strategy work by performing massive competitive research and providing comprehensive 'mock' starting points.
+**洞察：** AI 可以通过进行大量竞争性研究并提供全面的 'mock' 起点来加速战略工作。
 
-**Tactical advice:**
-- Use AI to analyze themes across a vast library of competitor release notes
-- Generate 'mock strategies' with LLMs to identify comprehensive investment areas before human down-selection
+**战术建议：**
+- 使用 AI 分析大量竞争对手发行说明库中的主题
+- 与 LLMs 生成'mock strategies'，在人工向下选择之前确定综合投资领域
 
-*Timestamp: 01:27:52*
+*时间戳：01:27:52*
 
 
 ## Christopher Miller
@@ -462,13 +462,13 @@
 
 > "I get to help lead HubSpot in terms of how we should be thinking about building the foundational technology to create AI-powered experiences and then also lead the strategy of how we leverage those experiences to help that B2B business builder be way more successful using our platform than they might've been in years past."
 
-**Insight:** AI product strategy involves balancing the development of foundational infrastructure with the creation of specific user experiences that drive customer success.
+**洞察：** AI product strategy涉及平衡基础设施的开发与推动客户成功的特定用户体验的创建。
 
-**Tactical advice:**
-- Focus on building foundational technology that can power multiple AI experiences
-- Leverage AI to help users achieve outcomes more successfully than traditional software methods
+**战术建议：**
+- 专注于构建可为多种 AI 体验提供支持的基础技术
+- 利用 AI 帮助用户比传统软件方法更成功地取得成果
 
-*Timestamp: 00:04:54*
+*时间戳：00:04:54*
 
 
 ## Claire Vo
@@ -476,14 +476,14 @@
 
 > "I hold myself to the bar as a technology leader, I need to be leading the league on understanding what this can disrupt, using these tools to make a better team, and actually shifting the size and shape of my organization in response to the technology around us."
 
-**Insight:** Leaders must proactively restructure their organizations and talent ratios in response to AI-driven efficiency gains.
+**洞察：** 领导者必须主动重组其组织和人才比例，以响应 AI 驱动的效率提升。
 
-**Tactical advice:**
-- Automate a role for a week before opening a new job description
-- Shift focus from 'communication' (trading info) to 'influence' (getting buy-in)
-- Study non-deterministic products to understand how they differ from traditional software
+**战术建议：**
+- 在开始新的职位描述之前，将某个角色自动化一周
+- 将焦点从 'communication'（交易信息）转移到 'influence'（买入）
+- 研究non-deterministic产品以了解它们与传统软件的区别
 
-*Timestamp: 01:03:30*
+*时间戳：01:03:30*
 
 
 ## David Placek
@@ -491,13 +491,13 @@
 
 > "Engineers come to us wanting more sophisticated names where they are likely to end up with another Codium or an Anduril or an Anthropic... we think what you're doing needs to be much more tangible, and something that people can grab onto, and much more natural as opposed to a Codium."
 
-**Insight:** AI products benefit from tangible, natural names that counter consumer skepticism and technical abstraction.
+**洞察：** AI 产品受益于有形、自然的名称，可以消除消费者的怀疑和技术抽象。
 
-**Tactical advice:**
-- Move away from abstract, technical-sounding names in AI
-- Use metaphors and natural concepts (e.g., Windsurf) to make AI feel more accessible
+**战术建议：**
+- 在 AI 中摆脱抽象、听起来技术性的名称
+- 使用隐喻和自然概念（例如风帆冲浪）让 AI 感觉更容易理解
 
-*Timestamp: 00:37:42*
+*时间戳：00:37:42*
 
 
 ## Dan Shipper
@@ -505,25 +505,25 @@
 
 > "There are these things that were historically really expensive that only rich people or big companies could buy... what AI does is it allows you to be like, oh, I could just use cloud for that... And then if it does, we will unbundle it into its own separate thing that becomes an app."
 
-**Insight:** A viable AI product strategy is to identify expensive, high-demand human services and unbundle them into affordable, specialized AI applications.
+**洞察：** 可行的 AI product strategy是识别昂贵、高需求的人工服务，并将其分解为经济实惠、专业的 AI 应用程序。
 
-**Tactical advice:**
-- Test product ideas first using general-purpose chatbots (ChatGPT/Claude) to see if the workflow is valuable
-- Measure product success by internal adoption within your own team before launching publicly
+**战术建议：**
+- 首先使用通用聊天机器人 (ChatGPT/Claude) 测试产品创意，看看工作流程是否有价值
+- 在公开发布之前，通过自己团队的内部采用来衡量产品的成功
 
-*Timestamp: 00:57:38*
+*时间戳：00:57:38*
 
 ---
 
 > "I think the number one predictor is, 'Does the CEO use ChatGPT?'... If the CEO is in it all the time, being like, 'This is the coolest thing,' everybody else is going to start doing it. If the CEO is like, 'I don't know, this is for someone else,' no one else is going to be able to lead that charge."
 
-**Insight:** Successful AI adoption within an organization is primarily driven by the CEO's personal engagement and intuition with the tools.
+**洞察：** AI 在组织内的成功采用主要取决于首席执行官的个人参与度和对工具的直觉。
 
-**Tactical advice:**
-- CEOs should explicitly mention in memos when they have used AI to draft the content
-- Lead from the front by setting reasonable expectations based on personal usage experience
+**战术建议：**
+- CEO 在使用 AI 起草内容时应在备忘录中明确提及
+- 率先垂范，根据个人使用体验设定合理预期
 
-*Timestamp: 01:12:00*
+*时间戳：01:12:00*
 
 
 ## Dalton Caldwell
@@ -531,13 +531,13 @@
 
 > "Small fine tune models as an alternative to gigantic generic ones... we'll probably be able to create better and better glue so all sorts of software systems can talk to each other. And so again, very broad idea. But yeah, I think we'll see a lot of very successful companies where that's the kernel of the idea they start with."
 
-**Insight:** A viable AI strategy involves moving away from generic models toward specialized, fine-tuned models and using LLMs as 'glue' for enterprise systems.
+**洞察：** 可行的 AI 策略包括从通用 models 转向专门的、微调的 models，并将 LLMs 用作企业系统的 'glue'。
 
-**Tactical advice:**
-- Explore small, fine-tuned models for specific vertical use cases
-- Identify brittle enterprise 'glue' that can be replaced or improved with LLMs
+**战术建议：**
+- 探索针对特定垂直用例的小型、微调 models
+- 识别可以用 LLMs 替换或改进的脆弱企业 'glue'
 
-*Timestamp: 00:55:37*
+*时间戳：00:55:37*
 
 
 ## Dr. Fei Fei Li
@@ -545,49 +545,49 @@
 
 > "That combination of the trio technology, big data, neural network, and GPU was kind of the golden recipe for modern AI. And then fast-forward, the public moment of AI, which is the ChatGPT moment, if you look at the ingredients of what brought ChatGPT to the world technically still use these three ingredients."
 
-**Insight:** Modern AI breakthroughs are built on the convergence of three core pillars: massive datasets, neural network architectures, and high-performance GPUs.
+**洞察：** 现代 AI 的突破建立在三个核心支柱的融合之上：海量数据集、神经网络架构和高性能 GPU。
 
-**Tactical advice:**
-- Focus on the 'trio' of technology: big data, neural networks, and compute (GPUs).
-- Recognize that scaling existing architectures is necessary but insufficient for future breakthroughs.
+**战术建议：**
+- 专注于 'trio' 技术：大数据、神经网络和计算 (GPU)。
+- 认识到扩展现有架构是必要的，但不足以实现未来的突破。
 
-*Timestamp: 00:19:12*
+*时间戳：00:19:12*
 
 ---
 
 > "I think scaling loss of more data, more GPUs, and bigger current model architecture is there's still a lot to be done there, but I absolutely think we need to innovate more. There's not a single deeply scientific discipline in human history that has arrived at a place that says we're done, we're done innovating and AI is one of the, if not the youngest discipline in human civilization."
 
-**Insight:** While scaling compute and data is effective, true progress toward advanced AI requires fundamental innovation in areas like abstraction, emotional intelligence, and scientific reasoning.
+**洞察：** 虽然扩展计算和数据是有效的，但高级 AI 的真正进步需要在抽象、情商和科学推理等领域进行根本性创新。
 
-**Tactical advice:**
-- Look beyond current transformer architectures for innovations in abstraction and creativity.
-- Identify 'North Star' problems like object recognition or spatial intelligence to drive model development.
+**战术建议：**
+- 超越电流互感器架构，寻找抽象和创造力方面的创新。
+- 识别对象识别或空间智能等 'North Star' 问题，以推动 model 开发。
 
-*Timestamp: 00:26:44*
+*时间戳：00:26:44*
 
 ---
 
 > "A simple way to understand a world model is that this model can allow anyone to create any worlds in their mind's eye by prompting whether it's an image or a sentence. And also be able to interact in this world whether you are browsing and walking or picking objects up or changing things as well as to reason within this world."
 
-**Insight:** World models represent a shift from passive content generation to the creation of interactive, navigable, and reason-based 3D environments.
+**洞察：** World models 代表了从被动内容生成到创建交互式、可导航和基于理性的 3D 环境的转变。
 
-**Tactical advice:**
-- Develop models that allow for interaction and reasoning within a 3D space rather than just 2D output.
-- Use world models as a foundation for embodied AI (robotics) and spatial intelligence.
+**战术建议：**
+- 开发 models，允许在 3D 空间内进行交互和推理，而不仅仅是 2D 输出。
+- 使用世界 models 作为体现 AI（机器人）和空间智能的基础。
 
-*Timestamp: 00:34:56*
+*时间戳：00:34:56*
 
 ---
 
 > "It turns out simpler model with a ton of data always win at the end of the day instead of the more complex model with less data... why can't bitter lesson work in robotics alone? ...you hope to get actions out of robots, but your training data lacks actions in 3D worlds... we have to find different ways to fit a, what do they call, a square in a round hole, that what we have is tons of web videos."
 
-**Insight:** The 'Bitter Lesson' (scaling data/compute) is harder to apply to robotics because of the lack of high-quality 3D action data compared to the abundance of text for LLMs.
+**洞察：** 'Bitter Lesson'（扩展数据/ 计算）更难应用于机器人技术，因为与 LLMs 的大量文本相比，缺乏高质量的 3D 动作数据。
 
-**Tactical advice:**
-- Supplement web video data with teleoperation or synthetic data to train robotic models.
-- Recognize that robotics requires physical bodies and supply chains, making the productization journey longer than software-only AI.
+**战术建议：**
+- 使用远程操作或合成数据补充网络视频数据来训练机器人 models。
+- 认识到机器人技术需要实体和供应链，使得产品化历程比纯软件 AI 更长。
 
-*Timestamp: 00:41:17*
+*时间戳：00:41:17*
 
 
 ## Dhanji R. Prasanna
@@ -595,25 +595,25 @@
 
 > "Our number one priority is through automate Block, which means getting AI and getting AI forms of automation through our entire company. ... we find engineering teams that are very, very AI forward that are using Goose every day are reporting about eight to 10 hours saved per week, and this is self-reported."
 
-**Insight:** Treat internal automation via AI as a top-level company priority to drive massive productivity gains.
+**洞察：** 通过 AI 将内部自动化视为公司的首要任务，以推动生产力的大幅提高。
 
-**Tactical advice:**
-- Measure AI impact through 'manual hours saved' across all departments, not just engineering
-- Use data scientists to validate self-reported productivity gains with throughput metrics like PR volume
+**战术建议：**
+- 通过 'manual hours saved' 衡量 AI 对所有部门（而不仅仅是工程部门）的影响
+- 利用数据科学家通过 PR 量等吞吐量指标来验证自我报告的生产力提升
 
-*Timestamp: 00:15:46*
+*时间戳：00:15:46*
 
 ---
 
 > "The truth is the value is changing every day. And so you need to be adaptable and look at what the value is today and plan for what the value will be tomorrow and then slowly expand to the areas where it's most efficacious."
 
-**Insight:** AI strategy must be fluid because the capabilities of the underlying models are evolving rapidly.
+**洞察：** AI 策略必须灵活，因为底层 models 的功能正在快速发展。
 
-**Tactical advice:**
-- Identify areas where AI currently outperforms humans (e.g., simple tool building) vs. where it underperforms (e.g., complex architecture)
-- Ride the wave of model improvements rather than waiting for a 'final' version of the technology
+**战术建议：**
+- 确定 AI 目前优于人类的领域（例如，简单的工具构建）与表现不佳的领域（例如，复杂的架构）
+- 顺应 model 改进的浪潮，而不是等待该技术的 'final' 版本
 
-*Timestamp: 00:17:17*
+*时间戳：00:17:17*
 
 
 ## Drew Houston
@@ -621,13 +621,13 @@
 
 > "Dash connects to all your different apps. It gives you universal search. Then obviously after ChatGPT, not only can you do conventional search, but you can ask questions in natural language, and answer a lot of the questions that ChatGPT can't because it's not connected to your stuff."
 
-**Insight:** AI product strategy should focus on solving the 'context' problem by connecting LLMs to fragmented, proprietary user data.
+**洞察：** AI product strategy 应侧重于通过将 LLMs 连接到碎片化的proprietary user data来解决 'context' 问题。
 
-**Tactical advice:**
-- Build connector platforms to index the 'known universe' of SaaS apps to provide personalized AI answers.
-- Focus on universal search and natural language queries as a way to organize a user's working life.
+**战术建议：**
+- 构建连接器平台来索引 SaaS 应用程序的 'known universe'，以提供个性化的 AI 答案。
+- 专注于通用搜索和natural language查询作为组织用户工作生活的方式。
 
-*Timestamp: 01:11:08*
+*时间戳：01:11:08*
 
 
 ## Dharmesh Shah
@@ -635,13 +635,13 @@
 
 > "we're going from what was an imperative model... to what engineers would call a declarative model. A declarative model is you describe the outcome you want, not the steps to get there"
 
-**Insight:** The core shift in AI product strategy is moving from step-by-step user instructions (clicks/swipes) to outcome-based descriptions (natural language).
+**洞察：** AI product strategy的核心转变是从分步用户指令（点击/ 滑动）转向基于结果的描述（natural language）。
 
-**Tactical advice:**
-- Identify use cases where the 'translation layer' between a user's thought and the software's interface can be eliminated.
-- Build products that allow users to express intent rather than execute steps.
+**战术建议：**
+- 确定可以消除 user's thought and the software' 接口之间的 'translation layer' 的用例。
+- 构建允许用户表达意图而不是执行步骤的产品。
 
-*Timestamp: 01:34:31*
+*时间戳：01:34:31*
 
 
 ## Dylan Field
@@ -649,25 +649,25 @@
 
 > "I was looking online on social media and I think people are already zeroing in the right conversation, which is, okay, in a world of more software being created by AI, what does that mean and the impact on craft and the impact on quality and the need to have more unique design and how design is a differentiator."
 
-**Insight:** In an AI-driven software landscape, product strategy must focus on craft and unique design as the primary competitive differentiators.
+**洞察：** 在 AI 驱动的软件环境中，product strategy必须注重craft和独特设计作为主要竞争优势。
 
-**Tactical advice:**
-- Evaluate how AI-generated features impact the overall quality and 'soul' of the product
-- Identify areas where AI can handle 'obvious' tasks to allow humans to focus on unique differentiation
+**战术建议：**
+- 评估 AI 生成的特征如何影响产品的整体质量和 'soul'
+- 确定 AI 可以处理 'obvious' 任务的领域，以便人们能够专注于独特的差异化
 
-*Timestamp: 03:37*
+*时间戳：03:37*
 
 ---
 
 > "PMs are no longer saying to the designer, 'Hey, can you draw this thing out for me?' That frees up designer time to go explore more deeply the stuff they need to go into and it allows anyone to add to that first conversation of, where should we go?"
 
-**Insight:** AI shifts the product development process from execution-heavy (drawing mocks) to exploration-heavy (strategic direction).
+**洞察：** AI 将产品开发流程从执行重（绘制模型）转变为探索重（战略方向）。
 
-**Tactical advice:**
-- Use AI to democratize the prototyping process across non-design functions
-- Focus AI strategy on shortening the path from idea to working prototype
+**战术建议：**
+- 使用 AI 使非设计功能的原型制作过程民主化
+- AI 策略的重点是缩短从想法到工作原型的路径
 
-*Timestamp: 00:45:24*
+*时间戳：00:45:24*
 
 
 ## Edwin Chen
@@ -675,49 +675,49 @@
 
 > "I'm worried that instead of building AI that will actually advance us as a species, curing cancer, solving poverty, understand the universe, we are optimizing for AI slop instead. But we're optimizing your models for the types of people who buy tabloids at a grocery store. We're basically teaching our models to chase dopamine instead of truth."
 
-**Insight:** Current AI development risks prioritizing engagement and 'flashy' responses over accuracy and meaningful human advancement.
+**洞察：** 当前的 AI 开发存在优先考虑参与和 'flashy' 响应而不是准确性和有意义的人类进步的风险。
 
-**Tactical advice:**
-- Avoid optimizing models solely for user engagement or 'dopamine' hits
-- Focus on 'truth' and high-utility outcomes rather than superficial performance
+**战术建议：**
+- 避免仅仅为了用户参与或 'dopamine' 点击而优化 models
+- 专注于 'truth' 和高实用性结果，而不是表面性能
 
-*Timestamp: 00:01:18*
+*时间戳：00:01:18*
 
 ---
 
 > "I don't trust the benchmarks at all... the benchmarks themselves are often honestly just wrong. They have wrong answers... these benchmarks at the end of the day, they often have well-defined objective answers that make them very easy for models to hill-climb on in a way that's very different from the messiness and ambiguity of the real world."
 
-**Insight:** Standard AI benchmarks are often flawed and easily gamed, failing to represent real-world performance and ambiguity.
+**洞察：** 标准 AI 基准测试通常存在缺陷且容易被欺骗，无法代表真实世界的性能和模糊性。
 
-**Tactical advice:**
-- Be skeptical of model performance on academic benchmarks
-- Prioritize testing models against messy, ambiguous real-world tasks rather than objective-answer benchmarks
+**战术建议：**
+- 对 model 在学术基准上的表现持怀疑态度
+- 优先针对混乱、模糊的现实世界任务而不是客观答案基准测试 models
 
-*Timestamp: 00:18:00*
+*时间戳：00:18:00*
 
 ---
 
 > "The way we really care about measuring model progress is by running all these human evaluations... because or searchers or annotators, they are experts at the top of their fields, and they are not just giving your responses, they're actually working through the responses deeply themselves... they're going to evaluate the models in a very deep way, so they're going to pay attention to accuracy and instruction following, all these things that casual users don't"
 
-**Insight:** Deep human evaluation by domain experts is superior to casual user feedback or automated benchmarks for measuring true model progress.
+**洞察：** 领域专家进行的深度人工 evaluation 优于随意的user feedback或衡量真实 model 进度的自动基准。
 
-**Tactical advice:**
-- Use expert human annotators to fact-check and deeply evaluate model outputs
-- Look beyond 'vibes' and flashy responses to measure accuracy and instruction following
+**战术建议：**
+- 使用专家人工注释者进行事实检查并深入 evaluate model 输出
+- 超越 'vibes' 和华丽的响应来测量准确性和指令遵循
 
-*Timestamp: 00:20:15*
+*时间戳：00:20:15*
 
 ---
 
 > "I've realized that the values that the companies have will shape the model... Do you want a model that says, 'You're absolutely right. There are definitely 20 more ways to improve this email,' and it continues for 50 more iterations or do you want a model that's optimizing for your time and productivity and just says, 'No. You need to stop. Your email's great. Just send it and move on'?"
 
-**Insight:** AI models will become increasingly differentiated based on the specific values and objective functions chosen by their creators.
+**洞察：** AI models 将根据其创建者选择的特定值和目标函数变得越来越差异化。
 
-**Tactical advice:**
-- Define the specific 'personality' and value system you want your AI product to embody
-- Decide whether to optimize for user engagement (time spent) or user productivity (time saved)
+**战术建议：**
+- 定义你希望 AI 产品体现的特定 'personality' 和价值体系
+- 决定是否针对用户参与度（花费的时间）或用户生产力（节省的时间）进行优化
 
-*Timestamp: 00:48:20*
+*时间戳：00:48:20*
 
 
 ## Eoghan McCabe
@@ -725,37 +725,37 @@
 
 > "You don't have a choice. AI is going to disrupt in the most aggressive violent ways. If you're not in it, you're about to get kicked out of all of it."
 
-**Insight:** AI disruption is an existential threat that requires aggressive, total commitment rather than incremental adoption.
+**洞察：** AI 颠覆是一种生存威胁，需要积极、全面的承诺，而不是增量采用。
 
-**Tactical advice:**
-- Acknowledge that AI will disrupt almost all software categories.
-- Move aggressively to be part of the disruption rather than fighting it.
+**战术建议：**
+- 承认 AI 将颠覆几乎所有软件类别。
+- 积极行动，成为颠覆的一部分，而不是与之对抗。
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "We were only six weeks into the launch of GPT 3.5 when we actually had a beta version of Fin. I got a text from Des, my co-founder, a week or so after the launch of GPT 3.5 and he said, 'The AI team have something interesting and they actually think we could make a product out of this.'"
 
-**Insight:** Speed to prototype is critical when a foundational technology shift occurs.
+**洞察：** 当发生基础技术转变时，原型设计的速度至关重要。
 
-**Tactical advice:**
-- Empower existing AI/ML teams to experiment immediately with new models.
-- Aim for a working prototype within weeks of a major model release.
+**战术建议：**
+- 使现有 AI/ML 团队能够立即尝试新的 models。
+- 目标是在 model 主要版本发布后的几周内获得工作原型。
 
-*Timestamp: 00:11:10*
+*时间戳：00:11:10*
 
 ---
 
 > "I jumped hard on AI and announced that we were going to spend nearly $100 million of our own cash on that. We allocated a lot of capital, but I also restarted the culture."
 
-**Insight:** A successful AI pivot requires significant capital allocation and a cultural reset to support high-speed innovation.
+**洞察：** 成功的 AI 转型需要大量的资本配置和文化重置，以支持高速创新。
 
-**Tactical advice:**
-- Allocate substantial budget specifically for AI development.
-- Align company culture with the demands of the AI era (speed, resilience).
+**战术建议：**
+- 专门为 AI 开发分配大量预算。
+- 使公司文化与 AI 时代的需求（速度、弹性）保持一致。
 
-*Timestamp: 00:28:40*
+*时间戳：00:28:40*
 
 
 ## Eric Ries
@@ -763,14 +763,14 @@
 
 > "AI is a management technology. The thing it does is manage intelligence and other intelligences... It will really change management a lot because it changes the individual span of control quite a lot."
 
-**Insight:** AI's primary impact on organizations is its ability to summarize information and expand an individual's span of control.
+**洞察：** AI's primary impact on organizations is its ability to summarize information and expand an individual' 的控制范围。
 
-**Tactical advice:**
-- Use AI for summarization of organizational activity
-- Design agents with clear procurement policies
-- Pick actions that make ethical sense in a wide variety of future scenarios
+**战术建议：**
+- 使用 AI 总结组织活动
+- 设计 agents 时具有明确的采购政策
+- 选择在各种未来场景中具有道德意义的行动
 
-*Timestamp: 01:20:35*
+*时间戳：01:20:35*
 
 
 ## Ethan Smith
@@ -778,25 +778,25 @@
 
 > "Answer Engine Optimization is how do I show up in LLMs as an answer?"
 
-**Insight:** AEO is the strategic process of ensuring a product or brand is cited as the primary answer within Large Language Model responses.
+**洞察：** AEO 是确保产品或品牌被引用为大语言模型响应中的主要答案的战略过程。
 
-**Tactical advice:**
-- Focus on getting mentioned as many times as possible across various citations rather than just ranking for a single link.
-- Optimize for the 'long tail' of conversational questions which are more prevalent in chat than traditional search.
+**战术建议：**
+- 专注于在各种引用中尽可能多地被提及，而不是仅仅对单个链接进行排名。
+- 针对对话问题的 'long tail' 进行优化，这些问题在聊天中比传统搜索更重要。
 
-*Timestamp: 00:00:02*
+*时间戳：00:00:02*
 
 ---
 
 > "The LLM is summarizing many citations and so you need to get mentioned as many times as possible. Usually when you ask something like, 'What's the best tool for X?' The first answer will be mentioned the most in the citations."
 
-**Insight:** LLMs determine the 'best' answer based on the frequency and authority of mentions across the sources they retrieve via RAG.
+**洞察：** LLMs 根据通过 RAG 检索的来源中提及的频率和权威性来确定 'best' 答案。
 
-**Tactical advice:**
-- Identify the specific citations (websites, videos, threads) the LLM is pulling from.
-- Increase brand mentions in those specific high-authority citations to move up the LLM's internal ranking.
+**战术建议：**
+- 识别 LLM 所引用的具体引用（网站、视频、线程）。
+- 在这些特定的高权威引用中增加品牌提及率，以提升 LLM 的内部排名。
 
-*Timestamp: 00:11:18*
+*时间戳：00:11:18*
 
 
 ## Eric Simons
@@ -804,25 +804,25 @@
 
 > "Software is deterministic. When you write code and you hit run, it either runs or it doesn't... It makes technical sense why, of anything, LLMs are going to get insanely better at writing code than probably most other types of applications for LLMs."
 
-**Insight:** AI strategy should focus on deterministic verticals where reinforcement learning can be applied through automated testing and permutations.
+**洞察：** AI 策略应侧重于确定性垂直领域，其中可以通过自动化测试和排列应用强化学习。
 
-**Tactical advice:**
-- Focus AI efforts on tasks that have deterministic outcomes (like code execution)
-- Use automated environments to generate high-quality training data through reinforcement learning
+**战术建议：**
+- 将 AI 的工作重点放在具有确定性结果的任务上（例如代码执行）
+- 使用自动化环境通过强化学习生成高质量的训练数据
 
-*Timestamp: 01:09:13*
+*时间戳：01:09:13*
 
 ---
 
 > "PMs, they're going to be 'writing code', quote, unquote, instead of just writing a JIRA ticket and waiting for a developer to do it... The winners, at least, their org charts are going to completely change, and how they approach building products and shipping products."
 
-**Insight:** AI will shift the organizational structure so that PMs and designers directly drive the 'coding' of the UI, while engineers focus on complex, non-commodity logic.
+**洞察：** AI 将转变组织结构，使 PMs 和设计师直接驱动 UI 的'coding'，而工程师则专注于复杂的非商品逻辑。
 
-**Tactical advice:**
-- Prepare for an org chart where PMs and designers have direct 'fingertip' access to the codebase via AI
-- Shift engineering resources away from 'cookie-cutter' UI work toward intellectually challenging tasks
+**战术建议：**
+- 准备一个组织结构图，其中 PMs 和设计人员可以通过 AI 直接 'fingertip' 访问代码库
+- 将工程资源从 'cookie-cutter' UI 工作转向智力挑战任务
 
-*Timestamp: 00:55:30*
+*时间戳：00:55:30*
 
 
 ## Geoffrey Moore
@@ -830,13 +830,13 @@
 
 > "From a customer's point of view, there's AI in the early market, there's AI in the bowling alley, there's AI in the chasm, there's AI in the tornado, and there's AI on Main Street."
 
-**Insight:** AI products exist across all stages of the adoption lifecycle simultaneously, requiring different strategies for each.
+**洞察：** AI 产品同时存在于采用生命周期的所有阶段，每个阶段都需要不同的策略。
 
-**Tactical advice:**
-- Identify if your AI feature is a 'Main Street' productivity add-on (like Copilot) or a 'Bowling Alley' specialized solution (like AI tutoring).
-- For specialized AI, focus on high-productivity returns with modest risk.
+**战术建议：**
+- 确定你的 AI 功能是 'Main Street' 生产力插件（如 Copilot）还是 'Bowling Alley' 专用解决方案（如 AI 辅导）。
+- 对于专业的 AI，专注于高生产率回报和适度风险。
 
-*Timestamp: 00:59:50*
+*时间戳：00:59:50*
 
 
 ## Gaurav Misra
@@ -844,14 +844,14 @@
 
 > "Our goal specifically for video is not to build professional tools... We're building for the person who could not have created video before."
 
-**Insight:** Focus AI strategy on lowering the barrier to entry for non-professionals by bridging skill and time gaps.
+**洞察：** AI strategy的重点是通过弥合技能和时间差距来降低非专业人士的进入门槛。
 
-**Tactical advice:**
-- Identify 'skill gaps' or 'time gaps' that AI can bridge for users who lack professional tools.
-- Focus on specific AI niches (like talking videos) rather than general-purpose generation to solve practical problems.
-- Differentiate between 'documentation' video (real) and 'storytelling' video (AI-enhanced) to guide safety and product focus.
+**战术建议：**
+- 确定 AI 可以为缺乏专业工具的用户桥接的 'skill gaps' 或 'time gaps'。
+- 专注于特定的 AI 利基（如谈话视频），而不是解决实际问题的通用生成。
+- 区分 'documentation' 视频（真实）和 'storytelling' 视频（AI 增强），以指导安全和产品重点。
 
-*Timestamp: 00:10:55*
+*时间戳：00:10:55*
 
 
 ## Hamel Husain & Shreya Shankar
@@ -859,37 +859,37 @@
 
 > "To build great AI products, you need to be really good at building evals. It's the highest ROI activity you can engage in."
 
-**Insight:** Developing evaluation systems is the most critical and high-return activity for AI product development.
+**洞察：** 开发 evaluation 系统是 AI 产品开发中最关键和高回报的活动。
 
-**Tactical advice:**
-- Focus on building evals as a core competency
-- Prioritize systematic measurement over vibe checks
+**战术建议：**
+- 专注打造 evals 核心能力
+- 优先考虑系统测量而不是氛围检查
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "Evals is a way to systematically measure and improve an AI application, and it really doesn't have to be scary or unapproachable at all. It really is, at its core, data analytics on your LLM application"
 
-**Insight:** AI evaluation is essentially a specialized form of data analytics applied to large language model outputs.
+**洞察：** AI evaluation 本质上是一种应用于大语言 model 输出的数据分析的特殊形式。
 
-**Tactical advice:**
-- Treat evals as a systematic measurement framework
-- Use data analytics principles to iterate on LLM applications
+**战术建议：**
+- 将 evals 视为系统测量框架
+- 使用数据分析原理迭代 LLM 应用程序
 
-*Timestamp: 00:05:49*
+*时间戳：00:05:49*
 
 ---
 
 > "You can appoint one person whose taste that you trust. It should be the person with domain expertise. Oftentimes, it is the product manager."
 
-**Insight:** A 'benevolent dictator' with domain expertise should lead the evaluation process to avoid committee-driven stagnation.
+**洞察：** 具有领域专业知识的 'benevolent dictator' 应领导 evaluation 流程，以避免委员会驱动的停滞。
 
-**Tactical advice:**
-- Appoint a single domain expert to lead open coding
-- Ensure the person with the best 'taste' for the product defines the quality bar
+**战术建议：**
+- 任命一名单一领域专家来领导开放编码
+- 确保拥有最适合产品的 'taste' 的人员定义质量标准
 
-*Timestamp: 00:01:09*
+*时间戳：00:01:09*
 
 
 ## Grant Lee
@@ -897,14 +897,14 @@
 
 > "It's not just one model. It's maybe 20 plus models powering all different parts of the product, and then you're thinking about the orchestration that's required and you're thinking about, obviously if you're experimenting constantly being able to test across the newest models versus models that have been around that are cheaper, you're doing a lot to really... Your job is to, again, align value, maximize the value you're delivering to the end user in a way that's sustainable for you as a business."
 
-**Insight:** Durable AI products move beyond simple 'wrappers' by orchestrating multiple models to solve deep, end-to-end user workflows.
+**洞察：** 耐用的 AI 产品超越了简单的 'wrappers'，通过编排多个 models 来解决深层的端到端用户工作流程。
 
-**Tactical advice:**
-- Own the end-to-end workflow rather than just providing a single AI feature.
-- Use different models for different tasks (e.g., one for outlining, one for visual layout, one for image generation).
-- Constantly experiment with new models to balance performance with inference costs.
+**战术建议：**
+- 拥有端到端工作流程，而不仅仅是提供单个 AI 功能。
+- 使用不同的 models 来完成不同的任务（例如，一种用于轮廓，一种用于视觉布局，一种用于图像生成）。
+- 不断尝试新的 models，以平衡性能与inference cost。
 
-*Timestamp: 01:20:15*
+*时间戳：01:20:15*
 
 
 ## Hamilton Helmer
@@ -912,12 +912,12 @@
 
 > "Will AI models develop so that they learn in a way that for one user's interaction helps another user's interaction? That would be a powerful network economy. Or if it learns, if you think of if it learns about you and becomes a better psychiatrist or something, then that's a switching cost."
 
-**Insight:** AI can create strategic power through data-driven network economies or high switching costs derived from deep personalization.
+**洞察：** AI 可以通过数据驱动的网络经济或深度个性化带来的高转换成本来创造战略力量。
 
-**Tactical advice:**
-- Explore how AI learning can create network economies where one user's data improves the experience for all others.
+**战术建议：**
+- 探索 AI 学习如何创建网络经济，其中一个用户的数据可以改善所有其他用户的体验。
 
-*Timestamp: 00:39:44*
+*时间戳：00:39:44*
 
 
 ## Guillermo Rauch
@@ -925,13 +925,13 @@
 
 > "When you're building AI products, it's a constant stream of user feedback. So for people that are thinking about not building AI products, it's going to be hard to compete with something that has such a tight feedback loop with users. The whole idea is to capture users' feedback so the next iteration of the model, the prompt, the fine-tuning, the examples, the rag is better."
 
-**Insight:** The competitive advantage of AI products is the ability to use a constant stream of user feedback to immediately improve the underlying model, RAG, or prompts.
+**洞察：** AI 产品的竞争优势是能够利用源源不断的user feedback来立即改进底层 model、RAG 或 prompts。
 
-**Tactical advice:**
-- Build infrastructure to capture user 'thumbs up/down' to inform the next iteration of fine-tuning.
-- Treat user feedback as direct input for RAG (Retrieval-Augmented Generation) improvements.
+**战术建议：**
+- 构建基础设施来捕获用户 'thumbs up/down'，以通知下一次迭代的微调。
+- 将user feedback视为 RAG（Retrieval- 增强一代）改进的直接输入。
 
-*Timestamp: 01:02:40*
+*时间戳：01:02:40*
 
 
 ## Gustav Söderström
@@ -939,25 +939,25 @@
 
 > "The internet started with curation... then the world switched from curation to recommendation... And I think what we're entering now is we're going from your curation to recommendation to generation. And I suspect it will be as big of a shift that you will eventually have to rethink your products."
 
-**Insight:** The shift from recommendation-based products to generative-based products requires a fundamental rethink of user interfaces and business models.
+**洞察：** 从基于推荐的产品到基于生成的产品的转变需要对用户界面和业务 models 进行根本性的重新思考。
 
-**Tactical advice:**
-- Identify 'zero intent' use cases where users don't know what they want and use generative AI to fill the gap
-- Differentiate between using AI for iterative improvements (safety, classification) versus core generative features
+**战术建议：**
+- 识别用户不知道自己想要什么的 'zero intent' 用例，并使用生成式 AI 来填补空白
+- 区分使用 AI 进行迭代改进（安全、分类）与核心生成功能
 
-*Timestamp: 00:13:30*
+*时间戳：00:13:30*
 
 ---
 
 > "The way to think about these diffusion models if and when they get good enough at generating music is probably the same like an instrument. It's just a much more powerful instrument and we'll probably see a new type of creator that wasn't proficient at any instrument."
 
-**Insight:** Generative AI should be viewed as a high-leverage instrument that enables new genres and types of creators rather than just a replacement for existing art.
+**洞察：** Generative AI 应被视为一种高杠杆工具，它可以实现新的流派和类型的创作者，而不仅仅是现有艺术的替代品。
 
-**Tactical advice:**
-- Focus on how AI can help creators be 'truly unique' rather than just generating generic content
-- Look for new business models that allow rights-holders to benefit from generative technology
+**战术建议：**
+- 重点关注 AI 如何帮助创作者成为 'truly unique'，而不仅仅是生成通用内容
+- 寻找新业务 models，让权利持有者从生成技术中受益
 
-*Timestamp: 00:22:51*
+*时间戳：00:22:51*
 
 
 ## Hilary Gridley
@@ -965,14 +965,14 @@
 
 > "Designing reward loops... The reward loop needs to be powerful, it needs to be immediate, and it needs to be emotional, so that when this person does the thing that you want them to do, they feel like a million bucks. ... I like Custom GPTs as a tool for helping people learn to use LLMs... because they get the joy of like, 'Oh, this helps me. This was cool,' without any of the despair of, 'Oh, I'm not very good at prompting.'"
 
-**Insight:** Driving AI adoption requires designing immediate, emotional reward loops that minimize the friction of learning new tools.
+**洞察：** 推动 AI 的采用需要设计即时的情感奖励循环，以最大限度地减少学习新工具的摩擦。
 
-**Tactical advice:**
-- Start with fun, low-stakes AI use cases (e.g., vacation planning) to build the habit.
-- Provide pre-built custom GPTs so users get immediate value without needing to master prompting first.
-- Ensure the AI output provides a 'million bucks' feeling of accomplishment or time saved.
+**战术建议：**
+- 从有趣、低风险的 AI 用例（例如假期计划）开始养成习惯。
+- 提供预构建的定制 GPT，以便用户无需先掌握 prompting 即可立即获得价值。
+- 确保 AI 输出提供 'million bucks' 的成就感或节省时间。
 
-*Timestamp: 01:05:48*
+*时间戳：01:05:48*
 
 
 ## Inbal S
@@ -980,61 +980,61 @@
 
 > "The user of the AI tools to develop software needs to form a different thinking. You need to start figuring out how are you using these AI tools to help you be successful. And it's no longer just the actual code writing, it's really evolving your thinking to the big picture, to the connected experience, to connected systems"
 
-**Insight:** AI shifts the developer's role from tactical code writing to high-level systems architecture and big-picture thinking.
+**洞察：** AI 将开发人员的角色从战术代码编写转变为高级系统架构和全局思维。
 
-**Tactical advice:**
-- Focus on understanding the system and environment rather than just syntax
-- Leverage AI to handle simple code so junior developers can learn architecture earlier
+**战术建议：**
+- 专注于理解系统和环境而不仅仅是语法
+- 利用 AI 处理简单代码，以便初级开发人员可以更早地学习架构
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "Generative AI will replace humans. I don't see that happening in the near future. The way I think about it, you always need that human in the loop because AI cannot replace innovation. That creative spark, that creative thinking that is the center of humanity, this will not be replaced by AI"
 
-**Insight:** AI is a tool for efficiency, but human innovation and the 'creative spark' remain the essential core that cannot be automated.
+**洞察：** AI 是一个提高效率的工具，但人类的创新和'creative spark'仍然是无法自动化的核心。
 
-**Tactical advice:**
-- Keep a 'human in the loop' for all AI-generated outputs
-- Focus human effort on innovation and creative problem solving rather than repetitive tasks
+**战术建议：**
+- 为所有 AI 生成的输出保留 'human in the loop'
+- 将人力集中在创新和创造性问题解决上，而不是重复性任务上
 
-*Timestamp: 00:05:11*
+*时间戳：00:05:11*
 
 ---
 
 > "What is that problem that we're trying to solve and how can we leverage AI better to help solve the problem versus what do we do with AI? So it's really working backwards from the customer problem from what we're trying to solve, and then realize what are the best tools that we have in order to do that work better"
 
-**Insight:** Avoid 'AI for AI's sake' by starting with the customer problem and determining if AI is the right tool to solve it.
+**洞察：** 从客户问题入手，确定 AI 是否是解决问题的正确工具，以避免 'AI for AI' 的缘故。
 
-**Tactical advice:**
-- Work backwards from the customer problem before selecting AI as the solution
-- Identify manual or high-friction workflows as prime candidates for AI integration
+**战术建议：**
+- 在选择 AI 作为解决方案之前，从客户问题出发进行逆向分析
+- 确定手动或高摩擦工作流程作为 AI 集成的主要候选者
 
-*Timestamp: 14:38*
+*时间戳：14:38*
 
 ---
 
 > "The design philosophy for Copilot is very much aligned with the working backwards concept... It's really putting yourself in the shoes of your customers and figuring out what is it that they need, how is that experience going to work for them? If it's an extra tool and if you need to ask for it and if you need to ask for it or if you need to wait for it, then developers will not adopt it."
 
-**Insight:** AI tools must be seamlessly integrated into existing workflows to avoid the friction that prevents adoption.
+**洞察：** AI 工具必须无缝集成到现有工作流程中，以避免阻碍采用的摩擦。
 
-**Tactical advice:**
-- Design AI features to be intuitive and frictionless
-- Ensure the AI assistant doesn't require the user to 'wait' or perform extra steps to get value
+**战术建议：**
+- 将 AI 功能设计得直观、顺畅
+- 确保 AI 助手不会“'t require the user to '等待”或执行额外步骤来获取价值
 
-*Timestamp: 19:05*
+*时间戳：19:05*
 
 ---
 
 > "There is no one metric to rule them all. It's a combination of the things that you're looking to measure out of adopting AI... productivity is not the right metrics against each one of these components. When we're implementing AI to GitHub Advanced Security, writing more secure code is the right element. It's like how many secrets were we able to prevent from leaking?"
 
-**Insight:** AI success should be measured by specific outcomes (like security or quality) rather than a single generic productivity metric.
+**洞察：** AI 的成功应该通过特定的结果（如安全性或质量）来衡量，而不是通过单一的通用生产力指标来衡量。
 
-**Tactical advice:**
-- Measure 'time to value' instead of just 'time saved'
-- Use specific quality metrics like secrets prevented or bugs detected for security AI
+**战术建议：**
+- 测量 'time to value' 而不仅仅是 'time saved'
+- 使用特定的质量指标，例如阻止的秘密或检测到的错误以确保安全 AI
 
-*Timestamp: 20:35*
+*时间戳：20:35*
 
 
 ## Howie Liu
@@ -1042,26 +1042,26 @@
 
 > "How would you execute on that mission using a fully AI native approach? If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it."
 
-**Insight:** Evaluate your product's mission through a clean-slate, AI-native lens to determine if existing assets are an advantage or a liability.
+**洞察：** 通过全新的 AI 原生镜头评估你的产品使命，以确定现有资产是优势还是劣势。
 
-**Tactical advice:**
-- Ask: 'How would an AI-native company execute on our mission?'
-- Use AI as a 'DSL' (Domain Specific Language) to manipulate existing product primitives rather than generating everything from scratch
-- Prioritize 'vibe coding' and agentic app building over traditional GUI-only interfaces
+**战术建议：**
+- 问：'How would an AI-native company execute on our mission?'
+- 使用 AI 作为 'DSL'（领域特定语言）来操作现有产品原语，而不是从头开始生成所有内容
+- 优先考虑 'vibe coding' 和 agentic 应用程序构建，而不是传统的纯 GUI 界面
 
-*Timestamp: 00:35:08*
+*时间戳：00:35:08*
 
 ---
 
 > "I think to really understand the solution space of what's possible, you have to be in the details. I mean, literally, you can't just look at screenshots or a pre-recorded video of a new product feature. AI is something you have to play with"
 
-**Insight:** To understand the AI solution space, leaders must personally experiment with underlying primitives and models rather than just reviewing final products.
+**洞察：** 要了解 AI 解决方案空间，领导者必须亲自尝试底层原语和 models，而不仅仅是审查最终产品。
 
-**Tactical advice:**
-- Play directly with underlying primitives via API or chat interfaces to understand model boundaries
-- Focus on creating visual metaphors and affordances that help users understand underlying AI capabilities
+**战术建议：**
+- 通过 API 或聊天界面直接使用底层原语，以了解 model 边界
+- 专注于创建视觉隐喻和可供性，帮助用户理解底层 AI 功能
 
-*Timestamp: 00:12:46*
+*时间戳：00:12:46*
 
 
 ## Ivan Zhao
@@ -1069,25 +1069,25 @@
 
 > "I always feels like AI language model feels like a new type of wood. It feels like aluminum. It's a new type of material... Mass air travel wasn't available until aluminum become cheap enough that people can make airplanes that support this at cost... AI is really good with bundled offerings. AI is really good with horizontal tools."
 
-**Insight:** AI should be treated as a new raw material that enables previously impossible architectural trade-offs, particularly favoring horizontal, bundled platforms.
+**洞察：** AI 应被视为一种新的原材料，可以实现以前不可能的架构权衡，特别是有利于水平、捆绑平台。
 
-**Tactical advice:**
-- Leverage AI's ability to reason across disparate data sets to strengthen a horizontal product's value proposition.
-- Build AI 'connectors' to pull external data into your core ecosystem to increase the AI's reasoning power.
+**战术建议：**
+- 利用 AI's ability to reason across disparate data sets to strengthen a horizontal product' 的价值主张。
+- 构建 AI 'connectors' 将外部数据拉入你的核心生态系统，以增强 AI 的推理能力。
 
-*Timestamp: 00:39:13*
+*时间戳：00:39:13*
 
 ---
 
 > "The first product was our AI writer product. Second product is AI Q&A or connectors. Please look at all the information in Notion and give your answer... the third one, which is even more fascinating... if we're just putting AI coding agent on top of it, you can create any kind of knowledge, customer software, customer agent for whatever your vertical use cases you need."
 
-**Insight:** AI product evolution moves from simple generation (writing) to retrieval (Q&A) to autonomous assembly (agents building custom software).
+**洞察：** AI 产品演变从简单的生成（编写）到 retrieval（问答）再到自主组装（agents 构建定制软件）。
 
-**Tactical advice:**
-- Sequence AI features from low-complexity (writing) to high-complexity (autonomous agents).
-- Use AI to solve the 'blank slate' problem of modular tools by having it assemble components for the user.
+**战术建议：**
+- 序列 AI 的特点是从低复杂度（写入）到高复杂度（自主 agents）。
+- 使用 AI 通过让'blank slate'为用户组装组件来解决模块化工具的'blank slate'问题。
 
-*Timestamp: 00:58:17*
+*时间戳：00:58:17*
 
 
 ## Jake Knapp + John Zeratsky
@@ -1095,13 +1095,13 @@
 
 > "We found that it's especially valuable for AI startups. So it just turns out that a lot of the complex issues you have to figure out with turning something that may not initially be trustworthy may require a big behavior shift to customers who aren't used to working in this way and sometimes artificial intelligence can produce things that feel kind of alien to people. And so making this stuff actually useful, more than just a chatbot with little stars that's in the corner... but something that's really meaningful."
 
-**Insight:** AI product strategy requires solving for trust and significant behavioral shifts in users.
+**洞察：** AI product strategy需要解决用户的信任和重大行为转变问题。
 
-**Tactical advice:**
-- Focus on making AI features 'meaningful' rather than just adding generic chatbots.
-- Address the 'trust hurdle' when introducing AI into traditional workflows.
+**战术建议：**
+- 专注于使 AI 具有 'meaningful' 功能，而不仅仅是添加通用聊天机器人。
+- 将 AI 引入传统工作流程时解决 'trust hurdle' 问题。
 
-*Timestamp: 01:31:20*
+*时间戳：01:31:20*
 
 
 ## Jason Droege
@@ -1109,25 +1109,25 @@
 
 > "The general trend right now is going from models knowing things to models doing things. The next question becomes, what can it do for me? How does the agent make decisions for you?"
 
-**Insight:** The strategic frontier of AI is moving from knowledge retrieval to agentic action and decision-making.
+**洞察：** AI 的战略前沿正在从知识 retrieval 转向 agentic 行动和决策。
 
-**Tactical advice:**
-- Focus product development on agentic workflows where models navigate software environments
-- Design systems that allow agents to pop up to humans for feedback when accuracy is low
+**战术建议：**
+- 将产品开发重点放在 agentic 工作流程上，其中 models 在软件环境中导航
+- 设计允许 agents 在准确性较低时向人类弹出反馈的系统
 
-*Timestamp: 00:35:47*
+*时间戳：00:35:47*
 
 ---
 
 > "These things take 6 to 12 months to get them truly robust enough where an important process can be automated. Like with any of these major tech revolutions, headlines tell one story and then on the ground, laying broadband means you need to dig up every single road in America to lay it."
 
-**Insight:** Enterprise AI automation requires significant 'operational chiseling' and time (6-12 months) to reach production-level reliability.
+**洞察：** 企业 AI 自动化需要大量 'operational chiseling' 和时间（6-12 个月）才能达到production-grade reliability。
 
-**Tactical advice:**
-- Plan for long implementation cycles beyond the initial proof-of-concept (POC)
-- Focus on reliability and 'five nines' accuracy for mission-critical processes
+**战术建议：**
+- 规划超出initial POC (POC) 的长实施周期
+- 专注于mission-critical processes的可靠性和 'five nines' 准确性
 
-*Timestamp: 00:39:00*
+*时间戳：00:39:00*
 
 
 ## Jonathan Becker
@@ -1135,13 +1135,13 @@
 
 > "The effect ultimately that we've seen from a human capital point of view is displacement. We have more people now than we've ever had, but the nature of the work that they do is more strategic. It's more about modeling, validation, asking the right questions, being focused around creative levers. And less so the like trench work of implementation and bid modifiers at the keyword level on Google search, and some of the really hardcore manual analysis we had to do."
 
-**Insight:** AI shifts human roles from manual execution to high-level strategic modeling and creative direction.
+**洞察：** AI 将人类角色从手动执行转变为高级strategic modeling 和creative direction。
 
-**Tactical advice:**
-- Focus human capital on strategic modeling and validation
-- Automate manual tasks like bid modifiers and keyword-level analysis
+**战术建议：**
+- 将human capital重点放在strategic modeling 和验证上
+- 自动执行手动任务，例如bid modifiers和keyword-level analysis
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 
 ## Karina Nguyen
@@ -1149,45 +1149,45 @@
 
 > "Creative thinking and you kind of want to generate a bunch of ideas and filter through them and not just build the best product experience. I think it's actually really, really hard to teach the model how to be aesthetic or really good visual design or how to be extremely creative in the way they write."
 
-**Insight:** Creative reasoning, aesthetics, and high-level idea filtering remain difficult to automate and are high-value skills for AI product teams.
+**洞察：** creative reasoning、美学和high-level idea filtering仍然难以自动化，但对于 AI 产品团队来说却是高价值技能。
 
-**Tactical advice:**
-- Focus on developing 'aesthetic' and 'creative' judgment that models currently lack.
+**战术建议：**
+- 重点培养 'aesthetic' 和 'creative' judgment，而 models 目前缺乏。
 
-*Timestamp: 00:00:26*
+*时间戳：00:00:26*
 
 ---
 
 > "Because file uploads... It's like form follows function. It's like the form factor, the file uploads can enable people to just literally upload anything, the books, any reports, financial and ask any task to the model."
 
-**Insight:** Product value in AI often comes from the form factor (like file uploads) rather than just the underlying model capability.
+**洞察：** AI 中的产品价值通常来自form factor（如文件上传），而不仅仅是underlying model capability。
 
-**Tactical advice:**
-- Design form factors that align with familiar user tasks (e.g., uploading a document) to unlock model utility.
+**战术建议：**
+- 设计符合熟悉的用户任务（例如上传文档）的form factor以解锁 model utility。
 
-*Timestamp: 00:37:04*
+*时间戳：00:37:04*
 
 ---
 
 > "You want to build for the future. So it's like it doesn't necessarily matter whether the model is good or not, good right now, but you can build product ideas such that by the time the models will be really good, it'll work really well."
 
-**Insight:** Effective AI strategy involves designing product experiences that anticipate future model improvements rather than just current limitations.
+**洞察：** 有效的 AI 策略涉及设计能够预见未来 model 改进而不仅仅是当前限制的产品体验。
 
-**Tactical advice:**
-- Prototype product ideas that might fail today but will succeed as reasoning costs drop and intelligence increases.
+**战术建议：**
+- 原型产品创意在今天可能会失败，但随着inference cost的下降和intelligence increases，将会成功。
 
-*Timestamp: 00:43:53*
+*时间戳：00:43:53*
 
 ---
 
 > "I think what models are really good at is connecting the dots, I think. It's like if you have user feedback from this source, but you also have an internal dashboard with metrics and then you have other feedback or input and then it can create a plan for you, recommendations even."
 
-**Insight:** AI is exceptionally strong at synthesizing disparate data sources (feedback, metrics, logs) into a cohesive strategy or plan.
+**洞察：** AI 非常擅长将不同的数据源（反馈、指标、日志）合成为一个cohesive strategy 或 plan。
 
-**Tactical advice:**
-- Use LLMs to aggregate and summarize user feedback and internal metrics to identify the most painful user flows.
+**战术建议：**
+- 使用 LLMs 聚合和总结user feedback和内部指标，以识别最痛苦的user flows。
 
-*Timestamp: 00:50:10*
+*时间戳：00:50:10*
 
 
 ## Keith Coleman & Jay Baxter
@@ -1195,13 +1195,13 @@
 
 > "take existing notes as input... have an LLM generate a ton of different variants, and then basically make the simulated jury to basically get a representative group of contributors for community notes who would be rating the note and try to predict based on their past ratings how they would rate these LLM generated notes."
 
-**Insight:** LLMs can be used to simulate user feedback and generate high-quality content variants that are likely to achieve consensus.
+**洞察：** LLMs 可用于模拟user feedback并生成可能达成共识的高质量content variants。
 
-**Tactical advice:**
-- Use LLMs to generate multiple variants of a piece of content based on existing user inputs
-- Simulate user rating processes using historical data to predict which AI-generated content will be most helpful
+**战术建议：**
+- 使用 LLMs 根据现有用户输入生成一段内容的多个变体
+- 使用历史数据模拟user rating process，以预测哪些 AI-generated content最有帮助
 
-*Timestamp: 01:39:13*
+*时间戳：01:39:13*
 
 
 ## Kevin Weil
@@ -1209,49 +1209,49 @@
 
 > "Everywhere I've ever worked before this, you kind of know what technology you're building on... but that's not true at all with AI. Every two months, computers can do something they've never been able to do before and you need to completely think differently about what you're doing."
 
-**Insight:** AI product strategy requires a mindset shift because the underlying technology is a moving target rather than a fixed foundation.
+**洞察：** AI product strategy需要思维方式转变，因为底层技术是一个移动的目标而不是固定的基础。
 
-**Tactical advice:**
-- Expect the technology to change every two months
-- Re-evaluate product direction based on new model capabilities frequently
+**战术建议：**
+- 预计技术每两个月就会改变一次
+- 基于新的 model 功能频繁重新调整 evaluate 产品方向
 
-*Timestamp: 00:16:19*
+*时间戳：00:16:19*
 
 ---
 
 > "Our general mindset is in two months, there's going to be a better model and it's going to blow away whatever the current set of limitations are... If you're building and the product that you're building is kind of right on the edge of the capabilities of the models, keep going because you're doing something right."
 
-**Insight:** Adopt 'model maximalism' by building for the capabilities that are almost possible, as the model will likely catch up by launch.
+**洞察：** 通过构建几乎可能的功能来采用 'model maximalism'，因为 model 可能会在发布时赶上。
 
-**Tactical advice:**
-- Don't over-engineer scaffolding for current model limitations
-- Build products that push the current edge of model capabilities
+**战术建议：**
+- 不要针对当前 model 的限制过度设计脚手架
+- 构建可推动 model 功能当前优势的产品
 
-*Timestamp: 00:31:12*
+*时间戳：00:31:12*
 
 ---
 
 > "I think the future is really going to be incredibly smart, broad-based models that are fine-tuned and tailored with company-specific or use case-specific data so that they perform really well on company-specific, or use case-specific things."
 
-**Insight:** The next phase of AI strategy involves combining powerful general models with proprietary, industry-specific data through fine-tuning.
+**洞察：** AI strategy的下一阶段涉及通过微调将强大的通用 models 与proprietary行业特定数据相结合。
 
-**Tactical advice:**
-- Identify non-public data that can be used for fine-tuning
-- Develop custom benchmarks to measure performance on specific use cases
+**战术建议：**
+- 识别可用于微调的非公开数据
+- 开发自定义基准来衡量特定用例的性能
 
-*Timestamp: 00:23:58*
+*时间戳：00:23:58*
 
 ---
 
 > "We use ensembles of models much more internally than people might think... If we have 10 different problems, we might solve them using 20 different model calls, some of which are using specialized fine-tuned models... You want to break the problem down into more specific tasks versus some broader set of high level tasks."
 
-**Insight:** Complex AI products should be built as ensembles of specialized, fine-tuned models rather than a single generic model call.
+**洞察：** 复杂的 AI 产品应构建为专门的、经过微调的 models 的整体，而不是单个通用的 model 调用。
 
-**Tactical advice:**
-- Break down broad problems into specific sub-tasks
-- Use different model sizes (e.g., 4o vs 4o mini) based on latency and cost needs for each sub-task
+**战术建议：**
+- 将广泛的问题分解为具体的子任务
+- 根据每个子任务的延迟和成本需求，使用不同的 model 大小（例如 4o 与 4o mini）
 
-*Timestamp: 01:00:32*
+*时间戳：01:00:32*
 
 
 ## Luc Levesque
@@ -1259,13 +1259,13 @@
 
 > "What we're about to see is basically Google... showed a big box on top of the search results that answers the query directly... how do you optimize in a world where it's not so much about optimizing for the platform, but teaching the AI what you do and why you're the best in the world at it."
 
-**Insight:** Generative AI in search engines shifts the strategy from keyword optimization to 'teaching' the AI to recommend your brand.
+**洞察：** 搜索引擎中的生成式 AI 将策略从关键字优化转移到 'teaching' 和 AI 来推荐你的品牌。
 
-**Tactical advice:**
-- Identify 'informational' keywords at risk of being cannibalized by AI search summaries
-- Shift focus toward 'transactional' intent where users still need to click through to complete an action
+**战术建议：**
+- 识别有被 AI 搜索摘要蚕食风险的 'informational' 关键字
+- 将焦点转向 'transactional' 意图，用户仍然需要单击才能完成操作
 
-*Timestamp: 00:52:42*
+*时间戳：00:52:42*
 
 
 ## Madhavan Ramanujam
@@ -1273,25 +1273,25 @@
 
 > "AI pricing is very different from the previous vintage of companies... we have moved from software being a pay for access to now you're paying for work delivered. So the monetization model's become key."
 
-**Insight:** AI shifts the value proposition from providing a tool (access) to providing the result (work), requiring a fundamental change in pricing models.
+**洞察：** AI 将价值主张从提供工具（访问）转变为提供结果（工作），从而需要对 models 的定价进行根本性改变。
 
-**Tactical advice:**
-- Focus on 'pay for work delivered' rather than 'pay for access'
-- Solve the 'attribution problem' by showing exactly how the AI impacts customer KPIs
+**战术建议：**
+- 关注 'pay for work delivered' 而不是 'pay for access'
+- 通过准确展示 AI 如何影响客户 KPI 来解决 'attribution problem'
 
-*Timestamp: 00:27:51*
+*时间戳：00:27:51*
 
 ---
 
 > "What that would mean is, how do I build functionality in the products to actually show attribution, how do I build more agentic workforces to take the human out of the loop and be more autonomous, and being thoughtful about your vision and strategy so that you will orient yourself towards more outcome-based pricing models."
 
-**Insight:** AI strategy should focus on increasing product autonomy and building features that explicitly track and display value attribution.
+**洞察：** AI 策略应侧重于提高产品自主性和构建明确跟踪和显示价值归因的功能。
 
-**Tactical advice:**
-- Build dashboards that showcase value attribution to customer KPIs
-- Develop agentic capabilities to move from 'copilot' to 'autonomous' mode
+**战术建议：**
+- 构建展示客户 KPI 价值归属的仪表板
+- 开发 agentic 功能以从 'copilot' 迁移到 'autonomous' 模式
 
-*Timestamp: 00:46:05*
+*时间戳：00:46:05*
 
 
 ## Logan Kilpatrick
@@ -1299,49 +1299,49 @@
 
 > "I'm really, really excited to see more people. I think 2024 is the year of multimodal AI, but it's also the year that people really push the boundaries of some of these new UX paradigms around AI."
 
-**Insight:** The next phase of AI product development will move beyond chat interfaces into multimodal and new UX paradigms like infinite canvases.
+**洞察：** AI 产品开发的下一阶段将超越聊天界面，进入多模式和新的 UX 范例，例如无限画布。
 
-**Tactical advice:**
-- Explore interfaces like 'infinite canvases' where AI can populate details, files, and videos in a non-linear format.
-- Look beyond the predominant chat interface to find more human-centric ways of interacting with data.
+**战术建议：**
+- 探索 'infinite canvases' 等接口，其中 AI 可以以非线性格式填充详细信息、文件和视频。
+- 超越主流的聊天界面，寻找更多以人为本的数据交互方式。
 
-*Timestamp: 00:09:30*
+*时间戳：00:09:30*
 
 ---
 
 > "I think GPTs is our first step towards the agent future. Again, today when you use A GPT, it's really you send a message, you get an answer back almost right away... I think as GPTs continue to get more robust, you'll actually be able to say, 'Hey, go and do this thing and just let me know when you're done.'"
 
-**Insight:** AI strategy is shifting from immediate chat responses to 'agents' that can perform asynchronous, complex tasks.
+**洞察：** AI 策略正在从即时聊天响应转向可以执行异步复杂任务的 'agents'。
 
-**Tactical advice:**
-- Design products that allow users to delegate tasks to the AI and receive notification upon completion rather than requiring active waiting.
-- Build for a future where AI spends more 'thought time' on meaningful requests.
+**战术建议：**
+- 设计允许用户将任务委派给 AI 并在完成后收到通知而不需要主动等待的产品。
+- 为 AI 在有意义的请求上花费更多 'thought time' 的未来而构建。
 
-*Timestamp: 00:45:48*
+*时间戳：00:45:48*
 
 ---
 
 > "I heard from a friend that there's kind of this tip that when you're building products today, you should build towards a GPT-5 future, not based on limitations of GPT-4 today."
 
-**Insight:** Product roadmaps should be designed for the predicted capabilities of future models rather than being constrained by current model limitations.
+**洞察：** 产品路线图应针对未来 models 的预测功能进行设计，而不是受当前 model 限制的约束。
 
-**Tactical advice:**
-- Assume future models will be faster, smarter, and solve higher echelons of problems.
-- Plan for a world where AI tools become 'normal' and integrated very quickly rather than assuming they will remain a novelty.
+**战术建议：**
+- 假设未来的 models 将更快、更智能，并解决更高层次的问题。
+- 规划一个 AI 工具变成 'normal' 并快速集成的世界，而不是假设它们仍然是新鲜事物。
 
-*Timestamp: 00:48:22*
+*时间戳：00:48:22*
 
 ---
 
 > "I think products that move beyond this chat interface really are going to have such an advantage. And also, thinking about how to take your use case to the next level... What I really want is just ask my question... Get an answer to that question in a very data grounded way."
 
-**Insight:** The biggest opportunity for AI products is replacing complex dashboards and filters with direct, data-grounded natural language answers.
+**洞察：** AI 产品的最大机会是用直接的、基于数据的natural language答案取代复杂的仪表板和过滤器。
 
-**Tactical advice:**
-- Identify areas where users currently navigate complex UI filters and replace them with a single natural language query.
-- Focus on providing a summary of 'what is happening' in the data rather than just showing raw examples.
+**战术建议：**
+- 确定用户当前导航复杂 UI 过滤器的区域，并将其替换为单个natural language查询。
+- 重点提供数据中 'what is happening' 的摘要，而不仅仅是显示原始示例。
 
-*Timestamp: 00:55:34*
+*时间戳：00:55:34*
 
 
 ## Marc Benioff
@@ -1349,25 +1349,25 @@
 
 > "AI is the defining technology of our lifetime and probably any lifetime."
 
-**Insight:** AI is not just a feature but a foundational shift that requires a complete re-evaluation of product direction.
+**洞察：** AI 不仅仅是一项功能，而且是一项根本性转变，需要对产品方向进行彻底的重新 eval 调整。
 
-**Tactical advice:**
-- Treat AI as the primary lens for all future product development
+**战术建议：**
+- 将 AI 作为未来所有产品开发的主要镜头
 
-*Timestamp: 36:33*
+*时间戳：36:33*
 
 ---
 
 > "Step one was we had to automate all these customer touch points... step three is the agentic platform on top of that. Then, the fourth layer that will come will be the robotic drone layer where those robots and drones will then feed off of the platform and all of these capabilities."
 
-**Insight:** AI product evolution follows a specific sequence: automation of touchpoints, data aggregation, agentic layers, and finally physical robotics.
+**洞察：** AI 产品的演变遵循特定的顺序：接触点自动化、数据聚合、agentic 层，最后是物理机器人。
 
-**Tactical advice:**
-- Automate customer touchpoints first to create a baseline of interaction
-- Aggregate all interaction data into a unified 'Data Cloud'
-- Build an 'agentic' layer on top of the data to handle autonomous tasks
+**战术建议：**
+- 首先自动化客户接触点以创建交互基线
+- 将所有交互数据聚合到统一的'Data Cloud'中
+- 在数据之上构建 'agentic' 层来处理自主任务
 
-*Timestamp: 37:18*
+*时间戳：37:18*
 
 
 ## Marily Nika
@@ -1375,37 +1375,37 @@
 
 > "I believe that ballpark managers will be AI product managers in the future. And this is because we see all products needing to have a personalized experience, a recommender system that is actually good."
 
-**Insight:** AI will become the default for product management as personalization and automation become standard requirements.
+**洞察：** 随着个性化和自动化成为标准要求，AI 将成为产品管理的默认选择。
 
-**Tactical advice:**
-- Anticipate that every product will eventually require a personalized experience or recommender system.
-- Prepare for a future where 'AI PM' and 'Generalist PM' roles merge.
+**战术建议：**
+- 预计每个产品最终都需要个性化的体验或推荐系统。
+- 为 'AI PM' 和 'Generalist PM' 角色合并的未来做好准备。
 
-*Timestamp: 00:08:39*
+*时间戳：00:08:39*
 
 ---
 
 > "Don't do it for your MVP. It makes zero sense. Do not waste time of data scientists that can train models with using powerful machines that are going take weeks to train. This is because if you have an MVP and you just want to get buy-in for an idea or feature that may use AI in the future, take it, create a little figma prototype and just show it some users, just fake what the AI is going to be doing."
 
-**Insight:** Avoid using actual AI for MVPs; instead, use low-fidelity prototypes to 'fake' the AI functionality and validate the market first.
+**洞察：** 避免将实际的 AI 用于 MVP；相反，使用低保真原型来实现 'fake' AI 功能并首先验证市场。
 
-**Tactical advice:**
-- Use Figma prototypes to simulate AI features for initial user testing.
-- Only invest in training models once you have validated the problem and have sufficient data.
+**战术建议：**
+- 使用 Figma 原型模拟 AI 功能以进行初始用户测试。
+- 只有在验证了问题并拥有足够的数据后，才投资培训 models。
 
-*Timestamp: 00:14:42*
+*时间戳：00:14:42*
 
 ---
 
 > "AI product development is different. As I mentioned before, sometimes you're actually managing the problem and not the product and you're trying to secure out if there is a problem that makes sense to be answered by a smart solution."
 
-**Insight:** AI PMing involves managing high levels of uncertainty and focusing on problem-solution fit rather than just feature delivery.
+**洞察：** AI PMing 涉及管理高度的不确定性并关注问题解决方案的契合度而不仅仅是功能交付。
 
-**Tactical advice:**
-- Clarify with leadership that progress in AI/Research may not always result in a launch.
-- Be prepared to pivot or shut down projects if the model results don't meet the hypothesis.
+**战术建议：**
+- 向领导层澄清，AI/ 研究的进展可能并不总是导致发布。
+- 如果 model 结果不符合假设，请准备好调整或关闭项目。
 
-*Timestamp: 00:28:02*
+*时间戳：00:28:02*
 
 
 ## Marty Cagan
@@ -1413,13 +1413,13 @@
 
 > "I've been on so many of these calls where we've been talking about the implications of probabilistic software versus deterministic software and what is okay? The lawyers are weighing in already with the legal perspective, but also ethical perspective and just if this is mission critical, is this something that we could be okay with having a probabilistic answer?"
 
-**Insight:** AI shifts the PM's focus toward the viability and ethical implications of probabilistic software outcomes.
+**洞察：** AI 将 PM 的重点转向概率软件结果的可行性和道德影响。
 
-**Tactical advice:**
-- Evaluate the risks of using probabilistic AI answers in mission-critical features.
-- Involve legal and ethical perspectives early when defining AI product strategy.
+**战术建议：**
+- 评估在关键任务功能中使用概率性 AI 答案的风险。
+- 在定义 AI product strategy时尽早考虑法律和道德观点。
 
-*Timestamp: 00:53:45*
+*时间戳：00:53:45*
 
 
 ## Matt MacInnis
@@ -1427,13 +1427,13 @@
 
 > "Point solutions don't have enough data in the age of AI to be useful. You got to be able to provide the AI with a lot of context about a lot of data so it can do things. It can do joins. It can do correlations."
 
-**Insight:** AI value is moving toward platforms with broad, first-party data sets rather than isolated point solutions.
+**洞察：** AI 的价值正在转向具有广泛的第一方数据集的平台，而不是孤立的点解决方案。
 
-**Tactical advice:**
-- Focus on building a 'common business data graph' to give AI the context it needs to be useful.
-- Avoid building AI point solutions that rely on 'drinking data through a straw' via limited integrations.
+**战术建议：**
+- 专注于构建 'common business data graph'，为 AI 提供有用的上下文。
+- 避免通过有限的集成构建依赖于 'drinking data through a straw' 的 AI 点解决方案。
 
-*Timestamp: 01:18:49*
+*时间戳：01:18:49*
 
 
 ## Matt Mullenweg
@@ -1441,25 +1441,25 @@
 
 > "Llama, you can obviously download and run locally and all these sorts of things, right? You don't have to use their SaaS service. However, there's a clause in it that says if you're above a certain threshold of monthly active users... You need a license from them. And so that does not give you the freedom to use the software for any purpose."
 
-**Insight:** True open-source AI strategy requires the freedom to use models for any purpose without arbitrary user-count restrictions that create vendor lock-in.
+**洞察：** 真正的开源 AI 策略要求可以自由地将 models 用于任何目的，而不会造成供应商锁定的任意用户数量限制。
 
-**Tactical advice:**
-- Audit AI model licenses for 'user threshold' clauses that might restrict future growth
-- Distinguish between 'open weights' and true 'open source' when selecting foundational models
+**战术建议：**
+- 审核 AI model 许可证中可能限制未来增长的 'user threshold' 条款
+- 选择基础型 models 时区分 'open weights' 和真正的 'open source'
 
-*Timestamp: 00:23:52*
+*时间戳：00:23:52*
 
 ---
 
 > "But I can't wait for more automated scanning there, and I think that could vastly upgrade the security of open source. The other thing that's really exciting is right now you see people building apps and stuff and it's just sort of custom generated code, but I think the next generation of these models... is when the open source models you say like, 'Hey, build me a website.' It actually installs WordPress, and then builds on top of that."
 
-**Insight:** The future of AI-assisted development lies in agents that build on top of established open-source engines rather than generating entirely custom, unmaintained codebases.
+**洞察：** AI 辅助开发的未来在于 agents，它构建在已建立的开源引擎之上，而不是生成完全自定义的、未维护的代码库。
 
-**Tactical advice:**
-- Use AI to automate security scanning of third-party plugins and extensions
-- Direct AI agents to build on top of audited open-source platforms to ensure long-term maintainability
+**战术建议：**
+- 使用 AI 自动对第三方插件和扩展进行安全扫描
+- 直接 AI agents 构建在经过审核的开源平台之上，以确保长期可维护性
 
-*Timestamp: 00:32:03*
+*时间戳：00:32:03*
 
 
 ## Mayur Kamat
@@ -1467,14 +1467,14 @@
 
 > "At a company level, there is an incredible set of advancements across these three areas: developer productivity, customer support, and fraud."
 
-**Insight:** The most immediate and massive ROI for AI in enterprise is in coding efficiency, support automation, and pattern-based fraud detection.
+**洞察：** ROI 对于 AI 在企业中最直接、最大规模的是编码效率、支持自动化和基于模式的欺诈检测。
 
-**Tactical advice:**
-- Deploy AI co-pilots to achieve a 20-25% boost in developer productivity.
-- Use LLMs to automate the 'bottom 70%' of customer support queries.
-- Apply AI to detect language and transaction patterns in fraudsters.
+**战术建议：**
+- 部署 AI co-pilot 可将开发人员的工作效率提高 20-25%。
+- 使用 LLMs 自动执行 'bottom 70%' 客户支持查询。
+- 应用 AI 检测欺诈者的语言和交易模式。
 
-*Timestamp: 01:16:58*
+*时间戳：01:16:58*
 
 
 ## Melanie Perkins
@@ -1482,13 +1482,13 @@
 
 > "I think being able to integrate it into the product where it actually helps people to get their work done where it genuinely helps them to achieve their goals... AI is just kind of naturally a very critical part of that equation for us."
 
-**Insight:** AI should be embedded directly into existing user workflows to reduce friction between an idea and its execution.
+**洞察：** AI 应直接嵌入到现有的用户工作流程中，以减少想法与其执行之间的摩擦。
 
-**Tactical advice:**
-- Embed AI tools directly into the core editor or 'elements' tabs where users already work
-- Prioritize AI features that solve specific user requests (e.g., safety controls for teachers)
+**战术建议：**
+- 将 AI 工具直接嵌入到用户已经工作的核心编辑器或 'elements' 选项卡中
+- 优先考虑解决特定用户请求的 AI 功能（例如教师的安全控制）
 
-*Timestamp: 00:52:56*
+*时间戳：00:52:56*
 
 
 ## Michael Truell
@@ -1496,25 +1496,25 @@
 
 > "At this point, every magic moment in Cursor involves a custom model in some way... picking your spots carefully, not trying to reinvent the wheel, not trying to focus on places, and maybe where the best foundation models are excellent, but instead kind of focusing on their weaknesses, and how you can complement them."
 
-**Insight:** To create 'magic moments' in AI products, developers should use an ensemble of models, combining large foundation models with smaller, specialized custom models for specific tasks.
+**洞察：** 要在 AI 产品中创建 'magic moments'，开发人员应使用 models 的集合，将大型基础 models 与用于特定任务的小型专用定制 models 相结合。
 
-**Tactical advice:**
-- Use custom models for tasks requiring high speed (e.g., <300ms) or low cost.
-- Focus custom model development on the weaknesses of foundation models rather than trying to replicate their general intelligence.
+**战术建议：**
+- 使用定制 models 来执行需要高速（例如 <300ms）或低成本的任务。
+- 将定制 model 开发的重点放在基础 models 的弱点上，而不是试图复制其一般智能。
 
-*Timestamp: 00:33:18*
+*时间戳：00:33:18*
 
 ---
 
 > "We take the sketches of the changes that these models are suggesting, you make with that code base. And then we have models that then fill in the details of, the high level thinking is done by the smartest models, they spend a few tokens on doing that, and then these smaller specialty incredibly fast models, coupled with some inference tricks, then take those high level changes and turn them actually into full code diffs."
 
-**Insight:** An 'ensemble' approach—using smart models for reasoning and fast models for execution—optimizes for both quality and performance.
+**洞察：** 'ensemble' 方法（使用智能 models 进行推理并使用快速 models 进行执行）优化了质量和性能。
 
-**Tactical advice:**
-- Use high-reasoning models (like Sonnet or GPT-4) for high-level 'sketches' of work.
-- Use smaller, faster models to fill in the technical details and generate final outputs.
+**战术建议：**
+- 使用高推理 models（如 Sonnet 或 GPT-4）进行高级 'sketches' 工作。
+- 使用更小、更快的 models 填写技术细节并生成最终输出。
 
-*Timestamp: 00:37:02*
+*时间戳：00:37:02*
 
 
 ## Mihika Kapoor
@@ -1522,14 +1522,14 @@
 
 > "I think that the key to being successful at zero-to-one is to honestly have optimism that borders on delusion. You need to be insane, almost like reality distortion field where you don't hear the word no, or at the very least, you translate it into a not yet."
 
-**Insight:** Leading zero-to-one AI initiatives requires a 'keeper of the flame' mentality to maintain momentum through the ambiguity of early development.
+**洞察：** 领导从零到一的 AI 计划需要 'keeper of the flame' 心态，以在早期开发的模糊性中保持势头。
 
-**Tactical advice:**
-- Focus on 'black-boxification'—making AI outputs interactive and manipulatable rather than static
-- Look for distribution or platform advantages when deciding whether to build inside an existing company
-- Use hackathons to rapidly prototype and secure initial buy-in for ambitious new product directions
+**战术建议：**
+- 专注于'black-boxification'——使 AI 输出具有交互性和可操作性，而不是静态的
+- 在决定是否在现有公司内部建立时寻找分销或平台优势
+- 利用黑客马拉松快速制作原型并确保雄心勃勃的新产品方向获得初步支持
 
-*Timestamp: 01:23:12*
+*时间戳：01:23:12*
 
 
 ## Mike Krieger
@@ -1537,37 +1537,37 @@
 
 > "The functional unit of work at Anthropic is no longer take the model and then go work with design and product to go ship a product. It's more like we are in the post-training conversations around how these things should work and then we are in the building process and we're feeding those things back and looping them back."
 
-**Insight:** The most effective AI product development happens when product teams are embedded in the post-training and research process rather than just building UX on top of finished models.
+**洞察：** 当产品团队融入后期培训和研究流程而不是仅仅在成品 models 之上构建 UX 时，最有效的 AI 产品开发就会发生。
 
-**Tactical advice:**
-- Embed product managers directly with researchers during the fine-tuning and post-training phases.
-- Focus on the intersection of model capabilities and product experience rather than just prompting off-the-shelf models.
+**战术建议：**
+- 在微调和培训后阶段，让产品经理直接与研究人员一起工作。
+- 重点关注 model 功能和产品体验的交集，而不仅仅是 prompting 现成的 models。
 
-*Timestamp: 00:23:07*
+*时间戳：00:23:07*
 
 ---
 
 > "I think there's still a lot of value in two things. One is making this all comprehensible... Two is... strategy, how we win, where we'll play... And then the third one is opening people's eyes to what's possible, which is a continuation of making it understandable."
 
-**Insight:** Product teams provide unique value in AI through strategy, making complex capabilities comprehensible, and demonstrating the 'art of the possible' to users.
+**洞察：** 产品团队通过策略为 AI 提供独特的价值，使复杂的功能变得易于理解，并向用户展示'art of the possible'。
 
-**Tactical advice:**
-- Focus on reducing the 'overhang'—the gap between what models can do and how users actually use them.
-- Prioritize empathy and human psychology to make AI capabilities understandable for non-technical users.
+**战术建议：**
+- 专注于缩小 'overhang'——models 的功能与用户实际使用方式之间的差距。
+- 优先考虑同理心和人类心理学，使非技术用户能够理解 AI 的功能。
 
-*Timestamp: 00:24:42*
+*时间戳：00:24:42*
 
 ---
 
 > "I think things that are going to, I can't promise this as a five to 10 year thing, but at least one to three years, things that feel defensible or durable. One is understanding of a particular market... Two was paired with that is differentiated go to market... Then the last one is... a completely different take on what the form factor is by which we interface with AI."
 
-**Insight:** Defensibility for AI startups comes from deep vertical market knowledge, specialized go-to-market relationships, or radical new interface form factors.
+**洞察：** AI 初创公司的防御力来自于深厚的垂直市场知识、专门的市场关系或全新的界面形式因素。
 
-**Tactical advice:**
-- Build products for specific industries (e.g., legal, biotech) with complex compliance or workflow needs.
-- Experiment with 'weird' or power-user form factors that incumbents are too slow to adopt.
+**战术建议：**
+- 为具有复杂合规性或工作流程需求的特定行业（例如法律、生物技术）构建产品。
+- 尝试 'weird' 或高级用户外形规格，现有企业采用这些外形规格的速度太慢。
 
-*Timestamp: 00:47:51*
+*时间戳：00:47:51*
 
 
 ## Naomi Ionita
@@ -1575,12 +1575,12 @@
 
 > "I think what I described around marketing and sales, just because they really touch the dollars. It can be this ROI story around saving time, but also driving revenue. There'll be plenty of really effective examples within things like customer support. I mean the cost savings potential. There's going to be massive."
 
-**Insight:** AI strategy should focus on high-ROI areas like sales, marketing, and support where automation directly impacts the bottom line.
+**洞察：** AI 策略应重点关注高 ROI 领域，例如销售、营销和支持，自动化直接影响利润。
 
-**Tactical advice:**
-- Focus AI implementation on revenue-generating or high-cost-saving functions like SDR outbounding or customer support
+**战术建议：**
+- 将 AI 实施重点放在创收或高成本节约功能上，例如 SDR 出站或客户支持
 
-*Timestamp: 48:48*
+*时间戳：48:48*
 
 
 ## Nick Turley
@@ -1588,61 +1588,61 @@
 
 > "I've never ever worked on a product that is so empirical in its nature where, if you don't stop, and watch, and listen to what people are doing, you're going to miss so much, both on the utility and on the risks, actually. Because normally, by the time you ship a product, you know what it's going to do... And with AI, because I think so much of it is emergent, you actually really need to stop and listen after you launch something."
 
-**Insight:** AI product development requires an empirical approach because capabilities and risks are emergent rather than pre-defined.
+**洞察：** AI 产品开发需要采用实证方法，因为功能和风险是自然出现的而不是预先定义的。
 
-**Tactical advice:**
-- Observe user behavior post-launch to identify emergent utility and risks
-- Iterate on the model based on real-world use cases rather than a priori reasoning
+**战术建议：**
+- 观察发布后的user behavior，以识别紧急效用和风险
+- 根据现实用例而不是先验推理迭代 model
 
-*Timestamp: 00:19:14*
+*时间戳：00:19:14*
 
 ---
 
 > "One thing we've learned with ChatGPT is that there really is no distinction between the model and the product. The model is the product and therefore you need to iterate on it like a product."
 
-**Insight:** In AI applications, the model and the interface are inseparable, requiring the model itself to be managed with a product mindset.
+**洞察：** 在 AI 应用中，model 和接口密不可分，需要 model 本身以产品思维进行管理。
 
-**Tactical advice:**
-- Systematically improve the model for specific high-value use cases like coding or writing
-- Treat 'vibes' and personality as product features to be tuned
+**战术建议：**
+- 针对特定的高价值用例（例如编码或写作）系统地改进 model
+- 把'vibes'和个性当作产品特性来调教
 
-*Timestamp: 00:29:18*
+*时间戳：00:29:18*
 
 ---
 
 > "I think that in the original release, making it free was a big deal... making it free and putting a nice UI on it, very consequential in the way that you take for granted now. And this is why I think that A, distribution and the interface are continuously important even in 2025."
 
-**Insight:** Lowering friction through free access and a clean UI is critical for the mass adoption of complex AI technology.
+**洞察：** 通过免费访问和简洁的 UI 来降低摩擦对于复杂 AI 技术的大规模采用至关重要。
 
-**Tactical advice:**
-- Prioritize removing friction (like login requirements) to drive growth
-- Use a free tier to gather the massive data needed for model iteration
+**战术建议：**
+- 优先考虑消除摩擦（例如登录要求）以推动增长
+- 使用免费套餐收集 model 迭代所需的海量数据
 
-*Timestamp: 00:37:34*
+*时间戳：00:37:34*
 
 ---
 
 > "If we're shipping a feature and it doesn't get 2X better as the model gets 2X smarter, it's probably not a feature we should be shipping."
 
-**Insight:** A key litmus test for AI features is whether they scale proportionally with the underlying model's intelligence.
+**洞察：** AI 功能的一个关键试金石是它们是否与底层 model 的智能成比例地扩展。
 
-**Tactical advice:**
-- Evaluate features based on their ability to benefit from future model intelligence gains
-- Focus on 'interdisciplinary' development where research and product goals align
+**战术建议：**
+- 根据功能从未来 model 智能增益中受益的能力来评估功能
+- 专注于 'interdisciplinary' 开发，使研究和产品目标保持一致
 
-*Timestamp: 01:04:23*
+*时间戳：01:04:23*
 
 ---
 
 > "I started writing evals before I knew what an eval was because I was just outlining very clearly specified ideal behavior for various use cases... it might be the lingua franca of how to communicate what the product should be doing to people who do AI research."
 
-**Insight:** Writing evaluations (evals) is the primary way for product managers to communicate desired behavior to AI researchers.
+**洞察：** 编写 evaluations (evals) 是产品经理向 AI 研究人员传达所需行为的主要方式。
 
-**Tactical advice:**
-- Articulate success by outlining ideal model behaviors for specific use cases
-- Use evals as a bridge between product requirements and technical research
+**战术建议：**
+- 通过概述特定用例的理想 model 行为来阐明成功
+- 使用 evals 作为产品需求和技术研究之间的桥梁
 
-*Timestamp: 01:14:41*
+*时间戳：01:14:41*
 
 
 ## Nicole Forsgren
@@ -1650,25 +1650,25 @@
 
 > "People really fundamentally shift the way they work when they work with an AI-enabled tool... you spend more time reviewing code than writing code... we've changed what your mental model is. So we've changed the friction model that you expect. We've changed the cognitive load of what you expect."
 
-**Insight:** AI tools shift the primary developer activity from creation to review, fundamentally changing the cognitive load and mental models required for the job.
+**洞察：** AI 工具将主要的开发人员活动从创建转变为审查，从根本上改变了工作所需的认知负荷和心理 models。
 
-**Tactical advice:**
-- Evaluate AI tools based on how they free up cognitive space for harder tasks rather than just time saved on simple tasks.
-- Consider new dimensions of productivity like 'trust' and 'reliability' when integrating AI into the workflow.
+**战术建议：**
+- 根据 AI 工具如何为更困难的任务释放认知空间，而不仅仅是在简单任务上节省时间来评估 AI 工具。
+- 将 AI 集成到工作流程时，请考虑 'trust' 和 'reliability' 等新的生产力维度。
 
-*Timestamp: 00:51:04*
+*时间戳：00:51:04*
 
 ---
 
 > "I think there are a lot of ways that we can pull in AI tools to help us refine our strategy, refine our message, think about the experimentation methods or targets of experimentation... because now, the engineering can go, or at least the prototyping especially, much, much faster. We can throw out prototypes. We can run any tests and experiments that are customer facing"
 
-**Insight:** AI accelerates the strategy-to-execution loop by enabling rapid prototyping and faster customer experimentation.
+**洞察：** AI 通过实现快速原型设计和更快的客户实验来加速策略到执行的循环。
 
-**Tactical advice:**
-- Use AI to rapidly generate and test multiple strategic alternatives or prototypes.
-- Shorten the feedback loop from idea to production experiment to under a week using AI acceleration.
+**战术建议：**
+- 使用 AI 快速生成和测试多个战略替代方案或原型。
+- 使用 AI 加速，将从创意到生产实验的反馈周期缩短至不到一周。
 
-*Timestamp: 00:30:26*
+*时间戳：00:30:26*
 
 
 ## Noah Weiss
@@ -1676,25 +1676,25 @@
 
 > "One of the big ones, was that the promise of the UI has to match the quality of the underlying data, which is to say... I think this is actually one of the failings of the various LMs right now is they all appear supremely confident even when they're completely hallucinating. I think that's going to be something that people are going to have to work on a lot, which is to figure out how to be not so faultless, to acknowledge when you're not sure."
 
-**Insight:** Ensure the user interface's confidence level matches the actual accuracy of the underlying AI data to maintain user trust.
+**洞察：** 确保用户界面的置信度与底层 AI 数据的实际准确性相匹配，以维护用户的信任。
 
-**Tactical advice:**
-- Acknowledge uncertainty in AI responses rather than appearing 'supremely confident' when hallucinating.
-- Provide transparency about where data comes from to build credibility.
+**战术建议：**
+- 承认 AI 响应的不确定性，而不是在出现幻觉时出现 'supremely confident'。
+- 提供数据来源的透明度以建立可信度。
 
-*Timestamp: 00:21:42*
+*时间戳：00:21:42*
 
 ---
 
 > "What we want to do is actually spin up a couple different teams that are focused on prototyping, using that common infrastructure but in specific directions that are all a little bit different. We've got a common ML, let's say in search team and now we have a bunch of teams that are working in parallel and different customer problems that we're trying to solve using that shared infrastructure."
 
-**Insight:** Organize AI development by having a central infrastructure/ML team supporting multiple ad-hoc prototyping teams focused on specific customer problems.
+**洞察：** 通过拥有一个中央基础设施/ML 团队来支持多个专注于特定客户问题的临时原型团队来组织 AI 开发。
 
-**Tactical advice:**
-- Use a hybrid model: central ML infrastructure + decentralized prototyping teams.
-- Give AI prototyping teams a 'get out of jail free card' from normal quarterly planning to increase learning velocity.
+**战术建议：**
+- 使用混合 model：中央 ML 基础设施 + 分散式原型设计团队。
+- 从正常的季度计划中为 AI 原型设计团队提供 'get out of jail free card'，以提高学习速度。
 
-*Timestamp: 00:25:42*
+*时间戳：00:25:42*
 
 
 ## Noam Lovinsky
@@ -1702,13 +1702,13 @@
 
 > "Grammarly is one of the few products where you just install it and it makes you better. You don't have to configure it, you don't have to manipulate it, you don't have to change anything about what you're doing. ... essentially it's like a huge AI achievement masquerading as a little UX innovation."
 
-**Insight:** Successful AI products should focus on 'meeting the user where they are' with zero-configuration value that integrates into existing workflows.
+**洞察：** 成功的 AI 产品应重点关注具有零配置价值、可集成到现有工作流程中的 'meeting the user where they are'。
 
-**Tactical advice:**
-- Design AI features that integrate into existing workflows rather than requiring new ones
-- Focus on 'invisible' AI that provides value without complex prompting or setup
+**战术建议：**
+- 设计可集成到现有工作流程而不是需要新工作流程的 AI 功能
+- 专注于 'invisible' AI，无需复杂的 prompting 或设置即可提供价值
 
-*Timestamp: 00:52:14*
+*时间戳：00:52:14*
 
 
 ## Paul Adams
@@ -1716,36 +1716,36 @@
 
 > "I'd start with the thing your product does. "What's the core premise behind it? Why do people use it? What problem does it solve for them?" That kind of thing. So, go back to basics. And then ask, "Can AI do that?" And for a lot, the answer is going to be, "Yes, it can.""
 
-**Insight:** Evaluate AI integration by mapping the core product premise and customer problems against current AI capabilities.
+**洞察：** 通过根据当前 AI 功能映射核心产品前提和客户问题来评估 AI 集成。
 
-**Tactical advice:**
-- Identify the core problem your product solves.
-- Determine if AI can replace the current solution or merely augment it.
+**战术建议：**
+- 确定你的产品解决的核心问题。
+- 确定 AI 是否可以取代当前解决方案或仅对其进行增强。
 
-*Timestamp: 00:00:14*
+*时间戳：00:00:14*
 
 ---
 
 > "You're going to need to map what your product does against what AI can do... for some of it'll be replacement. AI would replace, it'll just do it. And, in other places, it'll be augmentation. It'll augment. It'll help people."
 
-**Insight:** AI strategy involves deciding whether the technology will fundamentally replace a workflow or act as a 'copilot' to assist users.
+**洞察：** AI 策略涉及决定该技术是从根本上取代工作流程还是充当 'copilot' 来帮助用户。
 
-**Tactical advice:**
-- Map product features against AI's ability to write, summarize, reason, and take actions.
+**战术建议：**
+- 根据 AI 的编写、总结、推理和采取行动的能力映射产品功能。
 
-*Timestamp: 00:22:07*
+*时间戳：00:22:07*
 
 ---
 
 > "Don't bolt it on. I think some people are still in that camp... Don't be like, "Oh, we'll have a bunch of AI people..." And we do have some specialists. But generally speaking, we're trying to have everyone learn about it."
 
-**Insight:** Avoid siloing AI into a separate team; instead, integrate AI knowledge across the entire product organization.
+**洞察：** 避免将 AI 孤立到一个单独的团队中；相反，将 AI 知识集成到整个产品组织中。
 
-**Tactical advice:**
-- Encourage generalist PMs and engineers to learn AI interfaces and frameworks.
-- Avoid creating a 'side team' that only adds AI features to existing products.
+**战术建议：**
+- 鼓励通才 PMs 和工程师学习 AI 接口和框架。
+- 避免创建仅向现有产品添加 AI 功能的 'side team'。
 
-*Timestamp: 00:37:08*
+*时间戳：00:37:08*
 
 
 ## Ramesh Johari
@@ -1753,23 +1753,23 @@
 
 > "Predicting is about picking up patterns, but making decisions, it's about thinking about these differences... the first and most important thing that I feel very strongly about in what would I get a data scientist to do is... get them to be thinking in the back of their mind always that their goal is to help the business make decisions. And that the distinction between causation and correlation matters a lot."
 
-**Insight:** The highest leverage for data science in product is moving from simple prediction (correlation) to causal inference that informs business decisions.
+**洞察：** 数据科学在产品中的最高杠杆作用是从简单的预测（相关性）转向为业务决策提供信息的因果推理。
 
-**Tactical advice:**
-- Shift the data team's focus from building predictive models to identifying the causal impact of specific product changes.
+**战术建议：**
+- 将数据团队的重点从构建预测性 models 转移到识别特定产品变更的因果影响。
 
-*Timestamp: 00:33:21*
+*时间戳：00:33:21*
 
 ---
 
 > "What AI has done for us is it's massively expanded the frontier of things we could think about our problem, hypotheses we could have, maybe things we could test... I really think actually what that does is puts more pressure on the human, not less. I think it becomes more important for humans to be in the loop in interacting with these tools to drive the funneling down process of identifying what matters."
 
-**Insight:** AI expands the volume of possible hypotheses and creatives, making the human role of 'funneling' and prioritization more critical than ever.
+**洞察：** AI 扩大了可能的假设和创意的数量，使 'funneling' 的人类角色和优先级比以往任何时候都更加重要。
 
-**Tactical advice:**
-- Use AI to generate a vast array of testable hypotheses or creatives, but maintain human oversight to select which ones align with strategic goals.
+**战术建议：**
+- 使用 AI 生成大量可测试的假设或创意，但保持人工监督以选择与战略目标一致的假设或创意。
 
-*Timestamp: 01:09:35*
+*时间戳：01:09:35*
 
 
 ## Ravi Mehta
@@ -1777,13 +1777,13 @@
 
 > "I think one of the most interesting things about it is not AI as a replacement for people, but AI as a way to amplify people and make them more effective. And I think we'll see a lot of that in terms of both image generation and text generation where it's less about AI doing all the work and more about AI providing a really good starting point."
 
-**Insight:** AI's current primary value is as an 'amplifier' that provides a high-quality starting point for human experts to refine.
+**洞察：** AI's current primary value is as an 'amplifier”为人类专家的完善提供了高质量的起点。
 
-**Tactical advice:**
-- Use AI to generate initial drafts or suggestions (e.g., coaching feedback) that experts then tailor.
-- Experiment with different prompting styles (e.g., action-oriented vs. sympathetic) to simulate different personas or leadership styles.
+**战术建议：**
+- 使用 AI 生成初始草稿或建议（例如指导反馈），然后由专家进行定制。
+- 尝试不同的 prompting 风格（例如，行动导向与同情）来模拟不同的角色或领导风格。
 
-*Timestamp: 01:14:32*
+*时间戳：01:14:32*
 
 
 ## Rahul Vohra
@@ -1791,13 +1791,13 @@
 
 > "I think for me the biggest surprise has been how unpredictable the user love has been in terms of what they love and what they don't love... everything I thought would work out well, people use it less than they thought they did. And everything where I was like, 'I don't know, but let's build the thing,' people love that."
 
-**Insight:** AI product success is often counter-intuitive; simple features can drive massive engagement while complex ones may lag.
+**洞察：** AI 产品的成功往往是违反直觉的；简单的功能可以推动大规模的参与，而复杂的功能可能会滞后。
 
-**Tactical advice:**
-- Experiment with 'commodity' AI features like writing assistance, as they often have the highest utility.
-- Be prepared to pivot the AI roadmap based on actual usage data rather than founder intuition.
+**战术建议：**
+- 尝试使用 'commodity' AI 功能（例如书写辅助），因为它们通常具有最高的实用性。
+- 准备好根据实际使用数据而不是创始人的直觉来调整 AI 路线图。
 
-*Timestamp: 01:14:25*
+*时间戳：01:14:25*
 
 
 ## Roger Martin
@@ -1805,13 +1805,13 @@
 
 > "It is super hard when the guts of how you make money is under threat, and you just don't want that thing to go away... But my general advice is always the same, which is, it can take a while, but in the end the customers will triumph."
 
-**Insight:** AI strategy often forces a choice between protecting legacy revenue and following the 'tide' of customer preference.
+**洞察：** AI 策略通常会迫使你在保护传统收入和遵循客户偏好的 'tide' 之间做出选择。
 
-**Tactical advice:**
-- Identify where the 'customer tide' is moving, even if it threatens your current business model.
-- Avoid trying to 'hold back the tide' of new technology; instead, scramble to find how to serve customers in the new reality.
+**战术建议：**
+- 确定 'customer tide' 正在移动的位置，即使它威胁到你当前的业务 model。
+- 避免尝试'hold back the tide'新技术；相反，我们应该努力寻找如何在新的现实中为客户提供服务。
 
-*Timestamp: 01:06:14*
+*时间戳：01:06:14*
 
 
 ## Robby Stein
@@ -1819,25 +1819,25 @@
 
 > "AI is expansionary. There's actually just more and more questions being asked and curiosity that can be fulfilled now with AI."
 
-**Insight:** AI doesn't just replace existing search behavior; it expands the total volume of queries by enabling users to fulfill deeper curiosity.
+**洞察：** AI 不仅仅取代现有的搜索行为；它使用户能够满足更深层次的好奇心，从而扩大了查询总量。
 
-**Tactical advice:**
-- Identify use cases where users are currently 'hacking' your product (e.g., adding 'AI' to search queries) to find where AI can add value.
-- Focus AI features on expansionary moments rather than just replacing core foundational needs.
+**战术建议：**
+- 确定用户当前 'hacking' 你的产品的用例（例如，将 'AI' 添加到搜索查询），以查找 AI 可以在哪些方面增加价值。
+- 将 AI 功能重点放在扩展时刻，而不仅仅是取代核心基础需求。
 
-*Timestamp: 00:08:54*
+*时间戳：00:08:54*
 
 ---
 
 > "We wanted to be the best at informational needs, that's what's Google's all about, and so how does it find information? How does it know if information is right? How does it check its work? These are all things that we built into the model."
 
-**Insight:** Effective AI strategy involves specializing models for specific domains (like information retrieval) rather than just general-purpose chat.
+**洞察：** 有效的 AI 策略涉及将 models 专门用于特定领域（例如信息 retrieval），而不仅仅是通用聊天。
 
-**Tactical advice:**
-- Build 'check your work' mechanisms into models to ensure accuracy for informational tasks.
-- Use query fan-out to allow models to use search as a tool for real-time data retrieval.
+**战术建议：**
+- 将 'check your work' 机制构建到 models 中，以确保信息任务的准确性。
+- 使用查询扇出允许 models 使用搜索作为实时数据 retrieval 的工具。
 
-*Timestamp: 00:18:15*
+*时间戳：00:18:15*
 
 
 ## Ryan J. Salva
@@ -1845,25 +1845,25 @@
 
 > "We see it range anywhere from the upper twenties to the forties across all the different languages. ... AI is going to infuse pretty much our entire development stack in the not so distant future. Copilot is really just the very tip of the sphere for a lot of innovations and better managing maybe our build queues or helping to... Here's a great one. I don't know about you, but often the comments that I get with commit messages and PRs aren't super great. It puts a lot of effort onto the code reviewer to go figure out what the developer was actually trying to do. What if AI could summarize all of your changes with your full request and you just have to, as the contributing developer, just review it to make sure it's accurate, send it on its way, and you don't have to put in extra effort for that."
 
-**Insight:** AI should be viewed as an augmentative tool that removes rote drudgery (like summarizing PRs or writing boilerplate) to allow humans to focus on higher-level creative design.
+**洞察：** AI 应被视为一种增强工具，可以消除死记硬背的苦差事（例如总结 PR 或编写样板文件），从而使人们能够专注于更高级别的创意设计。
 
-**Tactical advice:**
-- Identify high-drudgery, low-creativity tasks in the workflow for AI automation
-- Position AI as an 'augmenter' rather than a 'replacer' to manage user expectations and anxiety
+**战术建议：**
+- 识别 AI 自动化工作流程中繁重、低创造力的任务
+- 将 AI 定位为 'augmenter' 而不是 'replacer'，以管理用户的期望和焦虑
 
-*Timestamp: 00:45:35*
+*时间戳：00:45:35*
 
 ---
 
 > "Our stance on it, what we ended up coming to is actually the framing of Copilot as an AI pair programmer i think is a useful one. ... Well, if Copilot is your AI pair programmer and they're whispering crazy stuff into your ear and they're bringing politics into it or gender identity into it or, I don't know, whatever other... They're spouting off slang and slander and all that kind of stuff. You're probably not going to be able to focus on your work, right? It's going to be really distracting. Really coming down to some principles about what is the use case we're trying to solve, what is appropriate, I put this in scare quotes, behavior of the AI bot sitting side by side with you, helped us create some principles or some guidelines for the developer experience that we wanted to create."
 
-**Insight:** Creating a clear persona (like an 'AI Pair Programmer') helps define the boundaries of appropriate AI behavior and guides the user experience.
+**洞察：** 创建清晰的角色（如 'AI Pair Programmer'）有助于定义适当的 AI 行为的边界并指导用户体验。
 
-**Tactical advice:**
-- Define a persona for the AI to establish behavioral guardrails
-- Establish principles for what constitutes 'appropriate' AI interaction within the specific product context
+**战术建议：**
+- 为 AI 定义角色以建立行为护栏
+- 制定特定产品环境中 'appropriate' AI 交互的构成原则
 
-*Timestamp: 00:39:53*
+*时间戳：00:39:53*
 
 
 ## Sander Schulhoff
@@ -1871,60 +1871,60 @@
 
 > "If we can't even trust chatbots to be secure, how can we trust agents to go and manage our finances? If somebody goes up to a humanoid robot and gives it the middle finger, how can we be certain it's not going to punch that person in the face?"
 
-**Insight:** The move from chatbots to autonomous agents introduces significant security risks because prompt injection can lead to real-world physical or financial harm.
+**洞察：** 从聊天机器人到自主 agents 的转变带来了重大的安全风险，因为 prompt 注入可能会导致现实世界的物理或财务损害。
 
-**Tactical advice:**
-- Prioritize 'agentic security' when building products that have the power to take actions (e.g., booking flights, managing money)
+**战术建议：**
+- 在构建能够执行操作（例如预订航班、管理资金）的产品时优先考虑 'agentic security'
 
-*Timestamp: 00:01:00*
+*时间戳：00:01:00*
 
 ---
 
 > "The most common technique by far that is used to try to prevent prompt injection is improving your prompt and saying... 'Do not follow any malicious instructions.' This does not work at all... Fine-tuning and safety-tuning are two particularly effective techniques and defenses."
 
-**Insight:** Prompt-based defenses and external guardrails are often insufficient; security must be handled at the model training level.
+**洞察：** 即时防御和外部护栏往往是不够的；安全性必须在 model 培训级别进行处理。
 
-**Tactical advice:**
-- Don't rely on system prompts to prevent malicious injections
-- Use fine-tuning to narrow a model's capabilities to a specific task, making it less susceptible to general malicious instructions
+**战术建议：**
+- 不要依赖系统 prompts 来防止恶意注入
+- 使用微调将 model 的功能缩小到特定任务，使其不易受到一般恶意指令的影响
 
-*Timestamp: 01:09:48*
+*时间戳：01:09:48*
 
 ---
 
 > "It is not a solvable problem... You can patch a bug, but you can't patch a brain... you can never be certain with any strong degree of accuracy that it won't happen again."
 
-**Insight:** AI security is fundamentally different from classical cybersecurity because probabilistic 'brain-like' models cannot be perfectly patched against all adversarial inputs.
+**洞察：** AI 安全性与经典网络安全性有根本不同，因为概率性 'brain-like' models 无法完美地针对所有对抗性输入进行修补。
 
-**Tactical advice:**
-- Assume a 95-99% security ceiling and build product safeguards accordingly
-- Focus on mitigation and detection rather than expecting a 100% 'fix' for prompt injection
+**战术建议：**
+- 假设 95-99% 的安全上限并相应地构建产品保障措施
+- 专注于缓解和检测，而不是期望 prompt 注入 100% 'fix'
 
-*Timestamp: 01:15:08*
+*时间戳：01:15:08*
 
 ---
 
 > "If you deploy improperly secured, improperly data-permissioned agents, people can trick those things into doing whatever, which might leak your user's data and might cost your company or your user's money, all sorts of real world damages there."
 
-**Insight:** Deploying AI agents without strict data permissioning creates significant financial and privacy risks for companies.
+**洞察：** 在没有严格数据许可的情况下部署 AI agents 会给公司带来重大的财务和隐私风险。
 
-**Tactical advice:**
-- Ensure agents are properly data-permissioned before deployment
-- Evaluate the potential for agents to chain actions together in malicious ways
+**战术建议：**
+- 部署前确保 agents 已获得正确的数据许可
+- 评估 agents 以恶意方式将操作链接在一起的可能性
 
-*Timestamp: 00:19:11*
+*时间戳：00:19:11*
 
 ---
 
 > "If all you're doing is deploying chatbots that answer FAQs... It's not really an issue because your only concern there is a malicious user comes and, I don't know, maybe uses your chatbot to output hate speech... but they could go to ChatGPT or Claude or Gemini and do the exact same thing."
 
-**Insight:** The security risk for simple, read-only FAQ chatbots is primarily reputational rather than functional, as the damage is limited to the conversation itself.
+**洞察：** 简单、只读的常见问题解答聊天机器人的安全风险主要是声誉风险，而不是功能风险，因为损害仅限于对话本身。
 
-**Tactical advice:**
-- Distinguish between simple chatbots and agentic systems when assessing security needs
-- Focus security efforts on systems that can take actions or access sensitive user data
+**战术建议：**
+- 评估安全需求时区分简单聊天机器人和 agentic 系统
+- 将安全工作重点放在可以采取行动或访问敏感用户数据的系统上
 
-*Timestamp: 00:46:24*
+*时间戳：00:46:24*
 
 
 ## Sarah Tavel
@@ -1932,12 +1932,12 @@
 
 > "LLMs may make it possible to bring on a supply type that maybe the long tail, that was just, it was too much effort to reach out to them, onboard them, but maybe if you automate that work, you actually create an opportunity to expand the supply in a way that none of us can anticipate right now."
 
-**Insight:** AI can unlock new marketplace supply by automating the high-friction onboarding and management of long-tail providers.
+**洞察：** AI 可以通过自动化长尾供应商的高摩擦入职和管理来解锁新的市场供应。
 
-**Tactical advice:**
-- Look for supply segments that were previously too expensive to acquire manually and use LLMs to automate their integration
+**战术建议：**
+- 寻找以前过于昂贵而无法手动获取的供应部分，并使用 LLMs 来自动化其集成
 
-*Timestamp: 01:44:15*
+*时间戳：01:44:15*
 
 
 ## Shaun Clowes
@@ -1945,23 +1945,23 @@
 
 > "LLMs can only be as good as the data they are given and how recent that data is. They're ultimately like information shredders. They are limitless information eaters. You can never have enough information to give to an LLM to truly gain its value."
 
-**Insight:** The effectiveness of an AI product is directly tied to the volume, quality, and recency of the data context provided to the model.
+**洞察：** AI 产品的有效性与提供给 model 的数据上下文的数量、质量和新近度直接相关。
 
-**Tactical advice:**
-- Prioritize building data pipelines that feed high-quality, real-time context to LLMs over simply choosing the 'best' model.
+**战术建议：**
+- 优先构建为 LLMs 提供高质量实时上下文的数据管道，而不是简单地选择 'best' model。
 
-*Timestamp: 00:21:11*
+*时间戳：00:21:11*
 
 ---
 
 > "It's a data management problem. It's getting access to good data, getting access to high quality data, getting access to timely data and getting it to the LLM to get the LLM to make a smart decision. That's where 90% of the calories go."
 
-**Insight:** AI product development is primarily a data management challenge rather than a modeling or prompting challenge.
+**洞察：** AI 产品开发主要是数据管理挑战，而不是 modeling 或 prompting 挑战。
 
-**Tactical advice:**
-- Invest 90% of effort into data quality and accessibility for the AI rather than just UI or prompt engineering.
+**战术建议：**
+- 将 90% 的精力投入到 AI 的数据质量和可访问性上，而不仅仅是 UI 或 prompt 工程。
 
-*Timestamp: 00:23:21*
+*时间戳：00:23:21*
 
 
 ## Shweta Shriva
@@ -1969,13 +1969,13 @@
 
 > "We're using a lot of human driving data to train our deep models. So it's important to make sure that the behavior of the car doesn't seem robotic... we have deep learned models that can understand what the other road users' intent is. So, stuff like which way the pedestrian is looking or what is their body orientation because that could tell you which way they're headed."
 
-**Insight:** AI products should leverage human behavioral data to mimic natural interactions and social norms rather than appearing robotic.
+**洞察：** AI 产品应该利用人类行为数据来模仿自然交互和社会规范，而不是显得机器人。
 
-**Tactical advice:**
-- Use human behavior data to train models to avoid unnatural or 'robotic' product interactions.
-- Incorporate intent recognition (e.g., body orientation, gaze) into AI models to handle complex human environments.
+**战术建议：**
+- 使用人类行为数据来训练 models，以避免不自然或 'robotic' 产品交互。
+- 将意图识别（例如身体方向、凝视）融入 AI models 中，以处理复杂的人类环境。
 
-*Timestamp: 06:07*
+*时间戳：06:07*
 
 
 ## Tomer Cohen
@@ -1983,51 +1983,51 @@
 
 > "What is the objective of the algorithm? I would challenge you to ask folks... what is the objective of the algorithm and can you write it down for me on a board? They should be able to do so, ultimately it's a mathematical formula and then it's like what features have you added to the algorithm? ...what investment do you have in data collections and fine-tuning?"
 
-**Insight:** AI-first product leaders must move beyond treating AI as a black box and take ownership of the model's objectives, features, and data strategy.
+**洞察：** AI 优先的产品领导者必须超越将 AI 视为black box的做法，并掌握 model 的目标、功能和数据策略。
 
-**Tactical advice:**
-- Define the mathematical objective of the algorithm as a core product requirement.
-- Invest in infrastructure and data collection as primary product levers rather than just UI features.
-- Shift from controlling the exact user experience to controlling the 'ingredients' (data and guidelines) that the AI uses.
+**战术建议：**
+- 将算法的数学目标定义为核心产品要求。
+- 投资基础设施和数据收集作为主要产品杠杆，而不仅仅是 UI 功能。
+- 从控制确切的用户体验转向控制 AI 使用的 'ingredients'（数据和指南）。
 
-*Timestamp: 00:40:13*
+*时间戳：00:40:13*
 
 ---
 
 > "AI is the ultimate matchmaker. It's underutilized, it's misunderstood... in a marketplace it's all about value exchange. And if I'm able to do value exchange really well, then people will come back and they do and they engage."
 
-**Insight:** The core strategic value of AI in a marketplace is its ability to facilitate high-quality matchmaking and value exchange.
+**洞察：** AI 在市场中的核心战略价值在于其促进高质量撮合和价值交换的能力。
 
-**Tactical advice:**
-- Focus AI objectives on downstream value (e.g., meaningful conversations) rather than just top-level clicks.
+**战术建议：**
+- 将 AI 目标重点放在下游价值（例如有意义的对话）上，而不仅仅是顶级点击。
 
-*Timestamp: 00:31:21*
+*时间戳：00:31:21*
 
 ---
 
 > "We call it the full stack builder model. The goal itself is to empower great builders to take their idea and to take it to market, regardless of their role and the stack and which team they're on. It's really fluid interaction between human and machine."
 
-**Insight:** The Full Stack Builder model aims to collapse organizational complexity by using AI to empower individuals to own the entire product lifecycle from idea to launch.
+**洞察：** 全栈构建器 model 旨在通过使用 AI 使个人拥有从创意到发布的整个产品生命周期，从而降低组织复杂性。
 
-**Tactical advice:**
-- Empower builders to work across traditional functional boundaries
-- Focus human effort on vision, empathy, communication, creativity, and judgment
-- Automate repetitive process steps to increase iteration speed
+**战术建议：**
+- 使构建者能够跨越传统的功能边界进行工作
+- 将人类的努力集中在愿景、同理心、沟通、创造力和判断力上
+- 自动执行重复的流程步骤以提高迭代速度
 
-*Timestamp: 00:12:03*
+*时间戳：00:12:03*
 
 ---
 
 > "The platform for us as an example is rearchitecting all of our core platforms so AI can reason over it. So we're building kind of this composable UI components with server side that we actually build. We're basically building for AI to be ready to bring it in."
 
-**Insight:** Successful AI integration requires re-architecting technical platforms and design systems so that AI agents can effectively reason over and manipulate the codebase.
+**洞察：** 成功的 AI 集成需要重新架构技术平台和设计系统，以便 AI agents 能够有效地推理和操作代码库。
 
-**Tactical advice:**
-- Rearchitect core platforms for AI readability
-- Build composable UI components that AI can assemble
-- Customize third-party AI tools to work with internal proprietary stacks
+**战术建议：**
+- 重新架构核心平台以提高 AI 的可读性
+- 构建 AI 可以组装的可组合 UI 组件
+- 自定义第三方 AI 工具以与internal proprietary stack配合使用
 
-*Timestamp: 00:17:17*
+*时间戳：00:17:17*
 
 
 ## Varun Mohan
@@ -2035,37 +2035,37 @@
 
 > "We should be cannibalizing the existing state of our product every six to 12 months. Every six to 12 months, it should make our existing product look silly. It should almost make the form factor of existing product look dumb."
 
-**Insight:** In fast-moving AI markets, companies must be willing to disrupt their own successful products to stay ahead.
+**洞察：** 在快速发展的 AI 市场中，公司必须愿意颠覆自己的成功产品才能保持领先地位。
 
-**Tactical advice:**
-- Plan for major product paradigm shifts every 6-12 months
-- Invest in long-term R&D that might render current features obsolete
+**战术建议：**
+- 每 6-12 个月计划一次主要产品范式转变
+- 投资长期研发可能会使当前功能过时
 
-*Timestamp: 00:00:00*
+*时间戳：00:00:00*
 
 ---
 
 > "Where is the layer that you can actually differentiate on? And we believe the application layer is a very, very deep layer to go out and differentiate on. What are the number of ways we can build better user experiences and better workflows for developers? We think there's effectively no ceiling on that."
 
-**Insight:** Value in AI is shifting from infrastructure to the application layer where unique user experiences and workflows are built.
+**洞察：** AI 的价值正在从基础设施转移到构建独特的用户体验和工作流程的应用程序层。
 
-**Tactical advice:**
-- Focus on vertical integration and custom UI/UX rather than just being a model wrapper
-- Identify specific user workflows that can be fundamentally reimagined with AI
+**战术建议：**
+- 专注于垂直集成和自定义 UI/UX 而不仅仅是 model 包装器
+- 确定可以使用 AI 从根本上重新构想的特定用户工作流程
 
-*Timestamp: 00:10:00*
+*时间戳：00:10:00*
 
 ---
 
 > "If AI is writing over 90% of the code... the ROI of building technology has actually gone up. This actually means you hire more. The best thing to do is just get your hands dirty with all of these products. You could be a force multiplier to your organization in ways in which they never even anticipated."
 
-**Insight:** AI increases the ROI of engineering, encouraging companies with high 'technology ceilings' to invest even more in talent.
+**洞察：** AI 增加了工程的 ROI，鼓励'technology ceilings'高的公司在人才方面进行更多投资。
 
-**Tactical advice:**
-- Use AI to increase the volume and complexity of technology the organization can produce
-- Encourage non-technical roles to use AI tools to build custom internal solutions
+**战术建议：**
+- 使用 AI 增加组织可生产的技术的数量和复杂性
+- 鼓励非技术角色使用 AI 工具构建自定义内部解决方案
 
-*Timestamp: 00:00:29*
+*时间戳：00:00:29*
 
 
 ## Brendan Foody
@@ -2073,25 +2073,25 @@
 
 > "If the model is the product, then the eval is the product requirement document. And the way that researchers' day-to-day looks is that they'll run dozens of experiments where they'll make small improvements on an eval set."
 
-**Insight:** Evals serve as the foundational product requirements for AI models, acting as the primary benchmark for measuring progress and success.
+**洞察：** 评估是 AI models 的基本产品要求，也是衡量进展和成功的主要基准。
 
-**Tactical advice:**
-- Treat evals as the PRD for AI products
-- Run iterative experiments to make small, measurable improvements against an eval set
+**战术建议：**
+- 对于 AI 产品，将 evals 视为 PRD
+- 运行迭代实验，对 eval 集进行小的、可测量的改进
 
-*Timestamp: 00:06:39*
+*时间戳：00:06:39*
 
 ---
 
 > "I think that for enterprises especially, the core way to think about it is how can they build a test or systematic way to measure how well AI automates their core value chain?"
 
-**Insight:** The prerequisite for applying AI effectively is defining a systematic way to measure how well it automates a company's specific value chain.
+**洞察：** 有效应用 AI 的先决条件是定义一种系统方法来衡量其对公司特定价值链的自动化程度。
 
-**Tactical advice:**
-- Identify the core value chain of the business
-- Build a systematic test to measure AI's performance in automating that specific chain
+**战术建议：**
+- 确定企业的核心价值链
+- 构建系统测试来衡量 AI 在自动化特定链方面的性能
 
-*Timestamp: 00:07:39*
+*时间戳：00:07:39*
 
 
 ## Andrew Wilkinson
@@ -2099,14 +2099,14 @@
 
 > "I think the fundamental question is, do all jobs just become a single prompt? For example, does a CEO just grow the business while making the customers happy and turning a profit... and it is able to actually be an omniscient presence that can run a whole company."
 
-**Insight:** The long-term trajectory of AI suggests a shift toward 'omniscient' agents that can manage entire business functions, potentially displacing traditional knowledge work.
+**洞察：** AI 的长期发展轨迹表明，将转向 'omniscient' agents，后者可以管理整个业务功能，有可能取代传统的知识工作。
 
-**Tactical advice:**
-- Prepare for a future where AI models may be 'smarter than all PhDs' by 2027.
-- Focus on building wealth and diversifying into compute and energy as AI drives down the cost of labor.
-- Identify 'human-only' value adds like humor, status, and physical connection in a world of AI abundance.
+**战术建议：**
+- 为未来做好准备，到 2027 年 AI models 可能会变成 'smarter than all PhDs'。
+- 随着 AI 降低劳动力成本，专注于积累财富并实现计算和能源多元化。
+- 在 AI 丰富的世界中识别 'human-only' 的附加价值，例如幽默、地位和身体联系。
 
-*Timestamp: 00:58:43*
+*时间戳：00:58:43*
 
 
 ## Garrett Lord
@@ -2114,25 +2114,25 @@
 
 > "The models have gotten so good that the generalists are no longer needed. What they really need is experts, experts across every area that the models are focused on."
 
-**Insight:** AI strategy is shifting from generalist data labeling to expert-led post-training to improve model reasoning in specialized domains.
+**洞察：** AI 策略正在从通才数据标记转向专家主导的后训练，以改进 model 在专业领域的推理。
 
-**Tactical advice:**
-- Focus on advanced STEM domains and derivative professional functions like law and medicine for model improvement
-- Target experts (PhDs, Masters) who can identify where models break in reasoning or ground truth
+**战术建议：**
+- 专注于先进的 STEM 领域和法律、医学等衍生专业功能，以实现 model 的改进
+- 目标专家（博士、硕士）可以识别 models 在推理或基本事实中的缺陷
 
-*Timestamp: 00:10:52*
+*时间戳：00:10:52*
 
 ---
 
 > "We like to say the only moat in human data is access to an audience. Basically, there are many, many small players in this space... they're basically running TikTok ads... The huge advantage that we've had... is we built a decade of trust with 18 million people."
 
-**Insight:** A sustainable moat in AI data products is proprietary access to a trusted, high-intent audience rather than relying on performance marketing.
+**洞察：** AI 数据产品的可持续护城河是对值得信赖的、高意向受众的proprietary access，而不是依赖绩效营销。
 
-**Tactical advice:**
-- Leverage existing brand affinity to lower customer acquisition costs for data contributors
-- Use historical data on user performance to target the right experts for specific labeling tasks
+**战术建议：**
+- 利用现有的品牌亲和力来降低数据贡献者的客户获取成本
+- 使用用户表现的历史数据为特定的标签任务找到合适的专家
 
-*Timestamp: 00:30:50*
+*时间戳：00:30:50*
 
 
 ## Paige Costello
@@ -2140,13 +2140,13 @@
 
 > "When it came to the massive leap forward in LLMs recently, we staffed a team to really prototype quickly, and discover what was possible, and just apply hypotheses outside of the typical norms of how we work. So they went straight to prototyping instead of going through that Double Diamond I was explaining earlier."
 
-**Insight:** For rapidly evolving technologies like LLMs, bypass standard heavy processes in favor of rapid prototyping to discover technical possibilities quickly.
+**洞察：** 对于像 LLMs 这样快速发展的技术，可以绕过标准的繁重流程，转而采用快速原型设计，以快速发现技术可能性。
 
-**Tactical advice:**
-- Staff a dedicated team to prototype AI hypotheses outside of normal product cycles.
-- Skip formal discovery phases in favor of immediate prototyping when dealing with high-uncertainty technology.
+**战术建议：**
+- 组建专门的团队，在正常产品周期之外对 AI 假设进行原型设计。
+- 在处理高不确定性技术时，跳过正式的发现阶段，有利于立即进行原型设计。
 
-*Timestamp: 00:40:08*
+*时间戳：00:40:08*
 
 
 ## Peter Deng
@@ -2154,37 +2154,37 @@
 
 > "A lot of the value is still going to require a bunch of hustle from a lot of builders to really turn that new source of energy and channel it into something that we humans want to use that solves some of our problems."
 
-**Insight:** AGI alone is insufficient; product builders must 'harness' and channel AI energy into specific human-centric solutions.
+**洞察：** 仅有 AGI 是不够的；产品制造商必须将 'harness' 和 AI 的能量引导到特定的以人为本的解决方案中。
 
-**Tactical advice:**
-- Focus on the 'elbow grease' required to turn raw AI intelligence into a useful product
-- Identify specific human problems that AI can solve more ergonomically than existing tools
+**战术建议：**
+- 专注于将原始 AI 智能转化为有用产品所需的 'elbow grease'
+- 识别 AI 比现有工具更符合人体工程学的特定人类问题
 
-*Timestamp: 00:08:15*
+*时间戳：00:08:15*
 
 ---
 
 > "The data flywheel thing is really interesting because the models will get really good at whatever data you show it... being very mindful of the data that you have access to to start your flywheel going and what you can do to keep on going with that flywheel is going to be a critical thing."
 
-**Insight:** Defensibility in AI comes from proprietary data flywheels and deeply integrated workflows.
+**洞察：** AI 的防御能力来自proprietary数据flywheel和深度集成的工作流程。
 
-**Tactical advice:**
-- Identify proprietary data sources to start the initial model training flywheel
-- Build workflows that naturally generate more high-quality data through user interaction
+**战术建议：**
+- 确定proprietary data sources以启动初始 model 训练 flywheel
+- 构建通过用户交互自然生成更多高质量数据的工作流程
 
-*Timestamp: 00:29:36*
+*时间戳：00:29:36*
 
 ---
 
 > "I think that close, tight-knit relationship at any of these large model companies between post training and product is going to produce some really incredible stuff."
 
-**Insight:** The highest leverage for AI PMs is working directly with research and post-training teams to fine-tune model behavior.
+**洞察：** AI PMs 的最大优势是直接与研究和培训后团队合作来微调 model 行为。
 
-**Tactical advice:**
-- Embed PMs within research teams to influence model 'vibe' and capabilities
-- Focus on fine-tuning and post-training rather than just the UI layer
+**战术建议：**
+- 将 PMs 嵌入研究团队以影响 model 'vibe' 和功能
+- 专注于微调和后期训练，而不仅仅是 UI 层
 
-*Timestamp: 00:35:15*
+*时间戳：00:35:15*
 
 
 ## Scott Belsky
@@ -2192,14 +2192,14 @@
 
 > "I think that the greatest performers I've ever worked with... preserve the time to explore lots of possibilities... generative AI and AI for all, when it talks to me about just product leaders exploring possibilities, this should expand the surface area."
 
-**Insight:** Generative AI serves as a superpower for product leaders by allowing them to explore a much larger surface area of possibilities and scenarios in less time.
+**洞察：** Generative AI 为产品领导者提供了超能力，使他们能够在更短的时间内探索更大的可能性和场景。
 
-**Tactical advice:**
-- Use AI to generate multiple 'what if' scenarios to expand your thinking beyond your initial solution
-- Treat AI as an 'intern' to create initial drafts or thumbnails that you then refine
-- Play with emerging AI tools regularly to understand how they can augment your specific creative process
+**战术建议：**
+- 使用 AI 生成多个 'what if' 场景，以扩展你的思维，超越最初的解决方案
+- 将 AI 视为 'intern' 以创建初始草稿或缩略图，然后进行优化
+- 定期使用新兴的 AI 工具，了解它们如何增强你的特定创意流程
 
-*Timestamp: 00:33:05*
+*时间戳：00:33:05*
 
 
 ## Scott Wu
@@ -2207,25 +2207,25 @@
 
 > "I think the big shift that we really felt we would see is moving from kind of this text to text model to an actual autonomous system that can make decisions, that can interact with the real world, that can take in feedback, that can iterate and take multiple steps to solve problems. And now we call that agents, but that was what we were really excited about at the time."
 
-**Insight:** The core shift in AI product strategy is moving from simple text completion to autonomous agents capable of multi-step reasoning and real-world interaction.
+**洞察：** AI product strategy的核心转变是从简单的文本完成转向能够进行多步推理和现实世界交互的自主 agents。
 
-**Tactical advice:**
-- Focus on building autonomous systems rather than just text-to-text completion tools
-- Design for systems that can take in feedback and iterate on their own work
+**战术建议：**
+- 专注于构建自主系统而不仅仅是文本到文本完成工具
+- 设计可以接受反馈并迭代自己工作的系统
 
-*Timestamp: 00:13:34*
+*时间戳：00:13:34*
 
 ---
 
 > "I think the product experience itself is going to change every single time. And then obviously there, there's all of the practicality of just getting it out there in the world. And so folks obviously need to learn how to use the new technology. There's a lot to do to deploy into all of the messiness of real world software."
 
-**Insight:** AI product strategy must account for the evolving user experience as model capabilities improve and the need to handle messy, real-world edge cases.
+**洞察：** AI product strategy必须考虑到随着 model 功能的改进而不断变化的用户体验以及处理混乱的现实世界边缘情况的需要。
 
-**Tactical advice:**
-- Anticipate that the product interface will need to change with every new generation of model capabilities
-- Prioritize handling real-world complexity and 'messiness' over theoretical performance
+**战术建议：**
+- 预计产品界面将需要随着每一代新一代 model 功能的变化而改变
+- 优先考虑处理现实世界的复杂性和 'messiness' 而非理论性能
 
-*Timestamp: 00:56:04*
+*时间戳：00:56:04*
 
 
 ## Timothy Davis
@@ -2233,12 +2233,12 @@
 
 > "You guys have been using AI for years now. Smart Bidding is AI. All of the recommendations within Google Ads is AI. Ad copy recommendations is AI, and that's always been in the platform."
 
-**Insight:** Recognize that AI in performance marketing is often already embedded in platform-native automation like smart bidding and algorithmic recommendations.
+**洞察：** 认识到效果营销中的 AI 通常已经嵌入到平台原生自动化中，例如智能出价和算法推荐。
 
-**Tactical advice:**
-- Leverage platform-native AI for bidding and ad copy iterations rather than seeking external tools for basic tasks
+**战术建议：**
+- 利用平台原生的 AI 进行竞价和广告文案迭代，而不是寻找外部工具来完成基本任务
 
-*Timestamp: 01:30:59*
+*时间戳：01:30:59*
 
 
 ## Tamar Yehoshua
@@ -2246,20 +2246,20 @@
 
 > "In five to 10 years, I think the lines between product managers and engineers and designers are going to blur because AI will enable product managers to build prototypes, to build designs... I'm of the believer that we're just going to have a lot more software."
 
-**Insight:** AI will commoditize execution and grunt work, leading to a blurring of functional roles and a massive increase in software output.
+**洞察：** AI 将使执行和grunt work商品化，从而导致功能角色的模糊和软件输出的大幅增加。
 
-*Timestamp: 00:50:21*
+*时间戳：00:50:21*
 
 ---
 
 > "The industry is transforming so rapidly that you need to make sure that your product gets better as the LLMs get better. And that too many people are building things to make up and compensate for the LLMs that all that work is going to go away. So it's okay to do it to understand that it's going to go away, but that can't be your differentiator."
 
-**Insight:** Avoid building core value propositions around fixing current LLM limitations, as those gaps will likely be closed by the model providers.
+**洞察：** 避免围绕解决当前 LLM 限制构建核心价值主张，因为这些差距可能会由 model 提供商弥补。
 
-**Tactical advice:**
-- Ensure your product's unique value lies in something outside the base capabilities of the LLM (e.g., proprietary data access or specific workflows).
+**战术建议：**
+- 确保你的产品的独特价值在于 base LLM capability 之外的能力（例如proprietary data access 或 specific workflows）。
 
-*Timestamp: 01:03:45*
+*时间戳：01:03:45*
 
 
 ## Casey Winters
@@ -2267,13 +2267,13 @@
 
 > "If you thought the PM job was just filling in frameworks, you're going to get replaced by AI."
 
-**Insight:** PMs who follow frameworks mechanically will be replaced; those with expertise will thrive.
+**洞察：** 机械地遵循框架的 PMs 将被替换；那些拥有专业知识的人将会蓬勃发展。
 
-**Tactical advice:**
-- Build subject matter expertise
-- Use AI for tedious work
+**战术建议：**
+- 建立subject-matter expertise
+- 使用 AI 进行grunt work
 
-*Timestamp: 00:24:41*
+*时间戳：00:24:41*
 
 
 ## David Singleton
@@ -2281,13 +2281,13 @@
 
 > "We can have GPT-4 read all our docs and answer questions for developers."
 
-**Insight:** Apply LLMs to make complex products accessible via natural language.
+**洞察：** 应用 LLMs 使复杂的产品可以通过natural language访问。
 
-**Tactical advice:**
-- Use embeddings for docs
-- Translate natural language to technical queries
+**战术建议：**
+- 使用documentation embeddings
+- 将natural language翻译为technical queries
 
-*Timestamp: 01:03:44*
+*时间戳：01:03:44*
 
 
 ## Jag Duggal
@@ -2295,13 +2295,13 @@
 
 > "Companies need to figure out what AI native means, not how to append AI at the corners."
 
-**Insight:** AI-native requires reimagining products from first principles with AI at the core.
+**洞察：** AI-native 需要以 AI 为核心，from first principles重新构想产品。
 
-**Tactical advice:**
-- Ask what you'd design if AI existed from the start
-- Build AI at the heart
+**战术建议：**
+- 询问：如果 AI 从一开始就存在，你会如何设计？
+- 以 AI 为核心
 
-*Timestamp: 01:11:12*
+*时间戳：01:11:12*
 
 
 ## Krithika Shankarraman
@@ -2309,13 +2309,13 @@
 
 > "Taste is going to become a distinguishing factor in the age of AI."
 
-**Insight:** In the AI era, taste and craft become key differentiators.
+**洞察：** 在 AI 时代，品味和craft成为关键的差异化因素。
 
-**Tactical advice:**
-- Invest in building taste
-- Use AI to augment not replace judgment
+**战术建议：**
+- 投资培养 taste
+- 使用 AI 增强而不是取代判断
 
-*Timestamp: 00:55:31*
+*时间戳：00:55:31*
 
 
 ## Sam Schillace
@@ -2323,12 +2323,12 @@
 
 > "AI isn't a feature of your product. Your product is a feature of AI."
 
-**Insight:** Transformative AI products treat AI as a platform foundation, not a bolt-on.
+**洞察：** 变革性的 AI 产品将 AI 视为platform foundation，而不是bolt-on feature。
 
-**Tactical advice:**
-- Build products that require AI
-- Think of AI as enabling new category
+**战术建议：**
+- 构建需要 AI 的产品
+- 将 AI 视为enabler of new categories
 
-*Timestamp: 01:03:01*
+*时间戳：01:03:01*
 
 

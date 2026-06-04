@@ -1,52 +1,52 @@
 ---
 name: fundraising
-description: Help founders raise capital and build investor relationships. Use when someone is preparing a pitch deck, deciding whether to raise venture capital, meeting with investors, or asking about fundraising strategy.
+description: 帮助创始人融资并建立投资人关系。Use when someone is preparing a pitch deck, deciding whether to raise venture capital, meeting with investors, or asking about fundraising strategy.
 ---
 
 # Fundraising Strategy
 
-Help the user navigate the fundraising process using insights from 2 product leaders.
+使用来自 2 位产品领导者的洞察，帮助用户推进 fundraising process。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with fundraising:
+当用户请求 fundraising 相关帮助时：
 
-1. **Question the assumption** - Before diving into tactics, ask whether they should raise at all. Understand their goals and whether venture capital is the right path
-2. **Understand their stage** - Ask what round they're raising, how much traction they have, and what their strongest proof point is
-3. **Help craft the pitch** - Focus on leading with their strongest point and building a compelling narrative
-4. **Prepare for the process** - Set expectations about rejection rates and help them build resilience for the "dance of 100 nos"
+1. **质疑前提** - 在进入 tactics 前，先问他们是否应该融资。理解他们的目标，以及 venture capital 是否是正确路径
+2. **理解阶段** - 询问他们在融哪一轮、已有多少 traction、最强 proof point 是什么
+3. **帮助打磨 pitch** - 聚焦以最强点开场，并构建有说服力的 narrative
+4. **为流程做准备** - 设定 rejection rates 预期，帮助他们为 "dance of 100 nos" 建立 resilience
 
-## Core Principles
+## 核心原则
 
-### Lead with your strongest point on slide one
-Uri Levine: "Most people are missing the most important slide of their presentation is the first slide... This is the place that you're going to put your strongest point." Investors form impressions in the first minute. Don't bury your best evidence. If you have incredible traction, lead with it. If you have a unique insight, lead with that.
+### 第一页就展示最强点
+Uri Levine: "Most people are missing the most important slide of their presentation is the first slide... This is the place that you're going to put your strongest point." Investors 会在第一分钟形成印象。不要埋没最强证据。如果你有惊人的 traction，就以此开场；如果你有独特 insight，就从那里开始。
 
-### Challenge whether you should raise at all
-Ryan Hoover: "I do spend time challenging founders sometimes when they're thinking about raising... to not raise." The venture path creates a "treadmill" of growth expectations. Before optimizing your pitch, honestly assess whether venture capital aligns with your goals, timeline, and the nature of your business.
+### 挑战是否应该融资
+Ryan Hoover: "I do spend time challenging founders sometimes when they're thinking about raising... to not raise." Venture path 会制造 growth expectations 的 "treadmill"。在优化 pitch 前，诚实评估 venture capital 是否与你的 goals、timeline 和 business nature 匹配。
 
-### Prepare for the "dance of 100 nos"
-Fundraising is a numbers game. Most investors will say no, and that's normal. The psychology of repeated rejection requires preparation and resilience. Don't take early nos as signal about your company's viability.
+### 为 "dance of 100 nos" 做准备
+Fundraising 是 numbers game。大多数 investors 会说 no，这很正常。重复被拒绝需要心理准备和 resilience。不要把早期 nos 当作公司 viability 的信号。
 
-## Questions to Help Users
+## 帮助用户的问题
 
-- "What's your strongest proof point right now - traction, team, insight, or market?"
-- "Why are you raising venture capital specifically? Have you considered alternatives?"
-- "What's on your first slide? Is it your strongest point?"
-- "How many investors have you talked to? What patterns are you seeing in their feedback?"
-- "What's your target raise and how did you arrive at that number?"
+- "你现在最强 proof point 是什么：traction、team、insight，还是 market？"
+- "为什么具体要 raise venture capital？你考虑过 alternatives 吗？"
+- "你的第一张 slide 是什么？它是你的最强点吗？"
+- "你已经和多少 investors 聊过？从 feedback 中看到什么 patterns？"
+- "你的 target raise 是多少？你是如何得出这个数字的？"
 
-## Common Mistakes to Flag
+## 需要提醒的常见错误
 
-- **Burying the lede** - Putting your strongest evidence on slide 5 instead of slide 1. Investors decide early
-- **Raising by default** - Assuming venture capital is the only path without considering bootstrapping or alternative funding
-- **Underestimating rejection** - Not preparing psychologically for 50-100 nos before getting a yes
-- **Weak opening** - Starting with problem/solution when you have strong traction that would be more compelling
+- **Burying the lede** - 把最强 evidence 放在第 5 页，而不是第 1 页。Investors 很早就会做判断
+- **默认融资** - 没考虑 bootstrapping 或 alternative funding，就假设 venture capital 是唯一路径
+- **低估 rejection** - 没为拿到一个 yes 前的 50-100 个 nos 做心理准备
+- **Weak opening** - 明明有强 traction，却从 problem/solution 开始
 
 ## Deep Dive
 
-For all 2 insights from 2 guests, see `references/guest-insights.md`
+所有来自 2 位嘉宾的 2 条洞察见 `references/guest-insights.md`
 
-## Related Skills
+## 相关 Skills
 
 - Giving Presentations
 - Founder Sales

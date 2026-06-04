@@ -1,6 +1,6 @@
-# Media Relations - All Guest Insights
+# Media Relations - 所有嘉宾洞察
 
-*2 guests, 2 mentions*
+*2 位嘉宾，2 次提及*
 
 ---
 
@@ -9,7 +9,7 @@
 
 > "I stagger it because we're offering exclusives, and I highly recommend offering exclusives."
 
-**Insight:** The transcript provides extensive tactical advice on managing reporter relationships, offering exclusives, and navigating the media landscape that goes beyond general 'Launch Marketing' or 'Positionin
+**洞察：** 这段 transcript 提供了大量 tactical advice，涵盖管理 reporter relationships、提供 exclusives，以及 navigating the media landscape；这些内容超出了通用 'Launch Marketing' 或 'Positionin
 
 
 ## Jason Feifer
@@ -17,6 +17,5 @@
 
 > "Step one is prep... Step two is figuring out who to pitch... Step three is the actual pitch."
 
-**Insight:** The transcript provides a comprehensive framework for identifying, pitching, and managing relationships with journalists and freelancers, which is a distinct professional skill set from general market
-
+**洞察：** 这段 transcript 提供了一个 comprehensive framework，用于识别、pitch 和管理与 journalists 及 freelancers 的关系；这是一组不同于 general market 的专业 skill set
 
