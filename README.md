@@ -116,13 +116,13 @@ Skills 是 Markdown 文件，用来为 AI agents 提供特定任务所需的专�
 
 ```bash
 # Install all skills
-npx skills add RefoundAI/lenny-skills
+npx skills add oldwinter/lenny-skills
 
 # Install specific skills
-npx skills add RefoundAI/lenny-skills --skill evaluating-candidates writing-prds
+npx skills add oldwinter/lenny-skills --skill evaluating-candidates writing-prds
 
 # List available skills
-npx skills add RefoundAI/lenny-skills --list
+npx skills add oldwinter/lenny-skills --list
 ```
 
 该命令会自动安装到你的 `.claude/skills/` 目录。
@@ -132,7 +132,7 @@ npx skills add RefoundAI/lenny-skills --list
 Clone 仓库，并把 skills 复制到你的项目：
 
 ```bash
-git clone https://github.com/RefoundAI/lenny-skills.git
+git clone https://github.com/oldwinter/lenny-skills.git
 cp -r lenny-skills/skills/* .claude/skills/
 ```
 
@@ -141,7 +141,7 @@ cp -r lenny-skills/skills/* .claude/skills/
 将本仓库作为 submodule 添加，便于后续更新：
 
 ```bash
-git submodule add https://github.com/RefoundAI/lenny-skills.git .claude/lenny-skills
+git submodule add https://github.com/oldwinter/lenny-skills.git .claude/lenny-skills
 ```
 
 然后从 `.claude/lenny-skills/skills/` 引用 skills。
