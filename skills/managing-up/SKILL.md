@@ -1,83 +1,72 @@
 ---
 name: managing-up
-description: 帮助用户高效与 manager 和 executives 合作。Use when someone is struggling with their manager relationship, needs to influence leadership, wants to get better at executive communication, or is trying to build trust with their boss.
+description: 帮助用户掌握与经理和创始人主动沟通和协调的艺术，以释放自主权、保护资源并推动业务影响。
 ---
 
-# Managing Up
+# 领导者向上管理
 
-使用来自 35 位产品领导者的策略，帮助用户高效与 manager 和 executives 合作。
+将您与领导层的关系从汇报关系转变为高度信任的战略伙伴关系。
+
+利用 21 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户管理领导者。
 
 ## 如何提供帮助
 
-当用户请求 managing up 相关帮助时：
-
-1. **理解关系** - 询问 manager 的 style、他们关心什么，以及 friction 或 challenge 在哪里
-2. **诊断 gap** - 判断这是 communication issue、alignment issue、trust issue，还是 visibility issue
-3. **应用合适 approach** - 帮助他们在 proactive updates、reframing conversations、building trust through wins 或 direct feedback conversations 之间选择
-4. **建立 sustainable habits** - 引导他们形成持续实践，而不是一次性修补
+1. **审核当前通信** - 确定用户当前在更新中是被动还是主动，以及他们如何处理分歧。
+2. **构建运营节奏** - 提供每周更新的模板，在经理提出要求之前显示阻碍因素和优先事项。
+3. **编写困难的对话脚本** - 使用以业务为中心的框架起草特定的语言来反驳想法或请求资源。
+4. **绘制信任建立路径** - 使用“肉和土豆”框架来展示执行核心任务如何赢得追求更大波动的权利。
 
 ## 核心原则
 
-### Manager 是可 leverage 的资源，不是障碍
-Boz: "The advice I give more frequently than any other is for people to more directly leverage their leaders." 你的 primary job 是达成结果。Manager 有 tools 和 authority 来清路。请求帮助 bulldoze blockers，而不是试图独自解决一切。
+### 将自我推销重新定义为教育
+Deb Liu: "It looks like self-promotion. I wouldn't want to do that because it's self-promotion. But instead, what if I called it educating about all the great work your team has been doing? Helping people see why your team should get more resources, you have to actually share what you do."
 
-### 在对方不得不问前主动沟通
-Casey Winters: "People just way under communicate upward. Then they complain that executives are out of touch when they aren't telling executives what they need to know." 每周发送 "state of" emails，包含 priorities、blockers 和 thoughts。用 "no response required" framing 保持 leaders informed，同时不制造负担。
+将其视为一种责任，让领导层了解团队的价值和资源需求，从而克服可见性带来的不适。
 
-### 理解 two levels up
-Fareed Mosavat: "You should understand your boss's priorities and your boss's boss's priorities. Eventually, that means you have to know what the board is thinking." 建立 mental model，理解你的工作如何在更大系统中创造 leverage。针对 senior leadership 的具体 concerns 调整沟通。
+### 从阻力转向商业成功
+Jason Shah: "It starts from a place of I need to disagree, I need to say no. It's a very negative mindset, purely based on the word that has come to label a behavior that alternatively could be about how do I shift the direction on something, or how do I help the business actually succeed when I disagree with somebody about something, and that's a very different mindset."
 
-### 带 recommendations，而不只是 problems
-Wes Kao: "When you ask 'Hey manager, what should we do?' you're putting a lot of cognitive load on them. Instead say 'Hey manager, here's what I think we should do.'" 即使只是 initial hunch，也要提出 point of view。提供 insights 和 takeaways，而不只是 raw data。
+避免使用“推回”一词，因为它会产生反对感。相反，将分歧重新定义为使团队转向更好的业务成果的尝试。
 
-### 使用 structured update formats
-Boz: "We used HPM - Highlight, People, Me. Every manager at Facebook would send this to their manager." 使用一致格式。问你的 manager："How do you like to get information about me?" 可以考虑包含 priorities、blockers 和 general thoughts 的 weekly emails。
+### 优先考虑对话而不是正确
+Kenneth Berger: "Often what I try to introduce people to, and I've learned all this stuff the hard way, believe me, is it's fundamentally disrespectful to go into a meeting already deciding that you're right and the other person is wrong because you can't know that for sure."
 
-### 把自己定位为减轻负担的 ally
-Ethan Evans: "Management can be a lonely job. Having an ally is a huge weight off people's shoulders." Recognize managers are overwhelmed. 从问 "How can I help?" 转向提出 specific solutions。主动解决问题并保持他们 in the loop。
+成功的关系建立在谦虚的基础上，意识到你不能确定自己是对的。将会议视为一种开放的来回交流，以发现新的观点。
 
-### 和 execs 沟通时从 Chapter 1 开始
-Casey Winters: "You have to start with chapter one, which is what part of the company strategy are you working on? What metrics are you trying to improve? What assumptions are you making?" 找到 audience 认为显而易见的最后一点，从那里开始构建。不要在没有 strategic context 时直接进入 "Chapter 6" details。
+## 模板和框架
 
-### 使用 concrete artifacts，而不是 abstract ideas
-Dylan Field: "The more concrete an artifact is or the more you can debate something, the better. I ask for examples a lot." 展示 designs 和 docs，而不是抽象 ideas。如果没有 follow-up question 所需 data，暂停并找到答案，而不是猜测。
+- **神奇循环**（神奇循环）- 一个五步可重复框架，通过与经理建立协作关系，系统地发展您在公司内的职业生涯
+- **说不的三步流程**（说不）- 回应经理想法的结构化方法：倾听 → 形成你的观点 → 建设性地回应
+- **经理沟通模板（自主模板）**（成为高级产品经理）- 一个 3 步模板，用于与您的经理分享挑战和决策，展示能力，赢得信任，并为无声反馈打开大门
+- **一致性-置信矩阵（向上管理）** (Ravi Mehta) - 一个框架，用于根据与经理的方向和对您的信心的一致性来了解您与经理的关系货币
+- **舒芙蕾之前的肉类和土豆信任框架**（如何像初创公司一样发货）- 一个赢得领导信任以追求自己雄心勃勃的产品创意的框架
+- **向上管理的五种策略**（向上管理）- Lenny 的五部分框架，用于与任何级别的经理进行有效的向上管理
+- **第一次听到经理的想法时要问的问题**（说不）- 在做出反应之前要问五个问题，以了解经理的想法并表现出开放的态度
 
-### 用 experiments 挑战 strong opinions
-Itamar Gilad: "If you run a secret experiment and come back with data, either they get extremely mad at you... or more commonly, they're pleasantly surprised." 用 evidence 翻转 leader 的视角，而不是陷入 opinions battle。
-
-### 理解 spirit，再提供更好 options
-Jiaona Zhang: "It's understanding the spirit of what they're trying to achieve. Being able to go back with 'I understand the spirit, but here's a better way to achieve it.'" 先对齐 underlying goal。提供自动化或可扩展 alternatives，而不只是说 no。
-
-### 对 founder involvement 使用 U-curve
-Noah Weiss: "High involvement at the start for strategy and at the end for quality, with autonomy in the middle." 在开始阶段让 founders 参与 strategic buy-in on goals，在最后阶段让他们确保 product 达到 quality standards。
-
-### 说你会做，正在做，已经做了
-Peter Deng: "Say you're going to do the thing, say that you're doing the thing, and then say that you did it." 这种重复沟通确保 alignment，并提供 course correction 的机会。
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 帮助用户的问题
 
-- "你的 manager 现在最关心什么？什么让他们睡不着？"
-- "你的 manager 偏好如何接收信息：email、Slack，还是 meetings？"
-- "如果不问你，他们知道你这周在做什么吗？"
-- "你带着 problems 去找他们时，也会带 recommendations 吗？"
-- "从你的 manager 视角看，team 的 success 是什么样？"
-- "你是否直接问过 manager 希望你如何沟通？"
+- “你目前向经理通报优先事项和阻碍因素的节奏是怎样的？”
+- “如果你的经理提出了你不同意的想法，你通常会如何处理？”
+- “你的经理的直觉和你的数据驱动方法是否在某些特定领域发生冲突？”
+- “你的经理在多大程度上了解你的团队目前正在做出的权衡？”
+- “为了建立信任，你现在可以卸下经理的一项高优先级任务是什么？”
 
-## 需要提醒的常见错误
+## 标记的常见错误
 
-- **Under-communicating** - 如果 manager 必须问你发生了什么，说明沟通不够。Proactive updates 会建立 trust
-- **只带 problems，不带 recommendations** - 这会把 cognitive load 放到 manager 身上。始终带着 point of view
-- **从 details 开始，而不是 strategy** - Executives 需要 context。先从 "Chapter 1"（strategy）开始，再进入 "Chapter 6"（details）
-- **试图独自解决一切** - Manager 有你没有的 tools 和 authority。Leverage 他们来清除 blockers
-- **等待被管理** - 最 senior 的人之所以到那里，是因为很擅长 managing up。这是 proactive skill，不是怨气
+- **立即做出“不”的反应** - 在您聆听根本目标或提出澄清问题之前，这会产生本能的反对。
+- **隐藏的挣扎** - 领导者经常让他们的团队孤立地挣扎太久，而不是利用内部专家来解锁进展。
+- **忽略主角陷阱** - 专注于自己的职业叙述，而不是将自己视为组织更大使命的贡献者，会导致摩擦。
+- **仅在出现问题时进行沟通** - 这会产生被动反应，并使经理对团队的进展感到焦虑。
 
-## Deep Dive
+## 深入探讨
 
-所有来自 35 位嘉宾的 50 条洞察见 `references/guest-insights.md`
+有关 21 位来宾的所有 31 条见解，请参阅 `references/guest-insights.md`
 
-## 相关 Skills
+## 相关skill
 
-- Running Effective 1:1s
-- Having Difficult Conversations
-- Stakeholder Alignment
-- Written Communication
+- 产品评论
+- 执行沟通
+- 召开会议
+- 书面沟通

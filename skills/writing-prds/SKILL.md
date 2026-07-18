@@ -1,74 +1,94 @@
 ---
 name: writing-prds
-description: 帮助用户撰写有效 PRD。Use when someone is documenting product requirements, preparing specs for engineering, writing feature briefs, or defining what to build for their team.
+description: 帮助用户将抽象的想法转化为可操作的项目规范，使工程和设计团队在问题和成功指标上保持一致。
 ---
 
-# Writing PRDs
+# 编写PRD
 
-使用来自 11 位产品领导者的框架和洞察，帮助用户撰写有效的 product requirements documents。
+定义明确的问题和有限的解决方案，以最大限度地提高团队速度和创造性产出。
+
+利用 14 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户编写PRD。
 
 ## 如何提供帮助
 
-当用户请求 PRD 相关帮助时：
-
-1. **从 why 开始** - 在讨论功能前，询问正在解决什么问题，以及为什么现在重要
-2. **提前定义 success** - 帮助用户说清楚他们如何判断 feature 成功
-3. **选择合适格式** - 讨论他们需要传统文档、prototype，还是 executable evals
-4. **保持可行动** - 确保文档能引导团队采取清晰行动，而不只是留下记录
+1. **起草核心问题** - 协助阐明简洁的问题陈述，该陈述与任何具体解决方案无关。
+2. **建立成功指标** - 帮助定义具体的、可衡量的结果，这些结果将充当未来功能请求的过滤器。
+3. **定义项目边界** - 引导用户使用塑造技术将模糊请求缩小为有界概念。
+4. **审查清晰度** - 审核现有草案的简洁性、可读性和技术意识，以防止微观管理。
 
 ## 核心原则
 
-### 以问题和上下文开头
-Maggie Crowley: "The most important section is the first part - what is the background and context? What is the problem, why does it matter, and why does it matter now?" 在讨论方案前，先让团队围绕 "why" 和紧迫性对齐。
+### 功能原型设计
+Jenny Wen: "We used to go off and make this two-year, five-year, 10-year vision even. Now it becomes a vision that's three to six months out, and isn't necessarily creating this beautiful deck, sometimes just creating a prototype that points people in the right direction."
 
-### PR/FAQ 会强迫你变清晰
-Bill Carr: "Whenever we're devising a new product, we start by writing a press release describing it in a way that speaks to the customer. The idea better jump off the page." 用 PR 以事实和数据充分的语言描述 customer、problem 和 solution。
+设计应侧重于短期功能原型设计，而不是静态的长期规划，以跟上AI驱动的工程速度。
 
-### AI 时代，demos before memos
-Aparna Chennapragada: "If you're not prototyping and building to see what you want to build, you're doing it wrong. Prompt sets are the new PRDs." 对 AI features，把 functional prototypes 和 prompt sets 纳入核心 requirements。
+### 尽早确定项目边界
+Ryan Singer: "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, "We understand that." So the first thing is we are not going to start something unless we can see the end from the beginning."
 
-### Evals 可以成为 living PRDs
-Hamel Husain & Shreya Shankar: "This is the purest sense of what a product requirements document should be - this eval judge that's telling you exactly what it should be, and it's automatic and running constantly." 将 AI 产品需求翻译成可执行、持续运行的 evaluations。
+在开发开始之前，与设计和工程部门进行高强度的协作会议，以建立对边界的共同理解。
 
-### 为行动保持轻量
-Eric Simons: "We tend to keep them pretty light. I like to have the minimal amount of context that ensures everyone's on the same page and that key outcomes will be present when we get there." 聚焦 key outcomes，不要写开发者不会阅读的穷尽细节。
+### 集中解决问题的文档
+From "Examples and templates of 1-Pagers and PRDs": "Problem-oriented: They crystallize the problem being solved in a few strong sentences—ideally near the top of the document—to focus the brainpower of every teammate in the same direction."
 
-### PRDs 展示 craft
-Vikrama Dhiman: "Is your PRD quality good enough? Are you writing drafts that go to care teams, marketing teams? You must have impact through the artifacts you work on." 高质量 PRD 展示专业 craft，并在规模化协作中创造清晰度。
+成功的 PRD 从明确定义的问题和具体的成功指标开始，以确保团队在“为什么”和“做什么”之间保持一致。
 
-### AI 可以搭建基础脚手架
-Claire Vo: "I had used ChatGPT to come up with a very serviceable PRD spec for this very technical product." 用 AI 生成 user stories、out-of-scope items 等基础内容，然后把精力放在高阶 strategy 和 narrative 上。
+### 通过简洁强制清晰
+From "My favorite product management templates": "A reminder of how valuable it is to keep these to one page, at least to start"
 
-### Live PRDs 减少歧义
-Guillermo Rauch: "The product management team is now actually building the product. We've specced out in v0, think of it as a live PRD. The amount of detail - we're all saying 'just ship it.'" 交互式、带动画的 prototypes 能减少歧义，并加速审批。
+将初始项目文档限制在一页内可以迫使团队专注于核心目标，并有助于防止早期的复杂性。
 
-### 包含 "Why Now"
-说明为什么现在要投入，而不是把资源投向其他机会。如果你无法解释为什么现在比以后更重要，这个优先级就会被质疑。
+### 文档从混乱走向清晰
+Melanie Perkins: "So we have this concept of chaos to clarity and every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity. And so chaos can be an idea, it can be a problem, it can be a philosophy or a belief."
+
+写下抽象的想法是将无定形概念转化为可操作项目的第一步。
+
+### 避免创造性的微观管理
+From "Five habits of highly annoying product managers": "There’s a fine line between articulating the important details of a project spec and spending three pages explaining one button. This annoying habit can apply to both the beginning of a project, telling designers and engineers exactly how a feature needs to work, and also at the end when you spec out each feature for days."
+
+过度指定功能会扼杀工程师和设计师的创造力。文档应该促进对话而不是取代对话。
+
+### 利用 AI 实现技术写作自动化
+From "How AI will impact product management": "Describe what you want in human language, get an 80% complete draft, refine it, and then ship. This is already happening with tools like ChatPRD."
+
+使用AI工具生成大部分技术文档，以便产品经理可以专注于最终的改进和战略细微差别。
+
+## 模板和框架
+
+- **Lenny 的 1-Pager 模板**（1-Pagers 和 PRD 的示例和模板）- Lenny 的个人模板在他开始新项目时使用
+- **优秀 1-Pager/PRD 的 5 个要素**（1-Pager 和 PRD 的示例和模板）- 使产品规范有效的评估标准，可用于编写和审查 PRD
+- **AI 提示：编写 PRD** （产品经理是一个不公平的角色。因此工作不公平。） - ChatGPT 提示模板（GPT-4o 及更高版本），用于通过语音转文本来指示上下文来起草 PRD。
+- **面包板和脂肪标记草图** (Ryan Singer) - 两种用于塑造会话的协作技术，比线框更详细，但不如 Figma 精致 - 旨在清晰地传达想法
+- **关于 PRD 和功能工作的技术 PM 问题**（成为技术性更强的产品经理）- PM 在编写 PRD 或开发功能时应提出的问题，以展示技术意识并改善协作
+- **强有力的问题陈述的五个属性**（解决问题的三步框架👌） - 评估问题陈述是否精心设计的标准，在编写单页纸的问题部分时使用。
+- **PRD 审查清单（源自 Lenny 的批评）**（1-Pagers 和 PRD 的示例和模板）- 源自 Lenny 对四个现实世界示例的评估的清单，确定了要检查的常见陷阱
+- **Duolingo 单页模板**（Duolingo 如何构建产品）- Duolingo 用于早期产品审核单页模板，以获取有关功能想法的反馈
+
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 帮助用户的问题
 
-- "这个功能解决什么问题，为什么现在重要？"
-- "你如何判断这个 feature 成功了，哪个 metric 会变化？"
-- "客户是谁？这个东西上线后，他们的生活会变成什么样？"
-- "为了避免 scope creep，哪些内容明确不在范围内？"
-- "你能不能先做一个 quick prototype，而不是写更多文档？"
-- "还有哪些关键决策尚未做出？"
+- “这个项目为用户解决的最重要的问题是什么？”
+- “我们将使用哪些具体指标来确定该项目是否成功？”
+- “哪些功能或任务明确超出了此版本的范围？”
+- “我们已经收集了工程部门关于技术限制的反馈了吗？”
+- “在我们继续前进之前，我们愿意花多少时间来解决这个问题？”
+- “这份文件是否足够简短，以至于整个团队都会真正阅读它？”
 
-## 需要提醒的常见错误
+## 标记的常见错误
 
-- **从 solution 开始** - 文档应该先讲 problem 和 context
-- **没有 success criteria** - 每个 PRD 都需要清晰说明如何衡量成功
-- **细节过度穷尽** - 聚焦 outcomes 的轻量 PRD 更可能被阅读和使用
-- **prototype 更适合时仍写静态文档** - 对 AI 和 UI 工作，live prototypes 往往比文字表达更多
-- **缺少 "Why Now"** - 没有紧迫性说明时，优先级会被质疑
+- **使用“just”这个词** - 它会削弱工程师的专业知识，并有可能让他们因不切实际的快速修复承诺而精疲力尽。
+- **过早的高保真模拟** - 它在团队充分探索问题空间或技术限制之前将其固定在特定的解决方案上。
+- **忽略非目标** - 未能确定您不构建的内容会导致范围蔓延并失去对主要问题的关注。
+- **瀑布式交接** - 将设计师和工程师排除在早期规划之外会导致效率低下并错失创新机会。
 
-## Deep Dive
+## 深入探讨
 
-所有来自 11 位嘉宾的 14 条洞察见 `references/guest-insights.md`
+有关 14 位嘉宾的全部 24 条见解，请参阅 `references/guest-insights.md`
 
-## 相关 Skills
+## 相关skill
 
-- Writing Specs & Designs
-- Working Backwards
-- Stakeholder Alignment
-- Shipping Products
+- 交付速度
+- AI辅助原型设计
+- 与AI代理一起构建
+- 产品工具栈

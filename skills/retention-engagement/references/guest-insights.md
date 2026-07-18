@@ -1,621 +1,843 @@
-# Retention & Engagement - 所有嘉宾洞察
+> **中文阅读说明：** 本文件保留经来源核验的英文引文与出处，避免改写原意。对应的中文工作流、原则与提问方式见 `../SKILL.md`；引用时请保留英文原文，分析与行动建议使用中文。
 
-*29 位嘉宾，47 次提及*
+# Retention and Engagement Mastery - All Guest Insights
+
+*17 sources, 68 insights*
 
 ---
 
 ## Albert Cheng
-*Albert Cheng*
 
 > "User retention is gold for consumer subscription companies. If you don't retain your users, then a lot of the onus is on getting them to pay on day one."
 
-**洞察：** Retention 是 consumer subscriptions 成功的 primary driver，因为它降低了 immediate monetization 的压力。
+**Insight:** Sustainable subscription growth is built on a foundation of high user retention rather than relying on aggressive day-one monetization.
 
-**战术建议：**
-- 在 aggressive day-one upselling 前，先聚焦 retention。
+**Tactical advice:**
+- Flip discouraging product moments, such as a loss or failure, into encouraging learning experiences that keep users engaged.
+- Focus on the 'lived product experience' to ensure users are consistently connecting to the product's core value.
+- Identify 'cold patterns'—common drop-off points—and re-engineer them to offer positive reinforcement or encouragement.
 
-*时间戳：00:00:18*
-
----
-
-> "When you lose a game now as opposed to surfacing your blunders and your horrible stuff that you did, we flip it on its head and so we show you your brilliant moves, your best moves, and we have coach say something encouraging, 'Losing, just part of learning, keep it up.' That type of thing. That change alone was pretty dramatic for us. It grew game reviews by 25%, subscriptions by 20%, user retention by a lot as well."
-
-**洞察：** Failure（如 losing a game）后的 positive reinforcement，相比 highlighting mistakes，可以显著 improve engagement 和 retention。
-
-**战术建议：**
-- Audit product feedback loops，确保 user failure 后的反馈是 encouraging，而不是 discouraging。
-- 即使在 losing context 中，也 surface 'brilliant moves' 或 successes。
-
-*时间戳：00:12:04*
+*Source: [How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)](https://www.youtube.com/watch?v=2BKmNmnEj9w) @ 00:28:31*
 
 ---
 
-> "I think when you have your D one retention somewhere around the 30 or 40% mark, that's quite solid I think for a consumer app. If it's much lower than that, then sometimes I might question the intent of the user or the ability for that, you to I guess acquire just mathematically acquire enough users such that you can grow a big enough daily active user base."
+## Bob Moesta
 
-**洞察：** 30-40% 的 Day 1 retention rate 是 consumer applications sustain growth 的 healthy benchmark。
+> "And so I would literally sell them a condo, they'd go from a 3000 square foot home to a 1500 square foot condo and they'd cancel six weeks later because they didn't know how to get rid of all their stuff, which is a frictional point."
 
-**战术建议：**
-- 使用 30-40% 的 Day 1 retention benchmark 来 validate product-market fit 和 acquisition scalability。
+**Insight:** Churn is often driven by unresolved friction or anxieties in the transition process that prevent a customer from achieving their desired progress.
 
-*时间戳：00:29:42*
+**Tactical advice:**
+- Interview former customers specifically to identify the 'frictional coefficient' that caused them to cancel.
+- Develop secondary services or features that address the logistical hurdles of leaving an old habit or product.
+- Monitor the 'waterline' of behavior—if the anxiety of the new or habit of the present outweighs the benefits, users will leave.
 
----
-
-> "It's actually worth spending some time making sure that that resurrected, for lack of a better word, experience inside the product is really excellent and that you find novel ways to try to bring them back."
-
-**洞察：** 对 mature products，dormant users pool 往往大于 new users，因此 resurrection 是 high-leverage growth lever。
-
-**战术建议：**
-- 创建 specific 'resurrected user experience'，帮助 returning users catch up 或 re-onboard。
-- 使用 social notifications（例如 'your friend joined'）trigger resurrection。
-
-*时间戳：00:33:00*
+*Source: [The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)](https://www.youtube.com/watch?v=xQV7HVyAJjc) @ 00:35:11*
 
 ---
-
-> "Jorge actually had this model of gamification patterns having essentially three pillars to it. You have the core loop, you have the metagame, and then you have the profile."
-
-**洞察：** Effective gamification 需要 tight core loop、用于 motivation 的 long-term metagame，以及能反映 user investment 的 profile。
-
-**战术建议：**
-- Build 能 reward daily habits 的 core loop。
-- 实施用于 long-term striving 的 metagame（如 leaderboards 或 paths）。
-- 确保 user profile 反映其 accumulated progress 和 investment。
-
-*时间戳：01:05:08*
-
-
-## Alexander Embiricos
-*Alexander Embiricos*
-
-> "One of the things that I'm constantly reminding myself of is that a tool like Codex naturally is a tool that you would become a power user of... it's just critically important to go look at your D7 retention. Just go try the product, sign up from scratch again."
-
-**洞察：** 对 AI tools，Day 7 retention 是 critical health metric，用来确认 product 提供的是 immediate、repeatable value，而不只是 novelty。
-
-**战术建议：**
-- 将 D7 retention 作为 primary success metric
-- 定期从 scratch sign up，dogfood 'first-mile' experience，识别 onboarding friction
-
-*时间戳：00:55:51*
-
-
-## Aishwarya Naresh Reganti + Kiriti Badam
-*Aishwarya Naresh Reganti + Kiriti Badam*
-
-> "In ChatGPT, if you are liking the answer, you can actually give a thumbs up. Or if you don't like the answer, sometimes customers don't give you thumbs down, but actually regenerate the answer. So that is a clear indication that the initial answer that regenerator is not meeting the customer's expectation. So these are the kind of implicit signals you always need to think about."
-
-**洞察：** 在 AI products 中，'regenerations' 等 implicit signals 往往比 'thumbs down' 这类 explicit feedback 更准确地指示 user dissatisfaction。
-
-**战术建议：**
-- 将 'regeneration' rates 作为 response quality 的 key metric 监控。
-- Track implicit user signals，识别 product 未能 meet expectations 的地方。
-
-*时间戳：00:33:47*
-
-
-## Archie Abrams
-*Archie Abrams*
-
-> "The way we think about churn is really going back to Shopify as a kind of our mission and what we want to do, which is to increase the amount of entrepreneurship on the internet. And so as a business, we want to make it as easy as possible to get started with your online store, with your business. But most businesses do ultimately fail. And so the way we look at it is can we lower the barriers to getting started and get as many people in the door trying their hand at entrepreneurship?"
-
-**洞察：** 如果 monetization model 能从少数 successful 'winners' 中 capture massive value，那么 high churn 可以是 lower barriers to entry mission 的 acceptable byproduct。
-
-**战术建议：**
-- Lower barriers to entry，最大化尝试 use product 的 users 数量。
-- 聚焦 power-law metrics（如 total GMV per cohort），而不是 average per-user retention。
-
-*时间戳：00:06:48*
-
----
-
-> "The simplest way to increase my signup to activated thing is just make it harder to sign up. Nuts and bolts, that will always happen is when you have teams on that local conversion rates, you get all these weird team incentives, because they're optimizing to basically implicitly make it harder to do the step before them."
-
-**洞察：** Optimizing for local conversion rates 常会创造 perverse incentives，让 teams restrict top of funnel，以确保只有 high-intent users 通过。
-
-**战术建议：**
-- 监控 conversion rate improvements 是否以 previous funnel step 的 total volume 为代价。
-- 基于 reaching milestone 的 users absolute number 激励 teams，而不是 percentage rate。
-
-*时间戳：00:25:27*
-
-
-## Bangaly Kaba
-*Bangaly Kaba*
-
-> "It turned out that what was happening anecdotally is that people were revving up Instagram, following a bunch of people, following a lot of celebrities... and then when they actually went to make their first post... none of their friends were following them. And so there was posting into an echo chamber."
-
-**洞察：** Retention 由 early social validation 驱动；确保 new users 连接 real-world friends，而不只是 high-profile accounts。
-
-**战术建议：**
-- 在 onboarding flow 中优先 human-to-human connections，确保 users 的 first posts 能收到 likes 和 comments。
-- 通过 trusted devices 或 saved credentials 让 users 更容易 log back in，减少 'account access churn'。
-
-*时间戳：01:18:00*
-
 
 ## Crystal W
-*Crystal W*
 
-> "If it's a free product, 60%. It has to be at least 60%. If it's a free product, we go over a week. If it's a paid product, I usually look at that more as maybe 20 to 30%."
+> "Well, based on our data about a third of people will consider switching to another company after just one bad experience during onboarding. So if your CSV importer doesn't work right, which is super common, considering customer files are chalked full of unexpected data and formatting, they'll leave."
 
-**洞察：** High-performing free consumer products 应以 60% week-one retention benchmark 为目标。
+**Insight:** Onboarding is a critical driver of long-term retention because users are highly likely to abandon a product after a single point of friction during their initial setup.
 
-**战术建议：**
-- 将 friends and family 中 80% retention 作为 early signal
-- 寻找 conversion 前一步，识别 highest leverage friction points
-- 实施 'pause' 或 'snooze' features，在 users feel overwhelmed 时防止 permanent churn
+**Tactical advice:**
+- Eliminate technical friction in onboarding by ensuring tools like data importers are robust enough to handle messy real-world data.
+- Prioritize getting users to the 'aha moment' as quickly and reliably as possible to secure early commitment.
+- Focus on onboarding as a high-leverage opportunity for both signup conversion and increasing long-term retention.
 
-*时间戳：00:25:32*
-
-
-## Dylan Field
-*Dylan Field 2.0*
-
-> "I think it is important to get someone into a product and very quickly have them experience some special sauce, something that's amazing about the product... shortening the time to scene and having that incredible moment and seeing the true value of the product."
-
-**洞察：** 通过快速让 users 体验 product 的 'special sauce' 来 shortening 'time to value'，对 activation 至关重要。
-
-**战术建议：**
-- 识别 'special sauce' moment，并将其移动到 user journey 更早的位置
-- 使用 collaborative 'multiplayer' moments 快速 demonstrate value
-
-*时间戳：00:39:52*
+*Source: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu @ 00:18:29*
 
 ---
 
-> "Specific things that he's encouraged us to focus on are not just innovative features but a consistent emphasis on fixing the blocking issues that might prevent a user from adopting... removing the blockers is as important for retaining users as adding cool new stuff."
+## Dan Hockenmaier
 
-**洞察：** Removing adoption blockers 对 retention 的重要性不亚于 adding new features。
+> "Second would be retention. So at what rate are these customers activating? And then have some kind of basic monthly retention curve. So how long are they staying around? What's the survival rate in each of these? And those kind of stack over time."
 
-**战术建议：**
-- 创建 dedicated 'Blockers' team，systematically remove friction points
-- Monitor metrics，观察 striking down individual blockers 如何 improve activation
+**Insight:** Measuring retention effectively requires tracking both the initial activation rate and the long-term survival curve of user cohorts.
 
-*时间戳：00:42:08*
+**Tactical advice:**
+- Define a clear activation metric to measure how many users successfully find value.
+- Map out a monthly retention curve to track the survival rate of different user cohorts over time.
+- Stack retained cohorts chronologically to visualize the compounding effect on total growth.
 
-
-## Elena Verna
-*Elena Verna 2.0*
-
-> "It was 12 months plus of usage that had to happen before sales contracts can be created on sustainable way... it takes a year of usage to escalate the problem from individual to a company-level solution."
-
-**洞察：** 从 individual product usage 过渡到 enterprise-level contract 是 long-term cycle，通常需要一年。
-
-**战术建议：**
-- Measure 从 first sign-up 到 enterprise contract 的时间，设置 realistic sales expectations
-- 将 'admin switches' 或访问 'terms of use' pages 等 behavioral signals 作为 high-intent indicators 监控
-
-*时间戳：01:10:02*
+*Source: [Developing a growth model + marketplace growth strategy | Dan Hockenmaier (Faire, Thumbtack, Reforge)](https://www.youtube.com/watch?v=AlTQ6O2qooI) @ 00:16:00*
 
 ---
 
-> "Growth teams are often too obsessed about removing friction... just removing steps or yanking or simplifying things to an oblivion where you lose an identity of what you even do or what you're capable of doing is a completely failed growth tactic."
+## Hila Qu
 
-**洞察：** Removing friction 只有在解决 user confusion 时才有效；over-simplification 可能剥离 product 的 value 和 identity。
+**Insight:** Retention is built when a product embeds itself into existing workflows so seamlessly that users encounter and use it before they even realize they've become customers.
 
-**战术建议：**
-- 聚焦 reducing 'cognitive load'（confusion），而不只是 flow 中 steps 的数量。
-- 避免将 'simplifying onboarding' 作为 standalone goal；确保它解决 lack of education 或 user drop-off 等 specific problem。
+**Tactical advice:**
+- Identify high-frequency use cases that allow your product to become an 'everyday' tool for the end consumer.
+- Create organic discovery loops, such as webinars or shared links, that pull users back into the product naturally.
+- Design your product for the end-user's daily habits rather than just for the buyer's administrative needs.
 
-*时间戳：01:13:03*
-
-
-## Gia Laudi
-*Gia Laudi*
-
-> "Recurring revenue businesses, you cannot think about marketing and growth and the business overall as ending an acquisition, otherwise you're not in business anymore. And the vast, vast majority of these models don't take post-acquisition, retention, expansion, all of that into account."
-
-**洞察：** 在 SaaS 中，growth strategy 必须覆盖 entire lifecycle，包括 post-acquisition retention 和 expansion，而不是停在 point of sale。
-
-**战术建议：**
-- 将 post-acquisition metrics 纳入 growth model
-- 将 retention 和 expansion 作为 marketing 与 growth function 的 core components
-
-*时间戳：00:00:45*
+*Source: [The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)](https://www.youtube.com/watch?v=7l1fIxk7SnA) @ 00:56:08*
 
 ---
-
-> "The only way to catch them if they fall is if you're measuring something meaningful along the way. We have that storyboard that we were talking about. We also have a map where it's the experience to get them to a certain value moment, but then that win back experience to get them back in should they fall out for any reason."
-
-**洞察：** Effective retention 需要 map 由 measurable engagement milestones 的 specific drops 触发的 'win-back' experiences。
-
-**战术建议：**
-- 创建 proactive customer experiences（in-app 或 email），guide users to value
-- 为未能 reach specific milestones 的 users 设计 reactive 'win-back' flows
-
-*时间戳：00:42:55*
-
-
-## Gina Gotthilf
-*Gina Gotthilf*
-
-> "I really believe that... the most important thing for the growth of anything tech, maybe in general, is retention. Of course, you need acquisition, but retention is important. And I simplify it a little bit because retention, I don't think of it in terms of like, wow, I must retain this user. It's like, is this thing valuable or not? That's what retention is to me. Either it's actually providing real value or it's not. If it's providing real value, people stick around. It's as simple as that."
-
-**洞察：** Retention 是 product value 的 ultimate metric；如果 users don't stay，product 就没有 solving real problem。
-
-**战术建议：**
-- 将 retention 视为 product-market fit 和 core value 的 proxy。
-- 相比 simply acquiring more users，优先 understanding why users leave。
-
-*时间戳：00:31:38*
-
 
 ## Jackson Shuttleworth
-*Jackson Shuttleworth*
 
-> "What Duolingo really focuses on is, how do we help users build habits around language learning? Getting user come back the next day is the biggest problem to solve."
+> "Streaks is the most impactful feature. We have, right now, over 9 million users with a year plus streak. If you look at the numbers, I think it's been our biggest growth lever. What Duolingo really focuses on is, how do we help users build habits around language learning?"
 
-**洞察：** Habit formation 是 learning products 中 long-term retention 的 core driver。
+**Insight:** Implementing a streak mechanic creates a sense of loss aversion that motivates users to return daily to protect their progress and solidify long-term habits.
 
-**战术建议：**
-- 将 daily return 作为 primary problem to solve。
+**Tactical advice:**
+- Identify the 'unit of use' for your app and tie the streak mechanic to that single, repeatable action.
+- Build flexibility into the feature using 'streak freezes' to act as insurance against accidental breaks.
+- Layer challenges, rewards, and social features on top of the core streak to keep the mechanic engaging over time.
 
-*时间戳：00:00:00*
-
----
-
-> "We've looked at the data for our retention curves, and what we found is that once you get to seven days, loss aversion kicks in, and you retain. So, going from a one to a two-day streak, huge jump in retention, two to three day streak, slightly less but still huge and it's up until day seven. Once you hit day seven, it flans out."
-
-**洞察：** 一旦 user 达到 seven-day milestone，loss aversion 就会成为 powerful retention lever。
-
-**战术建议：**
-- 将 disproportionate experimentation 聚焦在 zero-to-seven day user experience。
-- 使用 seven-day mark 作为 'locking in' user behavior 的 target。
-
-*时间戳：00:19:13*
+*Source: [Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)](https://www.youtube.com/watch?v=_CCwoQZH5hI) @ 00:06:10*
 
 ---
 
-> "The metric that is most effective, where a percentage change in that metric is most effective at driving DAUs is current user retention rate (CURR). And this is just users who are not new or resurrected, getting them to come back tomorrow."
+> "Us sending better, whether it's copy or timing, so many of our notifications work because they reference the streak, because users care about the streak. And so, not only is it itself, us iterating on the streak a huge driver of DAUs, but it's also something that enables other really high valuable features."
 
-**洞察：** Current user retention rate 是 driving overall DAU growth 最 sensitive 的 lever。
+**Insight:** Push notifications are most effective when they reference a specific metric or status that the user has already invested in emotionally, such as a multi-day streak.
 
-**战术建议：**
-- 为 sustainable growth，相比 new user acquisition 或 resurrection，优先 CURR。
+**Tactical advice:**
+- Incorporate high-value user progress markers directly into notification copy to increase relevance.
+- Experiment with both timing and framing to ensure reminders are welcomed rather than perceived as spam.
+- Use notifications to tie different app features together by anchoring them to a central engagement mechanic.
 
-*时间戳：00:35:50*
+*Source: [Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)](https://www.youtube.com/watch?v=_CCwoQZH5hI) @ 00:54:56*
 
+---
 
-## John Cutler
-*John Cutler*
+## Jason Cohen
 
-> "Our CS team developed 110-page bulk of research from working directly with customers around retention engagement, then we had a PM and a great content writer, Archana, zero in and kind of make it palatable, then we did ARC for it. So, it didn't just magically appear... It's a company filled with passionate experts of these things, and it was like tested, iterated, tested, iterated, expanded, tested, put into motion, put into practice."
+> "There's a maximum ceiling of how big you could ever be thanks to cancellations. And when you know what that number is, it's much more real and visceral and scary."
 
-**洞察：** Retention 和 engagement 的 deep expertise 来自 massive、iterative research projects，将 customer success insights 与 product management 结合。
+**Insight:** High churn rates create a mathematical ceiling on a company's total size that marketing efforts alone cannot overcome.
 
-*时间戳：00:13:17*
+**Tactical advice:**
+- Calculate the maximum growth ceiling dictated by your current cancellation rate.
+- Treat any monthly logo churn rate above 3% as a critical product failure.
+- Analyze the emotional journey a customer took to reach your product to understand why they are ultimately leaving.
 
+*Source: [5 questions to ask when your product stops growing | Jason Cohen (2x unicorn founder)](https://www.youtube.com/watch?v=8xLquwfx6p0) @ 00:11:36*
 
-## Jules Walter
-*Jules Walter*
+---
 
-> "I was able to ship changes in the new user experience, especially on mobile. That moved the needle by a lot, like double-digit percentages... We're talking about top line metrics like activation."
+## Josh Miller
 
-**洞察：** 聚焦 mobile onboarding experience，可以 drive user activation metrics 的 double-digit improvements。
+> "We really focus on one key metric as it relates to tracking our growth or how we are doing. We call it D5, D7. A lot of other companies call it L5, L7. But the human explanation for that is how many people turn to Arc at least five days a week?"
 
-**战术建议：**
-- Prioritize new user experience（onboarding），影响 top-line activation。
-- 将 growth frameworks 专门应用到 mobile user flows，找到 high-leverage improvements。
+**Insight:** Use a high-frequency usage metric like "five out of seven days" to simultaneously track retention, engagement, and growth in a way that is difficult to game.
 
-*时间戳：00:08:14*
+**Tactical advice:**
+- Track a "D5, D7" metric to identify users who return at least five days a week.
+- Focus on week-over-week growth rates rather than absolute user counts to measure momentum.
+- Monitor retention curves cohort-by-cohort to ensure product value is increasing as the user base expands.
 
+*Source: [Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)](https://www.youtube.com/watch?v=AZpo5785v8A) @ 00:05:15*
 
-## Kayvon Beykpour
-*Kayvon Beykpour*
+---
 
-> "The reason that the Periscope app failed, it really comes down to a few things. One, we did not address the core problem that retention wasn't good. Our poor retention was mapped by just an incredible surge in top-line user growth."
+## Julian Shapiro
 
-**洞察：** Explosive top-line growth 可能危险地 mask underlying retention issues。
+**Insight:** 
 
-**战术建议：**
-- 即使在 massive user acquisition 阶段，也要 prioritize fixing retention issues。
+*Source: [Growth tactics, retention strategies, and becoming a better writer | Julian Shapiro (Demand Curve, Hyper, Webflow, TechCrunch)](https://www.youtube.com/watch?v=9cNRDWEXnrQ) @ 30:01*
 
-*时间戳：01:01:14*
-
+---
 
 ## Kristen Berman
-*Kristen Berman*
 
-> "I've consistently seen that improving onboarding is one of the highest leverage opportunities for both signup conversion and increasing long term retention. Getting people to your aha moment more quickly and reliably is so incredibly important."
+**Insight:** Effective behavior change requires redesigning the environment to shift concrete actions rather than relying on changing a user's attitudes or long-term goals.
 
-**洞察：** Onboarding 通过 accelerating time to value，是 initial conversion 和 long-term retention 的 critical lever。
+**Tactical advice:**
+- Redesign the product environment to make the desired behavior the default or easiest choice.
+- Focus product interventions on changing immediate actions instead of trying to influence abstract preferences.
+- Map out the specific logistical steps required to ensure the target behavior is physically and cognitively possible.
 
-**战术建议：**
-- 聚焦让 users quickly and reliably 到达 'aha moment'。
-
-*时间戳：02:26*
-
----
-
-> "We are all present bias, which means we prioritize our present self over our future self, so there are plenty of reasons that somebody, your customer, your user should take an action, but you actually have to give them a reason to take an action today."
-
-**洞察：** 要 drive engagement，products 必须提供 immediate benefits 来满足 user present bias，而不只是 long-term value。
-
-**战术建议：**
-- Build completion checkboxes 或 social notifications 等 immediate rewards，提供 instant gratification。
-
-*时间戳：22:30*
+*Source: [Using behavioral science to improve your product | Kristen Berman (Irrational Labs)](https://www.youtube.com/watch?v=u53fplD_C30) @ 00:18:21*
 
 ---
 
-> "When you want to get somebody to do something more, you make it easier. When you want someone to do something less, you make it... Put up barriers."
+**Insight:** Introducing intentional friction can reduce harmful impulsive actions by forcing users out of a 'hot state' and into a more deliberative mental process.
 
-**洞察：** 为减少 negative user behaviors（如 sharing misinformation），引入 intentional friction 或 'barriers'。
+**Tactical advice:**
+- Identify high-velocity actions driven by emotion where users would benefit from slowing down.
+- Introduce deliberate hurdles or circuit breakers to force a moment of reflection before an action is completed.
+- Measure the reduction in unwanted behavior frequency resulting from added strategic friction.
 
-**战术建议：**
-- 使用 'Are you sure?' popups 或 labels，让 users 在 'hot state' 中 slow down。
-- 引入 logistical friction，将 users redirect 到 better behaviors。
+*Source: [Using behavioral science to improve your product | Kristen Berman (Irrational Labs)](https://www.youtube.com/watch?v=u53fplD_C30) @ 00:29:32*
 
-*时间戳：30:36*
+---
 
+**Insight:** To drive completion of tedious but beneficial tasks, products can utilize immediate rewards or temptation bundling to bridge the gap between effort and reward.
 
-## Laura Schaffer
-*Laura Schaffer*
+**Tactical advice:**
+- Bundle immediate, unrelated rewards with the completion of necessary long-term tasks.
+- Reduce the cognitive energy required for tedious tasks by using defaults or simple rules of thumb.
+- Highlight immediate progress and rewards to overcome a user's natural present bias.
 
-> "The analogy I have for this is pilling a hot dog. So if anyone's got a dog or an animal you have to feed a pill to, it's like you can't just feed the pill to the animal, it's never going to happen. But if you shove it inside of a hot dog, which looks good and that's exciting, then you can get them to consume it more easily."
+*Source: [Using behavioral science to improve your product | Kristen Berman (Irrational Labs)](https://www.youtube.com/watch?v=u53fplD_C30) @ 00:40:11*
 
-**洞察：** 通过将 intimidating but necessary steps 嵌入 familiar、'safe' experiences 中，improve onboarding conversion。
+---
 
-**战术建议：**
-- 识别 'bogeyman'，也就是 psychologically trip up users 的 specific step
-- 将 scary technical tasks（如 configuring a phone number）埋入 comfortable environments（如 documentation）中
-- 相比 setup steps 的 logical sequence，优先 user 的 psychological readiness
+## Lenny Rachitsky
 
-*时间戳：00:32:53*
+> "The first consistently effective way to increase engagement with a feature is by reducing the friction associated with using it. This includes reducing the number of steps, reducing the effort to complete each step, and reducing how much we need to learn before we can really use it (i.e. reducing the “cognitive load”)."
 
+**Insight:** Removing friction from core user flows allows users to realize the full value of a feature that they might have otherwise abandoned mid-process.
 
-## Lauryn Isford
-*Lauryn Isford*
+**Tactical advice:**
+- Map out every step in a key feature flow and eliminate any that are not strictly necessary.
+- Minimize the physical and mental effort required to complete each individual step in the process.
+- Reduce cognitive load by simplifying instructions and decreasing the amount of new knowledge users need to acquire.
 
-> "Onboarding is that first really important choke point that from which downstream of onboarding so many important metrics and results flow for the business, from converting someone to a paid customer to closing a deal to growing, how many people in an organization are using your product. So, all of that really comes back to onboarding and if you can get that right, lots of good things will follow."
+*Source: [How to accelerate growth by focusing on the features you already have](https://www.lennysnewsletter.com/p/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have)*
 
-**洞察：** User onboarding 是最 critical growth lever，因为它决定所有 downstream retention 和 monetization metrics。
+---
 
-**战术建议：**
-- 将 onboarding 视为 long-term retention 的 primary gateway
-- 聚焦在 initial user experience 中 reducing cognitive load
-- 让 onboarding goals 与 user desired outcome 对齐，而不是 business feature list
+**Insight:** Retention is the most critical growth lever because no amount of acquisition can sustain a business where users do not find enough value to stay.
 
-*时间戳：00:12:22*
+**Tactical advice:**
+- Improve the core product by solving the customer's problem significantly better.
+- Optimize the onboarding experience to connect users to existing value faster.
+- Analyze cohort retention curves to identify where user interest flattens.
 
+*Source: [How to increase your retention](https://www.lennysnewsletter.com/p/how-to-increase-your-retention)*
 
-## Madhavan Ramanujam
-*Madhavan Ramanujam 2.0*
+---
 
-> "To stop churn, you need to attract customers who won't leave. That sounds counterintuitive, but that's the best way to actually stop churn... The way to stop churn is to start acquiring customers who won't leave. And that is the most important thing. So if you look back at your data and say, 'Who are the types of customers who actually tend to stay longer?'"
+> "As Brian Balfour pointed out, “if you have poor retention, nothing else matters.” As you’ll see in the examples below, it is certainly possible to increase retention, and when you can pull it off it’s often the biggest lever you have to grow your business."
 
-**洞察：** Manage churn 最有效的方式是 'top-of-funnel' retention，也就是 acquiring 天然 higher stickiness 的 specific customer segments。
+**Insight:** Improving retention is the single most critical growth lever because a business cannot scale effectively if it is losing the users it acquires.
 
-**战术建议：**
-- Analyze historical data，识别 long-term、loyal customers 的 characteristics
-- 将 acquisition spend 聚焦在 naturally high retention rates 的 segments 上
+**Tactical advice:**
+- Improve the core product to solve customer problems significantly better or cheaper.
+- Optimize onboarding to connect more users to the existing value you have already created.
+- Implement stickiness strategies like building habits, creating incentives, or offering annual plans.
 
-*时间戳：00:56:29*
+*Source: [How to increase your product's retention](https://www.lennysnewsletter.com/p/how-to-increase-your-products-retention)*
 
+---
 
-## Nick Turley
-*Nick Turley*
+> "At the same time, retention is both the most important and the least understood metric at most companies. In my experience, it takes up to six months to nail accurate retention reporting."
 
-> "We don't care at all how much time you spend in the product. In fact, our incentive is just to solve your problem and if you really like the product, you'll subscribe, but there's no incentive to keep you in the product for long."
+**Insight:** Accurately measuring retention requires a commitment to precise data reporting and a tailored definition of activity that fits your specific business model.
 
-**洞察：** 对 utility-based AI，retention 由 problem-solving efficiency 驱动，而不是 time-spent metrics。
+**Tactical advice:**
+- Define 'active users' using specific events that demonstrate core product value.
+- Segment your users to ensure that paying customers don't hide the behavior of free users.
+- Choose a retention timeline (X-day or unbounded) that fits the natural usage pattern of your product.
 
-**战术建议：**
-- Optimize for 'time to value'，而不是 'time spent'
-- Monitor retention 中的 'smile curves'：users 学会 delegate to AI 后会 return 并 increase usage
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
 
-*时间戳：00:26:39*
+---
 
+> "In our case, having a single-player mode gave us more time to launch and refine key social features that improved the network effects of our product. Great retention reduces the cost of making mistakes, and allows you to take bigger risks and learn faster."
 
-## Nikita Bier
-*Nikita Bier*
+**Insight:** A single-player mode provides the foundational retention needed to survive the difficult early stages of network building, giving the team time to iterate on social features.
 
-> "If you can't demonstrate value in the first three seconds, it's over... You really have to craft onboarding everything to ensure that that's where the design part comes in."
+**Tactical advice:**
+- Identify a daily utility that provides value to a user even if they are the only person on the platform.
+- Use high retention from the single-player tool as 'kindling' to eventually spark network effects.
+- Ensure the product works well in small silos so that early departures don't cause a total value collapse.
 
-**洞察：** 由于 extremely short attention spans，modern consumer apps 中的 'Aha moment' 必须几乎 instantly 发生。
+*Source: [Lessons on building a viral consumer app: The story of Saturn](https://www.lennysnewsletter.com/p/lessons-on-building-a-viral-consumer-app-the-story-of-saturn)*
 
-**战术建议：**
-- Invert time-to-value，让 core experience 在 opening app 后数秒内发生
-- Eliminate 任何 delay primary value proposition 的 onboarding steps
+---
 
-*时间戳：01:27:18*
+**Insight:** SaaS churn benchmarks vary significantly by business model and price point, with higher-priced enterprise products requiring much lower churn rates to remain viable.
 
+**Tactical advice:**
+- Categorize your business as B2C, B2B SMB, or B2B Enterprise to identify the correct industry benchmarks.
+- Compare your monthly churn against 'Great' targets: under 2% for B2C, under 1.5% for B2B SMB, and under 0.5% for Enterprise.
+- Factoring in your price point, aim for lower churn as your average revenue per account increases.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+> "“Great retention is the scalable way to grow a product. It’s the best indicator of product-market fit, it is the most important factor in a user’s lifetime value, and high retention drives all of the best acquisition strategies. It’s growth’s equivalent of the triple word score.”"
+
+**Insight:** User retention benchmarks vary significantly by business category, meaning a 'good' rate for consumer social would be considered a failure for enterprise SaaS.
+
+**Tactical advice:**
+- Measure user retention at the 6-month mark to properly benchmark against industry leaders.
+- Target a 25% 'good' or 45% 'great' 6-month retention rate if building a consumer social product.
+- Aim for 70% to 90% user retention for enterprise SaaS to reach industry standards.
+
+*Source: [What is good retention?](https://www.lennysnewsletter.com/p/what-is-good-retention)*
+
+---
+
+> "Let’s define net revenue retention as a company’s monthly recurring revenue (MRR) one year ago divided into the current month’s MRR from that same group of customers. Essentially, how much revenue are you driving from one cohort of customers over time?"
+
+**Insight:** Net revenue retention is a distinct metric from user retention that accounts for expansion revenue and is heavily influenced by whether a sales model is bottom-up or enterprise-led.
+
+**Tactical advice:**
+- Analyze net revenue retention at the 12-month mark to account for annual renewal cycles.
+- Target 110% to 130% net revenue retention for enterprise SaaS to achieve a 'great' rating.
+- Aim for at least 100% net revenue retention in bottom-up SaaS models to ensure expansion offsets churn.
+
+*Source: [What is good retention?](https://www.lennysnewsletter.com/p/what-is-good-retention)*
+
+---
+
+> "Manually onboard new users, to make sure they see your value."
+
+**Insight:** Retention is driven by ensuring users consistently realize the product's core value and proactively resurrecting those who have churned.
+
+**Tactical advice:**
+- Manually onboard new users to guarantee they reach their first success milestone.
+- Offer a “pause” or “snooze” option instead of a total cancellation to prevent permanent churn.
+- Invest in resurrection campaigns to bring back previously churned users.
+
+*Source: [Growth ideas](https://www.lennysnewsletter.com/p/growth-ideas)*
+
+---
+
+> "For a PLG product, however, you’ll leverage channels like email, in-app messages, push notifications, and SMS to drive product usage and user engagement—so lifecycle marketing tools such as Customer.io and Braze are commonly used to trigger the right message to the right user at the right time."
+
+**Insight:** PLG lifecycle marketing must shift focus from lead nurturing to driving specific product engagement through multi-channel, usage-triggered messaging.
+
+**Tactical advice:**
+- Adopt lifecycle-specific tools like Braze or Customer.io that can handle real-time usage triggers.
+- Shift email strategy from general lead nurturing to specific product engagement actions.
+- Utilize in-app messages and push notifications alongside email to reach users within their workflow.
+
+*Source: [Five steps to starting your product-led growth motion, part 2](https://www.lennysnewsletter.com/p/five-steps-to-starting-your-product-led-growth-motion-part-2)*
+
+---
+
+**Insight:** Building a gamification strategy for a non-game product starts with a small, cross-functional team that experiments with mechanics that align with the product’s core user activities.
+
+**Tactical advice:**
+- Form a dedicated pod with engineering, design, and product leadership to own gamification experiments.
+- Look for parallels between your product's core sessions and successful mechanics in top-tier digital games.
+- Be prepared for early failures by quickly pivoting away from mechanics that do not show an immediate impact on retention.
+
+*Source: [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)*
+
+---
+
+> "The easy (but less useful) way to measure retention is by looking at the percentage of active users that are no longer-active a month/week/day later, e.g. “5% of our users churn each month.” Though useful, this approach blends old and new users, and thus hide a key piece of information about the health of your business: how many of your users stick around long-term."
+
+**Insight:** Blended churn metrics mask business health; cohort analysis is required to see if retention curves flatten and indicate true product-market fit.
+
+**Tactical advice:**
+- Track cohort retention by measuring what percentage of new users are still active specific intervals later.
+- Use line charts to identify if retention curves flatten, which proves users are finding lasting value.
+- Monitor cohorts individually to see if retention trends are improving or declining over time.
+
+*Source: [How to increase your product's retention](https://www.lennysnewsletter.com/p/how-to-increase-your-products-retention)*
+
+---
+
+> "One of the more successful experiments we ran at Airbnb to reduce host churn was to give hosts a way to “pause” their listing, instead of removing it. This gave them time to deal with whatever they needed to deal with and then easily come back when they were ready."
+
+**Insight:** An effective cancellation flow prevents permanent churn by providing temporary alternatives tailored to the user's specific reason for leaving.
+
+**Tactical advice:**
+- Offer a 'pause' or 'snooze' option instead of a binary cancellation to retain users during temporary lulls.
+- Ask users why they are leaving in-line and offer immediate solutions to their specific objections.
+- Provide incentives, such as short-term discounts or financial leeway, for users experiencing temporary cash crunches.
+
+*Source: [How to increase your product's retention](https://www.lennysnewsletter.com/p/how-to-increase-your-products-retention)*
+
+---
+
+> "The more integrated your product is into a person life, or an organization’s workflow, the harder it is quit. For example, Slack (just try taking it away), AWS (just imagine the switching costs), and WhatsApp (all your friends are there!)."
+
+**Insight:** Retention increases when a product becomes deeply embedded in a user's workflow or social network, creating high switching costs.
+
+**Tactical advice:**
+- Shift users toward annual plans to increase their commitment and time to find value.
+- Design habit-forming loops that provide users with a nudge to revisit the product's value.
+- Focus on integrations that weave the product into a person's life or an organization's existing processes.
+
+*Source: [How to increase your product's retention](https://www.lennysnewsletter.com/p/how-to-increase-your-products-retention)*
+
+---
+
+> "My general favorite method is unbounded retention because (1) I like my KPIs to be connected, proportional, and correlated to each other, and (2) unbounded retention is the inverse of churn, so it gives me another way to validate and test my data, increasing the confidence in my reporting (the higher the churn, the lower the retention, and vice versa)."
+
+**Insight:** The choice between X-day and unbounded retention should depend on whether your product usage is regular and predictable or more chaotic and long-term.
+
+**Tactical advice:**
+- Use X-day retention if your product expects regular, frequent user behavior.
+- Adopt unbounded retention for products with more chaotic or long-term engagement cycles.
+- Match your methodology to your business model, using X-day for SaaS subscription bounds.
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+**Insight:** Writing effective retention SQL requires managing complex logic that buckets users into cohorts and accurately counts core activity events over specific time intervals.
+
+**Tactical advice:**
+- Base the activity logic in your SQL on the core transaction or action that represents value.
+- Incorporate server-side payment data into your queries for SaaS products to track subscriptions.
+- Exclude background app activity and noise to prevent over-counting in your retention results.
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+**Insight:** Visualizing retention effectively involves transforming complex cohort data into readable graphs that reflect user behavior relative to their starting date.
+
+**Tactical advice:**
+- Use cohort tables to visualize how specific groups of users return over multiple periods.
+- Monitor Day 7 and Day 30 retention curves to gauge the immediate impact of product changes.
+- Tailor your visualization style to match the user's natural usage frequency (e.g., line charts for daily habits).
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+> "Often a mistake I see SaaS companies make is reporting one “blended” retention, with a mix of free and paid users. This can be misleading, because users who pay for the product are likely to use it way more than free users."
+
+**Insight:** Segmenting free and paid users is essential to prevent highly engaged customers from masking the true behavior and conversion potential of free users.
+
+**Tactical advice:**
+- Separate your active users into free and paid categories for more accurate reporting.
+- Distinguish between 'users' and 'customers' to help teams focus on the right growth levers.
+- Use segmented data to identify the conversion potential of your free user base.
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+**Insight:** Product analytics tools are excellent for behavior tracking but often require external data integration to accurately measure SaaS-specific retention metrics like subscriptions.
+
+**Tactical advice:**
+- Integrate payment data from providers like Stripe or Apple into your analytics tool via Segment or a pipeline.
+- Use client-side SDK events to track onboarding funnels and marketing campaign performance.
+- Verify the default retention calculation settings in your tool (e.g., Amplitude vs. Mixpanel) to ensure they match your needs.
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+**Insight:** Precise retention measurement depends on excluding 'noise' events and ensuring activity definitions reflect genuine user engagement rather than automated actions.
+
+**Tactical advice:**
+- Avoid using broad noise events like visits or screen views that inflate active user counts.
+- Never report a blended retention metric that mixes free and paid users together.
+- Limit session length in definitions to exclude automated activities like background app refreshes.
+
+*Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
+
+---
+
+> "Learning a language is hard, especially since it’s self-motivated learning. So we knew we had to create a fun experience in order to create a sticky product with good retention. We gamified language learning through many product features: mechanics like streaks and leaderboards, or having our mascot Duo be your coach, or using design elements like progress bars."
+
+**Insight:** Retaining users in a subscription model requires transforming difficult tasks into engaging habits using behavioral psychology and gamified feedback loops.
+
+**Tactical advice:**
+- Incorporate mechanics like streaks, leaderboards, and progress bars to capitalize on user motivation.
+- Use behavioral economics and psychology to change user minds and help them overcome the friction of hard tasks.
+- Constantly optimize retention through rapid iteration to ensure users don't get bored and move to a newer app.
+
+*Source: [How to win in consumer subscription](https://www.lennysnewsletter.com/p/how-to-win-in-consumer-subscription)*
+
+---
+
+> "In addition to just messaging, try to remove as much friction. Double down on fremium offers, extend trials, give credits, and short-term subscription commitments. Show empathy to your markets."
+
+**Insight:** Reducing churn during a crisis requires active empathy expressed through flexible financial commitments and increased product accessibility.
+
+**Tactical advice:**
+- Offer service credits or extended free trials to help customers maintain access during financial uncertainty.
+- Allow for shorter-term subscription commitments to reduce the perceived risk of a long-term contract.
+- Ensure all customer-facing staff are empowered to show human connection and empathy in their outreach.
+
+*Source: [Leading your company through a pandemic - Issue 20](https://www.lennysnewsletter.com/p/leading-your-company-through-a-pandemic---issue-20)*
+
+---
+
+> "As your friends start leaving, the product quickly gets significantly worse. That decay in value is nonlinear. Early departures disproportionally worsen the overall value of the network."
+
+**Insight:** Social products without a core single-player utility risk a nonlinear 'inverse K-factor' death spiral where a few departures rapidly destroy the platform's value.
+
+**Tactical advice:**
+- Monitor for signs of network shrinkage and nonlinear value decay early.
+- Layer in utility-based use cases that keep users coming back even when their friends are less active.
+- Avoid relying exclusively on social notification loops for long-term retention.
+
+*Source: [Lessons on building a viral consumer app: The story of Saturn](https://www.lennysnewsletter.com/p/lessons-on-building-a-viral-consumer-app-the-story-of-saturn)*
+
+---
+
+> "Most of your bounced users won’t actually want what you’re selling (sorry). But, a significant percentage of bounced users are just not ready to buy right then, or got distracted by another task, or got confused by your flow. This latter group of users is the users you want to target with a re-engagement strategy."
+
+**Insight:** A significant portion of bounced users can be recovered by addressing timing, distractions, or confusion through targeted messaging.
+
+**Tactical advice:**
+- Use emails and push notifications as reminders to finish an incomplete task.
+- Notify users when prices change or stock becomes scarce to provide a new reason to return.
+- Communicate clearly how many steps are left or if certain confusing steps are actually optional.
+
+*Source: [Strategy and tactics for increasing conversion](https://www.lennysnewsletter.com/p/strategy-and-tactics-for-increasing-conversion)*
+
+---
+
+> "The 'aha' moment refers to the first time a user experiences value from your product. This concept originated from Facebook's early growth strategy where if a user added 10 friends within 7 days, they were more likely to continue using the platform."
+
+**Insight:** Long-term retention is established in the first few days by ensuring users quickly reach a proven milestone of value.
+
+**Tactical advice:**
+- Prioritize activation efforts to ensure users don't drop off before realizing the product's value.
+- Identify 'high-frequency' use cases that can bring users back to the product more often.
+- Use data to determine which product features are the strongest leading indicators of long-term retention.
+
+*Source: [Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)](https://www.lennysnewsletter.com/p/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab)*
+
+---
+
+> "As you learn more about what levers most impact the health and growth of your business (e.g. retention, margins, acquisition, etc.), focus on those. Try to narrow in on the two or three metrics that most directly drive your business’s success."
+
+**Insight:** Retention tracking should be tailored to your business model, using shorter windows for free users and longer windows for paid customers.
+
+**Tactical advice:**
+- Track Week 1, 2, and 12 cohorts for freemium users to identify early engagement patterns.
+- Monitor Month 1, 3, and 6 cohorts for paid subscribers to measure long-term value.
+- Measure both buyer and supply-side retention if operating a marketplace business.
+
+*Source: [The most important consumer metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-metrics-to-track)*
+
+---
+
+**Insight:** For ad-supported models, measure engagement intensity through ratios like DAU/MAU and power user curves to understand the depth of usage.
+
+**Tactical advice:**
+- Calculate DAU/MAU or WAU/MAU ratios to track how frequently users return to the product.
+- Use L7/L30 curves to identify the percentage of "power users" who return nearly every day of the month.
+- Define and track an activation metric to identify the exact moment a new user becomes meaningfully engaged.
+
+*Source: [The most important consumer metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-metrics-to-track)*
+
+---
+
+> "User retention: % of new users who are still active 3-6 months later. Logo retention:% of new companies who are still active 3-6 months later. [L7/L30 retention]: Number of days that users are active per week/month."
+
+**Insight:** Retention must be monitored at three levels: individual users, the overall company (logo), and frequency of usage (L7/L30).
+
+**Tactical advice:**
+- Calculate the percentage of users and companies still active after 3 to 6 months.
+- Use L7/L30 retention to identify how many days per week or month users are engaging.
+- Monitor Net Dollar Retention to track how revenue scales within specific cohorts over time.
+
+*Source: [The most important bottom-up SaaS metrics to track (and how to best visualize them)](https://www.lennysnewsletter.com/p/the-most-important-bottom-up-saas-metrics-to-track-and-how-to-best-visualize-the)*
+
+---
+
+> "- **User retention**: % of new users who are still active 3-6 months later
+- **Logo retention:** % of new companies who are still active 3-6 months later
+- **[L7/L30 retention](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)**: Number of days that users are active per week/month"
+
+**Insight:** Measure retention at both the individual user and logo levels to distinguish between individual engagement and the overall health of your accounts.
+
+**Tactical advice:**
+- Monitor logo retention to identify if entire organizations are churning or just individual users.
+- Use cohort analysis to measure Net Dollar Retention at the 12-month mark.
+- Track the number of active days per week or month to determine product stickiness.
+
+*Source: [The most important bottom-up SaaS metrics to track](https://www.lennysnewsletter.com/p/the-most-important-bottom-up-saas-metrics-to-track)*
+
+---
+
+> "Cohort engagement: The percentage of users who are still doing something valuable (e.g. meditating, watching, listening, learning, matching, etc.) X weeks after signing up."
+
+**Insight:** Long-term engagement is best measured by tracking the percentage of users who continue to perform high-value actions weeks after their initial sign-up.
+
+**Tactical advice:**
+- Use the L7/L30 metric to measure the intensity of engagement for software or total time spent for content platforms.
+- Monitor cohort engagement curves to ensure users are finding repeatable value beyond their initial trial period.
+- Define 'doing something valuable' specifically for your business type, such as taking a lesson or having a match.
+
+*Source: [The most important consumer subscription metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-subscription-metrics-to-track)*
+
+---
+
+> "Cohort retention: The percentage of paid users who are still paying X months later [*Over 70% at 6 months is great*]. Resurrection: The percentage of churned users who re-subscribe."
+
+**Insight:** Healthy retention is marked by cohort curves that stabilize over time and a systematic ability to resurrect users who previously churned.
+
+**Tactical advice:**
+- Benchmark your paid user retention against a goal of 70% or higher at the six-month mark.
+- Track 'second-order retention' to ensure users do not cancel immediately after their first paid experience or delivery.
+- Monitor 'resurrection' rates to determine how many churned users are returning to the platform as active subscribers.
+
+*Source: [The most important consumer subscription metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-subscription-metrics-to-track)*
+
+---
+
+> "Churn should always be modeled between (1) intentional and involuntary churn and (2) soft and hard churn. Where I see companies losing meaningful percentage points is in overlooking involuntary churn—good data instrumentation can flag these events, like credit card declined, forgot password, connection errors."
+
+**Insight:** Segmenting churn into categories like involuntary payment failures or 'soft' usage declines allows teams to apply targeted technical and product fixes to specific loss drivers.
+
+**Tactical advice:**
+- Instrument your data to specifically flag involuntary churn events such as credit card declines or connection errors.
+- Identify 'soft churn' by monitoring users who remain subscribed but have stopped actively using the product.
+- Analyze churn in the first 1-3 months separately to diagnose failures in activation and onboarding.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+> "Though you should generally spend your time focusing on cohort retention and net revenue retention instead of monthly churn—because monthly churn blends new and existing users and hides what’s really going on long-term—it’s still a powerful metric, because it’s quick (you don’t have to wait for cohort curves to flatten), it’s easy (every dashboard has this)."
+
+**Insight:** While monthly churn is a convenient high-level dashboard metric, deeper metrics like cohort and net revenue retention are better predictors of long-term product-market fit.
+
+**Tactical advice:**
+- Use monthly churn for immediate visibility into the volume of new users needed to sustain current growth levels.
+- Switch to cohort-based retention for B2C products to see the true percentage of users who stick around long-term.
+- Prioritize net revenue retention (NRR) for B2B models to account for expansion revenue that offsets logo loss.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+> "Monthly churn benchmarks all add up to the most important retention metric of all: the point at which your cohort retention asymptotes. Chart the percentage of users remaining in a given cohort over time—at what level does that line flatten out, or in the very best businesses, start to turn back upward again?"
+
+**Insight:** True product health is found by identifying the 'asymptote' where your cohort retention curve flattens, proving that a segment of users finds permanent value in your product.
+
+**Tactical advice:**
+- Chart your user retention by monthly signup cohorts to identify where the retention curve levels off.
+- Benchmark your 6-month user retention targets based on category: ~40% for Consumer SaaS, ~60% for SMB SaaS, and ~70% for Enterprise.
+- Focus product improvements on the onboarding phase if your retention curve drops steeply without ever flattening.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+> "In SMB/Mid-Market SaaS especially, revenue retention is much more important than customer retention. Net revenue retention can look very healthy even with low logo retention in these businesses."
+
+**Insight:** For B2B companies, net revenue retention is the ultimate benchmark because expansion revenue from growing customers can compensate for high churn among smaller accounts.
+
+**Tactical advice:**
+- Calculate net revenue retention (NRR) over a 12-month period to measure the impact of upgrades and expansions.
+- Target NRR benchmarks of 100%+ for bottom-up SaaS and 110-130% for Enterprise to reach 'Good' to 'Great' status.
+- Analyze expansion opportunities within existing cohorts if logo retention is capped by unavoidable business closures.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+> "Losing 2% of users each month? Grow by over 2% and you’re 📈. Depressingly, your monthly churn stat also tells you how quickly you’ll churn through your users if you do nothing. For example, with an 8% monthly churn, you’ll lose almost two-thirds of your users each year 😵‍💫"
+
+**Insight:** Monthly churn acts as a constant tax on growth, dictating the exact acquisition volume required just to prevent the business from shrinking.
+
+**Tactical advice:**
+- Project your annual user loss by calculating the cumulative effect of your current monthly churn rate.
+- Set acquisition targets that exceed your churn 'tax' to ensure your net growth remains positive.
+- Evaluate the sustainability of your acquisition model by calculating how much of your user base must be rebuilt from scratch every year.
+
+*Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
+
+---
+
+**Insight:** To conduct a valid retention analysis, a business must first be correctly classified into one of the core categories, as each has a unique profile for churn and expansion.
+
+**Tactical advice:**
+- Identify if your product falls into consumer social, transactional, consumer SaaS, SMB SaaS, or enterprise SaaS categories.
+- Distinguish between standard SMB SaaS and 'bottom-up' or 'land-and-expand' models when evaluating revenue retention targets.
+- Use different denominators for different categories, such as 'registered users' for social versus 'paid subscribers' for SaaS.
+
+*Source: [What is good retention?](https://www.lennysnewsletter.com/p/what-is-good-retention)*
+
+---
+
+> "Too often we indexed in a juicy bonuses (join now get $1000!). The premise of those weren’t habit forming -- a guarantee is. You naturally get higher intent users through the funnel."
+
+**Insight:** Shift from one-time acquisition bonuses to recurring guarantees to attract higher-intent supply and foster long-term habits.
+
+**Tactical advice:**
+- Replace one-time sign-on bonuses with income guarantees.
+- Use guarantees to anchor providers in the reality of their potential earnings.
+- Focus on habit-forming structures that show how the platform fits into a user's lifestyle.
+
+*Source: [What They'd Do Differently 🔮 Kickstarting and Scaling a Marketplace Business](https://www.lennysnewsletter.com/p/what-theyd-do-differently--kickstarting-and-scaling-a-marketplace-business)*
+
+---
+
+**Insight:** 
+
+*Source: [A founder’s guide to community](https://www.lennysnewsletter.com/p/a-founders-guide-to-community)*
+
+---
+
+**Insight:** Treat notification channels as a precious, finite resource by setting high bars for new alerts and monitoring leading indicators of channel health.
+
+**Tactical advice:**
+- Optimize existing notifications before adding new ones to the channel.
+- Set a high bar for any new notifications to avoid burning out the user.
+- Monitor leading indicators like opt-out rates to gauge the health of your communication channels.
+
+*Source: [The secret to Duolingo’s exponential growth](https://www.lennysnewsletter.com/p/the-secret-to-duolingos-exponential-growth)*
+
+---
+
+**Insight:** 
+
+*Source: [A founder’s guide to community](https://www.lennysnewsletter.com/p/a-founders-guide-to-community)*
+
+---
+
+**Insight:** Leaderboards are most effective when they group users by engagement closeness rather than social relationships, ensuring that competition remains achievable and motivating.
+
+**Tactical advice:**
+- Match users with opponents who have similar activity levels to keep the competition fair.
+- Create a tiered league system that provides progressive goals for long-term retention.
+- Test different reward structures and animations to maximize the psychological impact of advancing through leagues.
+
+*Source: [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)*
+
+---
+
+**Insight:** Push notification effectiveness is driven by continuous micro-optimizations across timing, templates, and localization while strictly guarding against channel fatigue.
+
+**Tactical advice:**
+- Systematically A/B test templates, images, and localized copy to find the most effective combinations.
+- Optimize delivery timing based on individual user behavior patterns and time zones.
+- Implement strict frequency caps to prevent over-sending and protect the long-term health of the notification channel.
+
+*Source: [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)*
+
+---
+
+**Insight:** Optimizing streaks requires balancing high-stakes motivation with 'forgiveness' mechanics that prevent users from churning permanently after a single lapse.
+
+**Tactical advice:**
+- Implement 'streak freeze' features to allow users to maintain momentum during unavoidable breaks.
+- Send urgent notifications to at-risk users shortly before their daily streak is set to expire.
+- Use visual aids like calendar views and milestone animations to reinforce the user's sense of progress and investment.
+
+*Source: [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)*
+
+---
+
+**Insight:** Cohort analysis is superior to simple churn metrics because it reveals long-term stickiness by isolating the behavior of specific groups over time.
+
+**Tactical advice:**
+- Track the percentage of new users active after specific intervals to measure long-term stickiness.
+- Look for a 'flattening' curve in your cohort data as the primary indicator of product-market fit.
+- Compare different cohorts to identify if specific product changes improved or decreased retention.
+
+*Source: [How to increase your retention](https://www.lennysnewsletter.com/p/how-to-increase-your-retention)*
+
+---
+
+**Insight:** Sustainable retention is built on solving a core problem significantly better than any existing alternative.
+
+**Tactical advice:**
+- Expand the breadth of problems you solve to increase the product's daily utility.
+- Improve the product's ROI by making it faster, more reliable, or cheaper.
+- Leverage network effects to ensure the product's value increases as the user base grows.
+
+*Source: [How to increase your retention](https://www.lennysnewsletter.com/p/how-to-increase-your-retention)*
+
+---
+
+**Insight:** Focusing on users who drop off shortly after activation is more effective than chasing non-actives, as you have more behavioral data to inform fixes.
+
+**Tactical advice:**
+- Analyze the cohort of activated users who churn within their first seven days.
+- Identify the specific friction points that prevent activated users from reaching long-term habituation.
+- Prioritize early churn reduction over volume acquisition to improve overall funnel efficiency.
+
+*Source: [How to make an impact in your first 90 days](https://www.lennysnewsletter.com/p/how-to-make-an-impact-in-your-first-90-days)*
+
+---
+
+**Insight:** Successful gamification relies on adapting proven mechanics from casual games to your specific product context to drive habit formation.
+
+**Tactical advice:**
+- Study successful casual games to identify effective retention mechanics.
+- Adapt leaderboards, streaks, or achievements to fit your specific user goals.
+- Use gamification to turn user habit-building desires into a sustainable product advantage.
+
+*Source: [The secret to Duolingo’s exponential growth](https://www.lennysnewsletter.com/p/the-secret-to-duolingos-exponential-growth)*
+
+---
 
 ## Patrick Campbell
-*Patrick Campbell*
 
-> "There is strategic retention and then there's tactical retention... tactical retention, it's typically about 25 to 40% of your churn problem, which is a significant amount, but you don't really look at it because again, you're like, 'I've got to go focus on features.'"
+**Insight:** Reducing churn requires a focus on mechanical friction and operational excellence rather than just adding more features to the product.
 
-**洞察：** Churn 中相当一部分是 'tactical'（例如 credit card failures），可用 simple marketing funnels 解决，而不是 complex product changes。
+**Tactical advice:**
+- Identify and automate the recovery of failed credit card payments.
+- Analyze churn data to distinguish between product dissatisfaction and operational friction.
+- Prioritize fixing onboarding gaps that prevent users from reaching their first 'aha' moment.
 
-**战术建议：**
-- 优化 cancellation flows，先问 'Why are you leaving?'，再问 'What did you like about the product?'
-- 为 failed credit card payments 实施 automated recovery funnels
-- 在 offboarding process 中提供 salvage offers、pause plans 或 maintenance plans
+*Source: [10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)](https://www.youtube.com/watch?v=FjLSCrSg5QY) @ 00:24:00*
 
-*时间戳：00:24:38*
+---
 
+## Ronny Kohavi
+
+**Insight:** Email marketing effectiveness should be measured by the total cost of unsubscribes rather than just the immediate revenue credited to a campaign.
+
+**Tactical advice:**
+- Model the long-term cost of an email unsubscribe to determine campaign viability
+- Model email volume to ensure you aren't over-communicating and driving attrition
+- Cancel campaigns where the modeled unsubscribe cost exceeds the expected revenue
+
+*Source: [The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)](https://www.youtube.com/watch?v=hEzpiDuYFoE) @ 00:33:49*
+
+---
 
 ## Sahil Mansuri
-*Sahil Mansuri*
 
-> "Take your best sales people and make them CSMs... What we cannot under any circumstances do is lose our existing customers because replacing them is going to be impossible. So it's kind of like you got your leaky bucket, you got to patch that leak really, really fast and really hard."
+**Insight:** 
 
-**洞察：** 在 downturn 中，优先 protecting existing revenue，可以将 top sales talent 转入 customer success roles。
+*Source: [How to hit revenue targets in a recession | Sahil Mansuri (Bravado)](https://www.youtube.com/watch?v=pYZ0S7a72po) @ 00:41:42*
 
-**战术建议：**
-- 将 top-performing Account Executives 转到 Customer Success（CSM）roles
-- 将 product marketing 转向为 existing customers 提供 research 和 benchmarks
-- 创建 exclusive content 或 data reports，帮助 current customers survive downturn
-
-*时间戳：00:43:59*
-
+---
 
 ## Sarah Tavel
-*Sarah Tavel*
 
 > "The test for me, of whether you're building a product that has the ingredients to create a retentive product on a micro level, just at the user level, is that the product should get better the more you use it, and you'll have more to lose by leaving it."
 
-**洞察：** 当 product 随时间为 user 创造 accruing benefits 和 mounting loss 时，才能 build true retention。
+**Insight:** To build a retentive product, ensure it becomes more valuable as users engage and that abandoning it results in a significant loss of accumulated value.
 
-**战术建议：**
-- 确保 product experience 基于 user input personalize 或 improve
-- 通过让 product 成为 user identity 或 data 的 repository，创造 'mounting loss'
+**Tactical advice:**
+- Ensure the product experience improves automatically as users perform the core action more frequently.
+- Build 'mounting loss' by creating repositories for user identity, data, or saved content.
+- Focus feature development on deepening personalization based on user investment in the product.
 
-*时间戳：00:11:03*
-
----
-
-> "I particularly love to look at that on a weekly active user completing the core action pieces of like, are users completing the core action? How is that changing overtime for each of the cohorts? And then also, looking at activity level within those cohorts."
-
-**洞察：** Retention 应通过 cohort 中 consistently perform product core action 的 users percentage 来衡量。
-
-**战术建议：**
-- 基于 sign-up date track weekly cohorts
-- Monitor 'smile graph'：users 随时间变得 more retained，而不是只 dwindling
-
-*时间戳：00:28:00*
+*Source: [The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)](https://www.youtube.com/watch?v=H9g4pzcz6Tk) @ 00:10:32*
 
 ---
-
-> "Until you reach a point with your cohorts where there is a plateau, you have more work to do on figuring out the retention of your users."
-
-**洞察：** 只有当 cohort retention curves 最终 flatten out，而不是 drop to zero 时，product 才有 viable foundation。
-
-**战术建议：**
-- Analyze cohort plateaus，判断 'leaky bucket' problem 是否已解决
-
-*时间戳：00:29:04*
-
----
-
-> "The happiness loop, the idea is you have a lot of new sellers coming in, and of course you have new buyers, but you want to make sure that you are matching your buyers with the sellers that are going to give them the best experience."
-
-**洞察：** 在 marketplaces 中，retention 由 'happiness loops' 驱动：识别并 reward high-quality participants，同时 filtering out poor ones。
-
-**战术建议：**
-- 使用 search ranking reward 提供 best user experience 的 suppliers
-- 允许 low-quality suppliers 的 healthy churn，以保护 buyer experience
-
-*时间戳：01:08:23*
-
-
-## Sean Ellis
-*Sean Ellis*
-
-> "It's usually much more function of onboarding to the right user experience than it is about the kind of the tactical things that people try to do to improve retention."
-
-**洞察：** Retention 主要由 successful initial activation 驱动，而不是 late-stage re-engagement tactics。
-
-**战术建议：**
-- 相比 late-stage retention features，优先 activation 和 onboarding。
-- 聚焦 'speed to value'，确保 users 快速达到 'aha moment'。
-
-*时间戳：00:13:57*
-
----
-
-> "One of the things I've always said is just ignore the people who say they'd be somewhat disappointed. They're telling you it's a nice to have. They're as good as gone, so just ignore those guys."
-
-**洞察：** Engagement efforts 应集中在认为 product essential 的 users 上，避免为 wrong audience building。
-
-**战术建议：**
-- 按 user sentiment（must-have vs. nice-to-have）segment engagement data。
-
-*时间戳：00:40:43*
-
-
-## Sri Batchu
-*Sri Batchu*
-
-> "At Facebook, it was 10 friends the first seven days. At Instacart, it was three orders in the first month. And at Ramp, for our activation... we've got four events that the customer needs to do in the first 30 days."
-
-**洞察：** 识别与 long-term user retention 相关的 specific 'escape velocity' actions，以聚焦 activation efforts。
-
-**战术建议：**
-- Analyze data，找到 specific timeframe 内可 predict long-term engagement 的 key actions 数量
-- 让 activation team 专门围绕 driving those 'magic number' events 对齐
-
-*时间戳：00:44:39*
-
 
 ## Sriram and Aarthi
-*Sriram and Aarthi*
 
-> "Facebook knew that it needed to get you to 10 friends in 14 days. If you got your 10 friends in 14 days, you were probably going to use Facebook."
+**Insight:** 
 
-**洞察：** 识别 specific activation milestone（如 14 天内 10 个 friends）对 driving long-term retention 至关重要。
-
-**战术建议：**
-- 识别与 long-term retention 相关的 actions 或 connections 的 'magic number'。
-- 优先设计能 drive users toward that specific milestone 的 new user experiences。
-
-*时间戳：00:00:00*
-
-
-## Zoelle Egner
-*Zoelle Egner*
-
-> "I think they [templates] can be tremendously helpful if you are horizontal because they help to narrow the surface area for a user, so they understand how to connect the dots between their problem and your product."
-
-**洞察：** Templates 通过减少 user 在 horizontal product 中 find value 所需的 cognitive load 来 drive retention。
-
-**战术建议：**
-- 使用 templates 缩小 new users 面对的 'surface area'
-- 让 templates 聚焦 specific use cases，而不是 generic product features
-- Leverage templates 促进 existing company accounts 内部 expansion
-
-*时间戳：00:58:38*
-
-
-## Hila Qu
-*Hila Qu*
-
-> "I think [the aha moment] as a moment, as a first time a user experienced value of your product... At GitLab we actually did a bunch of analysis. We ended up have something along the line of two users, two features used in the first 14 days."
-
-**洞察：** 'Aha Moment' 是 user 第一次 experience core value，通常由 specific usage threshold 定义。
-
-**战术建议：**
-- 基于与 retention 的 data correlation 定义 'Aha Moment'
-- 在 collaborative products 中寻找 multi-user 或 multi-feature usage milestones
-
-*时间戳：00:38:32*
+*Source: [Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi](https://www.youtube.com/watch?v=HsD5ycT_umw) @ 00:27:47*
 
 ---
 
-> "I think how I think about retention, there are two steps. One is how to build a habit in their usage pattern, so that they are using this maybe every week, every day. The key to do that is, first of all, your product need to have a high enough frequency. If you are using this once per month, it's not likely you can build this into a habit."
+## Tim Holley
 
-**洞察：** Retention 由 habit formation 驱动，而这需要 product 具备 high usage frequency。
+**Insight:** Drive conversion by using specific buyer-generated signals and social proof to overcome the trust gap inherent in unique, unbranded inventory.
 
-**战术建议：**
-- 将 habit-forming 或 collaboration features 直接 build into workflow
-- 识别或添加 high-frequency use cases 到 product
+**Tactical advice:**
+- Leverage buyer review photos to provide authentic visual proof of product quality.
+- Implement behavioral nudges and scarcity signals to highlight high-demand items.
+- Test small copy changes that clarify product value for new users.
 
-*时间戳：00:56:08*
+*Source: [Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)](https://www.youtube.com/watch?v=n4hRs2FsRug) @ 00:28:43*
 
 ---
 
-> "The second part around retention is I actually think extension is part of retention. Basically you already have a steady usage flow... What are the right moment to prompt you to think about maybe buying more? And there are three buckets of product-led extension. The first one is up upgrade to a higher tier. The second one is buying more seeds, buying more license. The third one is if you have some sort of a consumption add-on component."
+**Insight:** Foster a habitual purchase loop by utilizing user signals like favorites and push notifications to trigger return visits.
 
-**洞察：** Expansion revenue（upsells 和 seat growth）应被视为 retention strategy 的一个 component。
+**Tactical advice:**
+- Encourage users to 'favorite' items to create a personalized feed of updates.
+- Use push notifications to close the loop when favorited items go on sale or are back in stock.
+- Broaden buyer perception by highlighting the variety of categories available beyond their initial purchase.
 
-**战术建议：**
-- 基于 specific usage data signals trigger upgrade prompts
-- 提供 consumption-based add-ons，提高 account value
+*Source: [Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)](https://www.youtube.com/watch?v=n4hRs2FsRug) @ 00:42:40*
 
-*时间戳：00:56:08*
-
-
-## Josh Miller
-*Josh Miller*
-
-> "what I'm really proud of is, 12 months later we've been inching it up and up and up, despite getting further away from the earliest most passionate adopters. So, our retention curve's going up and up a little bit"
-
-**洞察：** Product health 的 ultimate sign 是即使 expand beyond early adopters，retention curve 仍能 cohort-over-cohort improve。
-
-**战术建议：**
-- Monitor cohort-over-cohort retention improvements，validate product changes
-- 对 high-utility software，寻找 low-to-mid 30s 或 40s 的 'D5/D7' retention
-
-*时间戳：00:07:37*
+---
 

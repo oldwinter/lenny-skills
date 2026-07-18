@@ -1,76 +1,83 @@
 ---
 name: building-a-promotion-case
-description: 帮助用户在工作中获得晋升。Use when someone is preparing for a promotion conversation, building their case for advancement, trying to understand what's blocking their promotion, or figuring out how to get to the next level in their career.
+description: 帮助用户系统地记录他们的影响，识别skill差距，并与他们的经理合作，通过证明他们已经达到了更高的水平来获得晋升。
 ---
 
-# Building a Promotion Case
+# 建立促销案例
 
-使用来自 17 位产品领导者的策略，帮助用户构建有说服力的晋升 case。
+将您的职业影响力转化为令人信服的、有数据支持的论据，为您的下一步职业发展提供依据。
+
+利用 6 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户构建促销案例。
 
 ## 如何提供帮助
 
-当用户请求晋升相关帮助时：
-
-1. **诊断处境** - 询问他们当前 role、目标 role，以及和 manager 的关系
-2. **识别 blockers** - 帮助判断问题是 visibility、advocacy、role availability，还是 skill gaps
-3. **构建 case** - 帮助把晋升 framing 成解决公司问题，而不是个人里程碑
-4. **辅导 tactics** - 分享对话方式和展示 readiness 的具体做法
+1. **库存影响** - 帮助用户列出他们的主要胜利并将其映射到特定的业务增长指标或组织目标。
+2. **差距分析** - 将当前绩效与正式的职业阶梯和公司奖励的不成文行为进行比较。
+3. **战略调整** - 指导用户起草 1:1 对话的脚本，以明确说明他们的抱负并在时间轴上保持一致。
+4. **打包证明** - 协助将屏幕截图、指标和推荐整理成结构化文档，供支持者在校准中使用。
 
 ## 核心原则
 
-### 聚焦 impact，而不是 promotion
-Ian McAllister: "I never talked to my manager about promotion. I just focused on growing my book of business. The result was I got promoted several times." 优化 impact；promotion 往往会随之而来。
+### 在拥有角色之前先履行角色
+From "How to get promoted": "People don’t get promoted for doing their jobs really well. They get promoted by demonstrating their potential to do more. At many companies, you get promoted only after you’ve demonstrated you can handle the next level."
 
-### Promotion 是认可，不是培养
-Christian Idiodi: "I'm promoting you to do the job, not to learn the job." 在 title 到来前，你需要已经在 next level 表现。成为 director 前，先练习 "director things"。
+证明准备就绪的最有效方法是在正式头衔变更之前主动承担目标角色的范围和职责。
 
-### 把它描述成解决对方的问题
-Claire Vo: "The conversation needs to be about what you being in a different position does for the company. Instead of 'I want to be a director,' say 'You have nine direct reports—you need leverage here.'" 让对话围绕公司会因此得到什么，而不是你想要什么。
+### 明确表达你的抱负
+From "How to get promoted": "When was the last time you told your manager you’d love to get promoted? It may seem obvious to you, but they may not know how important this is to you. Bring it up at your next 1:1 and see what happens."
 
-### 使用 Magic Loop
-Ethan Evans: "(1) Do your current job well. (2) Ask your boss how you can help. (3) Do what they ask. (4) Say 'Is there work that helps you AND helps me reach my goal?' (5) Repeat." 建立 partnership，而不是施压。
+经理不是读心术的人：你必须清楚地传达你对晋升的渴望，以便将其纳入组织规划中。
 
-### Visibility 是前提
-Jeffrey Pfeffer: "No one is going to promote you if they don't know who you are. Competence alone is insufficient. You must have visibility to match your substance." 能力本身不够，你需要让 visibility 匹配你的 substance。
+### 实时捕获证据
+From "How to be prepared for layoffs": "Go open up a new doc and start dumping a list of times you’ve made an impact at your current job. Include metrics, screenshots, timelines, stories—anything that’ll help you tell the story of your successes."
 
-### 建立 superpower reputation
-Jiaona Zhang: "Be known for something specific—complex launches, technical depth, regulatory expertise. When you're known for excellence, responsibility flows to you naturally." 因某个具体强项被记住，例如复杂发布、技术深度或合规专业度。
+在数据新鲜且可访问的情况下维护特定指标、时间表和屏幕截图的运行文档，以避免在审核季节出现混乱。
 
-### 作为 IC 练习 manager skills
-Julie Zhuo: "You don't need the title to do manager tasks. Mentor an intern. Lead a process. Be an onboarding buddy. Prove competency before asking for the role." 先证明能力，再要求角色。
+### 解码奖励行为
+From "How to get promoted": "Explicitly or implicitly, every company prioritizes different skills and behaviors. If you pay attention to who gets promoted, you can start to see what actually matters at your company."
 
-### 用未来视角开启对话
-Jackie Bavaro: "Say 'I'd like to grow into X at some point in the future. What should I work on now so I'll be ready?' This brings your manager onto your side instead of making them defensive." 这种说法会把 manager 拉到你这一边，而不是让对方进入防御。
+分析最近晋升的同事的skill和影响力，以了解公司真正重视的不成文标准。
 
-### 诊断真正挡住你的东西
-Nikhyl Singhal: 四类常见 blockers：(1) 缺少 advocacy，没有人为你 champion；(2) 公司里没有这个 role；(3) impatient，你还没准备好；(4) 你没看到自己的 development gap。
+### 解决特定的行为差距
+From "How to get promoted": "No matter your role or level, there’s a skill or behavior that is keeping you from the next level. To get promoted, you’ll need to demonstrate that you’ve addressed that gap, in the eyes of both your manager and other influential leaders involved in the promotion process."
 
-### 先把当前工作做到优秀
-Tamar Yehoshua: "You're not going to get the next job unless you do really well at the one you're in. Knock it out of the park. Master the table stakes before reaching for more." 在追求更多之前，先掌握当前岗位的基本盘。
+与您的经理一起确定阻碍您前进的 2 到 3 种行为，并制定一个可衡量的行动计划来消除它们。
+
+## 模板和框架
+
+- **吹嘘文档/成就日志**（如何为裁员做好准备）- 系统记录您的工作成就的框架，以便在将来的面试和简历构建中使用
+- **职业差距行动计划电子表格**（如何晋升）- 共享电子表格模板，用于跟踪您和经理之间的skill差距和具体行动，并带有颜色编码的状态跟踪
+- **解决skill差距的 5 步流程**（如何晋升）- 结构化的 5 步流程，用于识别和缩小阻碍您晋升的差距
+- **给你的冠军弹药**（如何晋升）- 帮助你的经理和冠军在晋升校准过程中为你辩护的五种方法
+- **胜利文件夹/文档**（如何晋升）- 一个正在运行的文档或文件夹，您可以在其中跟踪一段时间内的胜利和影响，在构建晋升案例时使用
+- **职业发展对话脚本** (Jackie Bavaro) - 一个非威胁性的脚本，用于向您的经理询问晋升要求和有针对性的反馈。
+- **7 种晋升策略**（如何晋升）- 七种策略的综合框架，可增加您晋升的机会，适用于任何职位
+- **PM 晋升准备清单** (Shweta Shriva) - 为寻求职业发展的 PM 提供的一套原则，重点关注影响驱动的行为而不是寻求晋升的优化。
+
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 帮助用户的问题
 
-- "你已经在 next level 表现了吗，还是仍在学习那些技能？"
-- "你的 manager 知道你想晋升吗？你是否明确讨论过？"
-- "谁会在 promotion meeting 里为你 advocate？"
-- "你的晋升会解决什么具体业务问题？"
-- "你想要的 role 在公司里真的存在吗？"
+- “过去六个月您实现的三大业务成果是什么？”
+- “您目前的工作范围与您目标级别的职责有何重叠？”
+- “你的经理认为哪些具体skill或行为是下一级别的‘差距’？”
+- “谁是在校准会议期间支持你晋升的主要干系人？”
+- “如果你今天离开，球队最难取代的独特价值或‘胜利’是什么？”
 
-## 需要提醒的常见错误
+## 标记的常见错误
 
-- **太早提出要求** - 在要求 title 前，你应该已经在做那份工作
-- **把焦点放在自己身上** - "I deserve this" 不如 "Here's what I'll do for the company"
-- **取悦 manager 与创造 impact 混淆** - 优化老板想要的东西，不等于创造 business impact
-- **把 promotion 等同于 career** - Promotion 是某家公司的 level；career 是长期轨迹
-- **被动等待** - "My work speaks for itself" 没你想象中有效
+- **“沉默工人”陷阱** - 假设仅靠高绩效就足够了，而无需明确传达您的职业目标并为自己辩护。
+- **等待审核周期** - 在审核期间开始促销对话通常为时已晚：校准通常会提前几周或几个月进行。
+- **仅关注任务** - 强调您的待办事项列表，而不是这些任务所创建的业务成果和战略影响。
+- **将晋升视为一种需求** - 将对话视为一系列要求，而不是与经理协作解决问题的练习。
 
-## Deep Dive
+## 深入探讨
 
-所有来自 17 位嘉宾的 22 条洞察见 `references/guest-insights.md`
+有关 6 位嘉宾的全部 11 条见解，请参阅 `references/guest-insights.md`
 
-## 相关 Skills
+## 相关skill
 
-- Managing Up
-- Finding Mentors & Sponsors
-- Career Transitions
-- Negotiating Offers
+- 深入产品
+- 下午职业发展
+- 职业转变
+- 协商赔偿

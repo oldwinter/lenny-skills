@@ -1,1494 +1,1741 @@
-# Career Transitions - 全部嘉宾洞察
+> **中文阅读说明：** 本文件保留经来源核验的英文引文与出处，避免改写原意。对应的中文工作流、原则与提问方式见 `../SKILL.md`；引用时请保留英文原文，分析与行动建议使用中文。
 
-*76 位嘉宾，111 次提及*
+# Navigating Career Transitions - All Guest Insights
+
+*56 sources, 139 insights*
+
+---
+
+## Ada Chen Rekhi
+
+**Insight:** 
+
+*Source: [How to make better decisions and build a joyful career | Ada Chen Rekhi (Notejoy, LinkedIn, SurveyMonkey)](https://www.youtube.com/watch?v=N64vIY2nJQo) @ 00:25:55*
 
 ---
 
 ## Adam Fishman
-*Adam Fishman*
 
-> "PMF stands for people, mission and financials. And these are my three criteria... you should have a set of criteria that you are unapologetically rigorous around and you should learn how to evaluate companies against that set of criteria."
+> "And what they really needed, and I was naive and didn't think about asking these questions or about evaluating this properly, what they really needed was to create a strategy to add on new growth loops and a system for how to execute against that strategy. If we had talked about that as part of evaluating each other, as part of them evaluating me, it would've given me a lot of confidence that it was the right hire to make."
 
-**洞察：** 以与投资者同样严格的方式评估潜在雇主，重点关注人员素质、使命影响以及公司的财务纪律。
+**Insight:** When considering a job offer, verify that the company's leaders are committed to a systematic growth strategy rather than chasing unsustainable 'silver bullet' solutions.
 
-**战术建议：**
-- 通过与潜在经理过去管理过的人交谈，通过 backchannel references 调查你的潜在经理
-- 要求旁听 executive meeting 或 strategic offsite，了解团队如何处理分歧
-- 向领导者询问反向行为问题，了解他们如何解决上一次战略分歧
+**Tactical advice:**
+- Ask direct questions during the interview to determine if leadership values systematic growth over 'silver bullet' tactics.
+- Evaluate whether the founders have the patience and long-term vision required to execute a growth strategy.
+- Confirm that the company has a clear set of criteria for what success looks like in a growth role.
 
-*时间戳：00:53:23*
-
-
-## Ada Chen Rekhi
-*Ada Chen Rekhi*
-
-> "My early career was pretty wild... it really comes down in a nutshell to this career concept of explore and exploit... You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it... Or you're exploiting, where you actually have found something that's really rich and really deep and then you're just trying to get more."
-
-**洞察：** 早期职业生涯应重点关注 'exploration'，以成长心态寻找契合点，然后关注 'exploitation'，以刻意深化长期目标所需的特定技能。
-
-**战术建议：**
-- 使用早期角色来测试有关公司规模、行业和职能的假设。
-- 在 'exploit' 模式下，根据特定技能差距（例如成长、定价）而不仅仅是头衔来选择角色。
-- 主动和 manager 对话你想学习什么，成为自己职业的 agent。
-
-*时间戳：00:25:55*
+*Source: [How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)](https://www.youtube.com/watch?v=wP8YyWH524A) @ 00:52:34*
 
 ---
-
-> "It's really easy to be a victim of inertia. It's really easy for all of us to be the frog where there are little things that make us uncomfortable, and we sit with them... you really have to be aware of your surroundings. You have to be aware of which way is the direction of the temperature of the water trending."
-
-**洞察：** 通过监控你当前的环境是否仍然提供学习和成长或者你是否由于惰性而留下来避免陷入 'boiling the frog'。
-
-**战术建议：**
-- 根据 'learning' 镜头评估你的角色：你是否受到挑战和成长？
-- 如果学习停滞了，要么在内部寻找新项目，要么使用 'gift of time' 独立学习，为下一步行动做好准备。
-
-*时间戳：00:32:10*
-
-
-## Andy Johns
-*Andy Johns*
-
-> "It was a difficult decision to walk away from my career at the peak of it, but I guess the takeaway, and then I'll stop for a bit, is it's important for people to understand that there are formative experiences in our lives which put us in positions to where we form adaptations in order to survive, just like my attachment to achievement and how my self-worth was entirely tied up in that."
-
-**洞察：** 重大职业转型通常需要认识到职业成就何时已成为个人自我价值的适应不良生存机制。
-
-**战术建议：**
-- 评估一下你的职业动力是否是为了应对过去的情感创伤而形成的 'adaptation'。
-- 认识到什么时候职业成功不再能给你带来满足感，反而对你目前的状态有害。
-
-*时间戳：00:18:32*
-
----
-
-> "The transitions that I talk about are the big fundamental ones like the transition that I've been going through myself... me, for example, stepping away from my career, at the end of the day, I wasn't running from something, I was running back towards myself. That was an act of kindness towards myself."
-
-**洞察：** 彻底的职业转变可以是主动的自我同情行为，而不是被动地逃避工作。
-
-**战术建议：**
-- 将职业退出定为 'running back towards yourself'，而不是仅仅逃避某个角色。
-- 考虑一下你当前的职业基础是否建立在不再为你服务的身份之上。
-
-*时间戳：00:24:52*
-
 
 ## Ami Vora
-*Ami Vora*
 
-> "I realized that probably the most important thing is to just acknowledge that that is true for me. That I'm not going to be a person with a plan, and actually the thing that has consistently served me is to do the thing that feels right, go to the place that feels like home, work with the people who feel like my friends."
+> "And for me, the thing that has led me to the places where I do my best work is a feeling of being at home, which is all about trust and trust with the people around me. Can I walk through and feel like these people are going to have my back, they're going to let me take risks, I'm going to enjoy spending time with them?"
 
-**洞察：** 在选择职业变动时，优先考虑直觉和文化契合度，而不是严格的五年计划。
+**Insight:** Assess a job's fit by visualizing its daily emotional reality and prioritizing environments built on mutual trust and a sense of 'home.'
 
-**战术建议：**
-- 选择感觉 'right' 的角色，而不是只按二维 spreadsheet 做机械选择。
-- 专注于信任对你的创造力至关重要的环境。
+**Tactical advice:**
+- Prioritize environments where you feel coworkers will have your back and allow you to take risks.
+- Mentally simulate daily routines, such as your commute and lunch partners, to gauge your emotional response to a role.
+- Tear up the logical spreadsheet of career axes to focus on whether you feel lucky to walk through the doors.
 
-*时间戳：00:04:08*
-
----
-
-> "I try to just put on the coat of the job. When I wake up in the morning, I'm like, what would it be like if I were doing this job? What would I think about on my commute? Who would I have lunch with? Do I like them? What problems am I going to solve today?"
-
-**洞察：** 使用情绪模拟来评估潜在角色是否合适。
-
-**战术建议：**
-- 想象一份潜在工作的日常生活，以衡量你的情绪反应。
-- 评估将与你一起工作的人，将其作为决策的主要因素。
-
-*时间戳：00:09:03*
+*Source: [Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)](https://www.youtube.com/watch?v=6UHAop9fhNU) @ 00:04:08*
 
 ---
 
-> "I convinced one of them to introduce me to everyone at the office. I'd made a trade, I said, I'll buy you a fancy coffee at Coupa Cafe in downtown Palo Alto, and in exchange just introduced me to everyone... And the only call I got back was from the Head of PR... 'But we need a temp to review our press releases, so if you want to come join a temp agency, we'll tell them to send you here.' And that's what I did."
+## Andy Johns
 
-**洞察：** 踏入高增长公司的大门通常需要人际网络和愿意接受非传统或较低级别的切入点。
+**Insight:** Navigating a career transition requires identifying the subconscious drivers, like an addiction to achievement, that may be keeping you in high-status roles at the cost of your health.
 
-**战术建议：**
-- 利用 network 进入办公室并结识尽可能多的人。
-- 愿意从临时工或担任你 'overqualified' 进入目标公司的角色开始。
+**Tactical advice:**
+- Identify if your career path is fueled by a subconscious need to feel 'lovable' through professional success.
+- Be willing to walk away from high-status 'next-in-line' roles if they threaten your physical health.
+- Step away from the career ladder when professional walls become psychologically insurmountable.
 
-*时间戳：01:13:51*
+*Source: [When enough is enough | Andy Johns (ex-FB, Twitter, Quora)](https://www.youtube.com/watch?v=_93m4PriHyc) @ 00:15:04*
 
-
-## Annie Pearl
-*Annie Pearl*
-
-> "I think there's really two paths. I think one is more formal in nature. There are associate product manager programs out there and many scaled companies... I think another "more formal" way to get into PM is really by just directly applying to a junior PM role where there's no expectation of any sort of experience. I've usually seen this work best when you're already working somewhere in some product adjacency. Maybe you're in customer support, implementation, or maybe you're a sales engineer."
-
-**洞察：** 可以通过正式的 APM 计划或利用 product-adjacent function 中的内部角色来过渡到 PM。
-
-**战术建议：**
-- 适用于大型科技公司和小型早期公司的 APM 计划。
-- 如果你已经担任支持或销售工程等与产品相关的职位，请寻找内部初级 PM 职位。
-- 寻求机会跟随 PMs 或承担 'side' 产品工作来展示技能。
-
-*时间戳：00:06:25*
-
-
-## Anneka Gupta
-*Anneka Gupta*
-
-> "I definitely think doing it within the same company is a lot easier than trying to switch companies and switch jobs at the same time because when you're within a company, you've already built credibility, hopefully."
-
-**洞察：** 内部转移是进入产品管理的最有效途径，因为它们利用了现有的信誉和领域知识。
-
-**战术建议：**
-- 加入product-adjacent functions（支持、销售、工程师）并与产品团队建立关系。
-- 在小型 startups 中，自愿参与目前无人拥有的产品相关项目。
-
-*时间戳：00:51:41*
-
+---
 
 ## Bangaly Kaba
-*Bangaly Kaba*
 
-> "The framework is really that there's impact that you're really trying to drive and that is the thing that is the most important. And the impact is only achievable by looking at two sets of variables, a set of variables related to the environment, a set of variables related to your skills."
+> "The framework is really that there's impact that you're really trying to drive and that is the thing that is the most important. And the impact is only achievable by looking at two sets of variables, a set of variables related to the environment, a set of variables related to your skills, and really breaking down each and understanding what's happening in the environment bit by bit and what's happening with your skills and where are you hindered structurally within the environment?"
 
-**洞察：** 选择角色时，通过评估环境质量及其如何利用你的特定技能来优化影响。
+**Insight:** Maximizing career success requires an objective analysis of how your current professional environment either enables or hinders your specific skill set.
 
-**战术建议：**
-- 按 0 到 2 的范围对环境变量（经理、资源、范围、团队、薪酬、文化）进行评分。
-- 每年重新评估这些分数，以确定是什么限制了你发挥影响力的能力。
+**Tactical advice:**
+- Perform an annual audit of your environment, scoring your manager, resources, scope, team, compensation, and company culture.
+- Optimize for impact as your primary metric, as compensation and scope are ultimately derivatives of the results you drive.
+- Honestly identify whether you are being limited by external structural factors or personal skill gaps.
 
-*时间戳：00:07:18*
+*Source: [Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YouTube, Instagram, Facebook, Instacart)](https://www.youtube.com/watch?v=Ub9UkWByFIQ) @ 00:07:18*
 
+---
 
 ## Bob Baxley
-*Bob Baxley*
 
-> "I left Apple on a Friday and I started Pinterest on a Monday. I didn't give myself time to recalibrate to the Pinterest culture. I think at some level, a lot of the challenge is that Apple, and it's not just Apple, I think every major tech company, they have really powerful cultures. You get indoctrinated into all those standards and it's really deep."
+> "The thing I took away from Apple, and I think this is true for anybody changing from one major culture to another is most likely the new place hires you because of the values of the organization you left, but not the behaviors. And so I think it's important to recalibrate and say, well, I want to hold onto these values."
 
-**洞察：** 在强大的公司文化之间转换需要 'recalibration' 时期来摆脱旧行为，同时保留核心价值观。
+**Insight:** When transitioning between companies with strong cultures, you must retain your core professional values while intentionally adapting your behavioral style to suit the new environment.
 
-**战术建议：**
-- 在高强度角色之间给自己留出数周或数月的间隙，以保持以前的文化。
-- 坚持以前组织的价值观（例如卓越），但让自己的行为适应新 culture 的 norms。
+**Tactical advice:**
+- Give yourself a significant time gap between jobs to 'car wash' the habits of your previous role.
+- Distinguish between your functional values and your social behaviors to identify what needs to be recalibrated.
+- Verify during the interview process that leadership has a genuine, soul-level belief in your specific function.
 
-*时间戳：00:07:11*
-
-
-## Bob Moesta
-*Bob Moesta*
-
-> "And you start to realize that all of these things where we think we have to pay more money, over 50% of the people who got new jobs didn't get more money. It's a lie. It's about progress. It's about what do they want to learn? What skills do they want to get?"
-
-**洞察：** 职业变化主要是由对个人进步和学习的渴望驱动的，而不仅仅是加薪。
-
-**战术建议：**
-- 面试候选人时，请理解他们的 'metric of progress'，看看它是否与该职位的成长机会相符。
-- 确定 'pushes'（当前工作的挫败感）和 'pulls'（新职位的吸引力），以了解候选人的真正动机。
-
-*时间戳：00:26:08*
+*Source: [35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley](https://www.youtube.com/watch?v=X-83gvgVaWc) @ 00:06:38*
 
 ---
-
-> "The moment you stop making progress in your career is the moment you start looking for another job. And so over the last 15 years we've interviewed over a thousand people. I've coached almost a thousand people because I think there's a billion people a year who switched jobs and ultimately most of them end up with a job that's worse than the one they were at, but they don't know how to find it."
-
-**洞察：** 职业停滞是求职的主要原因，但大多数人未能找到更好的职位，因为他们缺乏自我意识和结构化的搜索过程。
-
-**战术建议：**
-- 确定推动你离开当前角色的 'pushes'（离开原因）和 'pulls'（期望结果）。
-- 确定你要执行的四个任务中的哪一个：“逃出去”、“下一步”、“regain control”或“realign”。
-
-*时间戳：00:00:04*
-
----
-
-> "I call it a jobcation, which is a job I can go do with one hand tie by hide my back so I can rest and recover to go do something else. It's about actually being able to go to the gym and work out and have some vacations. The moment you are comfortable doing nothing, you know who you are again, and you can actually figure this out."
-
-**洞察：** 在担任 startup 这样的高强度角色之后，'jobcation'（一种要求较低的角色）可以提供必要的空间来恢复和重新发现你的职业身份。
-
-**战术建议：**
-- 寻找那些你资历过高的职位，以便精神和身体上的恢复。
-- 为工作设定一个时间限制，以确保它充当桥梁，而不是永久的停滞。
-
-*时间戳：00:00:27*
-
----
-
-> "The thing that I think has been most powerful is, again, treating you like a product. How do we prototype different job positions for you? So how do we think of you? ... It's this notion of starting by doing what we call informational interviews to other jobs that are out there."
-
-**洞察：** 在选择一条道路之前，通过信息面试对不同的角色进行原型设计，将你的职业搜索视为产品开发。
-
-**战术建议：**
-- 对当前担任你感兴趣的职位的人员进行informational interviews。
-- 跨不同行业先做广泛 prototype，看看你的技能如何转化到当前领域之外。
-
-*时间戳：00:31:17*
-
-
-## Boz
-*Boz*
-
-> "Jump into new things, give it six months. If it's not the thing, no problem. You just built a ton of new skills that's going to come in handy, I promise you that. Keep going."
-
-**洞察：** 在职业生涯早期优化学习和各种经验会产生 'compound interest' 效应，在高级领导层中得到回报。
-
-**战术建议：**
-- 给一个新角色至少六个月的时间，看看你是否能对它产生热情。
-- 如果你已经耗尽了当前领域的学习潜力，请不要害怕横向移动。
-
-*时间戳：00:40:50*
-
----
-
-> "I think there's two really good places to be. I think one is carrying a lot of water in areas that the company's not paying attention to but you are important... The second-best place to be, or maybe equally, is on the most important thing."
-
-**洞察：** 战略性职业发展来自于拥有关键但被忽视的 'dam' 或处于公司首要任务的 'forge' 中。
-
-**战术建议：**
-- 寻找 'rocket ship' 项目，你可以在其中了解在极端压力下工作是什么样子。
-- 或者，拥有一个公司依赖的巨大、稳定的区域，但不进行微观管理。
-
-*时间戳：00:42:12*
-
 
 ## Camille Fournier
-*Camille Fournier*
 
-> "Don't stop being a hands-on technical until you feel like it's in your bones... I do think it's probably somewhere in the 10-year range of really having spent a lot of your time over those years writing code and really understanding how to be a technical expert."
+**Insight:** 
 
-**洞察：** 工程师在转入管理层之前应深入掌握技术（通常需要 10 年左右），以保持长期信誉。
-
-**战术建议：**
-- 等到你的技术技能达到 'internal confidence' 后再转向管理
-- 不要只因为管理岗在职业早期出现，就急着进入 management。
-
-*时间戳：00:21:18*
+*Source: [The things engineers are desperate for PMs to understand | Camille Fournier (author of “The Manager’s Path,” ex-CTO at Rent the Runway)](https://www.youtube.com/watch?v=hZSh0rs20uI) @ 00:21:18*
 
 ---
-
-> "The fact that you really don't own your time as a manager. Your team and your management and the company owns your time... individual contributors often think that if they become a manager, they will still have some of the freedom that they have as a senior individual contributor."
-
-**洞察：** 对于新任管理者来说，最令人惊讶的转变是失去了日程安排的自主权，并转变为以服务为导向的角色。
-
-**战术建议：**
-- 准备一个能够响应团队需求的时间表
-- 将思维方式从 'command and control' 转变为 'nudging and directing'
-
-*时间戳：00:37:08*
-
-
-## Christine Itwaru
-*Christine Itwaru*
-
-> "I'm seeing more PMs, like I said, go into the space. So, it's no longer being seen so much as a threat. It's being seen as this partner... if you love creating that healthy team environment and one where there's cross-functional collaboration and it fuels you to empower the team more, it's a wonderful fit for you."
-
-**洞察：** 以组织健康和跨职能效率为动力的 PMs 是过渡到产品运营的理想候选人。
-
-**战术建议：**
-- 确定你是否更喜欢解决 'meta' 问题（团队如何工作）而不是特定的产品问题
-- 如果你在帮助其他 PMs 取得成功方面找到了满足感，则过渡到产品运营部门
-
-*时间戳：00:47:41*
-
----
-
-> "I strongly advocate for product ops leaders to have done that role, to have actually had hands-on product experience building and understanding customer problems and feeling that pain, because you very quickly realize where to place your efforts."
-
-**洞察：** 实践产品管理经验是有效领导产品运营职能的关键先决条件。
-
-**战术建议：**
-- 利用以前的 PM 经验来确定哪些流程对于产品团队来说实际上是 'painful'
-
-*时间戳：00:50:45*
-
 
 ## Chip Conley
-*Chip Conley*
 
-> "What I love to see is not so much what roles you've had... Give me, in a paragraph, a thorny problem you faced. What was the problem, and what skills you used to actually accomplish it, and what was the result of that?"
+**Insight:** Midlife career transitions should be reframed as a transformative 'chrysalis' stage for growth and reinvention rather than a period of crisis.
 
-**洞察：** 转换角色时，请将简历重点放在解决问题的叙述上，而不仅仅是职位名称。
+**Tactical advice:**
+- Reframe midlife changes as an opportunity for metamorphosis and renewal.
+- Prioritize curiosity and energy over the fear of being an older employee in a young industry.
+- Look for happiness and professional satisfaction in the later arcs of your career journey.
 
-**战术建议：**
-- 将简历要点写为 'thorny problems'，并具有清晰的操作和结果
-
-*时间戳：00:41:41*
-
----
-
-> "When you're interviewing, you're also interviewing them. When you're interviewing, it's not about you having to prove yourself. It's also for them to actually prove themselves as a company."
-
-**洞察：** 成功的职业转型需要思维方式的转变，候选人会像公司评估他们一样严格评估公司的文化。
-
-**战术建议：**
-- 将访谈作为对一致性的双向评估
-
-*时间戳：00:51:39*
-
-
-## Christopher Miller
-*Christopher Miller*
-
-> "the founder was just like, 'I've read that the cure to all our problems is going to be hiring product manager,' and you heard that and you googled, what is product management, and then you asked them, 'Can I do that?'"
-
-**洞察：** 进入产品管理领域通常需要确定当前组织内未满足的需求并自愿满足它。
-
-**战术建议：**
-- 找出组织中没有人负责解决客户问题的差距
-- 自愿参与 'shadow labor' 或从现有 PMs 卸载任务以获得经验
-
-*时间戳：00:17:22*
+*Source: [Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)](https://www.youtube.com/watch?v=R5_ypwiRIyo) @ 00:57:28*
 
 ---
 
-> "choosing where you want to break in is almost as important as choosing that you want to break in the first place. Thinking about who you're going to be reporting to, thinking about what's the track record of success for people at that company, breaking into product management, trying to think five years in advance and work backwards"
+**Insight:** 
 
-**洞察：** 过渡到 PM 时，优先考虑具有强大导师结构和成功内部调动历史的公司。
+*Source: [Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)](https://www.youtube.com/watch?v=R5_ypwiRIyo) @ 00:51:24*
 
-**战术建议：**
-- 根据教练和赞助新 PMs 的能力评估潜在经理
-- 寻找进入门槛较低的小商店，但要警惕缺乏正规培训
+---
 
-*时间戳：00:19:13*
+## Christine Itwaru
 
+**Insight:** Transitioning into product ops requires shifting your mindset from building customer features to building the internal systems that empower a product organization to scale.
 
-## Claire Vo
-*Claire Vo*
+**Tactical advice:**
+- Identify existing operational pain points in your current organization and volunteer to design the systems that solve them.
+- Highlight your experience in cross-functional alignment and strategic data synthesis when applying for ops roles.
+- Position yourself as a strategic advisor to leadership by providing high-level insights that influence business metrics.
 
-> "PM is such a generalist role, it's okay to go a little left and a little right to go up. I took this marketing growth role... It wasn't only for product, it was for marketing. And I had to learn marketing... but it was a foundation on which I could build a broader leadership career."
+*Source: [Understanding the role of product ops | Christine Itwaru (Pendo)](https://www.youtube.com/watch?v=tGS-NhxrN_Q) @ 00:47:41*
 
-**洞察：** 横向调动到营销或工程等相邻职能可以为更广泛的行政领导奠定基础。
-
-**战术建议：**
-- 寻找产品直接范围之外的增长机会
-- 使用通才 PM 技能来填补其他部门的空白
-- 将横向调动视为拓展 C 级职位所需广度的一种方式
-
-*时间戳：00:14:32*
-
-
-## Dr. Fei Fei Li
-*Dr. Fei Fei Li*
-
-> "I chose to come to Stanford because... I was okay to take a risk of restarting my tenure clock. Becoming the first female director of SAIL, I was actually relatively speaking a very young faculty at that time, and I wanted to do that because I care about that community. I didn't spend too much time thinking about all the failure cases."
-
-**洞察：** 成功的职业转型通常需要愿意牺牲短期保障（如终身教职）来换取长期影响和社区协调。
-
-**战术建议：**
-- 根据影响潜力和生态系统/ 团队的质量评估转型。
-- 当行动符合你的科学或专业 'North Star' 时，避免过度关注下行风险。
-
-*时间戳：01:06:42*
-
+---
 
 ## Deb Liu
-*Deb Liu*
 
-> "I always balance learning and impact, which was you can have the most impact, the job you know the best, but then you stop learning. And if you're learning all the time, you're not necessarily having impact. So how do you keep going back and forth and back and forth so that you're not going straight up a lot or you're actually laddering back and forth into different things where you're having an amazing time where you know everything and then you're the newbie again and learning new things."
+**Insight:** A successful leadership transition relies on a structured plan that prioritizes listening and diagnosing issues over immediate, unilateral decision-making.
 
-**洞察：** 职业发展是非线性的，需要平衡高影响期（利用现有的掌握）和高学习期（成为 'newbie'）。
+**Tactical advice:**
+- Use your first 90 days to diagnose organizational health and build trust with cross-functional partners.
+- Wait to make sweeping changes until you have fully aligned with the team on a shared vision for the future.
+- Establish clear communication channels early to ensure the organization understands your priorities and values.
 
-**战术建议：**
-- 在利用你的专业知识的角色和迫使你学习新领域的角色之间交替
-- 不要害怕再次成为 'newbie'，因为它可以防止职业停滞
-
-*时间戳：00:03:35*
+*Source: How to own your career growth and become a powerful product leader | Deb Liu, Ancestry (ex-Facebook, PayPal) @ 00:51:00*
 
 ---
 
-> "The people who were most successful were the ones who actually through adversity, learned to turn stumbling blocks into stepping stones. They were the ones who got hard feedback and then came back stronger because now they learned what to do differently."
+## Dr. Fei Fei Li
 
-**洞察：** 韧性以及将失败或负面反馈转化为学习的能力是长期职业成功的主要驱动力。
+**Insight:** High-impact career choices in AI should be guided by a sense of personal responsibility and a deep commitment to the technology's societal outcome.
 
-**战术建议：**
-- 将硬反馈视为改进的蓝图，而不是个人的失败
-- 从产品或角色失败中关注 'bouncing back quickly'
+**Tactical advice:**
+- Act like a responsible individual across all stages of AI development and deployment.
+- Care deeply about how your specific applications impact your community and society.
+- Align career choices with curiosity-driven problems that have civilizational impact.
 
-*时间戳：00:11:40*
+*Source: [The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=Ctjiatnd6Xk) @ 01:05:25*
 
+---
 
-## Donna Lichaw
-*Donna Lichaw*
+## Elena Verna 4.0
 
-> "Pull your superpowers out of your stories from your past and your present, and then eventually figure out how to apply them and transpose them to your future. But if you look at your peak experiences from life, from work, but especially from life... when you can look at these three stories as moments in time and you can lay them on top of one another, what you see at key moments is your superpowers popping through."
+**Insight:** Prospective employees must determine if they possess the boundary-setting skills and appetite for chaos required to succeed at a once-in-a-lifetime growth company.
 
-**洞察：** 要驾驭职业变化，请确定你过去的高峰经历中反复出现的 'superpowers'，以确定你未来最有效率的领域。
+**Tactical advice:**
+- Assess your personal ability to set boundaries in an 'always-on' startup environment.
+- Evaluate whether you prefer optimization work or the high-stakes innovation required in AI.
+- Determine if your career stage allows for the intensity of a company growing at record speeds.
 
-**战术建议：**
-- 分析三种不同的高峰经历（童年、最近的经历和职业道路），找到定义你独特优势的共同主题。
+*Source: Elena Verna 4.0 @ 01:09:00*
 
-*时间戳：00:44:58*
-
-
-## Dmitry Zlokazov
-*Dmitry Zlokazov*
-
-> "It's a quite substantial part of product owners who eventually become very successful by the way. So it's like a positive self-select, so it means that someone already succeeded in another role. So it's a guaranteed culture match, it's a guaranteed domain knowledge, and then they simply grow. Usually it could be operations managers or engineers."
-
-**洞察：** 由于现有的领域知识和文化契合度，来自运营或工程部门的内部调动通常会成为最成功的产品所有者。
-
-**战术建议：**
-- 寻找高绩效工程师或运营经理过渡到产品角色
-- 利用内部转移来确保产品组织中的 'guaranteed culture match'
-
-*时间戳：00:21:18*
-
-
-## Elizabeth Stone
-*Elizabeth Stone*
-
-> "I have been surrounded by amazing people in all these roles and I have a feeling that I learned a lot by osmosis and observation and then have been able to leverage that to be stronger in the roles I was sitting in."
-
-**洞察：** 积极观察同事和领导者以确定什么有效、什么无效，通常可以推动职业的快速发展。
-
-**战术建议：**
-- 观察成功人士的做法，并根据你真实的风格决定采用或拒绝什么
-- 使用 'osmosis'，在过渡期间让自己周围都是高绩效人士
-
-*时间戳：00:12:57*
-
-
-## Elena Verna
-*Elena Verna 3.0*
-
-> "Full-time jobs are not the best way to monetize the skill that you have... My goal professional is actually to have options so I can choose what I want to do... Career optionality, being the ultimate north star for anybody in their professional journey."
-
-**洞察：** 关注职业选择而不是特定头衔可以让职业生活更加灵活和令人满意。
-
-**战术建议：**
-- 根据每一次职业变动是否会增加你未来的选择（例如顾问、部分或临时职位）来评估它。
-- 在过渡到咨询等横向工作之前，通过在全职岗位上积累深厚的专业知识来获得选择性的权利。
-
-*时间戳：01:20:08*
-
-
-## Eli Schwartz
-*Eli Schwartz*
-
-> "Build that growth advising muscle by staying on your day job. Don't quit your day job, and moonlighting and practice selling, closing, working, retaining, and that's where if you're successful there, you can be successful on your own."
-
-**洞察：** 转型为增长顾问角色需要在受雇期间培养销售和客户管理技能，而不仅仅是依赖运营专业知识。
-
-**战术建议：**
-- 在离开全职岗位之前通过兼职练习 'selling' 和 'closing'
-- 专注于建立个人品牌和咨询框架，而不仅仅是成为 'freelance operator'
-
-*时间戳：01:46:11*
-
-
-## Eric Ries
-*Eric Ries*
-
-> "pivot is defined as a change in strategy without a change in vision. So we have this idea that the founder has the vision, then they try to figure out how to make the vision happen and they find a different way, but the vision stays constant."
-
-**洞察：** 支点是一种战略转变，它保持最初的愿景，同时改变实现目标的路径。
-
-**战术建议：**
-- 保持对愿景的忠诚
-- 基于学习改变策略
-- 承认愿景本身可以通过这个过程被发现
-
-*时间戳：01:09:04*
-
+---
 
 ## Fareed Mosavat
-*Fareed Mosavat*
 
-> "We are seeing a larger percentage of our executive network... working on things like newsletters, podcasts... full-time advisors, fractional heads of growth, fractional heads of product one day a week... they love it because of the flexibility that it creates for them. They love it because of the high upside and non-linearity of possibility."
+**Insight:** 
 
-**洞察：** 高级产品领导者越来越多地转向结合了咨询、部分领导和内容创建的 'portfolio careers'。
+*Source: [How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)](https://www.youtube.com/watch?v=oo0jSep7pzc) @ 00:34:08*
 
-**战术建议：**
-- 在狭窄的利基市场中开发 'specific knowledge'，让你跻身世界顶尖之列
-- 在高增长、信誉良好的公司工作，建立咨询角色所需的专业 'clout'
-- 将你的运营经验归纳为可应用于不同行业和公司阶段的框架
+---
 
-*时间戳：00:50:41*
+**Insight:** 
 
+*Source: [How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)](https://www.youtube.com/watch?v=oo0jSep7pzc) @ 00:50:05*
+
+---
+
+## Farhan Thawar
+
+> "If you do the hard path and it doesn't work, actually you still win because you've now done something hard. You've probably worked with smart people. You've learned something along the way that is valuable."
+
+**Insight:** Choosing the more difficult career path ensures that even if you fail, you gain valuable skills and build a network of high-caliber people.
+
+**Tactical advice:**
+- Opt for the harder project or role to maximize learning and exposure to top-tier talent.
+- Evaluate opportunities based on their potential for skill acquisition rather than just the likelihood of success.
+- Intentionally place yourself in challenging environments where you are forced to learn from others.
+
+*Source: [How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)](https://www.youtube.com/watch?v=C_lhMOjG7PE) @ 00:05:42*
+
+---
 
 ## Gergely
-*Gergely*
 
-> "I told myself, if four years later Uber exits and I make a bunch of money, I owe it to myself to take a risk, because then I'll have four years of savings in my bank... I decided to leave Uber. And we'll talk about it a little later in the podcast, but I didn't plan like this, but I started writing a newsletter."
+> "I told myself, if four years later Uber exits and I make a bunch of money, I owe it to myself to take a risk, because then I'll have four years of savings in my bank, which... Back then I had maybe six months of savings or something. So this was the promise to myself."
 
-**洞察：** 股权退出的财务安全网可以提供必要的跑道，使企业从稳定的职业生涯过渡到高风险的创业或创意道路。
+**Insight:** Financial security from a major career milestone can be the necessary catalyst and safety net for taking high-stakes entrepreneurial risks.
 
-**战术建议：**
-- 使用重大财务里程碑（例如首次公开募股或股票归属）作为预先计划的触发因素来承担专业风险。
-- 在放弃高薪职位、追求非传统道路之前，确保你至少有几年的积蓄。
+**Tactical advice:**
+- Set a specific financial or temporal milestone as your pre-planned trigger to leave a corporate role.
+- Build a multi-year savings buffer to reduce the pressure of immediate profitability in your new venture.
+- Identify organizational shifts, such as layoffs or reorgs, as optimal windows for executing a planned departure.
 
-*时间戳：00:15:32*
+*Source: [Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)](https://www.youtube.com/watch?v=CtB0O0M7YS0) @ 00:13:20*
 
+---
 
-## Gibson Biddle
-*Gibson Biddle*
+## Gina Gotthilf
 
-> "In your career, it's just a lot like building a product. You have theories and hypotheses, you find ways to experiment with them, and then you were successful or you failed."
+**Insight:** Career success is rarely linear, and setbacks like layoffs or aimlessness should be viewed as temporary 'B-side' moments rather than permanent failures.
 
-**洞察：** 通过进行小实验来测试有关新角色或行业的假设，将你的职业视为一种产品。
+**Tactical advice:**
+- View professional setbacks as temporary 'B-side' moments in a larger success narrative.
+- Stay resilient by getting back on the horse immediately after layoffs, visa issues, or firings.
+- Focus on the psychology of how others perceive value to better tell your story when navigating career transitions.
 
-**战术建议：**
-- 制定职业假设（例如，'I would enjoy teaching'）
-- 运行 'baby step' 实验以低风险检验假设
-- 根据实验结果迭代你的职业方向
+*Source: [Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf (Latitud, Duolingo)](https://www.youtube.com/watch?v=sWClFYdbkRA) @ 00:07:41*
 
-*时间戳：54:50*
-
+---
 
 ## Gokul Rajaram
-*Gokul Rajaram*
 
-> "I think great careers are built by knowing a lot of people doing great work so they know and want you on their teams, and just waiting for serendipity and then seizing it and jumping."
+> "Ultimately you don't realize this, but the value of working at a leader in any space, the quality of talent you work with, the brand, the network effect, so many things accrue to you. I would much rather be the number two or number three person. If you think of it that way, and the leader in a space, than the top person."
 
-**洞察：** 职业发展通常是非线性的，并由建立高绩效人员网络和对偶然机会保持开放的态度来推动。
+**Insight:** Prioritize joining a category leader over a higher title at a secondary player because the brand equity and elite network of a winner provide superior long-term career leverage.
 
-**战术建议：**
-- 优先考虑与聪明人建立关系而不是线性晋升路径
-- 帮助他人而不期望立即回报来构建 'reservoir of goodwill'
-- 对其他人在你的核心角色之外所做的事情感到好奇
+**Tactical advice:**
+- Assess founders for an authentic, mission-driven mindset rather than a primary focus on revenue or personal wealth.
+- Join mid-stage companies (300–500 employees) that have achieved product-market-channel fit and are transitioning from a single product into a platform.
+- Cultivate professional serendipity by staying curious about other teams' work and building a reservoir of goodwill through helpfulness.
 
-*时间戳：00:05:57*
-
----
-
-> "I would much rather be the number two or number three person... in the leader in a space, than the top person. Say Google versus Yahoo. I saw even if you're the VP of product at Yahoo or the head of product at Yahoo versus a ICPM at Google, you probably want to be the ICPM at Google."
-
-**洞察：** 加入市场领导者可以获得 'unfair brand halo' 并获得更高水平的人才，这比在二级参与者中获得更高级的头衔更重要。
-
-**战术建议：**
-- 将公司的市场地位置于个人头衔之上
-- 在加入之前评估一家公司是否有潜力成为其细分市场中的第一名
-
-*时间戳：00:11:25*
+*Source: [Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in you career, how to get started angel investing, more](https://www.youtube.com/watch?v=5p0VK_-BoJI) @ 00:07:36*
 
 ---
-
-> "People who are joining the workforce new should generally join mid-stage companies because mid-stage companies you get some mentorship and it's not just basically whatever needs to be done and ultimately you don't build any deep skills. So mid-stage company I would define as something that is a multi hundred person company, but not maybe a thousand person company."
-
-**洞察：** 中期公司（300-500 人）提供结构化指导和培养深入专业技能的机会之间的最佳平衡。
-
-**战术建议：**
-- 寻找已达到产品- 市场- 渠道契合度的公司
-- 目标公司从单一产品过渡到具有多种连锁产品的平台
-
-*时间戳：00:12:46*
-
 
 ## Graham Weaver
-*Graham Weaver*
 
-> "Imagine that you're walking home from work and you see this bright, shiny object. You walk over and you realize it's a magic lamp. And you rub the lamp and this genie comes out and the genie says, 'Hey, I haven't been in this bottle for 10,000 years yet, so I'm not fully formed. So I can't give you three wishes. But what I can do is I can give you one wish. And the wish I can give you is whatever you throw yourself into with your whole life and your career, it's going to turn out great.'"
+**Insight:** Career satisfaction is found by choosing the path that generates internal energy rather than the one that looks best on a logical "pros and cons" matrix.
 
-**洞察：** 使用 'Genie Framework' 消除对失败的恐惧，从而确定你真正的职业愿望。
+**Tactical advice:**
+- Visualize what you would choose if success were guaranteed to identify your "genie goal."
+- Notice which career option actually sparks your internal heart and soul energy.
+- Stop using logical lists of pros and cons to talk yourself out of the path you actually want.
 
-**战术建议：**
-- 问问自己，如果可以保证成功，你会追求什么
-- 找出最贴近你心意的 'genie goal'
-- 从 10 年的成功成果开始倒推，确定当前的道路
-
-*时间戳：00:09:19*
+*Source: [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)](https://www.youtube.com/watch?v=UpGR9P0Ufts) @ 00:06:10*
 
 ---
 
-> "The biggest question I think with respect to your career is, within reason, what would you do if you knew you wouldn't fail?"
+> "If I'm optimizing for tomorrow and I just want to have a great day tomorrow, I'm going to stay exactly where I am. So many people I see have this happen, where they hit a plateau and they never move past it, because they're not willing to have that hard day, month, week, year."
 
-**洞察：** 确定理想的职业道路需要消除潜意识中对失败的恐惧。
+**Insight:** Deciding whether to quit depends on recognizing if you are simply in the "worse first" stage of a worthwhile journey or stuck on a plateau because you are optimizing for short-term comfort.
 
-**战术建议：**
-- 问：'If you didn'要赚钱，你会做什么？
-- 为你识别 'play'，为其他人识别 'work'
-- 确定你想做但又不好意思大声说出来的事情
+**Tactical advice:**
+- Evaluate if your desire to stop is driven by the temporary discomfort of the "worse first" phase of growth.
+- Ask yourself if you are staying in your current role just because you are optimizing for a comfortable tomorrow.
+- Distinguish between suffering that leads to a better version of yourself and suffering that has no long-term value.
 
-*时间戳：00:16:08*
+*Source: [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)](https://www.youtube.com/watch?v=UpGR9P0Ufts) @ 01:00:37*
 
 ---
 
-> "You basically come up with nine lives. So you say your first life, life one is the life you have now... The first rule is all the lives have to start from today... And the second rule is you have to be excited about all these lives."
+## Gustaf Alstromer
 
-**洞察：** 'Nine Lives' 练习允许你同时设想多个令人满意的路径，从而帮助降低职业探索风险。
+**Insight:** The skills required for climate tech—product management, software engineering, and growth—are identical to those used in traditional tech companies.
 
-**战术建议：**
-- 列出你今天会很高兴开始的九种不同的生活/ 职业
-- 确定哪种生活能给你最多的能量
-- 将这些 'other lives' 的元素作为副业或爱好融入到你当前的生活中
+**Tactical advice:**
+- Apply standard SaaS and product management frameworks to decarbonization and carbon accounting problems.
+- Look for climate startups that require digital solutions rather than just deep-tech hardware.
+- Focus on roles in the climate sector where your existing tech stack or PM experience can be directly applied.
 
-*时间戳：00:43:23*
+*Source: Gustaf Alstromer @ 00:58:53*
 
+---
 
-## Hari Srinivasan
-*Hari Srinivasan*
+## Inbal S
 
-> "I'd really start zoning in on roles where you might see if you don't have the functional experience, the industry experience. I think that would go a long way as how to help you differentiate from yes, what's probably more candidates, or more applications going into each role."
+**Insight:** A successful transition to CPO involves auditing the existing product lifecycle to establish strong convictions about the environment and tools your team needs.
 
-**洞察：** 在调整角色时，利用深厚的行业知识将自己与具有更多职能经验的候选人区分开来。
+**Tactical advice:**
+- Evaluate the developer environment and tooling as the foundation for productivity.
+- Analyze the entire software development lifecycle to identify where table-stakes technology like AI is missing.
+- Build conviction based on platform data before making major strategic shifts.
 
-**战术建议：**
-- 定位你之前的行业背景可提供独特优势的职位
-- 将特定的证书和工作产品添加到你的技能档案中，以提供能力证据
+*Source: [The future of AI in software development | Inbal Shani (CPO of GitHub)](https://www.youtube.com/watch?v=f10s3rxKaJw) @ 00:39:20*
 
-*时间戳：00:24:30*
-
+---
 
 ## Jackie Bavaro
-*Jackie Bavaro*
 
-> "Being a manager is not as much fun as being an IC. It's a lonely job. When your team goes out for drinks, they treat you differently when you're the manager than when you're one of the other ICs. It's more painful and less fun."
+**Insight:** Differentiate between managing a product and managing people to understand that your early career growth is about product ownership rather than personnel oversight.
 
-**洞察：** 向管理层的过渡涉及重大的社会和情感转变，许多 IC 都没有做好准备。
+**Tactical advice:**
+- Focus on managing the product's direction and requirements early in your career.
+- Recognize that 'Product Manager' is a title of ownership over results, not a direct people-management role.
+- Apply for PM roles even if you feel underqualified to manage others, as the job is primarily about influence.
 
-**战术建议：**
-- 在追求管理路线之前考虑 'loneliness' 因素
-- 将向管理层的转变视为 'two-way door'，如果不合适，你可以撤回
-
-*时间戳：16:01*
+*Source: Jackie Bavaro on getting better at product strategy, what exactly is strategy, PM pitfalls to avoid, advancing your career, getting into management, and much more @ 16:01*
 
 ---
 
-> "I think understanding that there's different ways to grow your impact and grow your career, other than getting promoted to people management... you can make a lot of money without getting that promotion title. If you're working at a small company, if you're working with other companies that isn't the highest paying company, you'll make a lot more money by switching companies than you will by getting promoted at your current company."
+## Jag Duggal
 
-**洞察：** 职业发展和财务成功并不严格要求进入人员管理。
+**Insight:** Professional setbacks can be overcome by leveraging deep industry expertise and moving toward companies with cultures that align with your personal values.
 
-**战术建议：**
-- 使用 levels.fyi 等网站了解 IC 补偿基准
-- 在平台或合作伙伴团队中寻找具有高影响力的 IC 角色
+**Tactical advice:**
+- Look for companies where the stated values resonate with you on a personal level during the interview process.
+- Vet if a company's culture is 'alive' in employees' minds or just a sign on the wall.
+- Leverage past experiences at major tech incumbents to implement rigorous product tradecraft at startups.
 
-*时间戳：17:38*
+*Source: [Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google, Quantcast)](https://www.youtube.com/watch?v=8A7wXK2MncQ) @ 01:12:55*
 
 ---
-
-> "One mistake I see people make early in their career is they are trying to overdo it... A lot of times you've been assigned a problem where a huge creative solution is a bad idea. If you're in one of the situations, just do the simple thing, get it done really well. And that'll earn you the trust to be able to take on bigger things in the future."
-
-**洞察：** 早期职业成功是建立在可靠地执行范围狭窄的任务的基础上的，而不是重新发明轮子。
-
-**战术建议：**
-- 专注于让 'simple thing' 在你的第一个项目中表现出色
-- 避免针对受限问题过度设计解决方案
-
-*时间戳：39:27*
-
 
 ## Janna Bastow
-*Janna Bastow*
 
-> "Being a PM actually provides you with a lot of the skills and background to be a founder, to be a CEO. It gives you a lot of chance to work with a lot of the different teams and see a lot of the underpinnings of how business works."
+**Insight:** Transitioning from a product manager to a founder is often driven by identifying a gap in the tools or communities available to your own professional peer group.
 
-**洞察：** 产品管理是创业的绝佳训练场，因为它让你接触跨职能的业务运营。
+*Source: [Building better product roadmaps | Janna Bastow (Mind the Product, ProdPad)](https://www.youtube.com/watch?v=W3cvqPCGcck) @ 00:48:58*
 
-**战术建议：**
-- 与当前职位的领导层密切合作，观察业务决策的制定方式
-- 让自己身边有不同职能领域（法律、财务等）的顾问，以填补创办公司时的知识空白
-
-*时间戳：48:58*
-
+---
 
 ## Jason Shah
-*Jason Shah*
 
-> "The framework I like is ladder versus map, and I think that you can be either person that any point in your life... Ladder is about moving up. It's more influence, more power, a higher title, things like this, whereas map is I just want to go wherever's interesting... I'm okay with discomfort because it's interesting."
+**Insight:** When navigating a career, prioritize roles that allow you to solve significant problems using your unique strengths and personal perspective.
 
-**洞察：** 将职业视为 'map' 而不是 'ladder' 可以通过多样化、有趣和高风险的经历获得更多成长。
+**Tactical advice:**
+- Evaluate potential roles based on whether the problem being solved is truly 'important.'
+- Look for environments where you can apply a 'unique way' of working that matches your personality.
+- Move on from roles where you feel unproductive or unable to ship regularly.
 
-**战术建议：**
-- 优先考虑有趣的问题和角色塑造体验，而不是线性的标题进展。
-- 接受短期的不适或 'risky' 的举动，如果它们能带来独特的学习和故事。
+*Source: [Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)](https://www.youtube.com/watch?v=nMsA5VeLoOM) @ 00:46:46*
 
-*时间戳：00:46:46*
+---
 
+## Jeffrey Pfeffer
 
-## Jules Walter
-*Jules Walter*
+**Insight:** Evaluating career growth requires accepting that the path to influence involves trade-offs that may clash with idealistic personal values or upbringing.
 
-> "making that initial transition is really hard. What I've seen is the path that we just talked about, join a startup and then from there go into different companies. And then the other path that is typical is being at a company and then switching product management, especially if you develop domain expertise and there's a need for a PM."
+**Tactical advice:**
+- Decide if you are willing to adopt the pragmatic behaviors required to gain and wield influence.
+- Prepare for the psychological discomfort of navigating how organizations actually work versus how they should work.
+- Evaluate the loss of privacy or autonomy against the tangible benefits of increased power and salary.
 
-**洞察：** 进入产品管理领域通常需要加入早期的 startup 以获得头衔，或者在你已经拥有领域专业知识的公司进行内部转型。
+*Source: [The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (author of 7 Rules of Power, professor at Stanford GSB)](https://www.youtube.com/watch?v=etVCBDRXUH8) @ 01:10:57*
 
-**战术建议：**
-- 加入 startup，成为首批建立跟踪记录的 PMs 之一。
-- 利用现有的领域专业知识切换到当前公司内的 PM 角色。
+---
 
-*时间戳：00:06:46*
+## Keith Coleman & Jay Baxter
 
+**Insight:** Returning to a hands-on building role allows a leader to focus on zero-to-one product development without the overhead of a large management structure.
 
-## Julia Schottenstein
-*Julia Schottenstein*
+**Tactical advice:**
+- Assess whether your impact is maximized through direct building or organizational scale.
+- Look for high-leverage roles that prioritize lean, fast-paced execution over headcount.
 
-> "I do have an unusual background, but it doesn't surprise me that people who are interested in product are also interested in investing and vice versa. For me, I've always had three interests broadly and that's an interest in business, an interest in technology and an interest in markets. And I get to express those interests both in investing and in product, but just with different weights."
+*Source: [An inside look at X’s Community Notes | Keith Coleman (VP of Product) and Jay Baxter (ML Lead)](https://www.youtube.com/watch?v=8dgyqYHLcCI) @ 00:30:19*
 
-**洞察：** VC 和 product 之间的转换是自然的，因为这两个角色都需要业务、技术和市场分析之间的平衡。
-
-**战术建议：**
-- 确定你当前角色和目标角色（例如业务、技术和市场）之间的共同点。
-- 利用对特定产品或公司的高度信念，促进从投资角色转变为运营角色。
-
-*时间戳：00:04:34*
-
-
-## Karina Nguyen
-*Karina Nguyen*
-
-> "When I first came to Anthropic and I was like, "Oh my God, I really love front-end engineering." And then the reason why I switched to research is because I realized, "Oh my God, Claude is getting better at front-end. Claude is getting better at coding. I think Claude can develop new apps.""
-
-**洞察：** AI 在编码等技术领域的快速发展可能需要从execution-centered的角色转向research-centered的角色。
-
-**战术建议：**
-- 监控你正在构建的模型的功能，看看它们是否开始automate your own core technical skills。
-
-*时间戳：00:00:06*
-
-
-## Julie Zhuo
-*Julie Zhuo 2.0*
-
-> "I think it's so easy for a young person to go into their career and everyone is telling them... 'You need to get that manager title.'... I think sometimes people opt into this without knowing what they're actually signing up for. What are the trade-offs? And is that really what you want to do?"
-
-**洞察：** 职业生涯的不快乐往往源于理想 lifestyle/reward与角色所需的actual day-to-day work之间的不匹配。
-
-**战术建议：**
-- 评估晋升管理层是否符合你的实际热情或只是外部压力。
-- 在致力于新的职业道路之前，先定义你的目标（例如，'deepening craft' 与 'VP title'）。
-
-*时间戳：00:53:17*
-
-
-## Kenneth Berger
-*Kenneth Berger*
-
-> "I was fired from Slack three different times... I spent that year being fully out of integrity with myself. Never saying what I really wanted, how I really felt because it didn't feel safe. I was too scared. I kept it all inside. And it took me six months or a year even after that to really feel safe and okay again."
-
-**洞察：** 未能为自己辩护并忽视反馈可能会导致career setbacks和严重的emotional burnout。
-
-**战术建议：**
-- 阐明新角色早期的成功是什么样子
-- 把 management 的 'nos' 当作 data points，而不是 personal attacks。
-- 即使感觉有风险，也要表达自己的真实感受和愿望，保持诚实
-
-*时间戳：00:45:38*
-
+---
 
 ## Kevin Yien
-*Kevin Yien*
 
-> "I discourage people from going straight into product management. If they want to become product managers, you encourage them to start somewhere else first. Why is that? ... The people that should be doing that are the people who are building it. That's an engineer, that's a designer, that's a sales person or a support person."
+**Insight:** Reframing professional setbacks as environmental mismatches helps protect a product manager's identity and long-term career growth.
 
-**洞察：** 产品管理的最佳基础是从直接构建或销售产品的角色开始，以了解核心价值循环。
+**Tactical advice:**
+- Separate your personal identity from your job performance or employment status during layoffs.
+- Analyze past failures to identify if the issue was your skill set or a lack of organizational fit.
+- Use setbacks as opportunities to seek out environments that better align with your natural strengths.
 
-**战术建议：**
-- 从工程师、设计师或销售人员开始，理解 building 和 customer problems。
-- 在转变为正式的 PM 角色之前，使用这些角色来形成独特的视角。
-
-*时间戳：00:03:45*
+*Source: [Unorthodox PM wisdom: Automating user insights, unselling job candidates, logging every decision, more | Kevin Yien (Stripe, Square, Mutiny)](https://www.youtube.com/watch?v=xOTO98MXG9o) @ 01:06:25*
 
 ---
 
-> "I land my first official, by title, PM job at a startup. I made it. I've arrived... the company is really struggling and so we go through a series of rolling layoffs and I'm round 4 something... my identity that has been completely crushed... I thought I was a product manager. This is evidence I am not."
+## Laura Modi
 
-**洞察：** 裁员等career setbacks可能会引发identity crisis，但将个人能力与business needs 或 environment fit分开至关重要。
+> "And it's a big thing to take a risk because you're taking 10 steps backwards in hopes of making major leaps forward. And I think that's just always kind of been a narrative mostly in my career, which is I don't believe there's such a thing as taking a big leap without first taking a major risk, and that was."
 
-**战术建议：**
-- 反思哪些内容是你可以控制的，哪些内容是业务环境造成的。
-- 认识到在 'habitat' 中失败并不意味着你缺乏在另一项中蓬勃发展的技能。
+**Insight:** Major career leaps often require a temporary reduction in stability or status to unlock exponential long-term potential.
 
-*时间戳：01:06:44*
+**Tactical advice:**
+- Perform deep intentional research on the marketplace and business viability before resigning.
+- Assess your financial runway to determine how long you can go before needing outside capital.
+- Wait for deep personal conviction in an idea rather than jumping on every creative spark.
 
-
-## Lane Shackleton
-*Lane Shackleton*
-
-> "Moments that stretch you or moments that you feel uncomfortable in or you find yourself saying, "Oh shit. I shouldn't be here," or, "I'm under qualified to be here," those are the moments you should be seeking out. Those are the moments that stretch you and give you a new foundation. So oftentimes you'll hear a career question like, "Hey, do you feel like you're growing in your role?" And that's a very ambiguous, in my opinion, way to ask this question. A much sharper way is like, "Hey, how many, oh shit moments have you had in the last six months, year, two years, and what are they?""
-
-**洞察：** 通过 'oh shit' 让你感到压力或不合格的时刻的频率来衡量职业发展。
-
-**战术建议：**
-- 寻找让你感到不舒服或资格不足的角色或项目。
-- 回顾你过去 6-24 个月的情况，计算重大拉伸的具体时刻。
-
-*时间戳：00:00:00*
-
-
-## Lauren Ipsen
-*Lauren Ipsen*
-
-> "I think breadth is incredibly important. It's so critical, especially if someone has an end goal of wanting to step into a product leadership role to have been able to have touched lots of different components, as opposed to specializing in one specific thing."
-
-**洞察：** 为了达到高级产品领导地位，PMs 应针对不同产品类型和业务部门的经验广度进行优化。
-
-**战术建议：**
-- 在平台、核心产品、增长或货币化等不同领域轮换。
-- 混合早期创业角色和已建立的 'academy' 公司的经验。
-
-*时间戳：00:37:51*
+*Source: [How to build a cult-like brand | Laura Modi (Bobbie)](https://www.youtube.com/watch?v=hzBo5c7p7VU) @ 00:11:48*
 
 ---
 
-> "Logo collecting is never something that you want to be known for... but there's also something to be said about staying somewhere too long though. And I will say that. I think sometimes you find people that are almost loyal to a fault... I think sometimes in your career you do have to be a little bit more selfish and think about what's going to be best for you in the long haul."
+## Lazar Jovanovic
 
-**洞察：** 当公司增长停滞时，平衡对任期和影响力的需求与继续前进的必要性。
+> "It became a job by building in public. You don't need a company to hire you. You can hire yourself as a professional vibe coder first."
 
-**战术建议：**
-- 除非有明确、诚实的理由，否则请避免使用 'jumping' 模式（少于一年）。
-- 确保你停留的时间足够长，以留下 'fingerprint' 或其他人可以验证的可衡量的影响。
+**Insight:** You can establish yourself in the emerging vibe coder career path by building products in public rather than waiting for traditional hiring.
 
-*时间戳：00:41:27*
+**Tactical advice:**
+- Build in public to demonstrate your ability to ship production-ready products using AI.
+- Maintain a 'positively delusional' mindset that assumes all technical challenges are solvable.
+- Shift your professional focus from technical execution to optimizing for clarity and judgment.
+
+*Source: [The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)](https://www.youtube.com/watch?v=0XNkUdzxiZI) @ 00:05:00*
 
 ---
 
-> "Work backwards from a goal for sure, but don't allow titles or valuation bubbles or other things to derail something that feels good. If you're in a role and you feel like you're making an impact and you're learning and you're growing and are excited about the work you're doing, do not allow a title of some other company to make you feel like what you're doing isn't worthwhile."
+## Lenny Rachitsky
 
-**洞察：** 职业满意度应该由成长和影响力驱动，而不是追逐头衔或估值等外部认可。
+**Insight:** PM culture is not monolithic; it is defined by a specific combination of valued skills, promotion criteria, and the level of influence granted relative to other functions.
 
-**战术建议：**
-- 如果你的目标是 CEO，请从产品职位转变为拥有损益所有权的总经理职位。
-- 如果当前角色提供更好的学习和影响，请忽略仅限头衔的 'step ups'。
+**Tactical advice:**
+- Analyze a potential employer's orientation toward 'Heart,' 'Hands,' or 'Head' to ensure cultural alignment with your working style.
+- Inquire about specific promotion criteria to see if the company values business impact, manager satisfaction, or stakeholder management.
+- Determine the level of PM influence relative to design and engineering to ensure the role provides the agency you expect.
 
-*时间戳：00:56:32*
+*Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
+---
 
-## Manik Gupta
-*Manik Gupta*
+**Insight:** Moving into web3 requires a shift from the structured, specialized roles of traditional tech toward a versatile, high-execution model focused on community success.
 
-> "One inflection point that I've seen is, when you go from being a manager, a first line manager, to becoming a manager of managers, and if you're able to navigate that with very strong effectiveness, then you know... Because managing ICs is so different from managing managers, because then you now need to create a structure. You need to be able to determine how much you delegate. How do you coach? How do coach your managers to do the right thing?"
+**Tactical advice:**
+- Broaden your skill set to include owning incentives, partnerships, and community management.
+- Accept high levels of ambiguity and the lack of traditional career ladders or performance reviews.
+- Engage publicly on Discord and Twitter to build trust and community rather than seeking internal alignment.
 
-**洞察：** 从管理个人贡献者到管理其他管理者的转变是一个关键的职业转折点，需要将重点转向组织结构和辅导。
+*Source: [A product manager’s guide to web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)*
 
-**战术建议：**
-- 专注于构建可扩展的结构，而不是管理单个任务。
-- 制定一个辅导框架，帮助你的直接下属成为更好的管理者。
+---
 
-*时间戳：00:49:38*
+> "My approach to making this transition was simple—and I would suggest the same approach to you: 1. Ask 2. Learn 3. Do"
 
+**Insight:** Successfully transitioning to a growth PM role requires a proactive combination of communicating intent to leadership, mastering growth theory, and demonstrating value through hands-on projects.
 
-## Maggie Crowley
-*Maggie Crowley*
+**Tactical advice:**
+- Explicitly tell your manager that you are interested in moving into a growth-focused role and ask for a plan to get there.
+- Identify specific growth skill gaps and build a learning plan to address them while remaining in your current position.
+- Find opportunities to execute small-scale growth experiments or help existing growth teams to prove you can do the work.
 
-> "If you can get someone to stamp you with the product manager role, take it. Because... it's what we screen on... once you get that first job, it all gets easier."
+*Source: [Breaking into growth](https://www.lennysnewsletter.com/p/breaking-into-growth)*
 
-**洞察：** 进入产品管理领域通常需要首先获得头衔，因为招聘经理会严格筛选之前的 PM 经验。
+---
 
-**战术建议：**
-- 在当前公司内寻求横向调动以获得 PM 头衔
-- 瞄准 startups，你可以说服 founder 对你冒险
-- 在一家公司呆足够长的时间，观察同一产品的 2-3 个周期，以了解你的决策的后果
+**Insight:** While hybrid work provides the highest immediate job satisfaction, in-office work is often viewed as a better hedge for long-term career progression and security.
 
-*时间戳：00:31:42*
+**Tactical advice:**
+- Choose a hybrid work setup to achieve the optimal balance of day-to-day happiness and professional belonging.
+- Evaluate if a fully remote setup is worth the potential trade-off in long-term career optimism compared to in-office peers.
+- Prioritize flexible work arrangements over superficial office perks like free food or games.
 
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
 
-## Marty Cagan
-*Marty Cagan 2.0*
+---
 
-> "You can raise your game so that you actually can contribute at this level. That's what you should do for your own career, but by the way, and not accidentally, that's what your company needs you to do... At a minimum, your company will appreciate it and probably promote you because you will be one of the few that actually understands these things."
+**Insight:** First-round interviews are high-stakes filters that require a strategic, employer-focused preparation system rather than exhaustive memorization.
 
-**洞察：** PMs 可以通过主动提升价值和生存能力，从 'feature team' 角色过渡到 'empowered' 角色。
+**Tactical advice:**
+- Audit your digital footprint to ensure your online content reflects your target role.
+- Mirror the job description’s language when describing your experiences.
+- Identify three to five major recent projects to use as the basis for all answers.
 
-**战术建议：**
-- 进行自我评估，以确定项目管理和真正的产品管理之间的差距。
-- 在当前公司内采取代理方式从 'backlog administrator' 转变为 'creator'。
+*Source: [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview-even-in-a-terrible-talent-market)*
 
-*时间戳：00:24:09*
+---
 
+**Insight:** Mastering behavioral interviews requires shifting from memorizing individual answers to deeply understanding the details of a few high-impact projects.
 
-## Matt MacInnis
-*Matt MacInnis*
+**Tactical advice:**
+- Use the STAR method—Situation, Tasks, Action, Result—to structure responses.
+- Focus your examples on large and complex projects from the last two to four years.
+- Avoid over-preparing by writing out hundreds of answers; master key projects instead.
 
-> "It's why as an early career product manager, or it's why frankly at any stage of your career when you want to learn, you should join a winning team... I want to hear what they learned from being part of a winning team. And that's sort of one of my go to heuristics when I'm looking at candidate profiles."
+*Source: [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview-even-in-a-terrible-talent-market)*
 
-**洞察：** 加入一家成功、高增长的公司比加入一家陷入困境的公司提供更有价值的学习。
+---
 
-**战术建议：**
-- 优先加入 'winning' 团队，在这里你可以直接观察成功模式。
-- 寻找 'crazy growth mode' 中的公司来加速你的职业学习。
+**Insight:** The most successful startups often begin with ideas that seem ludicrous or insane to the general public but represent a unique, ambitious vision of the future.
 
-*时间戳：00:15:57*
+**Tactical advice:**
+- Look for 'ludicrous' or 'bonkers' ideas that people laugh at but early users find indispensable.
+- Evaluate whether the company's goal is ambitious enough to be life-changing if successful, rather than a marginal improvement.
+- Prioritize companies where the mission is to be the 'most important' rather than just the most valuable.
 
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
 
-## Maya Prohovnik
-*Maya Prohovnik*
+---
 
-> "I think that people who get acquired, especially founders, actually go through a relatively deep depression and existential crisis after getting acquired... you're like, wait, what is my job now?"
+> "In one sense managing PMs is the same job as an IC PM — marshaling the resources of your team to ship product and deliver business impact. In practice, it’s completely different. Instead of working directly on the product, everything now happens indirectly, through your PM team."
 
-**洞察：** 从 startup founder 到大公司高管的转变通常会涉及到困难的心理转变和身份认同的丧失。
+**Insight:** Transitioning to management requires shifting from direct product execution to achieving results indirectly through the leverage of your team.
 
-**战术建议：**
-- 承认 'post-acquisition depression' 是 founders 的共同体验
-- 寻求其他已完成转型的收购 founders 的支持
-- 关注新的影响规模，而不是失去全部所有权
+**Tactical advice:**
+- Stop doing IC work like roadmapping and creating 1-pagers.
+- Focus on unblocking your teams at the short-term, medium-term, and long-term levels.
+- Evaluate your success by the output of your team plus the output of neighboring teams under your influence.
 
-*时间戳：00:43:59*
+*Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
 
+---
+
+> "First, you’re on the right track—I’ve interviewed more than 250 people from all walks of life, and I’ve never spoken to anyone who regretted taking time off."
+
+**Insight:** Sabbaticals are peak life experiences that provide the necessary space for profound personal transformation and career clarity.
+
+**Tactical advice:**
+- Evaluate your current work-life alignment to see if your heart is still in the work.
+- View extended time off as a workspace for personal development rather than just a vacation.
+- Give yourself permission to chase your happiness and tinker without immediate pressure.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** True recovery and identity disentanglement require a significant duration, typically starting at two to three months.
+
+**Tactical advice:**
+- Allocate at least six weeks just to shed work-related anxiety and phantom phone alerts.
+- Commit to a minimum of two months off to move beyond the "doing" phase into the "being" phase.
+- Assign a specific block of time for being completely "off" to avoid short-circuiting rest.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "Uninstall those apps, and set up email auto-responses! But while you’re disconnecting digitally, make time and space for connecting in-person; strengthening relationships with loved ones stands out as a highlight for most sabbatical-takers."
+
+**Insight:** Effective disconnection requires rigid digital boundaries and physical distance to strip away your professional persona and rediscover your natural self.
+
+**Tactical advice:**
+- Travel at the start of your time off to create a symbolic ceremonial separation from routine.
+- Engage in somatic activities like yoga or crafts to get out of your head and into your body.
+- Use your newfound time-wealth to intentionally reconnect with loved ones in person.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** Transitioning from a startup to a large company requires a shift from solo execution to mastering communication, organizational influence, and data-driven decision-making.
+
+**Tactical advice:**
+- Double-down on communication, influence, and data skills to navigate the complexity of a larger organization.
+- Watch successful PMs at the new company to learn how they get things done without direct authority.
+- Retain your startup energy to help align and excite your new cross-functional team.
+
+*Source: [Startup PM vs. big company PM](https://www.lennysnewsletter.com/p/startup-pm-vs-big-company-pm)*
+
+---
+
+> "There are over 6,000 open PM roles globally right now—53.6% above the bottom we saw in 2023, and already up 11% since the start of the year. This is the most open PM roles we’ve seen in over two years."
+
+**Insight:** The product job market is entering a period of significant recovery, with open roles and capital investment trending upward while layoffs slow down.
+
+**Tactical advice:**
+- Monitor global PM role counts to time your career move during periods of sustained growth.
+- Track capital investment signals as a lead indicator for future hiring demand.
+- Stay optimistic and persistent in your search, as the volume of opportunities is at its highest point in two years.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "When you look at just AI PM roles—which includes roles at both AI companies (e.g. OpenAI, Anthropic, Scale) and roles specifically focused on AI products/features at any tech company (e.g. AI/ML PM at Salesforce), the growth we’re seeing is insane."
+
+**Insight:** AI-specific product management is currently the most explosive growth area in tech, with nearly 700 open roles specifically targeting this specialty.
+
+**Tactical advice:**
+- Target roles at dedicated AI infrastructure companies like OpenAI and Anthropic.
+- Look for specialized AI/ML PM positions within non-AI companies like Figma or Salesforce.
+- Evaluate the 'AI-driven' status of a company to assess the likelihood of finding specialized product opportunities.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "For PMs, nearly 20% of all open roles are based in the Bay Area. Since our last analysis, Berlin and Austin entered the top 10 locations with the most open PM roles, and Boston and L.A. fell out of the top 10."
+
+**Insight:** While the Bay Area remains the dominant global hub for product roles, new opportunities are concentrating in specific emerging markets like Berlin and Austin.
+
+**Tactical advice:**
+- Focus your job search on the Bay Area to access nearly a third of all open AI-related roles.
+- Consider relocating to emerging hubs like Berlin or Austin which are seeing positive PM hiring momentum.
+- Be aware that traditional tech hubs like Boston and L.A. may have fewer open opportunities compared to previous years.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "We are in the middle of a slow recovery that started in Q1 of this year, and the recovery is holding steady. After a peak in early 2022 (with over 10,000 open roles) and a significant slowdown through 2023 (to about 4,000 open roles), there are currently 5,752 open product manager roles at tech companies globally."
+
+**Insight:** The product management job market is currently in a phase of stable, gradual recovery following the significant downturn of 2023.
+
+**Tactical advice:**
+- Track global tech job openings and hire/departure data to gauge overall market health.
+- Monitor quarterly reports to time your application cycle with steady recovery trends.
+- Identify regional and functional shifts in hiring volume to prioritize your search efforts.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "The data shows that, yes, new Senior and above PM roles do appear to be growing at a faster rate than other levels. That being said, Entry/Mid-level make up over a third of open PM roles and are recovering at a rate similar to Senior roles. So there are still plenty of opportunities for early-career PMs."
+
+**Insight:** While hiring for senior and lead product roles is growing fastest, entry and mid-level positions still comprise over a third of the market.
+
+**Tactical advice:**
+- Target senior or lead roles if you have the experience, as these segments are expanding most rapidly.
+- Remain active in the mid-level market, as these roles are recovering at a similar pace to senior positions.
+- Apply for higher-level roles confidently, as the trend of candidates taking lower-level positions is at its lowest point since 2019.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "The San Francisco Bay Area is ascendant. In just the past two years, the share of open PM roles in the Bay Area went from 15.4% to over 20%—up 25% year over year! Over a fifth of all open PM roles at tech companies are in the Bay Area, and that share seems to be growing."
+
+**Insight:** Product management opportunities are increasingly concentrating in physical tech hubs like San Francisco as remote job availability continues to shrink.
+
+**Tactical advice:**
+- Relocate to or focus on the San Francisco Bay Area to access 20% of all open tech PM roles.
+- Explore international opportunities in Bengaluru, India, which is now the top PM hub outside the U.S.
+- Be prepared for high competition in remote roles, which have declined by 35% from their peak.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "All PMs will be AI PMs because she sees all products needing to have personalized experiences and recommender systems, and even to make technological advancements, you need to have an AI-centric view."
+
+**Insight:** AI skills are becoming a baseline requirement for all product managers as personalization and recommendation systems become the standard user experience.
+
+**Tactical advice:**
+- Learn to code to gain a technical mindset and understand the underlying mechanisms of AI models.
+- Read research papers on Arxiv or follow research blogs like Marginal Revolution.
+- Interview internal AI and research teams to understand their workflows and constraints.
+
+*Source: [Summary: AI and product management | Marily Nika (Meta, Google)](https://www.lennysnewsletter.com/p/summary-ai-and-product-management--marily-nika-meta-google)*
+
+---
+
+> "As a PM, your job is to avoid chaos, to avoid changing course, and particularly at a large company to avoid pissing people off. The team looks to their PM to keep things running smoothly, productively, and happily. Thus, as you transition into this new role, focus on these softer skills — teamwork, collaboration, execution, buy-in, and communication."
+
+**Insight:** Transitioning from founder to PM requires shifting from a high-chaos, win-at-all-costs mentality to one focused on organizational stability and collaborative execution.
+
+**Tactical advice:**
+- Build a relationship with a successful internal PM to learn how work actually gets done.
+- Ask questions and study the business thoroughly before sharing your own perspective.
+- Acknowledge that your professional destiny is now tied to your manager's feedback and decisions.
+
+*Source: [This Week #14: Transitioning from startup founder to product manager](https://www.lennysnewsletter.com/p/this-week-14-transitioning-from-startup-founder-to-product-manager)*
+
+---
+
+**Insight:** Growth hiring managers value a demonstrated ability to apply foundational tools like data analysis and user psychology over static credentials or surface-level tactical ideas.
+
+**Tactical advice:**
+- Create a portfolio or body of work showing how you would break down and solve growth problems for products you use.
+- Research how a specific company defines 'growth'—whether it is a cross-functional product team or a marketing segment—before interviewing.
+- Form a point of view on a company's growth loops rather than just their funnels to show you understand the bigger picture.
+
+*Source: [This Week #9: Breaking into growth, leading with influence, and (not) stepping on toes 🦶](https://www.lennysnewsletter.com/p/this-week-9-breaking-into-growth-leading-with-influence-and-not-stepping-on-toes)*
+
+---
+
+> "When people ask me where they should try to go work, outside of rolling the dice on the next rocket ship, I encourage them to find the company that (1) is best at teaching them the craft of product management and (2) has a track record of creating an inflection in the careers of the PMs who’ve worked there."
+
+**Insight:** Prioritize joining organizations with a proven history of developing alumni into founders and senior leaders rather than just chasing high-growth "rocket ships."
+
+**Tactical advice:**
+- Look for companies with high "founder rates" like Palantir or Plaid.
+- Prioritize fintech firms for high-complexity leadership training.
+- Research alumni trajectories specifically into Head of Product or CPO roles.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "Intercom dominates. It’s the only company to rank in the top 10 on all four dimensions (1st in promotions internally, 5th in promotions externally, 7th in fastest to promotion, and 9th in fastest rise to leadership)."
+
+**Insight:** True career acceleration is best measured by a company's ability to drive both internal promotions and the rapid advancement of its alumni in the external market.
+
+**Tactical advice:**
+- Target companies like Intercom, Revolut, and Nubank that consistently rank high in promotion velocity.
+- Analyze internal vs. external promotion rates to determine if a company builds skills that the broader market values.
+- Prioritize organizations that show a 'fastest rise to leadership' for alumni, indicating a strong pedigree for future VPs and CPOs.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "The headline is Chime. Wow. Over 20% (one in five) of Chime’s PM alumni go on to not just start a company but also raise a Series A."
+
+**Insight:** Aspiring founders should distinguish between companies that produce a high volume of entrepreneurs and those that produce founders capable of raising venture-scale capital.
+
+**Tactical advice:**
+- Work at Chime, Scale, or Palantir if your objective is to build a company that successfully raises a Series A.
+- Join Palantir or Intercom if you want to be surrounded by the highest density of PMs who eventually start any business.
+- Look for companies with at least a 10% founder rate among PM alumni, such as Ramp, Airbnb, or Notion, as a baseline for entrepreneurial culture.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "There was a moment nine months in, after publishing something every single week, when I realized that it was still fun for me, people were finding it valuable, and I still had dozens of ideas for things I wanted to write about—after 36 posts. I realized then that maybe this could be a real thing."
+
+**Insight:** A side project is ready to become a full-time pursuit when it demonstrates sustained personal enjoyment, consistent audience value, and an inexhaustible backlog of ideas after a rigorous testing period.
+
+**Tactical advice:**
+- Publish consistently for at least nine months to prove the concept's durability and your own stamina.
+- Seek out positive signals from respected peers to maintain motivation during the early "ugly baby" stage.
+- Launch a paid plan as a commitment mechanism to ensure you stay focused on the business for the long term.
+
+*Source: [1,000,000](https://www.lennysnewsletter.com/p/1000000-taking-a-moment-to-celebrate-and-reflect-and-then-back-to-work)*
+
+---
+
+**Insight:** Evaluating a web3 career move requires accepting a role where PM value is not yet universally understood and influence is earned through execution rather than title.
+
+**Tactical advice:**
+- Determine if you are comfortable with execution being valued significantly higher than long-term vision or strategy.
+- Assess your willingness to work 'in public' where a viral meme can be more impactful than a well-written email.
+- Be prepared to handle high-risk tasks like smart contract audits and liquidity incentive design without a support team.
+
+*Source: [A product manager’s guide to web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)*
+
+---
+
+> "If you want to maximize your base salary (i.e. stability), join a public company in a Tier 1 U.S. city. If you want to maximize your upside, get into a senior IC or manager role at a private company in the U.S."
+
+**Insight:** Public companies generally offer higher cash stability, while private companies leverage significantly higher equity packages to attract top senior talent.
+
+**Tactical advice:**
+- Expect a 15% to 20% lower base salary at private companies compared to public ones.
+- Target private companies if you are a 90th-percentile performer, as equity packages there can be double or triple those of public firms.
+- Join a public company if you prioritize immediate cash flow and lower risk over long-term equity variance.
+
+*Source: [How much product managers make in the U.S., Europe, and Canada](https://www.lennysnewsletter.com/p/how-much-product-managers-make-in-the-us-europe-and-canada)*
+
+---
+
+> "Job function sentiment is even rosier, with 58.5% reporting optimistic feelings and only 25.1% pessimism about their specific role. This means that while many tech workers feel good about their immediate job situation, they have more concerns about long-term industry trends and career progression."
+
+**Insight:** Tech workers are generally optimistic about AI's impact on their specific tasks but remain anxious about how AI will shift long-term industry trajectories.
+
+**Tactical advice:**
+- Distinguish between immediate role stability and long-term career viability when planning your next move.
+- Lean into AI as a tool for immediate job function optimism while building transferable skills to hedge against industry shifts.
+- Address the significant negative sentiment change in design and research roles by proactively investigating how AI will transform those functions.
+
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
+
+---
+
+**Insight:** Keeping your resume and LinkedIn profile current ensures you are ready to move quickly if your employment situation changes unexpectedly.
+
+**Tactical advice:**
+- Put together a fresh version of your resume using modern templates.
+- Ask successful friends or colleagues for specific feedback on your profile and accomplishments.
+- Explore professional resume review services to refine your presentation.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+**Insight:** Developing a side project can provide a psychological and financial safety net, even if it doesn't immediately replace your primary income.
+
+**Tactical advice:**
+- Join communities like Indie Hackers to find inspiration and support for starting side projects.
+- Listen to business podcasts to learn about different income generation models and side hustles.
+- Start small with an idea you are excited about without over-committing resources or expecting immediate massive returns.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "And finally, some of the most important and lasting advice was about creating distance between your work and your identity. This is especially relevant if you’re in your first full-time job, or if you’ve been there a long time."
+
+**Insight:** Decoupling your personal identity from your job title allows for greater resilience and curiosity when considering new career paths.
+
+**Tactical advice:**
+- Take time to 'blue-sky' your options by thinking about adjacent or entirely different industries.
+- Consider exploring career 'roads not taken' through short-term internships or seasonal roles.
+- Intentionally create psychological distance between your sense of self and your current professional role.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+**Insight:** New PMs can accelerate their onboarding by using AI to ingest and synthesize the high volume of scattered documentation and history found in a new organization.
+
+**Tactical advice:**
+- During your first month, gather all historical decks, documentation, and research into a single AI project to create a searchable knowledge base.
+- Upload exports of relevant Slack channels to quickly understand past decisions and recurring issues without manual scrolling.
+- Perform a 'word-vomit' of your initial thoughts and questions to the AI to help it surface a potential roadmap or direction.
+
+*Source: [How to build your PM second brain with ChatGPT](https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt)*
+
+---
+
+> "In many cases, it’s a matter of finding a better manager, or getting out of a rut at your current company. If you’re stuck at the same level for over two years, and nothing I’ve shared above seems to be helping, it’s probably time to explore a new gig."
+
+**Insight:** If you have consistently delivered impact and addressed gaps for over two years without recognition, the barrier to growth may be structural, necessitating a move to a new company.
+
+**Tactical advice:**
+- Determine if your lack of promotion is due to practical company blockers like budget, headcount, or minimum time-in-role.
+- Evaluate if your current manager has the influence or desire to be an effective champion for your career.
+- Consider external opportunities if the current environment doesn't offer a path to the responsibility level you are ready for.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+**Insight:** Stepping away from a toxic or overwhelming environment is often a necessary health intervention when you have pushed past your zone of tolerance.
+
+**Tactical advice:**
+- Set clear 'deal-breakers' for your physical and mental health that trigger an immediate exit strategy.
+- Acknowledge when a leadership role's constant stress is fundamentally incompatible with your nervous system.
+- Prioritize your long-term survival over short-term professional status or vesting schedules.
+
+*Source: [How to know when to stop](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop)*
+
+---
+
+**Insight:** A founder's 'clock speed' and ability to rapidly iterate through unworkable strategies are more predictive of success than their initial business plan.
+
+**Tactical advice:**
+- Measure 'clock speed' by how quickly a team turns vision into software or iterates on their strategy.
+- Look for founders with a 'learning mindset' who actively seek advice and maintain an intense curiosity about various topics.
+- Assess founder-market fit by asking if the individuals seem uniquely destined to solve this specific problem better than anyone else.
+
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
+
+---
+
+**Insight:** Don't judge an early-stage company by its current unpolished product; instead, evaluate the trajectory of the mission and the intensity of customer pull.
+
+**Tactical advice:**
+- Look past a 'rough around the edges' product to see if the core vision and 'magic' are present.
+- Monitor community forums and social media to see if users love the product enough to share it even in its early, niche state.
+- Prioritize the company mission over current features, as products often pivot while the underlying 'why' remains constant.
+
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
+
+---
+
+**Insight:** Choosing to stay on a feature team is often a pragmatic career choice driven by factors like compensation, visa sponsorship, or the need to build a stable resume.
+
+**Tactical advice:**
+- Evaluate if your high-paying role or visa dependency currently outweighs the need for strategic, empowered work.
+- Stay on a feature team temporarily to avoid a short resume stint if you have unintentionally joined one.
+- Build enough social capital through successful execution on a feature team to eventually earn the right to be empowered.
+
+*Source: [In defense of feature team product managers](https://www.lennysnewsletter.com/p/in-defense-of-feature-team-product-managers)*
+
+---
+
+**Insight:** Success in the passion economy requires shifting from a traditional employee mindset to one of personal entrepreneurship where digital platforms enable direct monetization of unique skills.
+
+**Tactical advice:**
+- Identify a non-commoditized skill or passion that can be productized and sold directly to consumers.
+- Leverage existing digital marketplaces and tools to reduce the overhead and barriers associated with starting a business.
+- Cultivate high levels of resilience and a propensity for action to navigate the challenges of working outside traditional institutions.
+
+*Source: [Li Jin launches Atelier Ventures, her debut fund to invest in the passion economy](https://www.lennysnewsletter.com/p/li-jin-launches-atelier-ventures-her-debut-fund-to-invest-in-the-passion-economy)*
+
+---
+
+> "If you find yourself feeling too comfortable (and you have the means), make a change. Switch teams, switch roles, switch companies. Life is short."
+
+**Insight:** Complacency is a signal to seek new challenges, as staying in a comfortable role for too long can hinder the most pivotal growth moments of your career.
+
+**Tactical advice:**
+- Audit your current role to see if loyalty has turned into unproductive comfort.
+- Initiate a change in teams or roles if you feel you have stopped learning.
+- Recognize that significant career pivots often happen immediately after leaving long-term positions.
+
+*Source: [Navigating your early career](https://www.lennysnewsletter.com/p/navigating-your-early-career)*
+
+---
+
+> "When looking for a job, I’d spend just as much time digging into the people as you spend on the actual job details. For sure get to know your future hiring manager and your future team before you take a role, but also focus on the company culture."
+
+**Insight:** The quality of your colleagues and the company culture are better predictors of career growth and satisfaction than the specific tasks in a job description.
+
+**Tactical advice:**
+- Research the background and reputation of your future hiring manager and team before accepting an offer.
+- Evaluate if the company culture attracts people who will push you to set a higher bar for yourself.
+- Focus on building a high-quality network, as the people you work with influence your long-term skill development.
+
+*Source: [Navigating your early career](https://www.lennysnewsletter.com/p/navigating-your-early-career)*
+
+---
+
+> "Growth roles are growing much faster than sales and marketing roles—although those roles show an upward inflection. This might mean an increasing focus on product-led growth, potentially driven by a need for capital efficiency—something investors and public markets are increasingly prioritizing."
+
+**Insight:** Pivoting toward roles focused on capital efficiency and product-led growth offers the strongest career tailwinds in the current market.
+
+**Tactical advice:**
+- Transition into Growth roles to capitalize on the market's shift toward product-led expansion and capital efficiency.
+- Shift from specialized project management roles like Scrum Master toward Product Owner roles to stay aligned with hiring trends.
+- Consider User Research if you have a strong value-add background, as firms are beginning to rehire after a period of over-correction.
+
+*Source: [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)*
+
+---
+
+> "Yes, it’s okay to work, just don’t Work. Doing anything that resembles your current job will make it more difficult to reap the benefits of time off."
+
+**Insight:** Any activity that mirrors your professional routine prevents the mental reset necessary for a transformative sabbatical.
+
+**Tactical advice:**
+- Abstain from all consulting or job-related tasks, as these hours will inevitably expand.
+- Commit to not job-searching during your committed sabbatical period to protect your mental space.
+- Redirect your energy toward experimental projects entirely unrelated to your career.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "It’s obviously much more logistically difficult to do so, and a takeaway from the interviews on those traveling with partners is to ensure that you carve out some time apart to tackle personal goals (and to give each other a bit of space)."
+
+**Insight:** Sabbaticals with family require balancing shared exploration with intentional time apart for individual growth.
+
+**Tactical advice:**
+- Plan and save years in advance to handle the complex logistics of family leave.
+- Schedule periods of separate activities for you and your partner to tackle personal goals.
+- Utilize the time off to fit into the schedules of loved ones who usually don't overlap with yours.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** A well-executed sabbatical builds the confidence to pursue unconventional career paths and provides a compelling narrative for future employers.
+
+**Tactical advice:**
+- Wait until after the sabbatical to start job-searching to ensure you aren't just jumping into more of the same.
+- Use the time off to reflect upon and experiment with identities that previously felt too scary.
+- Prepare to explain your gap as a period of purposeful experimentation and growth.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** Accessing a curated community of industry practitioners is a high-leverage way to find job opportunities and get specific career advice.
+
+**Tactical advice:**
+- Utilize specialized job boards to discover roles curated specifically for product, growth, design, and engineering disciplines.
+- Join niche communities to network directly with founders and product leaders who are actively hiring.
+- Look for 'featured' startup roles to identify companies with high growth potential and immediate hiring needs.
+
+*Source: [Reforge applications open (and taking a sick day)](https://www.lennysnewsletter.com/p/reforge-applications-open-and-taking-a-sick-day)*
+
+---
+
+> "The number of roles that allow you to work remotely continues to decline. At remote work’s peak in late 2022, we saw about 35% listed open PM roles as remote-friendly. Today, only 23% have a remote option."
+
+**Insight:** Remote work for product managers is declining toward a new, lower baseline of roughly 20%, making location-specific searches increasingly necessary.
+
+**Tactical advice:**
+- Plan for a job market where only about one in five roles will offer remote-friendly options.
+- Prioritize hybrid or on-site roles in major tech hubs to increase your odds of success.
+- Assume that the trend for PMs will mirror declines seen in engineering and design remote opportunities.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+**Insight:** Success in a recovering market requires targeting the specific top-tier tech companies and startups that are leading the volume of hiring.
+
+**Tactical advice:**
+- Use tools like TrueUp to browse and filter open roles by company and category.
+- Sign up for job alerts specifically for the top 20 tech companies with the most open PM roles.
+- Maintain search momentum even when the market feels difficult, as the total volume of roles is actually increasing.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+**Insight:** Top tech companies often have distinct hiring pipelines, such as Amazon's heavy reliance on business school graduates for product roles.
+
+**Tactical advice:**
+- Research the specific feeder companies and educational institutions prioritized by your target employers.
+- Focus your search on high-volume hiring firms like Amazon, Google, and ByteDance.
+- Leverage alumni networks and historical hiring patterns to increase your chances at major tech companies.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "Of the 456 open AI PM roles mentioned above, 178 are at AI-first companies, and the remaining 278 roles are at tech companies that are not primarily AI-focused but have PM roles dedicated to AI projects. It’ll be interesting to see how quickly these PM roles grow."
+
+**Insight:** Dedicated AI product roles are currently more prevalent within established tech companies than at AI-first startups.
+
+**Tactical advice:**
+- Target traditional tech companies building dedicated AI teams rather than focusing solely on AI-first startups.
+- Acquire deep technical knowledge in machine learning to compete for limited openings at pure AI companies.
+- Monitor emerging niche titles like 'Prompt Engineer' as potential high-growth entry points into the AI space.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "It won’t surprise anyone that machine learning and data engineering roles are the fastest-growing in tech right now, growing 79% and 55% year over year, respectively. Two roles that are shrinking the fastest are diversity and scrum masters."
+
+**Insight:** The tech labor market is shifting heavily toward specialized engineering and data roles while moving away from administrative and generalist support functions.
+
+**Tactical advice:**
+- Prioritize technical specializations in machine learning or data engineering to align with high-growth segments.
+- Avoid generalist roles like Scrum Master that are rapidly shrinking across the tech industry.
+- Note the rebound in recruiter hiring as a positive leading indicator for overall future tech hiring.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+**Insight:** The Product Owner role is expanding primarily in traditional industries like banking and telecommunications rather than in the core tech sector.
+
+**Tactical advice:**
+- Look toward non-tech sectors like finance and telecom if you are specifically seeking Product Owner titles.
+- Recognize that 'Product Owner' is virtually non-existent as a distinct title at top FAANG-style companies.
+- Clarify the level of strategic ownership in a PO role to ensure it aligns with your long-term product management career goals.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "If your goal is to break into Product Management, an internal transfer program is by far THE BEST way to do it. I previously wrote about the four most common paths into PM and without question this path is the easiest, the least risky, and provides you with the most support."
+
+**Insight:** Internal transfers are the most effective path into product management because they allow you to build on existing domain knowledge while bridging skill gaps in a supportive environment.
+
+**Tactical advice:**
+- Identify and fill gaps in soft skills like product taste and cross-functional influence.
+- Develop a clear qualification plan with the decision-makers of your company's transition program.
+- Closely observe and model the effective behaviors of PMs you work with daily.
+
+*Source: [This Week #10: Keeping designers and engineers excited about metrics + Transitioning from DS to PM 🕺](https://www.lennysnewsletter.com/p/this-week-10-keeping-designers-and-engineers-excited-about-metrics--transitionin)*
+
+---
+
+**Insight:** Product management roles are not interchangeable; the day-to-day responsibilities and expectations change completely depending on the size and stage of the company.
+
+**Tactical advice:**
+- Compare the specific day-to-day tasks required at a startup versus a large corporation.
+- Evaluate your preference for broad ownership in a startup versus specialized leverage in a big company.
+- Inquire how 'impact' is measured differently at various company stages.
+
+*Source: [What is product management](https://www.lennysnewsletter.com/p/what-is-product-management)*
+
+---
+
+> "One explanation is that PMs at FAANG companies learn how to operate well within that specific company and are less successful elsewhere. Another explanation is that the best PMs at FAANG companies are happy and don’t leave, and so we don’t see their trajectories in the data."
+
+**Insight:** High-prestige big tech companies may offer less external career acceleration than mid-sized companies because their skills can be overly specialized to internal systems.
+
+**Tactical advice:**
+- Consider companies like eBay or Intuit over Google/Meta if external promotion speed is the goal.
+- Evaluate if your current big tech experience is teaching transferable craft versus internal navigation.
+- Look at alumni data to see if high-performing PMs at your target company actually move on to leadership elsewhere.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "N26 is especially strong at launching product leaders, ranking first in both CPO rate and Head of Product rate, and in the top 10 in four other categories."
+
+**Insight:** Targeted mid-sized companies like N26 and Intuit often provide a more reliable path to executive product leadership than larger tech conglomerates.
+
+**Tactical advice:**
+- Target companies like N26 if the immediate goal is a CPO title at a subsequent company.
+- Seek out older, established firms like Intuit that have a structured history of incubating executive talent.
+- Focus on companies that rank highly in "fastest rise to leadership" metrics.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "The standout company is Palantir, where almost a quarter of Palantir PMs went on to start their own company. Almost a fifth of Plaid PM alumni went on to start a company, which is also incredible."
+
+**Insight:** If you intend to start a company, choose an employer like Palantir or LinkedIn that acts as a "founder mafia" with high rates of entrepreneurial alumni.
+
+**Tactical advice:**
+- Prioritize joining Palantir or Plaid to maximize your chances of launching a startup later.
+- Evaluate Ramp or Notion if you want to join a younger "mafia" with high founder potential.
+- Leverage LinkedIn if you prefer a large, established company that still supports entrepreneurial trajectories.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "One explanation, shared by my buddy Dennis Yang (PM at Chime), is that fintech nurtures strong product leaders because fintech work is on hard mode—lots of risk/fraud vectors, difficult stakeholders (e.g. compliance, regulations), and endless complicated tradeoffs."
+
+**Insight:** The inherent complexity and regulatory challenges of fintech create an environment that rapidly develops the "hard mode" skills required for high-level product leadership.
+
+**Tactical advice:**
+- Apply to top fintechs like Revolut or N26 to gain experience managing high-stakes tradeoffs.
+- Focus on the regulatory and risk aspects of the role to build unique leadership leverage.
+- Use the fintech "mafia" network to transition into leadership roles in other sectors.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "Palantir is a standout at fostering founders (ranking first by far) and first PMs at other companies."
+
+**Insight:** Certain organizational cultures, particularly Palantir and Notion, produce PMs with the specific versatility and ownership required to be the first hire at a startup.
+
+**Tactical advice:**
+- Target roles at Palantir or Notion if your long-term goal is to be a "founding PM."
+- Look for companies that rank highly in "highest rate of becoming the first PM at another company."
+- Develop a generalist skillset that allows you to operate without existing product infrastructure.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "eBay, Intercom, N26, Palantir,and Notion stand out as companies that produce the highest rate of product leaders across the board. Whatever they are doing we should try to learn from."
+
+**Insight:** Specific companies act as 'leadership factories' by equipping PMs with the specific skill sets required to become CPOs, Heads of Product, or early-stage founding PMs.
+
+**Tactical advice:**
+- Apply to eBay, Intercom, or Notion to maximize your chances of eventually landing a top product executive role.
+- Consider fintech leaders like N26 and Revolut as secondary targets for rapid advancement into product leadership.
+- Evaluate a potential employer by checking how many of their former PMs are now CPOs or the first PM hires at startups.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "It turns out Stripe’s PMs get hired to be star PMs at rocketship companies. Instead of starting their own companies or climbing the ladder, they go on to become key PMs at top companies like OpenAI, Anthropic, Mercury, Adyen, Scale, etc."
+
+**Insight:** A company’s lack of high 'promotion' data can sometimes be a sign of prestige, as its alumni may be so highly valued that they move laterally into elite roles at other top-tier rocketships.
+
+**Tactical advice:**
+- Investigate where alumni go (e.g., OpenAI, Anthropic) rather than just their titles to judge the true prestige of a PM program.
+- Recognize that moving to earlier-stage 'rocketships' can be a more powerful career signal than climbing a traditional corporate ladder.
+- Don't dismiss companies with lower internal promotion rates if they consistently place talent into high-impact roles at the world's most competitive startups.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+**Insight:** Roles characterized by soft skills and human coordination are significantly less vulnerable to AI replacement than those focused on technical execution.
+
+**Tactical advice:**
+- Assess your role's vulnerability by weighing soft skill requirements against automatable hard skills.
+- Double down on human-centric skills like stakeholder influence and collaboration.
+- If in a technical role, study PM-type skills like business strategy and customer empathy to increase resilience.
+
+*Source: [Why PMs are best positioned to thrive in an AI world](https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive-in-an-ai-world)*
+
+---
+
+> "Taking on a new project, negotiating your salary, handling a new promotion, delivering constructive feedback—these topics all tend to trigger inner conflict for most of us. IFS can help us turn toward that tension constructively so we can build the clarity and courage required for the next evolution of our professional development."
+
+**Insight:** Career paralysis often stems from irreconcilable fears and needs among different internal parts that must be addressed before an aligned decision can be made.
+
+**Tactical advice:**
+- Uncover the voices of the different 'parts' that are creating havoc on your mental health regarding a specific decision.
+- Listen to each part one by one to understand their positive intentions and what they are trying to protect you from.
+- Facilitate a dialogue between competing internal parts to build the clarity required for high-stakes professional evolution.
+
+*Source: [Why no productivity hack will solve your overwhelm](https://www.lennysnewsletter.com/p/why-no-productivity-hack-will-solve-your-overwhelm)*
+
+---
+
+**Insight:** High levels of autonomy, ownership, and purpose—most prevalent in founders and small-company roles—are the strongest predictors of job satisfaction.
+
+**Tactical advice:**
+- Prioritize roles in smaller companies if you seek a stronger sense of belonging and higher job enjoyment.
+- Consider starting your own company to maximize career optimism and minimize burnout through total autonomy.
+- Be wary of midsize companies (500–1,000 employees) which often lack the support systems of large firms while suffering from corporate bureaucracy.
+
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
+
+---
+
+**Insight:** Proactive preparation across documentation, networking, and financial planning is the best hedge against the uncertainty of potential layoffs.
+
+**Tactical advice:**
+- Document impact metrics and screenshots while you still have access to company data.
+- Refresh your professional network and update your resume before you actually need a new job.
+- Build a financial cushion by tracking spending and cutting unnecessary subscriptions.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+**Insight:** Structuring a sabbatical into sequential phases ensures you properly detach before attempting to explore or reintegrate.
+
+**Tactical advice:**
+- Begin with a disconnection phase to fully let go of your previous work identity.
+- Use the exploration phase to experiment with new interests or lifestyle goals.
+- End with an integration phase to weave your new insights back into your future path.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** Geographic location remains one of the largest variables in total compensation, with U.S. Tier 1 cities commanding a significant premium in both cash and equity.
+
+**Tactical advice:**
+- Factor in a 20% base salary increase when considering a move from a Tier 3 to a Tier 1 U.S. city.
+- Compare the 40% equity premium found in Tier 1 cities against the higher cost of living in those hubs.
+- Be aware that U.K. and European PMs earn 50% to 65% of the average U.S. salary, making U.S. relocation a major financial lever.
+
+*Source: [How much product managers make in the U.S., Europe, and Canada](https://www.lennysnewsletter.com/p/how-much-product-managers-make-in-the-us-europe-and-canada)*
+
+---
+
+**Insight:** Finding a sustainable role requires vetting an organization's processes and leadership to ensure they structurally support autonomy and well-being.
+
+**Tactical advice:**
+- Intentionally seek out environments where you have high autonomy to solve challenging problems.
+- Evaluate if your organization's processes, expectations, and incentives are structurally broken.
+- Assess whether a role matches your personal strengths and curiosity to sustain long-term motivation.
+
+*Source: [How tech’s most resilient workers handle burnout](https://www.lennysnewsletter.com/p/how-techs-most-resilient-workers-handle-burnout)*
+
+---
+
+**Insight:** A stay-or-go decision should be based on whether your manager is willing to invest in your career goals in exchange for your high-quality performance and proactive help.
+
+**Tactical advice:**
+- Assess if your manager consistently offers growth opportunities after you've successfully helped them.
+- Identify if your workplace allows for the 'Magic Loop' to function or if the environment is exploitative.
+- Look for signals that your current role provides a path toward major milestones like promotions or raises.
+
+*Source: [The Magic Loop](https://www.lennysnewsletter.com/p/the-magic-loop)*
+
+---
 
 ## Mayur Kamat
-*Mayur Kamat*
 
-> "The best thing you can do is find companies that are growing fast because it compounds your learning at a much faster interval."
+**Insight:** Choosing the right geographical hub and prioritizing learning over early-career salary are the most critical factors for long-term professional growth in tech.
 
-**洞察：** 职业发展是复合学习的函数；高增长公司每年提供更多的 'compounding events'。
+**Tactical advice:**
+- Start a tech career on the West Coast of the U.S. to access the highest concentration of industry leaders.
+- Value learning and environment over compensation in the early stages of a career.
+- Evaluate international moves based on the specific cultural trade-offs between Asian, European, and American markets.
 
-**战术建议：**
-- 在职业生涯早期，优先考虑高增长公司而不是成熟公司。
-- 寻找 'category-defining' 公司，你必须在历史上第一次解决问题。
-
-*时间戳：00:19:12*
+*Source: [Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26, ex-Binance Head of Product)](https://www.youtube.com/watch?v=UVyfuSBwbNA) @ 00:57:26*
 
 ---
-
-> "Do not optimize for compensation, especially early in your career. If you're truly on a track to become an executive someday... you will make 90% of your compensation in the last five years of your career."
-
-**洞察：** 与成功高管或 founder 路径的后载收入相比，早期职业薪酬可以忽略不计。
-
-**战术建议：**
-- 根据学习潜力和超能力一致性来选择职位，而不是 10-20% 的加薪。
-- 如果你想要走executive track的道路，请尽早决定，因为它需要不同的牺牲和决策。
-
-*时间戳：00:21:46*
-
----
-
-> "Early career you want to be in intensely talents dense areas... For general tech, there's no better place than West coast of the US."
-
-**洞察：** 地理位置靠近人才密度（如硅谷），可显著加速职业网络和机会获取。
-
-**战术建议：**
-- 如果可能的话，在美国西海岸、迪拜（加密货币）或班加罗尔等人才密度高的中心开始你的职业生涯。
-
-*时间戳：00:57:26*
-
 
 ## Molly Graham
-*Molly Graham*
 
-> "The way a lot of people do careers is a set of stairs. Just walk up the stairs and you'll get promoted every two years. But that is boring. The much more fun careers are like jumping off cliffs and you do fall, but then you climb out way beyond where the stairs could ever get you."
+> "I only like doing jobs that I'm highly unqualified for. I like being on learning curves so steep that I'm scared I'm going to fall off. And so I left and I wanted to learn what it took to build something from nothing."
 
-**洞察：** 高成长的职业通常涉及承担你不具备的高风险角色，导致最初的挣扎，随后是巨大的进步。
+**Insight:** The fastest career growth occurs when you intentionally choose roles that exceed your current capabilities, forcing a steep learning curve that outpaces traditional linear promotion paths.
 
-**战术建议：**
-- 在担任新的、具有挑战性的角色的前 6-9 个月内，请接受成为 'professional idiot' 的经历。
-- 区分财务恐惧（需要数学和 'burn rate' 计算）和对失败的恐惧（这通常是增长的绿灯）。
-- 在会议中询问 'dumb' 问题，以加速不熟悉领域的学习。
+**Tactical advice:**
+- Actively seek out 'cliff-jumping' opportunities over safe, incremental promotions.
+- Optimize for roles that make you feel slightly scared or 'highly unqualified.'
+- Prioritize being on the steepest possible learning curve over being comfortable in your current skill set.
 
-*时间戳：00:28:05*
-
-
-## Nabeel S. Qureshi
-*Nabeel S. Qureshi*
-
-> "They were extremely careful about only making people PMs who had first proven themselves out as forward deployed engineers. You basically could not become a PM any other way... the reason for that's pretty simple, it's going to be someone who understand how customers work and has that customer empathy."
-
-**洞察：** 最好的 PMs 通常是那些首先让 'proven their mettle' 担任面向客户的高风险交付角色的人。
-
-**战术建议：**
-- 寻找已成功管理现场部署或直接解决客户问题的 PM 候选人。
-- 优先考虑从技术领域角色到产品管理的内部晋升。
-
-*时间戳：01:06:00*
-
-
-## Nan Yu
-*Nan Yu*
-
-> "It's your job when you're in the interview process to figure out what that burning problem is. So, put on your discovery hat and go figure out what is the actual job to be done of the hiring manager when they're bringing on a new PM onto their team? And if you can do that and then make a good case that you are the person to solve that problem, then hiring you becomes a binary choice."
-
-**洞察：** 将求职面试视为产品发现练习，以确定招聘经理's '要完成的工作。
-
-**战术建议：**
-- 向招聘经理询问他们的具体 OKR 以及新员工如何帮助实现这些目标。
-- 将自己定位为解决紧迫问题的具体解决方案，而不是一个通才候选人。
-
-*时间戳：01:04:51*
+*Source: [The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale](https://www.youtube.com/watch?v=twzLDx9iers) @ 00:23:46*
 
 ---
 
-> "Just act like you already worked there. What would you do? ... During the interview loop... you can ask, 'Hey, can you put me in touch with an engineering manager who's working on the same problem?' And if no one else is asking, again, you're going to have an extra piece of feedback."
+## Nickey Skarstad
 
-**洞察：** 通过在面试过程中扮演角色来让自己脱颖而出。
+> "When I took a step back and was like, all right, what do I want to do next? I really loved the marketplace component at Etsy. And I don't know if this is just says something about my personality, or actually probably your personality too, is marketplace product is really hard, right? You have this constant balancing of both buyer and seller sides or both sides of the marketplace. And I really liked that. And it was something that I was good at."
 
-**战术建议：**
-- 要求与跨职能同事（例如工程经理）交谈，以了解团队面临的挑战。
-- 提出深刻、具体的问题，表明你已经在考虑这项工作。
+**Insight:** Evaluate new career opportunities by identifying the specific product complexities and business models that align with your natural strengths and personality.
 
-*时间戳：01:06:42*
+**Tactical advice:**
+- Analyze your personality to see if you thrive in complex environments like marketplaces.
+- Look for roles that offer layers of abstraction or complexity that go beyond building a digital interface.
+- Identify companies that are at a specific stage, such as post-product market fit, to match your current career goals.
 
+*Source: Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more @ 00:16:20*
 
-## Nikita Miller
-*Nikita Miller*
-
-> "I think getting into startups as a product manager is a pretty awesome way to get into product because it's just a lot of problem-solving. The problem with that is you don't have anyone to teach you the right way, but the product will teach you the right and wrong way if you're with a team that is moving quickly."
-
-**洞察：** 初创公司为有抱负的 PMs 提供了最快的学习曲线，因为它们迫使他们接触产品学科的每个部分。
-
-**战术建议：**
-- 寻找较小产品或公司的职位，以获得所有职能的实践经验
-- 在没有正式指导的情况下，使用产品的市场表现作为反馈循环
-
-*时间戳：37:54*
-
+---
 
 ## Nikhyl Singhal
-*Nikhyl Singhal*
 
-> "I tend to help and coach hundreds of folks through transitions. So if they're in a moment where they're trying to decide between another job, if they're trying to decide to leave, if they're having sort of an alert at work, I call them 911 calls. I take a few 911 calls every week and from a relatively large group of people. So I find those are the most substantive times to help people, is when they're in moments of dilemma or forks in the road"
+> "What's the second thing? What's your career next look like? How do you ensure that you are always going to have something important and motivating to do with your career? Otherwise, you'll keep working because you know nothing else to do, but you'll be sadder or you'll find ways to create war when peace is needed."
 
-**洞察：** 职业转型至关重要 'forks in the road'，其中外部指导和客观建议最具影响力。
+**Insight:** True career fulfillment requires finding intrinsic motivation that persists even after you have reached high-status titles and financial success.
 
-**战术建议：**
-- 在'911'职业困境时刻寻求外部视角
-- 关注长期弧线，而不仅仅是眼前的下一步
+**Tactical advice:**
+- Identify core motivations that will sustain your engagement after achieving primary financial or title goals.
+- Define a 'second act' to ensure you always have something motivating to work toward in the future.
+- Plan for long-term fulfillment to avoid becoming bored or disruptive after reaching the top of your field.
 
-*时间戳：00:05:22*
+*Source: [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg) @ 01:02:39*
 
+---
 
 ## Noam Lovinsky
-*Noam Lovinsky*
 
-> "I always try to prioritize putting myself in positions that are going to cause a lot of growth and learning. And growth and learning can be very painful. ... I can find situations that are going to stretch me, that are going to force me to do things that I haven't done where I'm going to grow and learn significantly."
+**Insight:** Career success is driven more by authenticity and personal energy than by following industry trends or investing in non-authentic personal branding.
 
-**洞察：** 优化可提供最大 'stretch' 和学习潜力的角色，即使过渡会带来明显的不适或疼痛。
+**Tactical advice:**
+- Select roles and projects that authentically excite you and align with your natural strengths.
+- Prioritize deep, high-quality work over building a public persona or networking for its own sake.
+- Ignore industry pressures to conform to certain social media or newsletter standards if they don't feel natural.
 
-**战术建议：**
-- 寻找至少需要一到两项全新技能的角色以避免停滞
-- 选择新角色时，优先考虑学习潜力，而不是立即成功的高度确定性
+*Source: [The happiness and pain of product management | Noam Lovinsky (Grammarly, Facebook, YouTube, Thumbtack)](https://www.youtube.com/watch?v=a_W5Rn0bJWE) @ 00:59:37*
 
-*时间戳：00:59:37*
-
+---
 
 ## Paul Millerd
-*Paul Millerd*
 
-> "A three month sabbatical is much more attainable than people think. Companies are desperate to keep people and are much more open to things like this these days. And the way I frame it is if you're assuming you're going to work continuously in adulthood, that's about 500 months. Try to find three months of that where you can create space and reconnect with yourself, explore things, just see what emerges, see how you feel."
+**Insight:** True career satisfaction comes from consciously choosing your path and acknowledging the trade-offs, rather than simply following a societal script.
 
-**洞察：** 三个月的休假只是 500 个月职业生涯中一小部分，可以管理，可以进行必要的自我重新联系。
+**Tactical advice:**
+- List your top priorities and evaluate how many your current role satisfies.
+- Question the 'implicit contracts' you have with yourself, such as the assumption that you must work 40 hours every Monday through Friday.
+- Acknowledge external disruptions and personal changes to determine if your current trajectory still serves your life reality.
 
-**战术建议：**
-- 目标是三个月的封锁，以便适当放松
-- 向雇主提出要求，作为长期留在公司的一种方式
-
-*时间戳：00:16:31*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:05:08*
 
 ---
 
-> "I've found it takes six to eight weeks just to unwind."
+> "Take three hours during a workday. Has to be during a workday. Block off your schedule, sneak out. People can pull this off. Go for a walk without a destination or do something from your childhood that you used to do all the time."
 
-**洞察：** 从高压工作中摆脱出来的心理转变需要近两个月的时间才能开始真正的探索。
+**Insight:** Reconnecting with your true self requires creating intentional space to observe what brings you alive outside the constraints of professional identity.
 
-**战术建议：**
-- 在期待创造性突破之前，请预算至少 6-8 周的 'unwinding' 时间
+**Tactical advice:**
+- Block off three hours during a standard workday to do something completely unrelated to work.
+- Reflect on any guilt felt during work-hour breaks to understand your internal definitions of 'good work.'
+- Revisit activities from your childhood to see which ones still generate a sense of 'aliveness.'
 
-*时间戳：00:22:09*
-
----
-
-> "I always tell people you need a boomer compatible story for what you're up to, as just give them something. Just say, 'I'm an entrepreneur,' or, 'I'm a business owner.'"
-
-**洞察：** 在过渡到非常规工作时，使用传统标签来满足老一辈人的社会期望并减少摩擦。
-
-**战术建议：**
-- 采用 'legible' 标题（如 'entrepreneur' 或 'business owner'）向家人和朋友解释你的道路
-
-*时间戳：00:39:41*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:18:35*
 
 ---
 
-> "I call it ship, quit, and learn, which is what is the quickest way I can ship something designed to quit, but as soon as I ship it, I learn about what to do next?"
+> "The big shift for me actually, when I left my job, I wanted to run away. I wanted to escape work. I wanted to not work. And I more or less accomplished that. I basically lowered my cost of living in Asia to about 1,000 per month."
 
-**洞察：** 将职业实验视为短期项目，旨在为下一步提供必要的数据后放弃。
+**Insight:** Extending your career runway is often more about aggressively lowering expenses than immediately generating new income.
 
-**战术建议：**
-- 设计带有预设 'quit' 日期的小型实验（例如 5 集播客），以降低尝试新事物的风险
+**Tactical advice:**
+- Identify your minimum viable cost of living to determine how long your savings can last.
+- Consider relocating to a lower-cost area to significantly extend your exploration period.
+- Prioritize saving for career transitions with the same intensity as saving for a major life purchase.
 
-*时间戳：00:45:45*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:27:39*
 
+---
 
-## Phyl Terry
-*Phyl Terry*
+> "The pathless path is basically a shift away from the default. It's a shift away from not knowing what you're doing as a problem to be solved toward an embrace of uncomfort, discomfort, and uncertainty."
 
-> "I talk about this in the book. Sometimes you need a two-step strategy. Let's say you want to be a VP of product at a top streaming company or whatever it is, but you not a fit for that today. So the question is how do you step there?"
+**Insight:** Moving beyond a traditional career requires shifting from a scarcity mindset to an abundance mindset and learning to coexist with uncertainty.
 
-**洞察：** 使用两步策略通过采取中间立场来建立必要的经验或接近 'technology frontier.' 来达到目标角色
+**Tactical advice:**
+- Fire the manager in your head to break free from internal scripts about when and how much you must work.
+- Acknowledge that leaving a full-time job often triggers shame, which is a societal script rather than a personal failing.
+- Adopt an abundance mindset by trusting that experimentation and faith can lead to viable new paths.
 
-**战术建议：**
-- 根据市场状况确定你的目标角色目前是否无法实现。
-- 考虑在顶级公司担任个人贡献者 (IC) 角色来重置你的轨迹。
-- 从你目前适合的职位中寻找内部晋升机会。
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:40:45*
 
-*时间戳：00:40:38*
+---
 
+> "The goal is not to find a job, make money, build a business, or achieve any other metric. It's to actively and consciously search for the work that you want to keep doing."
+
+**Insight:** Sustainable creative work is found by shifting the focus from hitting financial metrics to discovering activities you are willing to do for the long term.
+
+**Tactical advice:**
+- Experiment with independent freelancing to establish a stable income base while building a creator path.
+- Commit to doing creative work in public to meet collaborators and refine your ideas through feedback.
+- Focus on finding a better relationship with work rather than following standard industry containers.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:48:35*
+
+---
+
+> "Companies are desperate to keep people and are much more open to things like this these days. And the way I frame it is if you're assuming you're going to work continuously in adulthood, that's about 500 months. Try to find three months of that where you can create space."
+
+**Insight:** Leverage the current labor market's flexibility to request non-traditional arrangements that prioritize your personal growth and exploration.
+
+**Tactical advice:**
+- Propose a short-term sabbatical as a retention tool rather than quitting outright.
+- Evaluate your current role's flexibility against your need for time and energy to explore new interests.
+- Frame your request for space within the context of a long-term career to make it more legible to employers.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:29:55*
+
+---
+
+> "You'll trigger insecurities in other people by just existing outside the frame of the default path. And it's the default path in their head of their conception of how the world should work and does work, right?"
+
+**Insight:** Recognizing that negative social reactions often stem from others' internal scripts can help you stay committed to an unconventional path.
+
+**Tactical advice:**
+- Prepare for social pushback by understanding it as a reflection of others' insecurities about their own choices.
+- Use frameworks like the 'pathless path' to give yourself and others a vocabulary for your journey.
+- Acknowledge that leaving a traditional job may feel shameful because it challenges long-standing societal norms.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:39:10*
+
+---
+
+## Peter Deng
+
+**Insight:** 
+
+*Source: [From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng](https://www.youtube.com/watch?v=8TpakBfsmcQ) @ 01:36:21*
+
+---
 
 ## Raaz Herzberg
-*Raaz Herzberg*
 
-> "I had a ton to learn about marketing, with what I knew really well... I spent my life in engineering, and in any product, it's not the go to market side, even. I was never part of the go to market, or I have never heard of a lead in my life. I did not know the word "pipeline.""
+**Insight:** Transitioning from product to marketing allows a leader to leverage deep technical and customer knowledge to build a more authentic go-to-market strategy.
 
-**洞察：** 成功过渡到新职能取决于利用深厚的领域专业知识，同时愿意从头开始学习新角色的战术语言。
+**Tactical advice:**
+- Apply product management rigor to marketing functions like product strategy and positioning.
+- Leverage a technical background to build credibility with specialized audiences.
+- Be willing to learn marketing fundamentals from scratch after mastering the product lens.
 
-**战术建议：**
-- 遵循 'good people' 而不是严格的职业规划。
-- 识别组织中的 'heat'（存在最关键瓶颈的区域）并朝该方向迈进。
-
-*时间戳：00:24:11*
+*Source: [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY) @ 00:23:53*
 
 ---
 
-> "I do feel like an imposter, and I know there's always those statistics about many people feeling that way. So I think, maybe just, "Let's embrace it. I feel like an imposter, you feel like an imposter, everybody feels like an imposter," It's kind of, maybe embrace it, but don't let that stop you from making a decision."
+**Insight:** Prioritize following exceptional people and high-growth opportunities over following a rigid, predetermined career plan.
 
-**洞察：** 在开始新职位时接受自己是冒名顶替者的事实可以让你专注于工作，而不是担心成为 'found out.'
+**Tactical advice:**
+- Make career decisions based on the quality of the team and the potential for accelerated learning.
+- Be open to non-traditional transitions between engineering, product, and marketing.
+- Accept roles that feel slightly out of reach to maximize professional development.
 
-**战术建议：**
-- 不要等到有了信心才承担新的角色；尝试时接受失败的可能性。
+*Source: [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY) @ 00:24:11*
 
-*时间戳：00:54:09*
-
+---
 
 ## Rachel Lockett
-*Rachel Lockett*
 
-> "When people are in their gifts and their strengths firmly, most of the time, they have more energy... I try to help my leaders see that they can design their lives so they're spending 80% of their time in their gifts."
+> "It's no one else's job to help you live in your gifts. What I notice in big companies is people are often annoyed or frustrated with their management for not making their job more interesting. No, your manager's job is to help you perform in the job you are hired to do. It's your job to navigate your career."
 
-**洞察：** 职业满意度和精力水平与在 one's 'Genius 区域内工作的时间直接相关。
+**Insight:** You must take personal responsibility for steering your career toward your strengths rather than expecting management to design a fulfilling role for you.
 
-**战术建议：**
-- 跟踪两周的能量水平：每天记下 5 件提供能量的事情和 5 件消耗能量的事情。
-- 目标是将 80% 的时间花在 'gifts' 或优势上。
+**Tactical advice:**
+- Stop relying on management to make your work interesting and take charge of your own career navigation.
+- Commit to personal growth and expanding your leadership capacity over the long term.
+- Lean into your unique purpose to find more fun and impact in your professional life.
 
-*时间戳：00:44:25*
+*Source: [A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett](https://www.youtube.com/watch?v=1GDVum5IarI) @ 00:45:17*
 
+---
 
 ## Ravi Mehta
-*Ravi Mehta*
 
-> "The advantage a smaller company has really is in latency. You can have an idea one day, you can test it the next day, and as a result you can have this really short cycle time between an assumption or a hypothesis and being able to validate that hypothesis. That's just not true at larger companies where there's a lot more momentum."
+> "The advantage a smaller company has really is in latency. You can have an idea one day, you can test it the next day, and as a result you can have this really short cycle time between an assumption or a hypothesis and being able to validate that hypothesis. And that's just not true at larger companies where there's a lot more momentum."
 
-**洞察：** 与大公司相比，startup 的主要优势是低延迟（决策速度）而不是总工作量（速度）。
+**Insight:** Startups gain a competitive edge by reducing 'latency'—the time between an idea and its validation—rather than trying to match the sheer output volume of larger companies.
 
-**战术建议：**
-- 迁移到 startup 时，请将重点从高速执行转移到减少假设和验证之间的时间。
-- 将雄心勃勃的计划分解为更小的迭代部分，每隔几天或几周提供一次数据。
+**Tactical advice:**
+- Optimize for latency by minimizing the time between forming a hypothesis and getting a result.
+- Shift from an experimental approach to a conviction-oriented approach to avoid paralysis when data is limited.
+- Break ambitious projects into small, iterative pieces that allow for data collection every few weeks.
 
-*时间戳：00:09:15*
+*Source: [The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)](https://www.youtube.com/watch?v=_yQMGHHl49g) @ 00:08:04*
 
 ---
 
-> "I think it's important to plug into an early stage network as soon as possible... the people sort of really build their lifestyles and their careers around a particular stage. And there are some people that like to move between stages, but the majority of people don't."
+## Ray Cao
 
-**洞察：** 大公司网络和 startup 网络是有区别的；转型需要有意识地建立一个由建设者、自由职业者和早期投资者组成的新网络。
+**Insight:** Transitioning from a legacy tech company to a high-growth startup requires a mindset shift from technology-led innovation to customer-centric experimentation.
 
-**战术建议：**
-- 加入独立黑客或 Everything Marketplaces 等社区，与早期构建者建立联系。
-- 与天使投资者联系，了解当前的技术趋势和早期挑战。
-- 在最初阶段招聘时，寻找 'generalist' 人才而不是专家。
+**Tactical advice:**
+- Prioritize understanding what the market wants over building purely based on engineering capabilities.
+- Experiment with multiple product variations simultaneously rather than following a rigid, linear development process.
+- Adopt a global-first prioritization strategy that evaluates market opportunities outside of the home country early on.
 
-*时间戳：00:13:04*
+*Source: [Inside TikTok: Culture, strategy, monetization, and more | Ray Cao (Global Head of Monetization Product Strategy and Operations)](https://www.youtube.com/watch?v=RJ3iPWo3-8M) @ 00:05:02*
 
-
-## Ryan Hoover
-*Ryan Hoover*
-
-> "There's many different ways to invest. There's, you know, angel investing is one... there's scouting... there's SPVs... raising a fund... one thing you can also do is just like pretend angel invest... write memos, or you can like almost create a fantasy portfolio... she was doing the job before getting the job, and anyone can do that today."
-
-**洞察：** 'doing the job before having the job'可以通过备忘录和幻想投资组合来实现向风险投资的转变。
-
-**战术建议：**
-- 创建 'fantasy portfolio' 并编写投资备忘录，向潜在公司证明你的思维过程。
-- 将 SPV（特殊目的车辆）视为无需个人资本即可建立业绩记录的一种方式。
-
-*时间戳：01:02:20*
-
+---
 
 ## Ryan J. Salva
-*Ryan J. Salva*
 
-> "The decision to move as well, I think, was really focused not just on what GitHub was and maybe is at the time, but what GitHub also can be. ... to get to an opportunity to work on so many V1 products, like that is creation itself, to be able to build an entirely new product, get it out to market, test it, iterate on it, and really feed on the energy that's coming back from the community."
+> "I really took that opportunity to make the transition out of a little bit more enterprise focused internal role at Microsoft to going where I could work on everything from, I don't know, AI technology like Copilot to a cloud hosted development environments like Codespaces, repos, which literally every single developer on the planet is participating in some way GitHub repos in a typical year."
 
-**洞察：** 转换角色时，请优先考虑提供高社区影响力和从头开始构建 'V1' 产品的机会的环境。
+**Insight:** Successful transitions to new leadership roles involve moving toward areas where community innovation and creative energy are highest to maximize your potential impact.
 
-**战术建议：**
-- 根据 'mind share' 和组织的社区重点评估潜在角色
-- 寻找机会领导 V1 产品，以在转型期间最大限度地发挥创意影响
+**Tactical advice:**
+- Move from internal-facing infrastructure roles toward community-facing platforms to increase your professional reach.
+- Identify the products where the majority of your target user base is already collaborating and creating.
+- Leverage your experience with large-scale systems to help scale high-growth, early-stage product categories.
 
-*时间戳：00:09:28*
-
-
-## Shreyas Doshi
-*Shreyas Doshi*
-
-> "For about a year, I was doing the product job without having the title and I was also the engineer. So I was in this great state where I'd figure out what needed to be built and I would just build it myself. So, that's how I started. And at some point during that one year, I realized that while I was a good engineer, I was perhaps a top 20% engineer. I realized that I would never be a great engineer, that I would never be a top 10% engineer because I saw those engineers, the fortune of working with them, and I just could tell that I couldn't be that."
-
-**洞察：** 从工程到产品的过渡通常涉及确定技术角色的个人绩效上限，并在正式头衔变更之前开始履行产品职责。
-
-**战术建议：**
-- 寻找机会以工程师身份参加客户会议，以了解用户需求。
-- 开始独立构建客户问题的解决方案，以展示产品思维。
-
-*时间戳：00:08:40*
+*Source: [The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot)](https://www.youtube.com/watch?v=awcd3P1DnX4) @ 00:07:13*
 
 ---
 
-> "I have to abandon the traditional path, that like, 'Oh, after this level, I'm supposed to do this, and then I'm supposed to do this, and then this is what society expects... Identify your superpowers, because if you identify your superpowers and work in accordance with them, you will do the best work of your life.'"
+## Sam Schillace
 
-**洞察：** 职业成就感需要使你的角色与你的自然 'superpowers' 保持一致，而不是遵循标准的公司阶梯，这可能会迫使你从事你不喜欢的工作。
+> "But the reality is you should go do the thing that you feel guilty to get paid for, if there's a thing like that, and do the hell out of it, right? Do it as hard as you can. If you get pleasure from doing something that people want to pay you for, do it the best you can do it, as hard as you can do it."
 
-**战术建议：**
-- 确定你的 'happy place' 处于影响、执行还是光学级别。
-- 如果你发现 'optics' 工作（在大型组织中常见）令人沮丧，请愿意转向早期产品或较小的团队。
-- 根据自我真理而不是嫉妒或外部期望做出职业决定。
+**Insight:** High-value work often feels surprisingly easy and fun to you; follow the path where your natural talents make work feel like play.
 
-*时间戳：41:25*
+**Tactical advice:**
+- Identify tasks that feel so effortless and enjoyable that you feel slightly guilty being paid to do them.
+- Stop grinding through unpleasant work under the assumption that suffering is required for career success.
+- Lean into the activities you find fun and 'do the hell out of' them as hard as you can.
 
+*Source: [How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)](https://www.youtube.com/watch?v=IOWDoDpQ7Xg) @ 00:54:19*
+
+---
+
+## Sanchan Saxena
+
+> "My biggest advice to people is, oftentimes the analysis paralysis of dotting every eye, crossing every tee sometimes chokes you out of opportunities. When you find something that gives you energy, just jump in with both feet. And try to go through that process, and pivot and learn, and pivot and learn and pivot. That's how you would create a great career as opposed to sort of a five year career plan and working backwards from that."
+
+**Insight:** Prioritize rapid learning and high-energy opportunities over rigid long-term career planning to navigate early product management choices.
+
+**Tactical advice:**
+- Take 'little bets' and build the capacity for rapid recovery if they do not work out.
+- Jump into new opportunities with both feet when you find work that gives you energy.
+- Choose roles that maximize your speed of learning the 'art and science' of product management.
+
+*Source: Sanchan Saxena (VP of Product at Coinbase) on the inside story of how Airbnb made it through Covid; what he’s learned from Brian Chesky, Brian Armstrong, and Kevin Systrom; much more @ 00:06:31*
+
+---
+
+**Insight:** Evaluate Web3 opportunities by looking past today's friction to identify the revolutionary potential of decentralized systems.
+
+**Tactical advice:**
+- Look for 'Web 2.5' opportunities that bridge today's user behavior with tomorrow's decentralized ideals.
+- Join a field as a builder rather than just an observer once you believe a technological revolution is occurring.
+- Optimize for learning speed in industries that are transitioning from niche participation to mass adoption.
+
+*Source: Sanchan Saxena (VP of Product at Coinbase) on the inside story of how Airbnb made it through Covid; what he’s learned from Brian Chesky, Brian Armstrong, and Kevin Systrom; much more @ 00:49:03*
+
+---
+
+## Scott Wu
+
+> "The form factor of what it means to be a programmer obviously is going to change, but at the end of the day, of course the discipline is all about just being able to tell your computer what's do. And so in that lens, I really think that programming is only going to become more and more important as AI gets more powerful."
+
+**Insight:** As AI handles implementation, the role of an engineer shifts toward higher-level architecture and the ability to precisely decompose and define problems.
+
+**Tactical advice:**
+- Focus on developing skills in system architecture and problem decomposition rather than rote syntax.
+- Master the ability to clearly articulate complex technical requirements to autonomous agents.
+
+*Source: [How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)](https://www.youtube.com/watch?v=7m_xKFqSxTo) @ 00:23:31*
+
+---
+
+## Seth Godin
+
+> "And so I became the de facto product manager and that is when I learned marketing is the product. You don't make a product and then hand it to some marketing yahoo and say, go put a logo on this. That the product we made, and five in a row went gold, saved the company."
+
+**Insight:** Marketing is not a layer applied after development but is the core utility and story built directly into the product itself.
+
+**Tactical advice:**
+- Lead cross-functional teams through influence and public recognition rather than formal authority.
+- Ensure the engineering team understands that the 'marketing' is the value they are building into the product.
+- Take deep ownership of project timelines and details to ensure the product meets critical delivery dates.
+
+*Source: [Seth Godin's best tactics for building remarkable products, strategies, brands and more](https://www.youtube.com/watch?v=UyWTDmDjNy4) @ 00:10:05*
+
+---
 
 ## Shaun Clowes
-*Shaun Clowes*
 
-> "My career has been a little bit like a bingo card. I've always been looking to fill in boxes I didn't have filled because I felt like that would make me a better professional. It's like if I didn't know anything about that specific type of sales model or that type of marketing or that type of product management... well, if I learn about that thing, I will become more versatile."
+**Insight:** Building a versatile career requires intentionally choosing roles that fill gaps in your experience rather than staying within familiar domains.
 
-**洞察：** 将职业视为跨不同业务模式和功能的多样化经验的 'bingo card'，可以构建独特的多功能性和模式匹配技能。
+**Tactical advice:**
+- Use a 'bingo card' approach to identify the specific skills and domains missing from your resume.
+- Index towards finding very different roles for every new job to build broader pattern-matching abilities.
 
-**战术建议：**
-- 在你的专业经验卡上识别 'empty boxes'（例如，消费者与 B2B、销售与产品）并寻找能够填补这些空缺的职位。
-
-*时间戳：00:56:42*
+*Source: [Why great AI products are all about the data | Shaun Clowes (CPO Confluent, ex-Salesforce, Atlassian)](https://www.youtube.com/watch?v=yVS1gTAQYSU) @ 00:56:42*
 
 ---
 
-> "It's to constantly be choosing things that are either outside that, not totally outside the lines. Don't jump out of a plane if you've never parachuted before. Obviously you want them to be in some way and adjacency, that you want them to have something in common with what you know, but you want them to stretch you and change you."
+## Shreyas Doshi
 
-**洞察：** 通过担任与你当前技能 'adjacent' 但提供重大新挑战的职位，可以实现最佳的职业发展。
+> "For about a year, I was doing the product job without having the title and I was also the engineer. So I was in this great state where I'd figure out what needed to be built and I would just build it myself."
 
-**战术建议：**
-- 寻找与你当前的经历有共同点但引入两到三个新变量的职位。
+**Insight:** An engineering background provides a powerful foundation for product management by allowing you to both identify user needs and build solutions yourself.
 
-*时间戳：01:00:41*
+**Tactical advice:**
+- Start performing PM duties like customer research and product definition while still in an engineering role.
+- Leverage technical skills to build and test your own product ideas to move faster than formal processes allow.
+- Seek opportunities to attend customer meetings and manage external relationships to build cross-functional experience.
 
+*Source: [4 questions Shreyas Doshi wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google](https://www.youtube.com/watch?v=atS060bNpE0) @ 00:07:11*
 
-## Tomer Cohen
-*Tomer Cohen 2.0*
+---
 
-> "We had somebody in our user research team. We had an opening for a PM on the growth team... She used all those tools, and she's now a growth PM on the team. And really, you can start thinking about her more as a full stack builder ultimately."
+## Sriram and Aarthi
 
-**洞察：** AI 工具通过增强在职能之间转换所需的技术或专业技能来降低职业转型的障碍。
+**Insight:** 
 
-**战术建议：**
-- 鼓励员工在申请不同职能的内部职位时使用 AI 工具来弥补技能差距
+*Source: [Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi](https://www.youtube.com/watch?v=HsD5ycT_umw) @ 00:56:49*
 
-*时间戳：00:43:11*
+---
 
+## Tamar Yehoshua
+
+> "Make sure you go somewhere where you have a good engineering partner. Because if you have great ideas of what to build but you can't get them built, then you go nowhere. So that has to be part of your evaluation criteria that you meet and value your engineering partner before you join."
+
+**Insight:** When choosing a new role, prioritize the quality of your cross-functional partners to ensure your product vision can be successfully executed and launched.
+
+**Tactical advice:**
+- Make meeting and evaluating your potential engineering partner a core part of your interview process.
+- Prioritize roles where you can establish clear alignment on roles and responsibilities from the start.
+- Avoid joining organizations where you cannot verify that the engineering talent is capable of building your ideas.
+
+*Source: [Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua (Product at Glean, ex-Google and Slack)](https://www.youtube.com/watch?v=ZoSeOltKqQk) @ 00:18:39*
+
+---
+
+**Insight:** Approach your career one step at a time by focusing on immediate impact rather than fixating on a long-term plan.
+
+**Tactical advice:**
+- Focus on driving business impact in your current role rather than eyeing the next promotion.
+- Be willing to turn down roles or teams that don't make sense for the company's productivity.
+- Prioritize the immediate value you can provide over a fixed five-year career trajectory.
+
+*Source: [Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua (Product at Glean, ex-Google and Slack)](https://www.youtube.com/watch?v=ZoSeOltKqQk) @ 00:18:39*
+
+---
+
+## Tanguy Crusson
+
+**Insight:** Long-term career health in product management requires the courage to leave work environments that stifle innovation and breed cynicism.
+
+**Tactical advice:**
+- Evaluate if your current company culture truly supports zero-to-one work.
+- Recognize signs of cynicism in your team and act before it becomes habit.
+- Seek out environments with flat decision-making and high empowerment.
+
+*Source: [Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)](https://www.youtube.com/watch?v=cZqpqb5qR5A) @ 01:38:32*
+
+---
 
 ## Tom Conrad
-*Tom Conrad*
 
 > "When I look back on my career and think about the things that I've done, my professional satisfaction is not well correlated with those external metrics and very, very coordinated with do I love the thing we were building and do I love the people I was working with?"
 
-**洞察：** 职业满意度更多地取决于产品热情和团队化学反应，而不是外部成功指标或财务回报。
+**Insight:** Professional fulfillment is driven by personal alignment with the product and the quality of the team rather than brand prestige or external financial success.
 
-**战术建议：**
-- 根据个人对问题空间的兴趣评估潜在角色
-- 优先考虑协作和领导力的质量而不是公司的炒作
+**Tactical advice:**
+- Prioritize roles where you have a genuine passion for the product.
+- Evaluate potential colleagues based on whether they will challenge you and give you latitude.
+- Ignore external metrics like compensation or brand name if the day-to-day work lacks personal satisfaction.
 
-*时间戳：00:12:25*
-
-
-## Vikrama Dhiman
-*Vikrama Dhiman*
-
-> "My advice is if you're coming from design and research background, then you pick data or tech. If you're coming from a data or tech background, then you pick design and research, and that gives you the maximum leverage because that's a skill that you will necessarily not have developed over the years."
-
-**洞察：** 过渡到 PM 时，重点发展与你之前的背景最相近的核心技能（数据、技术或设计），以获得最大的影响力。
-
-**战术建议：**
-- 确定你的 'opposite' 技能组合（例如，如果你来自设计部门，则为技术）并优先学习它
-- 充分利用现有优势，同时积极填补不熟悉领域的空白
-
-*时间戳：00:41:18*
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 00:11:05*
 
 ---
 
-> "It also makes a big difference if you are transitioning when you are slightly younger in your career. If you are already senior in a function and then you are transitioning, sometimes it can take a lot of time in transitioning and picking up those skills."
+> "Every single time I've taken a job where it turned out that I was working with people who had a different set of values or working styles than I had, I knew. You tell yourself that, at least in my case, I tell myself a story about why the thing I suspect might be the case isn't the case."
 
-**洞察：** 在职业生涯的早期，过渡到产品管理通常会更容易、更快。
+**Insight:** Initial gut reactions during the interview process are often more accurate reflections of culture fit than the logical justifications we create to ignore red flags.
 
-**战术建议：**
-- 在过渡期间做好 'go slow' 的准备，为以后更快的增长奠定基础
-- 寻找一位强大的产品领导者来指导你完成转型的技能塑造阶段
+**Tactical advice:**
+- Pay close attention to your immediate emotional response when meeting a new team.
+- Stop rationalizing away concerns about working styles or value misalignments.
+- Trust your instinct about whether you can form a genuine connection with potential collaborators.
 
-*时间戳：00:44:14*
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 00:12:43*
 
+---
+
+> "There's this belief that everybody needs to be a founder. I think, in some ways, our industry would be much better off if there were fewer founders. There's an entire category of smart, creative, hardworking, talented, borderline visionary people who can raise that $2 million seed and go off and build some stupid company that's never going to go anywhere."
+
+**Insight:** Highly talented individuals can often achieve more impact and personal satisfaction by joining an existing team with a viable problem than by forcing themselves into a founder role.
+
+**Tactical advice:**
+- Reject the cultural pressure that labels founding a company as the only path to success.
+- Identify early-stage teams where your specific superpower is the missing piece for a winning formula.
+- Achieve your goals for financial reward and cultural impact through collaboration rather than solo leadership.
+
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 01:27:35*
+
+---
+
+**Insight:** The shift from product leader to CEO requires viewing the company through a financial lens while maintaining product intuition.
+
+**Tactical advice:**
+- Learn to interpret the business as a complex financial equation.
+- Prioritize the economic sustainability of the model alongside product quality.
+- Delegate technical decisions to stay focused on the broader business strategy.
+
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 01:06:19*
+
+---
+
+## Tomer Cohen
+
+**Insight:** Long-term career impact comes from making choices based on internal conviction and the desire to solve specific problems rather than pursuing external prestige.
+
+**Tactical advice:**
+- Evaluate career opportunities based on where you feel you can make the most significant "dent."
+- Prioritize roles that align with your personal excitement and professional beliefs over market demand.
+- Shift your decision-making focus from external validation to internal conviction.
+
+*Source: [Why LinkedIn is turning PMs into AI-powered "full stack builders” | Tomer Cohen (LinkedIn CPO)](https://www.youtube.com/watch?v=R-zCfLQD_84) @ 00:49:53*
+
+---
+
+## Vijay
+
+> "And I think I had to unlearn that moving into product because you get a lot of ideas coming from a lot more places in the organization, and ideas are fragile in their agency and it's a hard no can really kill a whole direction that you could potentially go. They could be very high reach and high impact."
+
+**Insight:** Effective product leadership requires replacing reflexive engineering skepticism with a sincere effort to find paths for fragile but high-impact ideas.
+
+**Tactical advice:**
+- Take 10 minutes to sincerely consider how a new idea might work before responding with a reflexive no.
+- Document the earnest work done to try to make 'yes' work to ensure your final decision is well-reasoned.
+- Apply an engineering problem-solving mindset to find solutions for new ideas rather than searching for reasons to reject them.
+
+*Source: [An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product)](https://www.youtube.com/watch?v=t-2oXtZrlEc) @ 00:03:57*
+
+---
+
+## Will Larson
+
+**Insight:** 
+
+*Source: [The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)](https://www.youtube.com/watch?v=Z9ftpRhRiJE) @ 01:02:33*
+
+---
 
 ## Yuhki Yamashata
-*Yuhki Yamashata*
 
-> "I think that it's, first of all, a really great empathy building exercise of understanding that point of view, and also pushing yourself to push on the product from a different angle. Because I think as a PM, you're in the center facilitating all these different trade offs, and when you go into design, you have to ignore some of those other aspects to really be insistent on pushing on the best experience possible."
+> "My first job out of college is actually at Microsoft, and I was the Product Manager on Hotmail. If anyone, any listener remembers Hotmail, and I didn't really know what product management was at the time, and I mute it as a interdisciplinary function that will give me exposure to all my other functions so that I can actually decide which function's interesting to me."
 
-**洞察：** 在产品和设计角色之间切换可以建立深厚的跨职能同理心，并允许你从多个角度应对产品挑战。
+**Insight:** Use the product management role as a horizontal vantage point early in your career to gain exposure to multiple disciplines before specializing.
 
-**战术建议：**
-- 使用角色切换来了解其他功能的具体压力和语言
-- 在担任设计职务以推动愿景时暂时暂停业务/ 工程可行性
+**Tactical advice:**
+- Treat early PM roles as interdisciplinary learning opportunities to explore design, engineering, and business.
+- Seek roles at companies that operate at the intersection of physical and digital worlds to develop a more complex product philosophy.
+- Follow missions that allow you to blur functional boundaries to deepen your impact and empathy.
 
-*时间戳：00:09:16*
-
-
-## Ebi Atawodi
-*Ebi Atawodi*
-
-> "I genuinely think that some of the best product managers come from something else because you have empathy for being on the other side... already start product management, doing product management before you're a product manager. Open up your favorite apps. What are the top 10 problems you see?"
-
-**洞察：** 在正式获得头衔之前，最好通过在日常生活中练习技巧（识别问题并想象解决方案）来过渡到 PM。
-
-**战术建议：**
-- 通过识别你日常使用的应用程序中的十大问题并草拟解决方案来练习 'product sense'
-
-*时间戳：01:29:26*
-
-
-## Farhan Thawar
-*Farhan Thawar*
-
-> "If you don't have a written down framework of the things you actually care about, it's very hard not to be distracted. ... I actually sent my framework to a recruiter one time and I said, 'Hey, this thing,' because they kept going back and forth to me and I go, 'Hey, this doesn't align with my framework.'"
-
-**洞察：** 制定个人决策框架来评估新角色，并避免因与你的价值观不符的头衔或薪酬而分心。
-
-**战术建议：**
-- 在开始找工作之前写下具体的价值观框架（例如，学习、影响、人）
-- 尽早与招聘人员分享你的职业框架，以过滤掉不匹配的机会
-
-*时间戳：00:16:43*
-
-
-## Naomi Gleit
-*Naomi Gleit*
-
-> "I sort of took the same approach showing up at the office asking if there were any roles... I had been doing the job voluntarily, almost informally for a few months. And I remember this because I had a seat on the third floor. I picked up all the stuff on my desk, put it in a box, walked down to the second floor once I got the job to become a PM."
-
-**洞察：** 要过渡到产品管理等新角色，请在申请该职位之前开始非正式且自愿地完成工作。
-
-**战术建议：**
-- 为你想加入的部门的项目提供志愿者
-- 在当前工作的同时履行目标角色的职责以证明能力
-
-*时间戳：00:11:08*
-
-
-## Nickey Skarstad
-*Nickey Skarstad*
-
-> "I actually went through my calendar and I changed the colors of all of the meetings on my calendar to red, yellow, and green after I had the meeting. And I looked. And basically if it was yellow, I was like, okay. It was a fine meeting. My energy was baseline. If it was red, I was either bored or I was stressed, or I was not having a good time. And if it was green, it gave me energy and I felt excited and I wanted to keep working on that."
-
-**洞察：** 'calendar energy audit' 是一款强大的工具，可用于确定某个职位或公司是否适合长期发展。
-
-**战术建议：**
-- 根据会议后的能量水平对你的日历进行颜色编码（红色/ 黄色/ 绿色）
-- 评估 'green' 能量任务的比率，以决定是否需要职业转型
-
-*时间戳：00:18:17*
-
-
-## Paige Costello
-*Paige Costello*
-
-> "I evaluate whether I'm in a healthy role and in a good setup by asking myself about my learning curve... thinking about whether the environment is positively impacting your ability to grow your career... and the third piece is really around just the problem, the problem your product is solving."
-
-**洞察：** 根据三个标准评估职业变动：学习曲线的陡峭程度、环境/ 团队的质量以及问题的内在兴趣。
-
-**战术建议：**
-- 定期审核你当前角色的学习曲线，以确保你仍然面临挑战。
-- 评估你的环境中是否包含支持你并为你的成功提供正确工具的人。
-
-*时间戳：00:52:50*
-
-
-## Sanchan Saxena
-*Sanchan Saxena*
-
-> "My advice to people is go get a job which will make you the fastest learner in the field of product management. That is what will help you a lot. No course, no degree, none of those things will help. The most important thing will be how quickly can you jump in, learn the auto product management."
-
-**洞察：** 在开始或转向产品职业时，优先考虑学习速度和实践经验而不是正式证书。
-
-**战术建议：**
-- 根据你在哪里学得最快来选择角色
-- 在你职业生涯的早期平衡 'art' 的直觉与 'science' 的数据
-
-*时间戳：00:08:51*
+*Source: Yuhki Yamashata @ 00:05:22*
 
 ---
 
-> "You got to figure out what are you optimizing for, what goes well with you. I've seen many successful leaders who will get choked up in a big company environment, and I've seen many big company successful executives who want to choke up in a very startup environment."
+**Insight:** Temporarily switching to a design role allows PMs to build deep functional empathy and learn to advocate for an ideal vision without the immediate weight of feasibility constraints.
 
-**洞察：** 在选择新角色之前，请了解你是否在 'starter'（0 到 1）或 'scaler'（1 到 N）环境中茁壮成长。
+**Tactical advice:**
+- Practice 'suspending disbelief' in engineering or business feasibility to push for a pure, vision-led experience.
+- Use functional rotations to learn the specific language and internal motivations of your partner disciplines.
+- Focus on pushing the product from a different angle to build a more holistic understanding of product development.
 
-**战术建议：**
-- 确定你是否更喜欢 startup 的无阻碍黑客攻击还是大公司的规模机制
-- 认识到公司发展的不同阶段需要不同的 PM 技能组合
-
-*时间戳：00:11:23*
-
-
-## Scott Belsky
-*Scott Belsky*
-
-> "If I knew then what I know now, I would not have done this... Then, quit. Your life is short. You have a great team. Pivot. Do something completely different. If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship."
-
-**洞察：** 转向或转型的决定应基于你在获得现实知识后对解决方案的信念是增加还是减少。
-
-**战术建议：**
-- 定期询问：'Knowing all I know now, do I have more or less conviction in the problem and solution?'
-- 区分 'bad day' 和在做出重大职业变动之前真正失去信念
-
-*时间戳：00:45:12*
-
-
-## Tamar Yehoshua
-*Tamar Yehoshua*
-
-> "I never had a five-year plan... follow people. You learn the most from people. I don't look for domains... you follow people who are the best at what they do. So it's not good enough to follow somebody who you like. You want to follow somebody who's either the best product thinker or the best engineer or the best salesperson."
-
-**洞察：** 跟随high-caliber mentors 和 colleagues比遵循严格的长期计划更能实现职业发展。
-
-**战术建议：**
-- 确定你所在领域的最佳从业者并寻求与他们合作的机会。
-- 加入拥有 'nexus' 优秀人才的公司，建立持久的网络。
-
-*时间戳：00:19:12*
+*Source: Yuhki Yamashata @ 00:09:05*
 
 ---
-
-> "Take a job where if you hire people, it's going to make their careers... you want to make sure that it's going to be a good place for them and that they're going to learn and they're going to grow. And so you want to do right by them. And you really earnestly want to say you can make your career by coming here."
-
-**洞察：** 作为领导者，请根据公司的发展轨迹是否能让你加速所招聘人员的职业生涯来评估角色。
-
-**战术建议：**
-- 如果 'turnaround' 工作无法为你的 team 提供清晰成长路径，就避免这类工作。
-- 选择职位时，优先考虑学习机会而不是unpredictable financial upside。
-
-*时间戳：00:22:43*
-
-
-## Carilu Dietrich
-*Carilu Dietrich*
-
-> "I think the executive track isn't for everyone..."
-
-**洞察：** 进入executive track需要刻意比同龄人更加努力地工作。
-
-**战术建议：**
-- 比别人晚工作两个小时
-- 主动参与 cross-functional projects
-
-*时间戳：00:04:55*
-
-
-## Melissa Perri
-*Melissa Perri*
-
-> "If you're a product owner... try to take some ownership over strategic work."
-
-**洞察：** Product Owner 可以通过主动承担 strategic work 来完成转型。
-
-**战术建议：**
-- 要求参加customer research
-- 通过追问 outcomes 来抵制 feature-only work
-
-*时间戳：00:57:14*
-
-
-## Sam Schillace
-*Sam Schillace*
-
-> "You should go do the thing that you feel guilty to get paid for."
-
-**洞察：** 最好的职业发展是从事一种感觉很自然的工作，让你在获得报酬时感到内疚。
-
-**战术建议：**
-- 留意 flow 的感觉
-- 停止从事不愉快的工作
-
-*时间戳：00:00:00*
-
 

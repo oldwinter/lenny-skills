@@ -1,288 +1,185 @@
-# Lenny's Product Skills for Claude Code 中文版
+# Lenny's Product Management Skills for Claude Code 中文版 2.0
 
-[![GitHub stars](https://img.shields.io/github/stars/RefoundAI/lenny-skills?style=social)](https://github.com/RefoundAI/lenny-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills-86-blue)](https://github.com/RefoundAI/lenny-skills/tree/main/skills)
-[![Podcast Episodes](https://img.shields.io/badge/podcast%20episodes-100%2B-green)](https://www.lennyspodcast.com/)
+[![Skills](https://img.shields.io/badge/skills-76-blue)](https://github.com/RefoundAI/lenny-skills/tree/v2/skills)
 
-这套仓库包含 **86 个产品管理 skills**，由 [Lenny's Podcast](https://www.lennyspodcast.com/) 对世界级产品领导者的访谈提炼而来。它面向 PM、创始人和产品团队，让 Claude 能更好地协助真实的产品工作。
+**76 个产品管理和工程 skill**，从 [Lenny's Podcast](https://www.lennyspodcast.com/) 和 [Lenny's Newsletter](https://www.lennysnewsletter.com/) 的完整档案中提取：597 集播客与文章、4,019 条来源见解；每一条引文均已对照来源逐字核验。
 
-> *"The best product advice from Shreyas Doshi, Marty Cagan, Elena Verna, and 90+ more leaders — available in your terminal."*
+由 [Refound AI](https://refoundai.com) 策划。请访问 [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/) 浏览包含指南、引文和模板的完整数据库。
 
-内容由 [Refound AI](https://refound.ai) 从 100+ 期 podcast 中整理，访谈嘉宾包括 Shreyas Doshi、Marty Cagan、Elena Verna、Christina Wodtke 等。
+## 2.0 新增内容
 
-**欢迎贡献！** 如果你发现某个 skill 可以改进，或者想新增 skill，请[提交 PR](#contributing)。
+- **以产品运营模型的形式组织**——skill被分组到产品组织实际运行的流程领域：战略、规划、发现、构建、发布、增长、团队和运营节奏，以及垂直剧本和职业轨迹。
+- **包括时事通讯内容** — 1.0 仅限播客； 2.0 添加了来自 349 个时事通讯帖子的框架和模板，包括“X 如何构建产品”系列。
+- **每项skill的模板和框架** — 每项skill均附带宾客实际使用的命名框架、清单和模板，位于 `references/artifacts.md` 中。
+- **经过验证的引用** — 每个引用都会根据源记录或帖子进行逐字检查。没有释义漂移。
 
 ## 什么是 Skills？
 
-Skills 是 Markdown 文件，用来为 AI agents 提供特定任务所需的专业知识和工作流。把这些文件加入项目后，Claude Code 可以识别你正在处理的产品任务，并应用来自资深产品领导者的合适框架与最佳实践。
-
-## 可用 Skills
-
-| Skill | 说明 |
-|-------|-------------|
-| [ai-evals](skills/ai-evals/) | 帮助用户为 LLM 产品创建并运行 AI evals |
-| [ai-product-strategy](skills/ai-product-strategy/) | 帮助用户定义 AI 产品策略，并决定在哪里应用 AI |
-| [analyzing-user-feedback](skills/analyzing-user-feedback/) | 帮助用户综合分析客户反馈并采取行动 |
-| [behavioral-product-design](skills/behavioral-product-design/) | 帮助用户把行为科学应用到产品设计中 |
-| [brand-storytelling](skills/brand-storytelling/) | 帮助用户打造有吸引力的品牌叙事 |
-| [building-a-promotion-case](skills/building-a-promotion-case/) | 帮助用户准备晋升沟通 |
-| [building-sales-team](skills/building-sales-team/) | 帮助用户搭建并扩展销售组织 |
-| [building-team-culture](skills/building-team-culture/) | 帮助用户建立并维护强团队文化 |
-| [building-with-llms](skills/building-with-llms/) | 帮助用户构建有效的 AI 应用 |
-| [career-transitions](skills/career-transitions/) | 帮助用户应对职业变化和转型 |
-| [coaching-pms](skills/coaching-pms/) | 帮助用户培养和辅导产品经理 |
-| [community-building](skills/community-building/) | 帮助用户建设并发展产品社区 |
-| [competitive-analysis](skills/competitive-analysis/) | 帮助用户理解竞争并制定回应 |
-| [conducting-interviews](skills/conducting-interviews/) | 帮助用户开展有效的招聘面试 |
-| [conducting-user-interviews](skills/conducting-user-interviews/) | 帮助用户开展更好的客户和用户访谈 |
-| [content-marketing](skills/content-marketing/) | 帮助用户制定内容营销策略 |
-| [cross-functional-collaboration](skills/cross-functional-collaboration/) | 帮助用户高效进行跨职能协作 |
-| [defining-product-vision](skills/defining-product-vision/) | 帮助用户创建有感染力的产品愿景 |
-| [delegating-work](skills/delegating-work/) | 帮助用户有效授权 |
-| [design-engineering](skills/design-engineering/) | 帮助用户建设 design engineering 能力 |
-| [design-systems](skills/design-systems/) | 帮助用户搭建并扩展 design systems |
-| [designing-growth-loops](skills/designing-growth-loops/) | 帮助用户设计并优化 growth loops |
-| [designing-surveys](skills/designing-surveys/) | 帮助用户设计有效问卷 |
-| [dogfooding](skills/dogfooding/) | 帮助用户实施有效的 dogfooding 实践 |
-| [energy-management](skills/energy-management/) | 帮助用户管理精力，维持长期表现 |
-| [engineering-culture](skills/engineering-culture/) | 帮助用户建设强工程文化 |
-| [enterprise-sales](skills/enterprise-sales/) | 帮助用户推进 enterprise sales |
-| [evaluating-candidates](skills/evaluating-candidates/) | 帮助用户做出更好的招聘决策 |
-| [evaluating-new-technology](skills/evaluating-new-technology/) | 帮助用户评估新兴技术 |
-| [evaluating-trade-offs](skills/evaluating-trade-offs/) | 帮助用户在相互竞争的选项之间做出更好的决策 |
-| [finding-mentors-sponsors](skills/finding-mentors-sponsors/) | 帮助用户与 mentors 和 sponsors 建立关系 |
-| [founder-sales](skills/founder-sales/) | 帮助创始人拿下第一批客户 |
-| [fundraising](skills/fundraising/) | 帮助创始人融资并建立投资人关系 |
-| [giving-presentations](skills/giving-presentations/) | 帮助用户创建并交付有说服力的演示 |
-| [having-difficult-conversations](skills/having-difficult-conversations/) | 帮助用户处理艰难反馈和冲突 |
-| [launch-marketing](skills/launch-marketing/) | 帮助用户规划并执行产品发布 |
-| [managing-imposter-syndrome](skills/managing-imposter-syndrome/) | 帮助用户处理能力不足感 |
-| [managing-tech-debt](skills/managing-tech-debt/) | 帮助用户战略性管理 technical debt |
-| [managing-timelines](skills/managing-timelines/) | 帮助用户设定并达成现实的 deadline |
-| [managing-up](skills/managing-up/) | 帮助用户高效与上级合作 |
-| [marketplace-liquidity](skills/marketplace-liquidity/) | 帮助用户建立并管理 marketplace liquidity |
-| [measuring-product-market-fit](skills/measuring-product-market-fit/) | 帮助用户评估并实现 product-market fit |
-| [media-relations](skills/media-relations/) | 帮助用户与记者建立关系 |
-| [negotiating-offers](skills/negotiating-offers/) | 帮助用户谈判 job offer 和薪酬 |
-| [onboarding-new-hires](skills/onboarding-new-hires/) | 帮助用户有效 onboarding 新团队成员 |
-| [organizational-design](skills/organizational-design/) | 帮助用户设计有效的组织结构 |
-| [organizational-transformation](skills/organizational-transformation/) | 帮助用户推动组织向现代实践转型 |
-| [partnership-bd](skills/partnership-bd/) | 帮助用户建立战略合作伙伴关系 |
-| [personal-productivity](skills/personal-productivity/) | 帮助用户管理时间和任务 |
-| [planning-under-uncertainty](skills/planning-under-uncertainty/) | 帮助用户在结果不可预测时进行规划 |
-| [platform-infrastructure](skills/platform-infrastructure/) | 帮助用户构建并扩展内部平台 |
-| [platform-strategy](skills/platform-strategy/) | 帮助用户设计平台业务策略 |
-| [positioning-messaging](skills/positioning-messaging/) | 帮助用户打造产品定位和信息传达 |
-| [post-mortems-retrospectives](skills/post-mortems-retrospectives/) | 帮助用户开展有效的 post-mortems 和 retrospectives |
-| [pricing-strategy](skills/pricing-strategy/) | 帮助用户设计并优化定价策略 |
-| [prioritizing-roadmap](skills/prioritizing-roadmap/) | 帮助用户确定产品 roadmap 优先级 |
-| [problem-definition](skills/problem-definition/) | 帮助用户先清晰定义问题，再进入方案 |
-| [product-led-sales](skills/product-led-sales/) | 帮助用户落地 product-led sales motion |
-| [product-operations](skills/product-operations/) | 帮助用户搭建并扩展 product operations |
-| [product-taste-intuition](skills/product-taste-intuition/) | 帮助用户培养产品品味和直觉 |
-| [retention-engagement](skills/retention-engagement/) | 帮助用户提升留存和参与度指标 |
-| [running-decision-processes](skills/running-decision-processes/) | 帮助用户运行有效的决策流程 |
-| [running-design-reviews](skills/running-design-reviews/) | 帮助用户开展有效的 design review |
-| [running-effective-1-1s](skills/running-effective-1-1s/) | 帮助用户开展有效的一对一会议 |
-| [running-effective-meetings](skills/running-effective-meetings/) | 帮助用户开更有效的会议 |
-| [running-offsites](skills/running-offsites/) | 帮助用户规划并运行有效的团队 offsite |
-| [sales-compensation](skills/sales-compensation/) | 帮助用户设计销售薪酬方案 |
-| [sales-qualification](skills/sales-qualification/) | 帮助用户有效识别和筛选销售线索 |
-| [scoping-cutting](skills/scoping-cutting/) | 帮助用户界定项目范围并裁剪功能 |
-| [setting-okrs-goals](skills/setting-okrs-goals/) | 帮助用户设定有效 OKRs 和目标 |
-| [shipping-products](skills/shipping-products/) | 帮助用户以更高质量更快交付产品 |
-| [stakeholder-alignment](skills/stakeholder-alignment/) | 帮助用户对齐干系人并获得认同与支持 |
-| [startup-ideation](skills/startup-ideation/) | 帮助用户生成并评估创业想法 |
-| [startup-pivoting](skills/startup-pivoting/) | 帮助用户判断何时以及如何 pivot |
-| [systems-thinking](skills/systems-thinking/) | 帮助用户进行系统思考并理解动态关系 |
-| [team-rituals](skills/team-rituals/) | 帮助用户设计有效的团队 ritual |
-| [technical-roadmaps](skills/technical-roadmaps/) | 帮助用户创建技术 roadmap |
-| [usability-testing](skills/usability-testing/) | 帮助用户开展有效的可用性测试 |
-| [user-onboarding](skills/user-onboarding/) | 帮助用户设计有效的产品 onboarding |
-| [vibe-coding](skills/vibe-coding/) | 帮助用户使用 AI coding tools 构建软件 |
-| [working-backwards](skills/working-backwards/) | 帮助用户应用 working backwards 方法论 |
-| [writing-job-descriptions](skills/writing-job-descriptions/) | 帮助用户撰写有效的 job description |
-| [writing-north-star-metrics](skills/writing-north-star-metrics/) | 帮助用户定义 North Star metric |
-| [writing-prds](skills/writing-prds/) | 帮助用户撰写有效 PRD |
-| [writing-specs-designs](skills/writing-specs-designs/) | 帮助用户撰写有效 spec 和 design document |
-| [written-communication](skills/written-communication/) | 帮助用户更有效地进行书面沟通 |
+Skills 是为 AI 代理提供专业知识和工作流程的 Markdown 文件。将它们添加到项目后，当你处理匹配的任务时，Claude Code（或任何读取 `SKILL.md` 的代理）会应用相应框架。
 
 ## 安装
 
-### 选项 1：CLI 安装（推荐）
-
-使用 [npx skills](https://github.com/vercel-labs/skills) 直接安装 skills：
-
-```bash
-# Install all skills
-npx skills add oldwinter/lenny-skills
-
-# Install specific skills
-npx skills add oldwinter/lenny-skills --skill evaluating-candidates writing-prds
-
-# List available skills
-npx skills add oldwinter/lenny-skills --list
-```
-
-该命令会自动安装到你的 `.claude/skills/` 目录。
-
-### 选项 2：Clone 并复制
-
-Clone 仓库，并把 skills 复制到你的项目：
+将任何skill文件夹复制到项目的 `.claude/skills/` 目录中：
 
 ```bash
 git clone https://github.com/oldwinter/lenny-skills.git
-cp -r lenny-skills/skills/* .claude/skills/
+cp -R lenny-skills/skills/writing-prds .claude/skills/
 ```
 
-### 选项 3：Git Submodule
+或者通过 [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/) 上的下载链接获取个人skill。
 
-将本仓库作为 submodule 添加，便于后续更新：
+## Skills
 
-```bash
-git submodule add https://github.com/oldwinter/lenny-skills.git .claude/lenny-skills
-```
+### 战略与定位
 
-然后从 `.claude/lenny-skills/skills/` 引用 skills。
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [定义产品策略](skills/defining-product-strategy/) | 通过做出推动客户行为的艰难选择，将愿景转化为具体的行动计划。 | 47 |
+| [创建产品愿景](skills/product-vision/) | 设计一个理想的未来状态，激励团队并指导战略决策。 | 22 |
+| [战略产品定位](skills/positioning/) | 定义使您的产品的独特价值显而易见且不可否认的背景 | 28 |
+| [定价策略与优化](skills/pricing-strategy/) | 设计并迭代能够体现产品真正价值的定价模型。 | 21 |
+| [北极星指标](skills/north-star-metrics/) | 围绕单一、可量化的客户价值和业务成功衡量标准调整您的团队和战略。 | 15 |
+| [衡量产品市场契合度](skills/measuring-pmf/) | 从推销你的产品转变为感受市场把它从你身上拉出来。 | 21 |
+| [竞争策略](skills/competitive-strategy/) | 通过确定结构性力量和以客户为中心的差异化，建立持久的护城河并智胜竞争对手。 | 24 |
+| [从失败中恢复](skills/recovering-from-failure/) | 将产品挫折和停滞的增长转化为战略突破和转型机会。 | 20 |
 
-### 选项 4：Fork 并定制
+### 规划和优先顺序
 
-1. Fork 本仓库
-2. 根据你的具体需求定制 skills
-3. 将你的 fork clone 到项目中
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [路线图优先级](skills/roadmap-prioritization/) | 根据证据和需求，将混乱的积压工作转变为高投资回报率的战略计划。 | 43 |
+| [目标设定和 OKR](skills/goal-setting-okrs/) | 通过将长期战略转化为雄心勃勃的可衡量成果来推动组织重点。 | 19 |
+| [规划节奏优化](skills/planning-cadence/) | 通过结构化、分层的规划程序，使长期战略与短期执行保持一致。 | 13 |
+| [高风险决策](skills/high-stakes-decisions/) | 以速度和结构清晰的方式应对不可逆转的选择和极端的不确定性。 | 30 |
+| [评估权衡](skills/evaluating-trade-offs/) | 掌握权衡竞争选项的艺术，以最大限度地提高长期影响和团队速度。 | 14 |
 
-## 使用方式
+### 发现与研究
 
-安装完成后，直接让 Claude Code 帮你处理产品任务：
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [掌握客户访谈](skills/customer-interviews/) | 揭示深层用户痛点和行为触发因素，以构建人们真正需要的产品。 | 11 |
+| [持续产品发现](skills/continuous-discovery/) | 将客户反馈从定期琐事转变为产品决策的高频引擎。 | 23 |
+| [想法验证](skills/idea-validation/) | 从意见转向基于证据的开发，停止构建人们不想要的东西。 | 34 |
+| [卓越的产品实验](skills/product-experiments/) | 通过严格的 A/B 测试和数据驱动的学习，推动可衡量的增长并降低风险。 | 9 |
+| [定义您的ICP](skills/defining-icp/) | 缩小您的关注范围，赢得市场滩头阵地并建立不可否认的势头。 | 15 |
+| [分析用户反馈](skills/analyzing-user-feedback/) | 通过扩展同理心和综合，将原始信号转化为可行的见解。 | 19 |
+| [产品品味和直觉](skills/product-taste/) | 开发可靠的内部指南针来识别和打造世界一流的产品。 | 36 |
 
-```
-"Help me evaluate this PM candidate"
--> 使用 evaluating-candidates skill
+### 构建与交付
 
-"I need to write a PRD for our new feature"
--> 使用 writing-prds skill
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [编写PRD](skills/writing-prds/) | 定义明确的问题和有限的解决方案，以最大限度地提高团队速度和创造性产出。 | 14 |
+| [交付速度](skills/shipping-velocity/) | 通过消除组织摩擦和建立高强度的交付文化来加速执行。 | 19 |
+| [AI 辅助原型设计](skills/ai-assisted-prototyping/) | 使用自然语言和 AI 工具将抽象的产品概念转化为可运行的交互式软件。 | 15 |
+| [使用 AI 代理进行构建](skills/building-with-ai-agents/) | 从编写代码行过渡到指导并行的自主代理团队。 | 15 |
+| [产品堆栈策略](skills/product-tool-stack/) | 通过平衡既定标准与 AI 原生速度来构建高性能产品工具包。 | 6 |
+| [工程健康和生产力](skills/engineering-health/) | 通过平衡技术卓越与战略开发人员投资来保持高交付速度。 | 18 |
 
-"How do I get stakeholder buy-in for this project?"
--> 使用 stakeholder-alignment skill
+### 发布和上市
 
-"We're not shipping fast enough"
--> 使用 shipping-products skill
-```
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [产品发布计划](skills/launch-planning/) | 通过将产品更新转化为引人注目的市场活动来建立动力并推动采用。 | 18 |
+| [PLG 销售集成](skills/plg-sales-integration/) | 弥合自助服务采用和企业交易之间的差距，以最大限度地提高收入。 | 13 |
+| [掌握企业销售动作](skills/enterprise-sales-motion/) | 从创始人主导的销售转变为可重复、可扩展的企业引擎。 | 16 |
+| [获取第一批B2B客户](skills/first-b2b-customers/) | 通过手动操作和高度信任的关系，从零过渡到前十名付费客户。 | 7 |
+| [营销组织和堆栈](skills/marketing-org-and-stack/) | 通过将专业人才与可扩展的数据基础设施结合起来，构建高性能的营销组织。 | 11 |
+| [掌握公关和媒体](skills/pr-and-press/) | 将媒体报道变成可信度、增长和品牌权威的战略引擎。 | 9 |
+| [命名和品牌](skills/naming-and-branding/) | 建立独特的身份，作为永久的竞争武器和情感锚。 | 11 |
 
-你也可以直接调用 skills：
+### 增长和保留
 
-```
-/evaluating-candidates
-/writing-prds
-/stakeholder-alignment
-```
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [构建可持续增长模型](skills/growth-model/) | 超越线性漏斗，构建复合循环，推动可扩展的长期产品增长。 | 30 |
+| [获取渠道策略](skills/acquisition-channels/) | 识别、测试和扩展推动可持续增长的分销引擎。 | 25 |
+| [用户入门和激活](skills/user-onboarding-activation/) | 弥合初始注册和实现价值之间的差距，以最大限度地提高长期保留率。 | 25 |
+| [掌握留存率和参与度](skills/retention-engagement/) | 通过将产品嵌入工作流程并创造复合用户价值来实现可持续增长。 | 17 |
+| [推荐和口碑](skills/referrals-word-of-mouth/) | 通过有机宣传和结构化推荐循环，将用户满意度转变为高杠杆增长引擎。 | 13 |
+| [SEO增长策略](skills/seo-strategy/) | 使用编程数据和系统实验将有机搜索转变为可扩展的获取引擎。 | 9 |
+| [增长实验速度](skills/growth-experimentation/) | 打造高产出引擎，将小额胜利转化为大规模增长。 | 10 |
+| [国际市场拓展](skills/international-expansion/) | 通过平衡本地同理心与运营手册，在全球范围内扩展您的产品。 | 8 |
 
-## Skill 分类
+### 团队与组织
 
-### 招聘与团队建设
-- `evaluating-candidates` - 做出更好的招聘决策
-- `conducting-interviews` - 开展有效面试
-- `writing-job-descriptions` - 撰写有吸引力的招聘 JD
-- `onboarding-new-hires` - onboarding 新团队成员
-- `building-team-culture` - 建立强团队文化
-- `coaching-pms` - 培养并辅导 PM
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [聘请世界一流的产品人才](skills/hiring-product-talent/) | 通过寻找、评估和关闭最优秀的 1% 人才，建立一个高杠杆率的产品组织。 | 30 |
+| [面试和评估候选人](skills/interviewing-evaluating-candidates/) | 超越简历来评估高保真信号，如代理、第一性原理思维和实际工艺。 | 48 |
+| [产品和工程的组织设计](skills/org-design/) | 构建您的团队，以最大限度地提高自主性、速度和战略一致性。 | 60 |
+| [建立增长团队](skills/building-growth-team/) | 组建和组建一支高影响力的团队，以扩大分销规模并优化用户旅程。 | 14 |
+| [创始人高管团队建设](skills/founding-exec-team/) | 设计和扩展核心领导层，推动公司从零增长到一。 | 15 |
+| [辅导和人才发展](skills/coaching-development/) | 从问题解决者转变为成长加速器，打造一支高绩效团队。 | 34 |
+| [建立高绩效团队文化](skills/team-culture/) | 建立一种主人翁精神、透明度和强度的文化，以推动产品的长期成功。 | 53 |
+| [提供有效反馈](skills/giving-feedback/) | 将困难的对话转化为增长和高绩效的催化剂。 | 30 |
+| [修复表现不佳的团队](skills/fixing-underperforming-teams/) | 诊断功能障碍的根本原因，并采取果断行动以恢复高性能。 | 12 |
+| [领导组织变革](skills/leading-org-change/) | 在不中断业务的情况下改变文化、结构和运营。 | 58 |
 
-### 用户研究与 Discovery
-- `conducting-user-interviews` - 进行更好的 discovery 对话
-- `analyzing-user-feedback` - 综合分析客户反馈
-- `usability-testing` - 开展有效可用性测试
-- `designing-surveys` - 设计有效问卷
-- `measuring-product-market-fit` - 评估并实现 PMF
+### 运营节奏与沟通
 
-### 战略与规划
-- `defining-product-vision` - 创建有感染力的愿景
-- `prioritizing-roadmap` - 有效确定优先级
-- `setting-okrs-goals` - 设定有效 OKRs
-- `writing-prds` - 撰写有效 PRD
-- `working-backwards` - 应用 Amazon 的方法论
-- `problem-definition` - 清晰定义问题
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [有效的产品评论](skills/product-reviews/) | 举办严格的协调会议，提高质量标准并加快决策制定。 | 12 |
+| [高管沟通](skills/executive-communication/) | 掌握框架、透明度和决策沟通的艺术，以建立与领导层的信任。 | 9 |
+| [为领导者进行向上管理](skills/managing-up/) | 将您与领导层的关系从汇报关系转变为高度信任的战略伙伴关系。 | 21 |
+| [召开有效的会议](skills/running-meetings/) | 将日历从令人心碎的时间沉没变成高速对准机器。 | 12 |
+| [领导者书面沟通](skills/written-communication/) | 通过结构化、清晰且有说服力的写作来扩大您的影响力并推动一致。 | 12 |
+| [干系人对齐](skills/stakeholder-alignment/) | 通过梳理激励机制并共同设计方案，推动跨职能协作。 | 57 |
 
-### 交付与执行
-- `shipping-products` - 以更高质量更快交付
-- `managing-timelines` - 设定并达成 deadline
-- `scoping-cutting` - 界定范围并裁剪功能
-- `managing-tech-debt` - 战略性管理 technical debt
-- `post-mortems-retrospectives` - 运行有效复盘
+### 剧本：市场
 
-### 领导力与对齐
-- `stakeholder-alignment` - 获得认同与支持
-- `managing-up` - 与上级高效合作
-- `having-difficult-conversations` - 处理艰难反馈
-- `running-effective-meetings` - 开更好的会议
-- `running-effective-1-1s` - 开好 1:1
-- `giving-presentations` - 做有说服力的演示
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [市场基础知识](skills/marketplace-fundamentals/) | 建立、引导和扩展买家和卖家的自我维持生态系统。 | 7 |
+| [供需平衡](skills/supply-demand-balance/) | 通过识别瓶颈并战略性地扩展市场的困难部分来掌握市场流动性。 | 6 |
+| [市场流动性与抽成率](skills/marketplace-liquidity-take-rates/) | 优化交易可靠性和商业化之间的平衡，构建有竞争壁垒的生态系统。 | 6 |
 
-### 增长与商业化
-- `designing-growth-loops` - 设计 growth loops
-- `retention-engagement` - 提升留存
-- `pricing-strategy` - 设计定价
-- `user-onboarding` - 设计产品 onboarding
+### 手册：构建 AI 产品
 
-### 销售与 Go-to-Market
-- `founder-sales` - 拿下第一批客户
-- `enterprise-sales` - 推进 enterprise deals
-- `launch-marketing` - 规划产品发布
-- `positioning-messaging` - 打磨定位
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [AI产品策略](skills/ai-product-strategy/) | 优先考虑高影响力的工作流程并引导非确定性开发，以构建防御性的 AI 产品。 | 34 |
+| [AI评估策略](skills/ai-evals/) | 超越氛围检查，转向对 AI 产品质量和可靠性进行系统、实证的测量。 | 11 |
+| [设计AI-原生用户体验](skills/ai-native-ux/) | 从静态界面过渡到利用模型智能的流畅、意图驱动的交互。 | 14 |
 
-### 职业发展
-- `building-a-promotion-case` - 获得晋升
-- `career-transitions` - 应对职业变化
-- `finding-mentors-sponsors` - 建立 mentor 关系
-- `managing-imposter-syndrome` - 处理自我怀疑
-- `negotiating-offers` - 谈判薪酬
+### 剧本：从零到一
 
-### AI 与技术
-- `building-with-llms` - 构建 AI 应用
-- `ai-product-strategy` - 定义 AI strategy
-- `ai-evals` - 创建 AI evals
-- `vibe-coding` - 使用 AI coding tools 构建
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [评估创业想法](skills/evaluating-startup-ideas/) | 在构建之前系统地验证问题解决方案的适合性、市场时机和业务可行性。 | 28 |
+| [初创公司筹款和退出](skills/fundraising/) | 掌握筹集资金、管理投资者关系和战略收购的艺术。 | 16 |
+| [创始人主导的销售](skills/founder-sales/) | 掌握亲自销售产品的艺术，以建立信任并找到产品与市场的契合点。 | 6 |
 
-## Contributing
+### 操作手册：企业与 PLG
 
-发现某个 skill 可以改进？想建议新增 skill？欢迎提交 PR 和 issue！
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [PLG 基础知识](skills/plg-fundamentals/) | 将您的产品转变为分发、激活和扩展的主要引擎。 | 9 |
 
-### 新增 Skill
+### 职业生涯
 
-1. 在 `skills/` 下创建以 skill 名命名的文件夹（kebab-case）
-2. 添加包含 frontmatter 和正文内容的 `SKILL.md`
-3. 可选：添加包含来源材料的 `references/` 文件夹
-4. 更新 README skill 表格
-5. 提交 PR
+| skill | 它可以帮助你做什么 | 来源 |
+|---|---|---|
+| [闯入产品管理](skills/breaking-into-product/) | 战略性地引导您进入第一个产品管理职位的竞争道路。 | 11 |
+| [PM 职业发展](skills/pm-career-growth/) | 通过掌握影响力、所有权和战略远见，从任务执行者转变为高影响力的产品领导者。 | 99 |
+| [职业转型](skills/career-transitions/) | 通过优化高增长环境和内部能量来超越默认路径。 | 56 |
+| [准备晋升案例](skills/building-a-promotion-case/) | 将职业影响力转化为有说服力、有数据支撑的论据，为下一步职业发展提供依据。 | 6 |
+| [科技行业薪酬谈判](skills/negotiating-compensation/) | 掌握市场基准、信息收集和协作谈判方法，争取更合理的整体回报。 | 1 |
+| [个人品牌网络](skills/personal-brand-network/) | 将您的专业知识转化为磁性网络和高亲和力的受众。 | 21 |
+| [掌握公开演讲](skills/public-speaking/) | 将您的技术专业知识转化为令人信服的叙述，以掌握权威并推动行动。 | 12 |
+| [时间和精力管理](skills/time-energy-management/) | 将时间和精力视为战略资产，保护您的注意力并提高绩效。 | 46 |
+| [创始人心理学和复原力](skills/founder-psychology/) | 掌握内部环境以维持高绩效并驾驭领导力的情绪过山车。 | 38 |
 
-### 改进已有 Skills
+## 归因
 
-- 修复错误或过时信息
-- 补充缺失的框架或洞察
-- 提升可执行性和具体度
-- 增加更好的诊断问题
+所有见解、引用、框架和模板均源自 Lenny Rachitsky 的播客和时事通讯，并且仍然是他和他的客人的知识产权。每个skill都链接回源剧集和帖子。如果您发现这些有用，请[订阅Lenny's Newsletter](https://www.lennysnewsletter.com/subscribe)。
 
-预期格式请参考各个 skill 文件。
+## 贡献
 
-## 关于
+找到提高skill的方法了吗？打开 PR。请保留报价的逐字内容和来源。
 
-这些 skills 通过分析 [Lenny's Podcast](https://www.lennyspodcast.com/) 100+ 期节目创建，并从嘉宾分享中提取可执行框架。嘉宾包括：
+## 许可证
 
-- Shreyas Doshi (Twitter, Stripe)
-- Marty Cagan (Silicon Valley Product Group)
-- Elena Verna (Amplitude, Miro)
-- Christina Wodtke (Stanford)
-- Dylan Field (Figma)
-- 以及 90+ 位产品领导者
-
-由 [Refound AI](https://refound.ai) 构建，帮助公司用 AI 完成转型。
-
-## Star History
-
-如果你觉得有用，请 star 这个 repo，帮助更多人发现它！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=RefoundAI/lenny-skills&type=Date)](https://star-history.com/#RefoundAI/lenny-skills&Date)
-
-## License
-
-[MIT](LICENSE) - 可按你的需要使用这些内容。
+MIT 用于skill文件的结构和组织。底层内容属于 Lenny Rachitsky 和播客嘉宾；与归因一起使用，免费且不受限制。

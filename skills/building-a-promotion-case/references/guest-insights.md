@@ -1,312 +1,205 @@
-# Building a Promotion Case - 所有嘉宾洞察
+> **中文阅读说明：** 本文件保留经来源核验的英文引文与出处，避免改写原意。对应的中文工作流、原则与提问方式见 `../SKILL.md`；引用时请保留英文原文，分析与行动建议使用中文。
 
-*17 位嘉宾，22 次提及*
+# Building a Promotion Case - All Guest Insights
+
+*6 sources, 16 insights*
 
 ---
 
 ## Christian Idiodi
-*Christian Idiodi*
 
-> "I am promoting you to do the job, not to learn the job. You're going to work with me over the next couple of months to do those things because I am promoting you to do the job, not to learn the job."
+**Insight:** The most effective way to earn a promotion into leadership is to demonstrate competency by performing the responsibilities of the next role before you officially have the title.
 
-**洞察：** Promotions 应该是对已经在 next level 完成工作的 recognition，而不是开始学习该 level skills 的机会。
+**Tactical advice:**
+- Identify the specific competencies required for the next level and begin practicing them in your current role.
+- Seek permission from your manager to take on higher-level strategic responsibilities as a form of training.
+- Build cross-functional relationships that extend your influence beyond your immediate product team.
 
-**战术建议：**
-- 在真正拥有 title 前，先练习 'VP things' 或 'Director things'。
-- Managers 应为 reports 创造 safe environment，让他们在 official promotion 前练习 leadership tasks（如 interviewing 或 strategy）。
-- 使用 'Group Product Manager' roles，让 individual contributors 在拥有完整 team 前，先用一个 report 测试 management。
-
-*时间戳：01:07:17*
-
-
-## Chris Hutchins
-*Chris Hutchins*
-
-> "the people that I've had work for me or I've worked alongside that seem to always be the outperformers, are always the people that are just solely focused on having the most impact on the company. I think the thing I learned... is when you focus too much at a company about like, 'Ooh, I want the promotion' you get caught up in this world where you're like, 'If I want the promotion, I need to do what my boss wants.'"
-
-**洞察：** 相比 pleasing a manager，优先 company impact 是通向 high performance 和 advancement 最可靠的路径。
-
-**战术建议：**
-- 将 impact 作为 success 的 primary metric
-- 避免只基于 manager 的 immediate preferences 来 optimize work
-
-*时间戳：00:18:55*
-
-
-## Claire Vo
-*Claire Vo*
-
-> "know what you want out of your career, be clear and ask for it, and then make it easy for your boss or whoever can support or champion you to get you from here to there."
-
-**洞察：** Career advancement 需要清晰 goals，并通过解决 organizational problems，让 promotion 成为 leadership 的 easy decision。
-
-**战术建议：**
-- 精确定义你希望 next role 是什么
-- 将 promotion case 与解决 specific company problem 对齐
-- 理解 organization 的 talent calendar 和 promotion cycles
-
-*时间戳：00:06:08*
+*Source: [The essence of product management | Christian Idiodi (SVPG)](https://www.youtube.com/watch?v=SXYc5RoU3Lg) @ 01:04:31*
 
 ---
-
-> "I think the second thing is really the conversation needs to be about what you being in a different position does for the company and why the company needs it. Often the conversation is, 'I want to be promoted because I want to be a director of PM, because I want to become a manager, because I need direct reports.' Instead of saying, 'Look, your span of control, you have nine direct reports, you need leverage here.'"
-
-**洞察：** 将 promotion requests framed as organizational bottlenecks 的 solutions，而不是 personal career milestones。
-
-**战术建议：**
-- 识别 manager 在哪里需要 leverage，并提出能提供 leverage 的 role
-- 在申请 management roles 前，证明你擅长 organization design
-
-*时间戳：00:11:00*
-
-
-## Ethan Evans
-*Ethan Evans 2.0*
-
-> "The basic idea of The Magic Loop is five steps and they're very easy. The first one is you have to be doing your current job well... Then step two is ask your boss how you can help... Step three is whatever they say, do it... the fourth step is where the magic comes in. You go back to your manager and say, 'Hey, I'm really enjoying working with you. I'm wondering is there some way I could help you that would also help me reach my goal?'"
-
-**洞察：** The Magic Loop 是一个 five-step partnership framework，旨在让你的 work 与 manager's needs 对齐，从而获得 promotions 和 career growth。
-
-**战术建议：**
-- 在要求更多前，确保自己已经有 solid level 的表现
-- 主动问 manager：'What can I do to help you?'
-- 执行 manager 的 requests，即使它们是 maintenance tasks，用来 build trust
-- 明确说明你的 career goals（promotion、raise 或 skill），并请求能 bridge 你的 goal 与对方 needs 的 work
-- 重复这个 loop，维持 continuous growth trajectory
-
-*时间戳：00:05:40*
-
----
-
-> "The difference between a senior manager and a director is how you lead and the work you're doing. And you can get as far as senior manager by being really strong in your function and being really good at getting things done. As a director, and as a VP beyond that, it becomes much more about influence, coordination with others, and letting go of being in all the details yourself."
-
-**洞察：** 晋升到 executive levels 需要从 functional execution 转向 strategic influence 和 delegation。
-
-**战术建议：**
-- 在拥有 title 前，练习 strategic project leadership 等 'next level' skills
-- 聚焦 influence 和 cross-functional coordination，而不只是 functional depth
-- 放下参与每个 detail 的冲动，展示 executive readiness
-
-*时间戳：00:24:29*
-
-
-## Ian McAllister
-*Ian McAllister*
-
-> "If you simply wake up every day trying to have the biggest impact you can... that's a really good guiding light. And I remember in my first 10 years at Amazon... I never talked to my manager about it and I wasn't bringing it up. I was just focused on taking my book of business and making it bigger. And then the net result was I was promoted several times."
-
-**洞察：** 专注 business impact，而不是 promotion process 本身，往往是 advancement 最有效的路径。
-
-**战术建议：**
-- 专注扩大你的 'book of business'，而不是讨论 promotion
-- 将 impact 作为 career growth 的 primary indicator 来 optimize
-
-*时间戳：00:26:38*
-
 
 ## Jackie Bavaro
-*Jackie Bavaro*
 
-> "Have a conversation with your manager and say, 'I would really like at some point in the future to grow into whatever this goal is... What do you suggest that I work on now so that I'll be ready when the opportunity comes up?'... I'm framing it in the future so that it's not threatening. It's not like going to put my manager on the defensive... And then it brings them onto your side."
+**Insight:** Approach career growth conversations as a collaborative problem-solving exercise rather than a series of demands to keep your manager from becoming defensive.
 
-**洞察：** 将 promotion goals framed as future-dated growth opportunities，会让 managers 成为 allies，而不是 gatekeepers。
+**Tactical advice:**
+- Identify the specific gaps between your current performance and the requirements for the next level.
+- Ask your manager for concrete milestones or projects that would demonstrate readiness for promotion.
+- Use coaching to address specific interpersonal or tactical hurdles that might be blocking your progression.
 
-**战术建议：**
-- 询问：'What do you suggest I work on now so I'll be ready when the opportunity comes up?'
-- 将 feedback requests 具体聚焦在 next level 所需 skills 上
-
-*时间戳：36:41*
-
-
-## Jeffrey Pfeffer
-*Jeffrey Pfeffer*
-
-> "The reason why you should pay attention to this is because it leads to a lot of good things, salary, getting promoted, being happy in your career, being less stressed."
-
-**洞察：** Political 和 power skills 与 salary increases、promotions 等 tangible career outcomes 直接相关。
-
-**战术建议：**
-- 掌握 political skills，提高 advancement 和 higher compensation 的机会。
-
-*时间戳：00:00:02*
+*Source: Jackie Bavaro on getting better at product strategy, what exactly is strategy, PM pitfalls to avoid, advancing your career, getting into management, and much more @ 36:41*
 
 ---
-
-> "There are many ways to get promoted, but I will guarantee you one thing, no one is going to promote Lenny if they don't know who the hell you are. So it is not sufficient for them to know who you are. They have to know that you're smart and personable and have whatever skills you've got, but they have to know you."
-
-**洞察：** Organization 内部的 visibility 和 brand recognition 是 promotion 的 prerequisites；competence alone 不够。
-
-**战术建议：**
-- 让自己 differentiated，使 decision-makers 知道你的存在和 specific skills。
-- 确保你的 visibility 与 substance 匹配。
-
-*时间戳：00:16:52*
-
-
-## Jiaona Zhang
-*Jiaona Zhang*
-
-> "I think it's really important to become really good at and also known for something. You could be known for shepherding like the most complex launches because you're just so good at quarterbacking. Working with go-to--market teams and cross-functional stakeholders that could be like your thing. You could be known for working on the most technically complex problems, find something that you can be really, really good at. And the reason I give that advice is because when you do that, you can crush the projects that you get because you're making a name for yourself, reputation, and then you are giving more responsibility. People tend to flock and give responsibility to the people that are known for being excellent at something."
-
-**洞察：** 通过发展 'superpower' 或 specific type of excellence 的 reputation 加速 career，这会自然吸引更多 responsibility 和 leadership trust。
-
-**战术建议：**
-- 识别一个 specific niche 并做到 excellent（例如 complex launches、technical depth 或 regulatory complexity）
-- 建立 'getting shit done' 的 reputation，赢得更多 responsibility
-- 从 IC 转向 management 时，发挥你的 core strengths
-
-*时间戳：00:00:00*
-
 
 ## Julie Zhuo
-*Julie Zhuo*
 
-> "A lot of these things you don't need to have the official title to do. You can do a lot of it in that capacity as an IC... If you're a part of a company that's growing and has a summer internship program, awesome. Can you go in and sign up and mentor and intern and manage an intern."
+**Insight:** To move into management, seek out scaling environments and proactively volunteer for responsibilities that fall outside your current expertise.
 
-**洞察：** 作为 individual contributor 执行 'manager-lite' tasks 来证明 competency，从而构建 management promotion case。
+**Tactical advice:**
+- Join a rapidly growing company where leadership opportunities are created by the need for scale.
+- Raise your hand to volunteer for new challenges, even if you do not feel fully prepared or trained.
+- Approach unfamiliar leadership tasks with curiosity and a willingness to learn through direct experience.
 
-**战术建议：**
-- Volunteer 成为 new hires 的 onboarding buddy
-- 主动要求 lead specific processes，例如 restructuring a team meeting
-- 在拥有 direct reports 前，mentor interns 来练习 people management skills
+*Source: [Julie Zhuo on accelerating your career, impostor syndrome, writing, building product sense, using intuition vs. data, hiring designers, and moving into management](https://www.youtube.com/watch?v=YLsxHa1dhSw) @ 00:57:50*
 
-*时间戳：00:59:19*
+---
 
+## Lenny Rachitsky
 
-## Laura Schaffer
-*Laura Schaffer*
+**Insight:** Business impact is the primary driver for PM promotion, but long-term success requires balancing that impact with the ability to manage and align external stakeholders.
 
-> "The problem with it is that you're limited to what your manager's ability is to advocate for you, to promote you. And you're also limited by the explicit trajectory of your role at that company and where the there's room for that or not at the company... The method that I use tries to take that power back a little bit."
+**Tactical advice:**
+- Focus on demonstrating significant business impact as your primary path to promotion.
+- Invest time in keeping external stakeholders aligned and onboard rather than just operating as an independent 'mini-CEO.'
+- Research your specific company's promotion levers, as some prioritize shipping great products while others focus on hitting specific goals.
 
-**洞察：** 只依赖 manager's advocacy 来 promotion 很有风险；你必须主动 build 自己的 internal brand 和 trajectory。
+*Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
-**战术建议：**
-- Stay close to customer，获得 executives 缺少的 unique insights
-- 通过与 North Star metrics 对齐，让 insights 活起来
-- 建立一个 'just knows' customers 的个人 brand，创造 cross-team opportunities
+---
 
-*时间戳：00:06:52*
+**Insight:** Securing a promotion requires a combination of consistent high performance and a proactive strategy across impact, scope, and relationships.
 
+**Tactical advice:**
+- Focus on delivering impact by hitting ambitious goals that map directly to business growth.
+- Demonstrate readiness by proactively taking on the scope and responsibilities of the next level.
+- Identify an influential champion within the organization who will advocate for you during the calibration process.
 
-## Manik Gupta
-*Manik Gupta*
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
 
-> "I'm a big fan of looking at both the what and the how. So what did they accomplish and how did they accomplish... On the what... it's really about real demonstrated impact. An ideal example is someone who had a strong product hypothesis, they rallied a bunch of people around them... On the how, I just love people who are able to create both energy and create clarity... Then the last thing I would say is followership. Really important for PMs. Do people want to work with them?"
+---
 
-**洞察：** Promotion readiness 通过 objective impact、创造 organizational clarity 的能力，以及 'followership'（他人愿意与此人共事的程度）综合评估。
+> "The best way to get promoted into any role, including a PM manager, is to make it obvious you’d do a great job in that new role. This involves a combination of doing the job before you have the job, demonstrating that you have the necessary skills, and simply asking for it."
 
-**战术建议：**
-- 展示从 hypothesis 到 measurable impact 的 end-to-end product cycle。
-- 聚焦成为 cross-functional team 的 clarity 和 energy 来源。
+**Insight:** Securing a promotion to management requires a proactive strategy of performing management-level duties and explicitly communicating your career ambitions to leadership.
 
-*时间戳：00:45:01*
+**Tactical advice:**
+- Mentor two or three junior PMs to demonstrate your ability to develop people.
+- Simplify overly-complex strategy documents for others to show you can handle complexity.
+- Bring up your interest in management during every performance review and career conversation.
 
+*Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
 
-## Matt LeMay
-*Matt LeMay*
+---
 
-> "I have a friend who does resume coaching, and I showed her my resume a couple of years ago. And she said, 'I love your resume except for one thing. Why do you write like a little girl? Say what you did, say what your contributions were. Don't say 'I helped. I may have maybe helped people do this'. Say the impact. Put the number on it.'"
+**Insight:** Transitioning from an APM to a PM is achieved by intentionally raising your performance bar and expanding your toolkit with new, advanced tactics.
 
-**洞察：** 记录 career achievements 时，用 specific、quantified impact 替代 passive language，展示你对 business 的 value。
+**Tactical advice:**
+- Implement new tactics and frameworks to push beyond basic APM execution.
+- Set a higher personal bar for your work to demonstrate readiness for promotion.
+- Seek out structured workshops to accelerate skill development and fill strategic gaps.
 
-**战术建议：**
-- 避免使用 'helped' 或 'contributed to'，改用 direct impact statements。
-- 用 specific numbers 和 business outcomes 量化 results。
+*Source: [🚨 Applications now open for my live course—Product Management Fundamentals](https://www.lennysnewsletter.com/p/applications-now-open-for-my-live-course-product-management-fundamentals)*
 
-*时间戳：00:10:40*
+---
 
+> "Go open up a new doc and start dumping a list of times you’ve made an impact at your current job. Include metrics, screenshots, timelines, stories—anything that’ll help you tell the story of your successes."
+
+**Insight:** Capturing specific proof of your impact while you still have access to internal data is critical for successfully navigating future interviews.
+
+**Tactical advice:**
+- Start a 'brag document' today while your memory is fresh and you have access to the details.
+- Capture specific metrics, screenshots, and timelines of your successes.
+- Use established templates to organize your impact stories for future resume building.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "Write reviews for your team before you go out on leave (especially for anyone who you want to put up for promotion). Share them with your manager and HR before you go out, and incorporate any feedback."
+
+**Insight:** Preparing for performance review cycles before your leave starts ensures that your team—and your own career trajectory—remains on track.
+
+**Tactical advice:**
+- Complete all performance reviews and promotion cases before your leave begins.
+- Decide if your manager will represent you in calibration meetings or if you want to be available.
+- Align with HR and your manager on how they will communicate review outcomes to your reports.
+
+*Source: [How to create an exceptional coverage plan for your parental leave](https://www.lennysnewsletter.com/p/how-to-create-an-exceptional-coverage-plan-for-your-parental-leave)*
+
+---
+
+> "No matter your role or level, there’s a skill or behavior that is keeping you from the next level. To get promoted, you’ll need to demonstrate that you’ve addressed that gap, in the eyes of both your manager and other influential leaders involved in the promotion process."
+
+**Insight:** Advancing to the next level requires identifying the specific behaviors holding you back and creating a transparent, measurable action plan with your manager.
+
+**Tactical advice:**
+- Push your manager in your next 1:1 to articulate the specific 2-3 skills or behaviors keeping you from the next level.
+- Collaborate on an action plan spreadsheet with 3-10 concrete steps to improve these attributes over the next six months.
+- Schedule a monthly career coaching session to review progress on each action item and stay aligned on your status.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "Explicitly or implicitly, every company prioritizes different skills and behaviors. If you pay attention to who gets promoted, you can start to see what actually matters at your company."
+
+**Insight:** Promotion criteria often extend beyond formal career ladders, requiring you to observe and decode which specific behaviors are actually rewarded in practice at your organization.
+
+**Tactical advice:**
+- Analyze the common skills and impact driven by colleagues who have recently moved up to the level you want.
+- Ask your manager what you should be 'reading between the lines' of the career ladder to understand what really matters to leaders.
+- Interview recently promoted peers to learn about the specific projects and behaviors that contributed to their advancement.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "When was the last time you told your manager you’d love to get promoted? It may seem obvious to you, but they may not know how important this is to you. Bring it up at your next 1:1 and see what happens."
+
+**Insight:** Managers are not mind readers; you must explicitly state your career ambitions to ensure they are factored into planning and organizational calibration.
+
+**Tactical advice:**
+- Explicitly state your desire for a promotion during a 1:1 to ensure it is on your manager's radar.
+- Transition from a simple request to a collaborative discussion about the necessary action plan to get there.
+- Check in periodically to ensure you and your manager remain aligned on your progress and the timeline for advancement.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "People don’t get promoted for doing their jobs really well. They get promoted by demonstrating their potential to do more. At many companies, you get promoted only after you’ve demonstrated you can handle the next level."
+
+**Insight:** The most effective way to prove readiness for promotion is to proactively perform the duties and manage the scope of the target role before you officially have the title.
+
+**Tactical advice:**
+- Volunteer to lead ambitious projects or visioning exercises that exceed the expectations of your current level.
+- Proactively take on specific tasks that your manager currently handles to demonstrate you can operate at a higher level.
+- Mentor junior team members or take the lead on cross-departmental initiatives to show expanded scope.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+**Insight:** Getting promoted depends on providing influential leaders with organized evidence of your impact so they can advocate for you during company calibration sessions.
+
+**Tactical advice:**
+- Maintain a 'wins' folder to track your accomplishments and business impact in real time.
+- Prepare a written case that clearly articulates why your performance aligns with the requirements of the next level.
+- Treat your manager as a partner by consistently providing them with data points to use during calibration meetings.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
 
 ## Nikhyl Singhal
-*Nikhyl Singhal*
 
-> "I think that the biggest one in workplace is focusing career and promotion together. I think that there's perhaps a light connection between promotion and career addition, but I feel like too many people are, the moment we talk about career, they're like, 'Well, let me talk to you. I want to have a career talk with you.' And I said, 'Sure, why don't you find some time?' We sit down together and they're like, 'Well, what do you think I need to do to get to promotion?'"
+**Insight:** Promotion is a company's measurement system, but it should be viewed only as a short-term component of your broader career arc.
 
-**洞察：** Promotion 是 company-specific 的 leveling system，而 career 是 long-term personal arc；不要混淆两者。
+**Tactical advice:**
+- Distinguish between promotion-focused conversations and long-term career planning.
+- Evaluate if a promotion serves your ultimate career goal or is just a short-term benchmark.
+- Avoid leaving a role immediately after a promotion if the move doesn't align with your long-term trajectory.
 
-**战术建议：**
-- 区分 'promotion talks'（short-term leveling）和 'career talks'（long-term growth）
-- 评估 promotion 是否真的服务于你的 'job after next'
-
-*时间戳：00:09:17*
+*Source: [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg) @ 00:25:57*
 
 ---
-
-> "I think that the answer of what you do is correlated with what's the real reason. And I think that there may be, I'll suggest four kind of common things I've seen that really hold people back... One is that you just don't have advocacy... The second that's very common now... is the next role doesn't exist... The third is when you are being impatient... And then the fourth one... is really, there is a development area but it isn't quite connected to the individual."
-
-**洞察：** 无法 get promoted 通常来自四个 areas 之一：lack of advocacy、lack of role availability、personal impatience，或 unaddressed development gaps。
-
-**战术建议：**
-- 识别你是否有一个能 'sees the magic' in your work 的 advocate
-- 评估 organizational structure 在 next level 是否真的有 vacancy
-- 寻求 'ground truth' feedback，识别你可能 dismissing 的 development areas
-
-*时间戳：00:26:25*
-
-
-## Petra Wille
-*Petra Wille*
-
-> "Getting promoted is way harder if you're not good in telling stories and rallying the team behind the shared goal and all these kind of things, and you usually achieve this through good storytelling techniques. And in some teams, I've seen the product person not being really, really good at it, but then the whole team helped creating these stories and stuff like this. So you definitely could compensate to some extent, but I would consider it a bit of a career staller if you don't get to a decent level of storytelling and to a decent level of public speaking."
-
-**洞察：** Storytelling 和 public speaking 是晋升到 leadership roles 并 rallying teams 的 critical competencies。
-
-**战术建议：**
-- 掌握 storytelling techniques，让 teams 围绕 shared goals 聚拢
-- 发展 public speaking skills，避免 career plateaus
-
-*时间戳：00:00:00*
-
 
 ## Shweta Shriva
-*Shweta Shriva*
 
-> "I'm going to say something that might sound a little cheeky, but I think the way to get promoted is to not want it too badly. It is about you have to focus on the impact. It's about having an impact and then doing what is right for the business. So not sort of optimizing things for your promotion... focus on the impact."
+**Insight:** 
 
-**洞察：** Promotions 应被视为 business impact 和 skill development 的 byproduct，而不是 self-optimization 的 primary goal。
-
-**战术建议：**
-- 聚焦为 business 创造 right outcomes，而不是为了 title maneuvering。
-- 提升 core product management skillset，自然 qualify for higher levels。
-- 寻找 challenging、high-visibility projects 来 stretch current skills。
-
-*时间戳：33:28*
-
-
-## Paige Costello
-*Paige Costello*
-
-> "If you're present in your job, and you actually have fun with it and solve the problems, people will come out of the woodwork, say, 'You're great, and tell your boss you should be promoted.' You don't need to ask for a promotion. Your outcomes should speak for themselves."
-
-**洞察：** 最强 promotion case 建立在 high-quality outcomes 和解决能让别人 organically advocate for you 的 problems 上。
-
-**战术建议：**
-- 聚焦解决 high-impact problems，让别人主动 advocate for your advancement。
-- 优先 raw connection to the work and team，而不是 explicit promotion-seeking。
-
-*时间戳：00:48:17*
-
-
-## Tamar Yehoshua
-*Tamar Yehoshua*
-
-> "One of the things that I think is overlooked is do a really good job at whatever your job is at that point. People have a tendency ... Especially product managers are very ambitious and they want to get to the next level and they're always eyeing the next job, but you're not going to get the next job unless you do really well at the job that you're in. Knock it out of the park."
-
-**洞察：** 最有效的 advance 方式，是在 current role 中 achieve excellence，而不是过早关注 next role。
-
-**战术建议：**
-- 掌握 current role 的 'table stakes'：technical knowledge、product understanding 和 metrics。
-
-*时间戳：00:02:47*
+*Source: [Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)](https://www.youtube.com/watch?v=VtNmAjNF3Tc) @ 00:33:05*
 
 ---
-
-> "Are you helping the business move forward? So it's not about I achieve what I was asked to do, but did you build something that people actually used? It's not about just launching something and did you do the right thing for the company? And that is different. It's a different mindset."
-
-**洞察：** Promotion-worthy performance 由 business impact 和 doing the right thing for the company 定义，而不只是完成 assigned tasks。
-
-**战术建议：**
-- 关注你的 work 是否真的被 customers 使用，而不只是 launching 这个动作。
-- 愿意建议 shut down unproductive teams 或 projects，即使你本来负责 lead 它们。
-
-*时间戳：00:10:00*
 

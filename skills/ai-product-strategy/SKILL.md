@@ -1,84 +1,88 @@
 ---
 name: ai-product-strategy
-description: 帮助用户定义 AI 产品策略。Use when someone is building an AI product, deciding where to apply AI in their product, planning an AI roadmap, evaluating build vs buy for AI capabilities, or figuring out how to integrate AI into existing products.
+description: 帮助用户决定在何处有效应用AI，管理从确定性软件到概率性软件的过渡，并通过垂直化和专有数据建立长期防御能力。
 ---
 
-# AI Product Strategy
+# AI产品策略
 
-使用来自 94 位产品领导者和 AI practitioners 的框架，帮助用户围绕 AI 产品做出战略决策。
+优先考虑高影响力的工作流程并引导非确定性开发，以构建防御性的 AI 产品。
+
+利用 26 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户制定AI产品策略。
 
 ## 如何提供帮助
 
-当用户请求 AI product strategy 相关帮助时：
-
-1. **理解上下文** - 询问他们在构建什么、解决什么问题，以及当前处在 AI journey 的哪个阶段
-2. **澄清问题** - 帮助区分 "AI for AI's sake" 和 AI 确实能解决的真实用户问题
-3. **指导架构决策** - 帮助他们思考 build vs buy、model selection 和 human-AI boundaries
-4. **为迭代做规划** - 强调 feedback loops、evals，以及为 model 快速进步而构建
+1. **定义楔子** - 识别AI可以为用户提供不成比例回报的高摩擦杂务。
+2. **选择架构** - 根据实时数据与特定行为的需求，在检索增强生成 (RAG) 和微调之间进行选择。
+3. **安全地扩展自主权** - 设计一种分级的自主方法，让人类在转向完全自动化之前保持在循环中。
+4. **针对曲线构建** - 将产品路线图与未来模型功能相结合，而不是针对当今的限制构建复杂的脚手架。
 
 ## 核心原则
 
-### 从问题开始，而不是从 AI 开始
-Aishwarya Naresh Reganti: "In all the advancements of AI, one slippery slope is to keep thinking about solution complexity and forget the problem you're trying to solve. Start with minimal impact use cases to gain a grip on current capabilities." 不要被方案复杂度牵着走，先确认你到底在解决哪个用户问题。
+### 考虑到不完美输出
+Alex Komoroske: "LLMs allow writing shitty software to be significantly cheaper, not necessarily good software, but good enough in certain contexts. And also it means that there's certain software now that isn't plain old computing that can be run cheaply. It's relatively expensive marginal cost."
 
-### 定义 human-AI boundary
-Adriel Frederick: "When working on algorithmic products, your job is figuring out what the algorithm should be responsible for, what people are responsible for, and the framework for making decisions." 这条边界是核心 PM 决策。
+设计产品体验时假设 AI 是不确定且不完美的，而不是试图强制 UI 具有 100% 的准确性。
 
-### AI 是 magical duct tape
-Alex Komoroske: "LLMs are magical duct tape—distilled intuition of society. They make writing 'good enough' software significantly cheaper but increase marginal inference costs." 理解新的成本结构：AI 降低了构建 "good enough" software 的成本，但提高了边际 inference cost。
+### 将产品视为生命体
+Asha Sharma: "Because these models are so effective at this point, you want to start to tune them to certain types of outcomes. All of a sudden, these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn."
 
-### 为 slope 构建，而不是为 snapshot 构建
-Asha Sharma: "You have to build for the slope instead of the snapshot of where you are." AI capabilities 变化很快；构建灵活架构，让 model 进步时可以替换。
+通过团队在获取数据和改进学习循环方面的新陈代谢而不是静态功能发布来衡量成功。
 
-### 为 squishiness 设计
-Alex Komoroske: "Even at 99% accuracy, if it punches the user in the face 1% of the time, that's not a viable product. Design assuming the AI will be squishy and not fully accurate." 默认 AI 会有不稳定和不完全准确的时候，并据此设计体验。
+### 寻找垂直化的防御力
+Logan Kilpatrick: "We're not going to launch some of these varied verticalized products. We're not going to launch an AI sales agent. That's just not what we're building towards. And companies who are and have some domain specific knowledge and they're really excited about that problem space, they can go into that and leverage our models and end up continuing to be on the cutting edge without having to do all that R&D effort themselves."
 
-### Flywheels 胜过 first-mover advantage
-Aishwarya Naresh Reganti: "It's not about being first to have an agent. It's about building the right flywheels to improve over time." 记录人类动作，创造能让系统持续改进的数据循环。
+通过针对领域专业知识提供结构性优势的特定行业利基，避免与基础模型竞争。
 
-### 未来是 model society，而不是 single model
-Amjad Masad: "Future products will be made of many different models—it's quite a heavy engineering project." 为不同任务使用专门 models，例如 reasoning、speed、coding 等。
+### 孵化特定超能力
+Noah Weiss: "I think in the AI space, we're trying to hear from customers, what do you wish Slack could do if it had these new superpowers? Let's incubate a couple teams or prototype, give them space to run and pilot and then get something to launch that's amazing. Blows people away. That's the formula that we've seen."
 
-### 为每个任务使用合适工具
-Albert Cheng: "We run chess engines for evaluations. LLMs translate that into natural language. Use the right technology for the right task." 在 deterministic algorithms 表现更好的地方，不要强行使用 LLMs。
+通过识别特定的客户需求并为专门的团队提供独立的原型设计空间，避免通用AI功能。
 
-### 人类是瓶颈
-Alexander Embiricos: "The current limiting factor is human typing speed and multitasking on prompts. Build systems that are 'default useful' without constant prompting." 构建无需持续 prompt 也能默认有用的系统。
+### 为模型的未来而打造
+Sherwin Wu V2: "The field and the models themselves are just changing so, so quickly. They tend to disrupt themselves. The models will eat your scaffolding for breakfast."
 
-### 考虑 non-determinism
-Aishwarya Naresh Reganti: "Most people ignore the non-determinism. You don't know how users will behave with natural language, and you don't know how the LLM will respond." 要为用户自然语言行为和 LLM response 的变化性做设计。
+针对 12 到 18 个月内预期的功能进行设计，以避免构建最终被模型本机吸收的自定义脚手架。
 
-### Agents 需要 autonomy + complexity + natural interaction
-Aparna Chennapragada: "Effective agents have (1) increasing autonomy to handle higher-order tasks, (2) ability to handle complex multi-step workflows, and (3) natural, often asynchronous interaction." 判断 agent 机会时，同时看自主性、复杂多步工作流和自然交互。
+### 采用渐进式自治方法
+Aishwarya Naresh Reganti + Kiriti Badam: "You need to be deliberately starting in places where there is minimal impact and more human control so that you have a good grip of what are the current capabilities and what can I do with them and then slowly lean into the more agency and lesser control."
 
-### 重建你的直觉
-Aishwarya Naresh Reganti: "Leaders have to get hands-on—not implementing, but rebuilding intuitions. Be comfortable that your intuitions might not be right." 领导者需要亲自上手，不一定写实现，但要重建判断力；每天留时间保持更新。
+从人机交互建议开始，然后扩展到完全自主交互，从而安全地部署代理系统。
+
+## 模板和框架
+
+- **AI 术语表 - 20 多个关键术语**（AI 术语表）- AI 术语的综合参考列表，其中包含“像我 5 岁一样解释”定义，旨在方便会议时使用
+- **AI产品构建者的 12 条原则**（构建AI产品的反直觉建议）- 一套构建AI产品的 12 条反直觉原则，由 GitHub、Canva、Superhuman、Perplexi 等公司的 20 多个AI产品领导者汇编而成
+- **CC/CD（持续校准/持续开发）框架**（为什么您的 AI 产品需要不同的开发生命周期）- AI 产品的六步开发生命周期框架，考虑了非确定性和机构控制权衡。取代传统的 CI/CD 思维
+- **AI集成决策框架**（摘要：AI和产品管理 | Marily Nika（Meta，Google）） - 何时以及如何将AI添加到产品中的决策方法
+- **应用于AI产品构建的痛苦教训** (Sherwin Wu V2) - 将 Rich Sutton 的痛苦教训扩展到使用AI构建产品 — 脚手架和解决方法被模型改进所吞噬
+- **AI初创企业防御性框架** (Peter Deng) - 构建防御性AI初创企业的三大支柱：专有数据飞轮、精心设计的工作流程以及克服现有分销的产品工艺。
+- **AI产品思维方式转变：原型优先与设计优先**（构建AI产品的反直觉建议）- 将传统软件开发方法与可行性不确定的AI原生方法进行对比的框架
+- **AI产品差异化堆栈：数据>接口>模型**（构建AI产品的反直觉建议）-AI产品持久竞争优势所在的层次结构
+- **AI中的粘性护城河** (Scott Wu) - 在AI产品中，防御性来自于复合粘性（积累的知识、团队工作流程、学习），而不是硬性的进入壁垒
+
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 帮助用户的问题
 
-- "你想用 AI 解决哪个具体用户问题？"
-- "哪些事情应该由 AI 决定，哪些应该由人决定？"
-- "当 AI 在 5% 的场景里失败时，你会怎么处理？"
-- "什么 feedback loops 会让系统随时间改进？"
-- "你是在为今天的 model capabilities 构建，还是也预期了后续改进？"
-- "你是否已经设置 evals 和 observability？"
+- “在您的产品中，自动化带来最大回报的高摩擦琐事是什么？”
+- “您的用例是否需要访问实时的内部数据或特定的、一致的行为风格？”
+- “你如何设计接口来处理不确定或不正确的AI输出？”
+- “您是否正在构建一个基础模型更新可能会在一年内过时的功能？”
+- “您拥有哪些竞争对手无法轻易访问或复制的专有数据？”
+- “随着时间的推移，你将如何衡量产品学习循环的新陈代谢？”
 
-## 需要提醒的常见错误
+## 标记的常见错误
 
-- **为了 AI 而 AI** - 在没有清晰用户问题的情况下添加 AI features
-- **Single-model thinking** - 没有考虑为不同任务使用 specialized models
-- **忽视失败场景** - 没有为 AI 出错时的 UX 做设计
-- **静态架构** - 构建无法随着 model improvements 演进的系统
-- **跳过 evals** - 没有从第一天建立 measurement 和 observability
-- **过度自动化** - 在人类仍能创造价值的 loop 里移除人
+- **针对当前模型的限制进行构建** - 创建复杂的脚手架来解决当今模型的弱点是一种失败的策略，因为基础模型很快就会吸收该功能。
+- **为了AI本身而添加AI** - 没有经过验证、数据支持的用户问题的通用AI功能无法提供有意义的价值或防御性。
+- **假设 100% 准确度** - 当模型不可避免地产生幻觉时，未能考虑AI的概率性质会导致用户体验破裂。
+- **将提示工程优先于数据** - AI功能的有效性通常更多地受到基础数据的质量和及时性的限制，而不是提示本身。
 
-## Deep Dive
+## 深入探讨
 
-所有来自 94 位嘉宾的 179 条洞察见 `references/guest-insights.md`
+有关 26 位来宾的全部 45 条见解，请参阅 `references/guest-insights.md`
 
-## 相关 Skills
+## 相关skill
 
-- Building with LLMs
-- AI Evals
-- Evaluating New Technology
-- Platform Strategy
+- AI 评估
+- AI 原生用户体验
