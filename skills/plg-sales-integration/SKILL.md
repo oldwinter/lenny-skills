@@ -62,6 +62,8 @@ From "Five steps to starting your product-led growth motion": "Meaningful produc
 
 有关 13 位嘉宾的全部 17 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 推出计划

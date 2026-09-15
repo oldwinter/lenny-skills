@@ -68,6 +68,8 @@ Sarah Tavel: "The test for me, of whether you're building a product that has the
 
 有关 11 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 成长模型

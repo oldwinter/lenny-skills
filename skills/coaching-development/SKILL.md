@@ -67,6 +67,8 @@ From "How tech workers really feel about work right now": "People with great man
 
 有关 18 位嘉宾的全部 47 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 招聘产品人才

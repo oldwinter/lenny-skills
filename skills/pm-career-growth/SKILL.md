@@ -64,6 +64,8 @@ Laura Schaffer: "And so that means that your superpower is in really pulling tho
 
 有关 43 位来宾的全部 50 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 深入产品

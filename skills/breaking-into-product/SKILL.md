@@ -68,6 +68,8 @@ Deb Liu: "I think when you have passion around a product or passion around a com
 
 有关 11 位来宾的全部 10 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 下午职业发展
