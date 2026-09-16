@@ -1,7 +1,7 @@
 # Lenny's Product Management Skills for Claude Code 中文版 2.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills-76-blue)](https://github.com/RefoundAI/lenny-skills/tree/v2/skills)
+[![Skills](https://img.shields.io/badge/skills-76-blue)](https://github.com/oldwinter/lenny-skills/tree/main/skills)
 
 **76 个产品管理和工程 skill**，从 [Lenny's Podcast](https://www.lennyspodcast.com/) 和 [Lenny's Newsletter](https://www.lennysnewsletter.com/) 的完整档案中提取：597 集播客与文章、4,019 条来源见解；每一条引文均已对照来源逐字核验。
 
@@ -20,14 +20,35 @@ Skills 是为 AI 代理提供专业知识和工作流程的 Markdown 文件。�
 
 ## 安装
 
-将任何skill文件夹复制到项目的 `.claude/skills/` 目录中：
+复制用表格链接里的英文目录名，不要用中文标题。`编写PRD` 对应 `writing-prds`，`路线图优先级` 对应 `roadmap-prioritization`。按中文去 `.claude/skills/编写PRD` 会找不到。
+
+先 clone 这个 fork：
 
 ```bash
 git clone https://github.com/oldwinter/lenny-skills.git
+```
+
+复制一个：
+
+```bash
+mkdir -p .claude/skills
 cp -R lenny-skills/skills/writing-prds .claude/skills/
 ```
 
+复制全部：
+
+```bash
+mkdir -p .claude/skills
+cp -R lenny-skills/skills/. .claude/skills/
+```
+
 或者通过 [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/) 上的下载链接获取个人skill。
+
+## 使用
+
+装好后直接用中文描述任务，例如「帮我写一份 PRD」或「帮我排一下路线图优先级」。Skill 靠 `SKILL.md` 的 `description` 匹配任务，不是靠中文标题当斜杠命令。
+
+`writing-prds` 和 `roadmap-prioritization` 只出现在复制路径和 frontmatter `name` 里。不要输入 `/编写PRD`。
 
 ## Skills
 
