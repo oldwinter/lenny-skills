@@ -58,6 +58,8 @@ Zevi Arnovitz: "If you're non-technical like me, code is terrifying, but AI just
 
 有关 15 位嘉宾的全部 40 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 写产品

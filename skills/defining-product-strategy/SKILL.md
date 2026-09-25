@@ -63,6 +63,8 @@ Richard Rumelt: "Well, a strategy is a design for overcoming a high-stakes chall
 
 有关 27 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
 
+有关详细信息的完整列表，请参阅 `references/artifacts.md`。
+
 ## 相关skill
 
 - 产品愿景
