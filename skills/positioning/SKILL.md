@@ -71,13 +71,13 @@ From "Essential reading for product builders—part 2": "Being successful at sel
 
 ## 深入探讨
 
-有关 20 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 28 个来源的全部 68 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定价策略
-- 北极星指标
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [定价策略与优化](../pricing-strategy/)
+- [北极星指标](../north-star-metrics/)

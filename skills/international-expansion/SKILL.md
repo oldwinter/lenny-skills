@@ -73,11 +73,11 @@ From "Top 5 most interesting things about Booking.com's early growth strategy �
 
 ## 深入探讨
 
-有关 8 位嘉宾的所有 13 条见解，请参阅 `references/guest-insights.md`
+有关 8 个来源的全部 17 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 成长模型
-- 获取渠道
-- 用户引导激活
-- 保留参与度
+- [建立可持续增长模型](../growth-model/)
+- [收购渠道策略](../acquisition-channels/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [掌握保留和参与度](../retention-engagement/)

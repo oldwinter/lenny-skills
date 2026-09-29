@@ -74,11 +74,11 @@ From "Five principles for successfully managing managers": "Even though the skip
 
 ## 深入探讨
 
-有关 12 位来宾的全部 12 条见解，请参阅 `references/guest-insights.md`
+有关 12 个来源的全部 16 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 招聘产品人才
-- 面试评估候选人
-- 组织设计
-- 建立成长团队
+- [聘请世界一流的产品人才](../hiring-product-talent/)
+- [面试和评估候选人](../interviewing-evaluating-candidates/)
+- [产品和工程的组织设计](../org-design/)
+- [建立增长团队](../building-growth-team/)

@@ -55,13 +55,13 @@ Ryan Singer: "We're not going to take a big concept and then say, "What's the es
 
 ## 深入探讨
 
-有关 24 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 43 个来源的全部 88 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 目标设定 Okrs
-- 规划节奏
-- 高风险决策
-- 评估权衡
+- [目标设定和 OKR](../goal-setting-okrs/)
+- [规划节奏优化](../planning-cadence/)
+- [高风险决策](../high-stakes-decisions/)
+- [评估权衡](../evaluating-trade-offs/)

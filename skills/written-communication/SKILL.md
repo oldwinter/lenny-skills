@@ -69,11 +69,11 @@ From "Essential reading for product builders—part 2": "The best executive comm
 
 ## 深入探讨
 
-有关 12 位来宾的全部 13 条见解，请参阅 `references/guest-insights.md`
+有关 12 个来源的全部 27 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 产品评论
-- 执行沟通
-- 向上管理
-- 召开会议
+- [有效的产品评论](../product-reviews/)
+- [执行沟通](../executive-communication/)
+- [领导者向上管理](../managing-up/)
+- [召开有效的会议](../running-meetings/)

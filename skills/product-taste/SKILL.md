@@ -80,11 +80,11 @@ Karri Saarinen: "We actually believe that when you start building the thing you 
 
 ## 深入探讨
 
-有关 35 位来宾的所有 36 条见解，请参阅 `references/guest-insights.md`
+有关 36 个来源的全部 57 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 客户访谈
-- 不断发现
-- 想法验证
-- 产品实验
+- [掌握客户访谈](../customer-interviews/)
+- [持续的产品发现](../continuous-discovery/)
+- [想法验证](../idea-validation/)
+- [卓越的产品实验](../product-experiments/)

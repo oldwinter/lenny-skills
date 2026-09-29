@@ -62,7 +62,7 @@ Pete Kazanjy: "This is why Steve Blank always talks about startups can't get to 
 - **进入市场动议矩阵** (Bret Taylor) - 根据产品和买家选择正确销售动议的框架。
 - **现代销售人员作为顾问重构**（SEO 关键词、职业阶梯、待办事项工具、文案、OnlyFans、Pete Kazanjy 的 AMA 等等）- 内向者接触销售的心理模型 - 将销售重新定义为咨询工作，而不是外向的说服工作。
 - **与保留保持一致的销售补偿计划** (Sahil Mansuri) - 现代销售补偿结构，奖励客户质量和保留，而不仅仅是新业务关闭，包括续订奖励、跟踪
-- **销售动议作为源代码** (Pete Kazanjy) - 将销售流程视为软件的心理模型 - 运行小规模队列，观察哪些问题，更新“代码”（幻灯片、脚本、异议处理），
+- **销售动议作为源代码** (Pete Kazanjy) - 将销售流程视为软件：用约 10 次会议组成一个小批次，记录流程中的缺口，更新演示材料、脚本和异议处理，再将改进后的版本部署到下一批客户。
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
@@ -84,11 +84,11 @@ Pete Kazanjy: "This is why Steve Blank always talks about startups can't get to 
 
 ## 深入探讨
 
-有关 16 位嘉宾的全部 34 条见解，请参阅 `references/guest-insights.md`
+有关 16 个来源的全部 49 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 推出计划
-- PLG 销售整合
-- 第一批 B2B 客户
-- 营销组织和堆栈
+- [产品上市策划](../launch-planning/)
+- [PLG 销售整合](../plg-sales-integration/)
+- [获取第一批 B2B 客户](../first-b2b-customers/)
+- [营销组织和堆栈](../marketing-org-and-stack/)

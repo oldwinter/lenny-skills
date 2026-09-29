@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import shlex
 import subprocess
 import tempfile
 import unittest
@@ -36,6 +37,16 @@ def _frontmatter_name(skill_md: Path) -> str:
     if not match:
         raise AssertionError(f"missing name in {skill_md}")
     return match.group(1).strip()
+
+
+def _run_documented_commands(block: str, cwd: Path) -> None:
+    for line in block.splitlines():
+        if not line.strip():
+            continue
+        args = shlex.split(line)
+        if not args or args[0] not in {"mkdir", "cp"}:
+            raise AssertionError(f"unsupported README command: {line}")
+        subprocess.run(args, cwd=cwd, check=True, capture_output=True, text=True)
 
 
 class ReadmeInstallPathTests(unittest.TestCase):
@@ -91,18 +102,10 @@ class ReadmeInstallPathTests(unittest.TestCase):
             for block in _fenced_bash(install)
             if "writing-prds" in block and "skills/." not in block
         )
-        with tempfile.TemporaryDirectory() as tmp:
+        with tempfile.TemporaryDirectory(dir=ROOT / "test") as tmp:
             project = Path(tmp)
             (project / "lenny-skills").symlink_to(ROOT)
-            completed = subprocess.run(
-                copy_one,
-                shell=True,
-                cwd=project,
-                check=True,
-                capture_output=True,
-                text=True,
-            )
-            self.assertEqual(completed.returncode, 0)
+            _run_documented_commands(copy_one, project)
             landed = project / ".claude" / "skills" / "writing-prds" / "SKILL.md"
             self.assertTrue(landed.is_file())
             self.assertEqual(_frontmatter_name(landed), "writing-prds")
@@ -113,10 +116,10 @@ class ReadmeInstallPathTests(unittest.TestCase):
         copy_all = next(block for block in _fenced_bash(install) if "skills/." in block)
         expected = sorted(p.name for p in SKILLS.iterdir() if p.is_dir())
         self.assertEqual(len(expected), 76)
-        with tempfile.TemporaryDirectory() as tmp:
+        with tempfile.TemporaryDirectory(dir=ROOT / "test") as tmp:
             project = Path(tmp)
             (project / "lenny-skills").symlink_to(ROOT)
-            subprocess.run(copy_all, shell=True, cwd=project, check=True)
+            _run_documented_commands(copy_all, project)
             dest = project / ".claude" / "skills"
             landed = sorted(p.name for p in dest.iterdir() if p.is_dir())
             self.assertEqual(landed, expected)
@@ -124,15 +127,16 @@ class ReadmeInstallPathTests(unittest.TestCase):
             self.assertTrue((dest / "roadmap-prioritization" / "SKILL.md").is_file())
 
     def test_chinese_title_copy_fails(self) -> None:
-        with tempfile.TemporaryDirectory() as tmp:
+        with tempfile.TemporaryDirectory(dir=ROOT / "test") as tmp:
             project = Path(tmp)
             (project / "lenny-skills").symlink_to(ROOT)
+            subprocess.run(["mkdir", "-p", ".claude/skills"], cwd=project, check=True)
             completed = subprocess.run(
-                "mkdir -p .claude/skills && cp -R lenny-skills/skills/编写PRD .claude/skills/",
-                shell=True,
+                ["cp", "-R", "lenny-skills/skills/编写PRD", ".claude/skills/"],
                 cwd=project,
                 capture_output=True,
                 text=True,
+                check=False,
             )
             self.assertNotEqual(completed.returncode, 0)
             self.assertFalse((project / ".claude" / "skills" / "编写PRD").exists())

@@ -79,11 +79,11 @@ Ronny Kohavi: "We can talk later about Wyman's law, but that was the first react
 
 ## 深入探讨
 
-有关 9 位嘉宾的所有 13 条见解，请参阅 `references/guest-insights.md`
+有关 9 个来源的全部 23 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 客户访谈
-- 不断发现
-- 想法验证
-- 定义 Icp
+- [掌握客户访谈](../customer-interviews/)
+- [持续的产品发现](../continuous-discovery/)
+- [想法验证](../idea-validation/)
+- [定义您的 ICP](../defining-icp/)

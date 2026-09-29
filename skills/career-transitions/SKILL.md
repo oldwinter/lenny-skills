@@ -84,11 +84,11 @@ Tamar Yehoshua: "Make sure you go somewhere where you have a good engineering pa
 
 ## 深入探讨
 
-有关 24 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 56 个来源的全部 139 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 建立促销案例
-- 协商赔偿
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [建立促销案例](../building-a-promotion-case/)
+- [谈判技术补偿](../negotiating-compensation/)

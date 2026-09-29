@@ -79,9 +79,9 @@ Ramesh Johari: "Many of the changes that are most consequential create winners a
 
 ## 深入探讨
 
-有关 6 位嘉宾的全部 22 条见解，请参阅 `references/guest-insights.md`
+有关 6 个来源的全部 25 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 市场基础知识
-- 市场流动性收取率
+- [市场基础知识](../marketplace-fundamentals/)
+- [市场流动性和利率](../marketplace-liquidity-take-rates/)

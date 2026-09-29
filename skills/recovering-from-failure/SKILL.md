@@ -89,11 +89,11 @@ Uri Levine: "We started that as a B2C and then we realized that this is way hard
 
 ## 深入探讨
 
-有关 20 位来宾的所有 22 条见解，请参阅 `references/guest-insights.md`
+有关 20 个来源的全部 37 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定位
-- 定价策略
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)

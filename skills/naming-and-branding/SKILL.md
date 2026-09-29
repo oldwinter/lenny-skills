@@ -89,11 +89,11 @@ From "How to find the perfect name": "Imagine the sound of your brand before you
 
 ## 深入探讨
 
-有关 11 位嘉宾的所有 15 条见解，请参阅 `references/guest-insights.md`
+有关 11 个来源的全部 22 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 推出计划
-- PLG 销售整合
-- 企业销售动议
-- 第一批 B2B 客户
+- [产品上市策划](../launch-planning/)
+- [PLG 销售整合](../plg-sales-integration/)
+- [掌握企业销售动作](../enterprise-sales-motion/)
+- [获取第一批 B2B 客户](../first-b2b-customers/)

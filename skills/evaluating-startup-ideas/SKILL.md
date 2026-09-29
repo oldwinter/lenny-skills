@@ -74,9 +74,9 @@ Sam Schillace: "And that bifurcation of love it, hate it, is really how you have
 
 ## 深入探讨
 
-有关 21 位嘉宾的全部 48 条见解，请参阅 `references/guest-insights.md`
+有关 28 个来源的全部 63 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 筹款
-- 创始人销售
+- [初创企业融资和退出](../fundraising/)
+- [创始人主导的销售](../founder-sales/)

@@ -61,13 +61,13 @@ Richard Rumelt: "Well, a strategy is a design for overcoming a high-stakes chall
 
 ## 深入探讨
 
-有关 27 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 47 个来源的全部 112 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 产品愿景
-- 定位
-- 定价策略
-- 北极星指标
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)
+- [北极星指标](../north-star-metrics/)

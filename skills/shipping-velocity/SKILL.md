@@ -85,11 +85,11 @@ Ryan Singer: "We're going to go the other way around and we're going to say, wha
 
 ## 深入探讨
 
-有关 19 位嘉宾的全部 35 条见解，请参阅 `references/guest-insights.md`
+有关 19 个来源的全部 40 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 写产品
-- AI辅助原型设计
-- 与AI代理一起构建
-- 产品工具栈
+- [编写PRD](../writing-prds/)
+- [AI辅助原型设计](../ai-assisted-prototyping/)
+- [使用 AI 代理进行构建](../building-with-ai-agents/)
+- [产品堆栈策略](../product-tool-stack/)

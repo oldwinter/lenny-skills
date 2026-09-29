@@ -84,11 +84,11 @@ Scott Belsky: "Some people are like, 'Oh, Scott, I mean, I have more conviction.
 
 ## 深入探讨
 
-有关 25 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 38 个来源的全部 91 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 职业转变
-- 建立促销案例
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)

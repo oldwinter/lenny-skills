@@ -7,7 +7,7 @@ description: 通过关注所有权、跨职能影响力和有目的的职业设�
 
 通过掌握影响力、所有权和战略远见，从任务执行者转变为高影响力的产品领导者。
 
-利用 43 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户实现下午职业发展。
+利用 43 位嘉宾的见解以及 Lenny 的播客和时事通讯中的帖子，帮助用户实现 PM 职业发展。
 
 ## 如何提供帮助
 
@@ -62,13 +62,13 @@ Laura Schaffer: "And so that means that your superpower is in really pulling tho
 
 ## 深入探讨
 
-有关 43 位来宾的全部 50 条见解，请参阅 `references/guest-insights.md`
+有关 99 个来源的全部 313 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 深入产品
-- 职业转变
-- 建立促销案例
-- 协商赔偿
+- [进军产品管理](../breaking-into-product/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)
+- [谈判技术补偿](../negotiating-compensation/)

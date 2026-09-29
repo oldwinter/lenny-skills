@@ -65,11 +65,11 @@ Janna Bastow: "Honestly, it wasn't so much that we set out to build a community,
 
 ## 深入探讨
 
-有关 21 位来宾的所有 21 条见解，请参阅 `references/guest-insights.md`
+有关 21 个来源的全部 29 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 职业转变
-- 建立促销案例
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)

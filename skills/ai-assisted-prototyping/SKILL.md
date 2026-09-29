@@ -56,13 +56,13 @@ Zevi Arnovitz: "If you're non-technical like me, code is terrifying, but AI just
 
 ## 深入探讨
 
-有关 15 位嘉宾的全部 40 条见解，请参阅 `references/guest-insights.md`
+有关 15 个来源的全部 44 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 写产品
-- 交付速度
-- 与AI代理一起构建
-- 产品工具栈
+- [编写PRD](../writing-prds/)
+- [交付速度](../shipping-velocity/)
+- [使用 AI 代理进行构建](../building-with-ai-agents/)
+- [产品堆栈策略](../product-tool-stack/)

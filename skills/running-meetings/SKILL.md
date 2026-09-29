@@ -74,11 +74,11 @@ From "Leading a PM team meeting - Issue 19": "Don’t do this meeting just to do
 
 ## 深入探讨
 
-有关 12 位嘉宾的全部 19 条见解，请参阅 `references/guest-insights.md`
+有关 12 个来源的全部 32 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 产品评论
-- 执行沟通
-- 向上管理
-- 书面沟通
+- [有效的产品评论](../product-reviews/)
+- [执行沟通](../executive-communication/)
+- [领导者向上管理](../managing-up/)
+- [领导者的书面沟通](../written-communication/)

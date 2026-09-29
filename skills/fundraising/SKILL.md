@@ -80,9 +80,9 @@ Merci Grace: "And honestly, looking at things like movies and TV shows, every pi
 
 ## 深入探讨
 
-有关 15 位嘉宾的全部 45 条见解，请参阅 `references/guest-insights.md`
+有关 16 个来源的全部 54 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 评估创业想法
-- 创始人销售
+- [评估创业想法](../evaluating-startup-ideas/)
+- [创始人主导的销售](../founder-sales/)

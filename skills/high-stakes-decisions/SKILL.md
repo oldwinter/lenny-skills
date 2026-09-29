@@ -85,11 +85,11 @@ From "Five habits of highly annoying product managers": "Try this next time you�
 
 ## 深入探讨
 
-有关 30 位来宾的所有 24 条见解，请参阅 `references/guest-insights.md`
+有关 30 个来源的全部 41 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 路线图优先级
-- 目标设定 Okrs
-- 规划节奏
-- 评估权衡
+- [路线图优先级](../roadmap-prioritization/)
+- [目标设定和 OKR](../goal-setting-okrs/)
+- [规划节奏优化](../planning-cadence/)
+- [评估权衡](../evaluating-trade-offs/)

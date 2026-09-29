@@ -73,9 +73,9 @@ From "How today's fastest-growing B2B startups turned their early users into pay
 
 ## 深入探讨
 
-有关 6 位嘉宾的全部 5 条见解，请参阅 `references/guest-insights.md`
+有关 6 个来源的全部 14 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 评估创业想法
-- 筹款
+- [评估创业想法](../evaluating-startup-ideas/)
+- [初创企业融资和退出](../fundraising/)

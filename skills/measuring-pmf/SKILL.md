@@ -84,11 +84,11 @@ Todd Jackson: "We've published dozens of articles on the First Round Review, and
 
 ## 深入探讨
 
-有关 16 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 21 个来源的全部 73 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定位
-- 定价策略
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)

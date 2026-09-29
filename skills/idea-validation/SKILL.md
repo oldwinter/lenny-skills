@@ -69,11 +69,11 @@ Oji Udezue: "So the zone of benefit works as a framework because people will not
 
 ## 深入探讨
 
-有关 31 位来宾的全部 33 条见解，请参阅 `references/guest-insights.md`
+有关 34 个来源的全部 54 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 客户访谈
-- 不断发现
-- 产品实验
-- 定义 Icp
+- [掌握客户访谈](../customer-interviews/)
+- [持续的产品发现](../continuous-discovery/)
+- [卓越的产品实验](../product-experiments/)
+- [定义您的 ICP](../defining-icp/)

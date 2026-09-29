@@ -201,6 +201,13 @@ cp -R lenny-skills/skills/. .claude/skills/
 
 找到提高skill的方法了吗？打开 PR。请保留报价的逐字内容和来源。
 
+提交前运行：
+
+```bash
+python3 -m unittest discover -s test -p 'test*.py'
+python3 scripts/validate_repository.py
+```
+
 ## 许可证
 
 MIT 用于skill文件的结构和组织。底层内容属于 Lenny Rachitsky 和播客嘉宾；与归因一起使用，免费且不受限制。

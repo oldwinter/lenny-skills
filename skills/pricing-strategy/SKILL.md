@@ -89,11 +89,11 @@ From "The ultimate guide to willingness-to-pay": "Assuming that price is a 'magi
 
 ## 深入探讨
 
-有关 7 位嘉宾的全部 49 条见解，请参阅 `references/guest-insights.md`
+有关 21 个来源的全部 87 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定位
-- 北极星指标
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [北极星指标](../north-star-metrics/)

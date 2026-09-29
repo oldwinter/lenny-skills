@@ -60,13 +60,13 @@ From "Five steps to starting your product-led growth motion": "Meaningful produc
 
 ## 深入探讨
 
-有关 13 位嘉宾的全部 17 条见解，请参阅 `references/guest-insights.md`
+有关 13 个来源的全部 31 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 推出计划
-- 企业销售动议
-- 第一批 B2B 客户
-- 营销组织和堆栈
+- [产品上市策划](../launch-planning/)
+- [掌握企业销售动作](../enterprise-sales-motion/)
+- [获取第一批 B2B 客户](../first-b2b-customers/)
+- [营销组织和堆栈](../marketing-org-and-stack/)
