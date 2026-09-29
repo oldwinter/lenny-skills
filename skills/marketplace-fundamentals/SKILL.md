@@ -79,9 +79,9 @@ Dan Hockenmaier: "If you're building a SaaS business, you're a construction work
 
 ## 深入探讨
 
-有关 7 位嘉宾的全部 45 条见解，请参阅 `references/guest-insights.md`
+有关 7 个来源的全部 55 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 供需平衡
-- 市场流动性收取率
+- [供需平衡](../supply-demand-balance/)
+- [市场流动性和利率](../marketplace-liquidity-take-rates/)

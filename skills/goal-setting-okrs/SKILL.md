@@ -84,11 +84,11 @@ Luc Levesque: "I don't care how hard you've worked. I don't care what you're wor
 
 ## 深入探讨
 
-有关 19 位嘉宾的全部 31 条见解，请参阅 `references/guest-insights.md`
+有关 19 个来源的全部 43 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 路线图优先级
-- 规划节奏
-- 高风险决策
-- 评估权衡
+- [路线图优先级](../roadmap-prioritization/)
+- [规划节奏优化](../planning-cadence/)
+- [高风险决策](../high-stakes-decisions/)
+- [评估权衡](../evaluating-trade-offs/)

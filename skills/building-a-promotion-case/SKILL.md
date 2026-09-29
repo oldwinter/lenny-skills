@@ -73,11 +73,11 @@ From "How to get promoted": "No matter your role or level, there’s a skill or 
 
 ## 深入探讨
 
-有关 6 位嘉宾的全部 11 条见解，请参阅 `references/guest-insights.md`
+有关 6 个来源的全部 16 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 职业转变
-- 协商赔偿
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [谈判技术补偿](../negotiating-compensation/)

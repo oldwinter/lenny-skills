@@ -1,6 +1,6 @@
 ---
 name: ai-evals
-description: 帮助用户构建强大的基础设施，使用人工、基于代码和法学硕士作为法官的方法来测量、监控和迭代AI产品性能。
+description: 帮助用户构建强大的基础设施，使用人工、基于代码和 LLM-as-a-Judge 的方法来测量、监控和迭代 AI 产品性能。
 ---
 
 # AI评估策略
@@ -28,7 +28,7 @@ Edwin Chen: "We are looking for a Nobel Prize-winning poetry. Is this poetry uni
 
 真正的数据质量是由深刻的、主观的人类卓越性定义的，例如情感共鸣和独特性，而不是肤浅的二进制检查。
 
-### 消除振动检查
+### 消除 vibe check
 Hamel Husain & Shreya Shankar: "Evals help you create metrics that you can use to measure how your application is doing and kind of give you a way to improve your application with confidence. That you have a feedback signal in which to iterate against."
 
 创建系统指标来跟踪应用程序质量随时间的变化，使团队能够像传统软件一样自信地迭代提示或模型。
@@ -40,8 +40,8 @@ From "Beyond vibe checks: A PM’s complete guide to evals": "Clearly articulati
 
 ## 模板和框架
 
-- **LLM-as-a-Judge Playbook**（构建可改进 AI 产品的评估系统）- 用于构建、验证和衡量 LLM 法官的系统性三步流程，为主观 AI 质量提供可信的二进制通过/失败指标：
-- **三种评估方法（人工、基于代码、基于法学硕士）**（超越氛围检查：PM 的完整评估指南）- 一个决策框架，用于根据您的用例选择正确的评估方法，每种方法都有优缺点。
+- **LLM-as-a-Judge Playbook**（构建可改进 AI 产品的评估系统）- 用于构建、验证和衡量 LLM 法官的系统性三步流程：由领域专家标注真值并写出批评，将数据拆分为训练集、开发集和测试集，再用真正率与真负率衡量判断器，为主观 AI 质量建立可信的通过/失败指标。
+- **三种评估方法（人工、基于代码、基于 LLM）**（超越氛围检查：PM 的完整评估指南）- 一个决策框架，用于根据您的用例选择正确的评估方法，每种方法都有优缺点。
 - **评估公式（四部分结构）**（超越氛围检查：PM 的完整评估指南）- 一个由四部分组成的公式，用于编写有效的基于 LLM 的评估提示，任何 PM 都可以使用它来构建判断 LLM 提示。
 - **用于AI错误分析的开放编码和轴向编码**（构建改进AI产品的评估系统） - 一种适用于AI产品评估的定性研究方法，用于从用户交互数据中发现故障模式并对其进行分类。
 - **RAG 评估框架（检索器 + 生成器）**（构建改进 AI 产品的评估系统）- RAG 系统的两部分评估方法，分别评估检索器和生成器组件，并为每个组件提供特定指标。
@@ -63,16 +63,16 @@ From "Beyond vibe checks: A PM’s complete guide to evals": "Clearly articulati
 ## 标记的常见错误
 
 - **依靠氛围检查** - 手动和轶事测试会导致质量不一致和隐藏的回归，随着时间的推移会损害用户的信任。
-- **痴迷于即时工程** - 仅关注提示而忽略底层评估系统会阻止团队系统地扩展或爬山。
+- **痴迷于 prompt engineering（提示词工程）** - 仅关注提示而忽略底层评估系统，会阻止团队系统地扩展或爬山。
 - **使用通用指标进行产品报告** - 现成的分数对于过滤很有用，但通常无法捕获业务逻辑特有的特定值或故障。
 - **忽略组件隔离** - 在 RAG 系统中，无法将检索器与生成器分开进行评估，因此无法知道堆栈的哪一部分发生了故障。
-- **忽视非确定性** - 未能考虑法学硕士的随机性会导致对结果的错误信心，而这些结果可能不会在生产中重复。
+- **忽视非确定性** - 未能考虑 LLM 的随机性会导致对结果的错误信心，而这些结果可能不会在生产中重复。
 
 ## 深入探讨
 
-有关 11 位嘉宾的全部 33 条见解，请参阅 `references/guest-insights.md`
+有关 11 个来源的全部 38 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- AI产品策略
-- AI 原生用户体验
+- [AI产品策略](../ai-product-strategy/)
+- [设计AI原生用户体验](../ai-native-ux/)

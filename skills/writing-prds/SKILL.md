@@ -84,11 +84,11 @@ From "How AI will impact product management": "Describe what you want in human l
 
 ## 深入探讨
 
-有关 14 位嘉宾的全部 24 条见解，请参阅 `references/guest-insights.md`
+有关 14 个来源的全部 38 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 交付速度
-- AI辅助原型设计
-- 与AI代理一起构建
-- 产品工具栈
+- [交付速度](../shipping-velocity/)
+- [AI辅助原型设计](../ai-assisted-prototyping/)
+- [使用 AI 代理进行构建](../building-with-ai-agents/)
+- [产品堆栈策略](../product-tool-stack/)

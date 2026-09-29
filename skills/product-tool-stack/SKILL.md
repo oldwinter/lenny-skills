@@ -50,13 +50,13 @@ From "Five steps to starting your product-led growth motion, part 2": "The most 
 
 ## 深入探讨
 
-有关 6 位嘉宾的全部 25 条见解，请参阅 `references/guest-insights.md`
+有关 6 个来源的全部 35 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 写产品
-- 交付速度
-- AI辅助原型设计
-- 与AI代理一起构建
+- [编写PRD](../writing-prds/)
+- [交付速度](../shipping-velocity/)
+- [AI辅助原型设计](../ai-assisted-prototyping/)
+- [使用 AI 代理进行构建](../building-with-ai-agents/)

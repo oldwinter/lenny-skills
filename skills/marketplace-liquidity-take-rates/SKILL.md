@@ -85,9 +85,9 @@ From "Choosing a take rate": "Companies like Upwork, Patreon, StockX, Doordash, 
 
 ## 深入探讨
 
-有关 6 位嘉宾的全部 17 条见解，请参阅 `references/guest-insights.md`
+有关 6 个来源的全部 23 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 市场基础知识
-- 供需平衡
+- [市场基础知识](../marketplace-fundamentals/)
+- [供需平衡](../supply-demand-balance/)

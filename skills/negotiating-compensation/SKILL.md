@@ -86,11 +86,11 @@ From "Why cash is king": "While some may feel pressure to prioritize equity for 
 
 ## 深入探讨
 
-对于来自 1 位访客的所有 12 条见解，请参阅 `references/guest-insights.md`
+有关 1 个来源的全部 13 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 职业转变
-- 建立促销案例
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)

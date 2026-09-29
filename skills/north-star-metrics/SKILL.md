@@ -69,11 +69,11 @@ Sarah Tavel: "What you realize when you look at social products is that they're 
 
 ## 深入探讨
 
-有关 14 位嘉宾的全部 39 条见解，请参阅 `references/guest-insights.md`
+有关 15 个来源的全部 55 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定位
-- 定价策略
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)

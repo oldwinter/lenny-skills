@@ -14,7 +14,7 @@ description: 通过严格的综合和内部沉浸，帮助用户将大量的定�
 1. **对信号进行分类** - 帮助用户组根据用户影响力和频率将不同的反馈分为主题或细分。
 2. **评估代表性** - 使用表征框架确定反馈是否反映了少数群体的需求或广泛的用户需求。
 3. **设置内部测试** - 设计内部流程，通过审核和强制使用计划亲身体验摩擦。
-4. **应用AI合成** - 指导用户使用法学硕士来处理大型数据集，例如成绩单、评论和支持票证。
+4. **应用 AI 合成** - 指导用户使用 LLM 处理大型数据集，例如访谈记录、评论和支持工单。
 
 ## 核心原则
 
@@ -70,11 +70,11 @@ From "What 5 years at Reddit taught us about building for a highly opinionated u
 
 ## 深入探讨
 
-有关 19 位嘉宾的全部 16 条见解，请参阅 `references/guest-insights.md`
+有关 19 个来源的全部 26 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 客户访谈
-- 不断发现
-- 想法验证
-- 产品实验
+- [掌握客户访谈](../customer-interviews/)
+- [持续的产品发现](../continuous-discovery/)
+- [想法验证](../idea-validation/)
+- [卓越的产品实验](../product-experiments/)

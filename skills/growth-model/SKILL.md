@@ -78,11 +78,11 @@ Elena Verna 3.0: "Wait for growth until you are ready to overlay product-led gro
 
 ## 深入探讨
 
-有关 16 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 30 个来源的全部 121 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 获取渠道
-- 用户引导激活
-- 保留参与度
-- 推荐 口碑
+- [收购渠道策略](../acquisition-channels/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [掌握保留和参与度](../retention-engagement/)
+- [推荐和口碑](../referrals-word-of-mouth/)

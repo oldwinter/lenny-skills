@@ -78,11 +78,11 @@ From "What to do if your product isn’t taking off": "When talking to people, l
 
 ## 深入探讨
 
-有关 11 位嘉宾的全部 14 条见解，请参阅 `references/guest-insights.md`
+有关 11 个来源的全部 21 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 不断发现
-- 想法验证
-- 产品实验
-- 定义 Icp
+- [持续的产品发现](../continuous-discovery/)
+- [想法验证](../idea-validation/)
+- [卓越的产品实验](../product-experiments/)
+- [定义您的 ICP](../defining-icp/)

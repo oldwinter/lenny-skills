@@ -87,11 +87,11 @@ Failure: "I just froze. I couldn't remember what I was supposed to say. It was t
 
 ## 深入探讨
 
-有关 12 位嘉宾的全部 16 条见解，请参阅 `references/guest-insights.md`
+有关 12 个来源的全部 36 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 深入产品
-- 下午职业发展
-- 职业转变
-- 建立促销案例
+- [进军产品管理](../breaking-into-product/)
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)

@@ -96,11 +96,11 @@ From "Increasing team velocity": "Talk to your engineers about opportunities to 
 
 ## 深入探讨
 
-有关 18 位嘉宾的全部 21 条见解，请参阅 `references/guest-insights.md`
+有关 18 个来源的全部 29 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 写产品
-- 交付速度
-- AI辅助原型设计
-- 与AI代理一起构建
+- [编写PRD](../writing-prds/)
+- [交付速度](../shipping-velocity/)
+- [AI辅助原型设计](../ai-assisted-prototyping/)
+- [使用 AI 代理进行构建](../building-with-ai-agents/)

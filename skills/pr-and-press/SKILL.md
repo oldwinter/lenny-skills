@@ -80,11 +80,11 @@ Emilie Gerber: "So I think, yeah, that's the value from the B2B perspective and 
 
 ## 深入探讨
 
-有关 9 位嘉宾的全部 21 条见解，请参阅 `references/guest-insights.md`
+有关 9 个来源的全部 29 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 推出计划
-- PLG 销售整合
-- 企业销售动议
-- 第一批 B2B 客户
+- [产品上市策划](../launch-planning/)
+- [PLG 销售整合](../plg-sales-integration/)
+- [掌握企业销售动作](../enterprise-sales-motion/)
+- [获取第一批 B2B 客户](../first-b2b-customers/)

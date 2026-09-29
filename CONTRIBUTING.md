@@ -27,23 +27,23 @@
 ```markdown
 ---
 name: skill-name
-description: Help users [action verb]. Use when someone is [trigger conditions].
+description: 当用户需要[任务或决策]时使用；帮助用户[可执行结果]。
 ---
 
-# Skill Title
+# Skill 中文标题
 
-Help the user [purpose] using frameworks and insights from [N] product leaders.
+利用 [N] 位产品领导者的框架和见解，帮助用户[目标]。
 
-## How to Help
+## 如何提供帮助
 
-When the user asks for help with [topic]:
+当用户需要[主题]方面的帮助时：
 
 1. **First step** - [What to do]
 2. **Second step** - [What to do]
 3. **Third step** - [What to do]
 4. **Fourth step** - [What to do]
 
-## Core Principles
+## 核心原则
 
 ### Principle title
 [Guest Name]: "[Direct quote or close paraphrase]" [Actionable guidance explaining how to apply this.]
@@ -51,21 +51,21 @@ When the user asks for help with [topic]:
 ### Another principle
 [Guest Name]: "[Quote]" [Guidance]
 
-## Questions to Help Users
+## 帮助用户的问题
 
 - "[Diagnostic question]"
 - "[Another question]"
 
-## Common Mistakes to Flag
+## 标记的常见错误
 
 - **[Mistake pattern]** - [Why it's wrong and what to do instead]
 - **[Another mistake]** - [Explanation]
 
-## Deep Dive
+## 深入探讨
 
-For all [N] insights from [M] guests, see `references/guest-insights.md`
+有关 [M] 个来源的全部 [N] 条见解，请参阅 `references/guest-insights.md`
 
-## Related Skills
+## 相关skill
 
 - [Related skill 1]
 - [Related skill 2]
@@ -74,8 +74,9 @@ For all [N] insights from [M] guests, see `references/guest-insights.md`
 ## 质量标准
 
 ### Descriptions
-- 以 "Help users [verb]" 开头
-- 包含具体触发语，例如 "Use when someone is..."
+- 使用自然、可执行的中文描述
+- 明确说明任务触发条件，例如“当用户需要……时使用”
+- 保留会影响检索的行业缩写和英文术语（如 PM、PRD、OKR、ICP、LLM）
 - 控制在 200 个字符以内
 
 ### Principles

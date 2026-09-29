@@ -79,11 +79,11 @@ Gustaf Alstromer: "Most startups don't have most of the PMs being former founder
 
 ## 深入探讨
 
-有关 21 位来宾的全部 40 条见解，请参阅 `references/guest-insights.md`
+有关 30 个来源的全部 66 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 面试评估候选人
-- 组织设计
-- 建立成长团队
-- 创始执行团队
+- [面试和评估候选人](../interviewing-evaluating-candidates/)
+- [产品和工程的组织设计](../org-design/)
+- [建立增长团队](../building-growth-team/)
+- [创始执行团队建设](../founding-exec-team/)

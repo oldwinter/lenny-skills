@@ -66,13 +66,13 @@ Sarah Tavel: "The test for me, of whether you're building a product that has the
 
 ## 深入探讨
 
-有关 11 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 17 个来源的全部 68 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 成长模型
-- 获取渠道
-- 用户引导激活
-- 推荐 口碑
+- [建立可持续增长模型](../growth-model/)
+- [收购渠道策略](../acquisition-channels/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [推荐和口碑](../referrals-word-of-mouth/)

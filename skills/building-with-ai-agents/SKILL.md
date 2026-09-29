@@ -78,11 +78,11 @@ Zevi Arnovitz: "It's very difficult for me to catch mistakes. What I'll do is ba
 
 ## 深入探讨
 
-有关 15 位嘉宾的所有 31 条见解，请参阅 `references/guest-insights.md`
+有关 15 个来源的全部 34 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 写产品
-- 交付速度
-- AI辅助原型设计
-- 产品工具栈
+- [编写PRD](../writing-prds/)
+- [交付速度](../shipping-velocity/)
+- [AI辅助原型设计](../ai-assisted-prototyping/)
+- [产品堆栈策略](../product-tool-stack/)

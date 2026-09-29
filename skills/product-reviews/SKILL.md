@@ -79,11 +79,11 @@ Tomer Cohen: "I push a lot for what is actually your opinion, what is your poten
 
 ## 深入探讨
 
-有关 12 位来宾的全部 12 条见解，请参阅 `references/guest-insights.md`
+有关 12 个来源的全部 25 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 执行沟通
-- 向上管理
-- 召开会议
-- 书面沟通
+- [执行沟通](../executive-communication/)
+- [领导者向上管理](../managing-up/)
+- [召开有效的会议](../running-meetings/)
+- [领导者的书面沟通](../written-communication/)

@@ -85,11 +85,11 @@ Nikita Bier: "Mobile apps have such a low margin for error when it comes to desi
 
 ## 深入探讨
 
-有关 15 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 25 个来源的全部 87 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 成长模型
-- 获取渠道
-- 保留参与度
-- 推荐 口碑
+- [建立可持续增长模型](../growth-model/)
+- [收购渠道策略](../acquisition-channels/)
+- [掌握保留和参与度](../retention-engagement/)
+- [推荐和口碑](../referrals-word-of-mouth/)

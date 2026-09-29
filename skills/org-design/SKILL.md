@@ -87,11 +87,11 @@ Sachin Monga: "The teams aren't oriented around product surfaces. We don't have 
 
 ## 深入探讨
 
-有关 27 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 60 个来源的全部 112 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 招聘产品人才
-- 面试评估候选人
-- 建立成长团队
-- 创始执行团队
+- [聘请世界一流的产品人才](../hiring-product-talent/)
+- [面试和评估候选人](../interviewing-evaluating-candidates/)
+- [建立增长团队](../building-growth-team/)
+- [创始执行团队建设](../founding-exec-team/)

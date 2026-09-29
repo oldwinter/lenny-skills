@@ -86,11 +86,11 @@ From "Getting buy-in": "Good storytelling means you present a narrative that res
 
 ## 深入探讨
 
-有关 9 位嘉宾的所有 20 条见解，请参阅 `references/guest-insights.md`
+有关 9 个来源的全部 28 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 产品评论
-- 向上管理
-- 召开会议
-- 书面沟通
+- [有效的产品评论](../product-reviews/)
+- [领导者向上管理](../managing-up/)
+- [召开有效的会议](../running-meetings/)
+- [领导者的书面沟通](../written-communication/)

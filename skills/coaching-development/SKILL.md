@@ -65,13 +65,13 @@ From "How tech workers really feel about work right now": "People with great man
 
 ## 深入探讨
 
-有关 18 位嘉宾的全部 47 条见解，请参阅 `references/guest-insights.md`
+有关 34 个来源的全部 78 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 招聘产品人才
-- 面试评估候选人
-- 组织设计
-- 建立成长团队
+- [聘请世界一流的产品人才](../hiring-product-talent/)
+- [面试和评估候选人](../interviewing-evaluating-candidates/)
+- [产品和工程的组织设计](../org-design/)
+- [建立增长团队](../building-growth-team/)

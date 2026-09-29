@@ -79,11 +79,11 @@ Camille Ricketts: "In terms of how I think about what it actually is, it's when 
 
 ## 深入探讨
 
-有关 13 位嘉宾的全部 36 条见解，请参阅 `references/guest-insights.md`
+有关 13 个来源的全部 45 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 成长模型
-- 获取渠道
-- 用户引导激活
-- 保留参与度
+- [建立可持续增长模型](../growth-model/)
+- [收购渠道策略](../acquisition-channels/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [掌握保留和参与度](../retention-engagement/)

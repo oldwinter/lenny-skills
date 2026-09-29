@@ -80,9 +80,9 @@ Aishwarya Naresh Reganti + Kiriti Badam: "You need to be deliberately starting i
 
 ## 深入探讨
 
-有关 26 位来宾的全部 45 条见解，请参阅 `references/guest-insights.md`
+有关 34 个来源的全部 69 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- AI 评估
-- AI 原生用户体验
+- [AI评估策略](../ai-evals/)
+- [设计AI原生用户体验](../ai-native-ux/)

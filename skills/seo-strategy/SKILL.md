@@ -14,7 +14,7 @@ description: 帮助用户设计和执行现代 SEO 策略，平衡技术网站�
 1. **审核和验证** - 确定您的目标受众是否使用搜索来发现以及您是否拥有竞争所需的独特数据。
 2. **程序化设计** - 帮助构建“Mad Libs”样式模板，使用内部数据生成数千个高价值登陆页面。
 3. **实验设置** - 指导创建页面级存储框架来测试标题标签、内容和内部链接更改。
-4. **AI适应** - 将内容重新定位为渠道中部查询和多个权威提及，以捕获来自法学硕士和AI概述的流量。
+4. **适应 AI 搜索** - 将内容重新定位为漏斗中部查询和多个权威来源的提及，以捕获来自 LLM 和 AI 概述的流量。
 
 ## 核心原则
 
@@ -36,7 +36,7 @@ Eli Schwartz: "Product people need to think about how do we position this to the
 ### 单次排名频率
 Ethan Smith: "In order to win something like what's the best website builder? At Google, they would win if their blue link showed up first. But that's not the case in the LLM, because the LLM is summarizing many citations, and so you need to get mentioned as many times as possible."
 
-AI搜索时代的成功取决于在 Reddit 和 YouTube 等多个权威来源中被提及以影响法学硕士摘要。
+AI 搜索时代的成功取决于在 Reddit 和 YouTube 等多个权威来源中被提及，以影响 LLM 生成的摘要。
 
 ### 追踪 LLM 转换率
 Ethan Smith: "Significantly more valuable. Webflow saw a 6X conversion rate difference between LLM traffic and Google Search traffic."
@@ -89,11 +89,11 @@ From "Winning at SEO": "Instead, you want to create pages that capture a specifi
 
 ## 深入探讨
 
-有关 9 位嘉宾的全部 35 条见解，请参阅 `references/guest-insights.md`
+有关 9 个来源的全部 43 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 成长模型
-- 获取渠道
-- 用户引导激活
-- 保留参与度
+- [建立可持续增长模型](../growth-model/)
+- [收购渠道策略](../acquisition-channels/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [掌握保留和参与度](../retention-engagement/)

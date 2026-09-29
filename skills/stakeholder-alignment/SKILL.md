@@ -78,11 +78,11 @@ Tamar Yehoshua: "And then I think what's really important is that you're aligned
 
 ## 深入探讨
 
-有关 30 位来宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 57 个来源的全部 115 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 产品评论
-- 执行沟通
-- 向上管理
-- 召开会议
+- [有效的产品评论](../product-reviews/)
+- [执行沟通](../executive-communication/)
+- [领导者向上管理](../managing-up/)
+- [召开有效的会议](../running-meetings/)

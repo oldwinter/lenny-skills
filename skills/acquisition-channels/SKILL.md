@@ -95,11 +95,11 @@ Yuriy Timen: "If I'm seeing things like that and I'm seeing that you're converti
 
 ## 深入探讨
 
-有关 18 位嘉宾的所有 50 条见解，请参阅 `references/guest-insights.md`
+有关 25 个来源的全部 125 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 成长模型
-- 用户引导激活
-- 保留参与度
-- 推荐 口碑
+- [建立可持续增长模型](../growth-model/)
+- [用户加入和激活](../user-onboarding-activation/)
+- [掌握保留和参与度](../retention-engagement/)
+- [推荐和口碑](../referrals-word-of-mouth/)

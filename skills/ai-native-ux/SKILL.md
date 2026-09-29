@@ -83,9 +83,9 @@ Ryan J. Salva: "When you are in the editor, it could be VS Code, it could be Int
 
 ## 深入探讨
 
-有关 14 位来宾的全部 14 条见解，请参阅 `references/guest-insights.md`
+有关 14 个来源的全部 16 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- AI产品策略
-- AI 评估
+- [AI产品策略](../ai-product-strategy/)
+- [AI评估策略](../ai-evals/)

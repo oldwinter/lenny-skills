@@ -62,11 +62,11 @@ Kenneth Berger: "Often what I try to introduce people to, and I've learned all t
 
 ## 深入探讨
 
-有关 21 位来宾的所有 31 条见解，请参阅 `references/guest-insights.md`
+有关 21 个来源的全部 39 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 产品评论
-- 执行沟通
-- 召开会议
-- 书面沟通
+- [有效的产品评论](../product-reviews/)
+- [执行沟通](../executive-communication/)
+- [召开有效的会议](../running-meetings/)
+- [领导者的书面沟通](../written-communication/)

@@ -79,11 +79,11 @@ Shreyas Doshi: "Google, I think the main thing I learned was the power of thinki
 
 ## 深入探讨
 
-有关 22 位来宾的全部 20 条见解，请参阅 `references/guest-insights.md`
+有关 22 个来源的全部 33 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 定位
-- 定价策略
-- 北极星指标
+- [定义产品策略](../defining-product-strategy/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)
+- [北极星指标](../north-star-metrics/)

@@ -58,7 +58,7 @@ Nabeel S. Qureshi: "There was a different type of engineer which you sent into t
 - **持续发现与基于项目的研究** (Teresa Torres) - 重新构建发现如何融入产品工作：不是作为交付之前的一个阶段，而是作为与交付同时进行的并行连续习惯
 - **机会解决方案树框架**（2023 年 Lenny 的最佳时事通讯）- Teresa Torres 的持续产品发现框架，将结果与机会、解决方案和实验联系起来。
 - **产品剪贴簿（概念数据库）**（产品经理是一个不公平的角色。所以工作不公平。） - 一个轻量级的概念数据库，用于收集按战略泳道组织的客户见解、反馈和证据，以便更快地发现和规划。
-- **前向部署工程 (FDE) 模型**（催生了一代初创公司的非常规 Palantir 原则）- 一种客户发现和产品开发方法，工程师在较长时间内（数月，而不是数小时）实际嵌入客户环境中，执行以下操作：
+- **前向部署工程 (FDE) 模型**（催生了一代初创公司的非常规 Palantir 原则）- 工程师数月嵌入客户现场，亲自使用产品完成客户的真实工作，并持续集成数据、构建原型和向管理层汇报，从而发现客户尚无法表达的工作流需求。
 - **曝光时间** (Guillermo Rauch) - Vercel 的内部操作原则，用于培养产品品味和同理心。
 - **产品三重奏模型** (Teresa Torres) - 一种协作工作模型，产品经理、设计师和软件工程师平等地共同进行发现和产品决策，而不是
 - **客户支持是每个人的工作 — 实施节奏**（在 Figma 工作让我懂得了客户至上） - Figma 在处理任何客户交互时使用的三步节奏，从支持票证到销售电话再到随机遭遇
@@ -84,11 +84,11 @@ Nabeel S. Qureshi: "There was a different type of engineer which you sent into t
 
 ## 深入探讨
 
-有关 23 位来宾的全部 27 条见解，请参阅 `references/guest-insights.md`
+有关 23 个来源的全部 44 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 客户访谈
-- 想法验证
-- 产品实验
-- 定义 Icp
+- [掌握客户访谈](../customer-interviews/)
+- [想法验证](../idea-validation/)
+- [卓越的产品实验](../product-experiments/)
+- [定义您的 ICP](../defining-icp/)

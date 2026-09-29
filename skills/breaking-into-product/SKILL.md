@@ -66,13 +66,13 @@ Deb Liu: "I think when you have passion around a product or passion around a com
 
 ## 深入探讨
 
-有关 11 位来宾的全部 10 条见解，请参阅 `references/guest-insights.md`
+有关 11 个来源的全部 18 条见解，请参阅 `references/guest-insights.md`
 
 有关详细信息的完整列表，请参阅 `references/artifacts.md`。
 
 ## 相关skill
 
-- 下午职业发展
-- 职业转变
-- 建立促销案例
-- 协商赔偿
+- [项目经理职业发展](../pm-career-growth/)
+- [职业转变](../career-transitions/)
+- [建立促销案例](../building-a-promotion-case/)
+- [谈判技术补偿](../negotiating-compensation/)

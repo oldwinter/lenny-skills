@@ -79,11 +79,11 @@ Robby Stein: "Not every great thing is going to be invented by you. Facebook pro
 
 ## 深入探讨
 
-有关 24 位来宾的所有 32 条见解，请参阅 `references/guest-insights.md`
+有关 24 个来源的全部 43 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 定义产品策略
-- 产品愿景
-- 定位
-- 定价策略
+- [定义产品策略](../defining-product-strategy/)
+- [产品愿景创造](../product-vision/)
+- [产品战略定位](../positioning/)
+- [定价策略与优化](../pricing-strategy/)

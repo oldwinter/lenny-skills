@@ -64,11 +64,11 @@ Claire Butler: "This was a forcing function for us to do our messaging and posit
 
 ## 深入探讨
 
-有关 18 位嘉宾的全部 33 条见解，请参阅 `references/guest-insights.md`
+有关 18 个来源的全部 52 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- PLG 销售整合
-- 企业销售动议
-- 第一批 B2B 客户
-- 营销组织和堆栈
+- [PLG 销售整合](../plg-sales-integration/)
+- [掌握企业销售动作](../enterprise-sales-motion/)
+- [获取第一批 B2B 客户](../first-b2b-customers/)
+- [营销组织和堆栈](../marketing-org-and-stack/)

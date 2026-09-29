@@ -55,7 +55,7 @@ From "How Snowflake builds product": "We spend a good bit of time on planning, a
 
 ## 模板和框架
 
-- **Snowflake 的大石块规划框架**（Snowflake 如何构建产品）- 一个全公司范围的协调框架，领导层每年识别 6-10 个“大石块”，产品领域创建映射到石块的六页年度计划，
+- **Snowflake 的大石块规划框架**（Snowflake 如何构建产品）- 一个全公司范围的协调框架：领导层每年识别 6–10 个“大石块”，各产品领域用六页年度计划将目标、指标和情景映射到这些优先事项，季度计划继续映射同一组大石块，并通过圆桌会议解决优先级冲突。
 - **W 框架**（出色规划流程的秘密 — Airbnb 和 Eventbrite 的经验教训）- 一个四步规划框架，用于在年度或季度规划期间构建领导层和团队之间的来回往复。因 r 的“W”形状而得名
 - **季度规划的“M”框架**（Gong 如何构建产品）- 形状像字母 M 的精简季度规划流程，通常在不存在新的自上而下指导的情况下从产品单元自下而上开始
 - **具有可变分辨率的半年计划**（Notion 如何构建产品）- 一种计划方法，公司计划整个半年，但每个季度的详细程度不同
@@ -85,11 +85,11 @@ From "How Snowflake builds product": "We spend a good bit of time on planning, a
 
 ## 深入探讨
 
-有关 13 位嘉宾的全部 17 条见解，请参阅 `references/guest-insights.md`
+有关 13 个来源的全部 26 条见解，请参阅 `references/guest-insights.md`
 
 ## 相关skill
 
-- 路线图优先级
-- 目标设定 Okrs
-- 高风险决策
-- 评估权衡
+- [路线图优先级](../roadmap-prioritization/)
+- [目标设定和 OKR](../goal-setting-okrs/)
+- [高风险决策](../high-stakes-decisions/)
+- [评估权衡](../evaluating-trade-offs/)
